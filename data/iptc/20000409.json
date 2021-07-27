@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000400"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Erziehung für Kinder unterhalb des nationalen regulären Schulalters.",
+    "dk": "Uddannelsesaktiviteter for tilmeldte børn i alderen 1-5 år.",
+    "en-GB": "Education for children under the national compulsory education age",
+    "en-US": "Education for children under the national compulsory education age",
+    "pt-BR": "Educação para crianças abaixo da idade da escolaridade obrigatória.",
+    "pt-PT": "Educação para crianças abaixo da idade da escolaridade obrigatória.",
+    "se": "Pedagogisk verksamhet för inskrivna barn i åldern 1–5 år.",
+    "zh-Hans": "全民义务教育入学年龄以下儿童的教育"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05004000",
+    "https://www.wikidata.org/entity/Q1076052"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حضانة",
+    "de": "Vorschule/Kindergarten",
+    "dk": "børnehaveklasse/0. klasse",
+    "en-GB": "preschool",
+    "en-US": "preschool",
+    "es": "Preescolar",
+    "fr": "Maternelle",
+    "no": "barnehage/førskole",
+    "pt-BR": "pré-escolar",
+    "pt-PT": "pré-escolar",
+    "se": "Förskola",
+    "zh-Hans": "学前教育"
+  },
+  "qcode": "medtop:20000409",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000409",
+  "aid": "iptc_20000409"
+}

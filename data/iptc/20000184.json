@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000183"
+  ],
+  "changeNote": {
+    "en-GB": "2019-12-13: Moved from medtop:20000171 to medtop:20000183"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verkauf von Unternehmensteilen, Splittung von bestehenden Unternehmen in Teile einer Holding etc.",
+    "dk": "Ændring i en virksomheds struktur, for eksempel gennem salg eller lukning af dele af virksomheden.",
+    "en-GB": "The sale of company units, splits of existing companies into units under a holding company, etc.",
+    "en-US": "The sale of company units, splits of existing companies into units under a holding company, etc.",
+    "pt-BR": "Venda de unidades de negócio, separação de empresas existentes em unidades de negócio de holdings etc.",
+    "pt-PT": "Venda de unidades de negócio, separação de empresas existentes em unidades de negócio de holdings, etc.",
+    "se": "Förändring av ett företags struktur, exempelvis genom försäljning eller nedläggning av delar av verksamheten.",
+    "zh-Hans": "出售公司单位、将现有公司拆分成控股公司下的单位等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016039",
+    "https://www.wikidata.org/entity/Q1376796"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اعادة هيكلة واعادة رسملة",
+    "de": "Neufinanzierung und Umstrukturierung",
+    "dk": "restrukturering og rekapitalisering",
+    "en-GB": "restructuring and recapitalisation",
+    "en-US": "restructuring and recapitalization",
+    "es": "Reestructuración, recapitalización",
+    "fr": "Restructuration et recapitalisation",
+    "no": "restrukturering",
+    "pt-BR": "reestruturação e recapitalização",
+    "pt-PT": "reestruturação e recapitalização",
+    "se": "Omstruktureringar",
+    "zh-Hans": "公司重组和资产重组"
+  },
+  "qcode": "medtop:20000184",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000184",
+  "aid": "iptc_20000184"
+}

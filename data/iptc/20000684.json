@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Religion einer indischen Gruppe, die Hinduismus und islamische Elemente verbindet, die in Punjab entdeckt wurde im späten 15. Jahrhundert von Guru Nanak.",
+    "dk": "En religion, som kombinerer hinduistiske og islamiske elementer og blev grundlagt i Punjabi slutningen af det 15. århundrede e.Kr. af Guru Nanak.",
+    "en-GB": "The religion of an Indian group, combining Hindu and Islamic elements, founded in the Punjab (or Punjab) in the late 15th century AD by Guru Nanak.",
+    "en-US": "The religion of an Indian group, combining Hindu and Islamic elements, founded in the Punjab (or Punjab) in the late 15th century AD by Guru Nanak.",
+    "pt-BR": "Religião de um grupo indiano, que combina elementos hindus e islâmicos, fundada no Punjabe (ou Punjab) no final do séc. XV pelo guru Nanak.",
+    "pt-PT": "Religião de um grupo indiano, que combina elementos hindus e islâmicos, fundada no Punjabe (ou Punjab) no final do séc. XV pelo guru Nanak.",
+    "se": "En religion i framför allt Punjab i norra Indien, som har utvecklats ur hinduismen, men lär att det bara finns en gud.",
+    "zh-Hans": "一个印度群体的宗教，结合了印度教和伊斯兰元素，由纳纳克大师于公元15世纪末在旁遮普（或旁遮普）建立。"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12019000",
+    "https://www.wikidata.org/entity/Q9316"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سيخ",
+    "de": "Sikhismus",
+    "dk": "sikhisme",
+    "en-GB": "Sikhism",
+    "en-US": "Sikhism",
+    "es": "Sikhismo",
+    "fr": "Sikhisme",
+    "no": "sikhisme",
+    "pt-BR": "siquismo",
+    "pt-PT": "siquismo",
+    "se": "Sikhism",
+    "zh-Hans": "锡克教"
+  },
+  "qcode": "medtop:20000684",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000684",
+  "aid": "iptc_20000684"
+}

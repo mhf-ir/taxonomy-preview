@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/03000000"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: This concept was merged into concept medtop:20000139 as their semantics were not sufficiently different"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein plötzliches, unerwartetes Ereignis, was eine sofortige Reaktion erfordert, um schwere Folgen zu verhindern",
+    "dk": "En pludselig, uventet begivenhed, der kræver øjeblikkelig handling for at forhindre alvorlige konsekvenser.",
+    "en-GB": "A sudden, unexpected event that requires immediate action to prevent serious consequences",
+    "en-US": "A sudden, unexpected event that requires immediate action to prevent serious consequences",
+    "pt-BR": "Evento súbito, inesperado que requer ação imediata.",
+    "pt-PT": "Evento súbito, inesperado que requer ação imediata.",
+    "zh-Hans": "需要立即采取行动以避免严重后果的突发、意外事件"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03014000",
+    "https://www.wikidata.org/entity/Q5070802"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000162"
+  ],
+  "prefLabel": {
+    "ar": "حادث طارىء",
+    "de": "Notfall",
+    "dk": "nødsituation",
+    "en-GB": "emergency incident",
+    "en-US": "emergency incident",
+    "es": "Incidentes de emergencia",
+    "fr": "Situation d'urgence",
+    "no": "ulykke",
+    "pt-BR": "caso de emergência",
+    "pt-PT": "caso de emergência",
+    "zh-Hans": "突发事件"
+  },
+  "qcode": "medtop:20000160",
+  "retired": "2015-08-27T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000160",
+  "aid": "iptc_20000160"
+}

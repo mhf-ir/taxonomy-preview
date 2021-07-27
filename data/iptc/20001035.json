@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001176"
+  ],
+  "changeNote": {
+    "en-GB": "2016-04-05: Broader concept changed, definition slightly modified."
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zwei Teams mit je 13 Spielern kämpfen um Punktabstand, indem sie Versuche und Strafpunkte bekommen durch Rennen und werfen eines ovalen Balles, der hinter der Torlinie den Boden berühren muss oder zwischen zwei Torpfosten geschossen wird in einem harten körperlichen Wettkampf",
+    "dk": "En type rugby, hvor to hold af 13 konkurrerer på en bane ved, at løbe med og kaste en oval bold. Point scores ved at føre bolden bag mållinjen eller sparke den mellem målstolperne. Styret af Rugby League International Føderation.",
+    "en-GB": "A type of rugby where two teams of 13 compete on a pitch by running with and passing an oval ball. Points are scored by touching down the ball behind the goal line or kicking it between goal posts. Governed by Rugby League International Federation.",
+    "en-US": "A type of rugby where two teams of 13 compete on a pitch by running with and passing an oval ball. Points are scored by touching down the ball behind the goal line or kicking it between goal posts. Governed by Rugby League International Federation.",
+    "pt-BR": "Jogo de bola em campo gramado opondo duas equipes de 13 jogadores, que tentam marcar ensaios e penalidades correndo e passando uma bola oval com as mãos e os pés.",
+    "pt-PT": "Jogo de bola em campo relvado opondo duas equipas de 13 jogadores, que tentam marcar ensaios e penalidades correndo e passando uma bola oval com as mãos e os pés.",
+    "se": "Variant av rugby där två 13-mannalag spelar på en bana där de passar och springer med en oval boll. Poäng får lagen genom att placera bollen i motståndarnas målzon eller sparka den mellan målstolparna.",
+    "zh-Hans": "一种橄榄球比赛。两个队，每队13人。可以带球跑、传。带球过对方球门线后触地或踢球于对方门柱内得分。由国际橄榄球联盟组织管理"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15048000",
+    "https://www.wikidata.org/entity/Q10962"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "دوري الركبي",
+    "de": "Rugbyliga",
+    "dk": "rugby league (13-mands rugby)",
+    "en-GB": "rugby league",
+    "en-US": "rugby league",
+    "es": "Rugby a 13",
+    "fr": "Rugby à XIII",
+    "no": "rugby",
+    "pt-BR": "rúgbi de 13",
+    "pt-PT": "râguebi de 13",
+    "se": "Rugby League",
+    "zh-Hans": "英式橄榄球联盟赛"
+  },
+  "qcode": "medtop:20001035",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001035",
+  "aid": "iptc_20001035"
+}

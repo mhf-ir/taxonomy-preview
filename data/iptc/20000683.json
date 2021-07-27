@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ursprünglicher religiöser praktizierter Glaube in Japan. Die Bezeichnung Shinto wurde eingeführt um den ursprünglichen japanischen Glauben vom Buddhismus zu trennen.",
+    "dk": "Urbefolkningens religiøse overbevisning og praksis i Japan. Ordet Shinto kom i brug for at skelne den oprindelige japanske tro fra buddhismen.",
+    "en-GB": "Indigenous religious beliefs and practices of Japan. The word Shinto came into use in order to distinguish indigenous Japanese beliefs from Buddhism.",
+    "en-US": "Indigenous religious beliefs and practices of Japan. The word Shinto came into use in order to distinguish indigenous Japanese beliefs from Buddhism.",
+    "pt-BR": "Crenças e práticas religiosas autóctones do Japão. A palavra xintó foi adotada para distinguir as crenças autóctones japonesas do budismo.",
+    "pt-PT": "Crenças e práticas religiosas autóctones do Japão. A palavra xintó foi adotada para distinguir as crenças autóctones japonesas do budismo.",
+    "se": "En japansk religion i vilken naturgudar och döda hjältars andar dyrkas genom offergåvor, danser med mera.",
+    "zh-Hans": "日本的土著宗教信仰和习俗。 神道教这个词的出现是为了区分日本本土信仰和佛教"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12018000",
+    "https://www.wikidata.org/entity/Q812767"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شينتوية",
+    "de": "Schintoismus",
+    "dk": "shintoisme",
+    "en-GB": "Shintoism",
+    "en-US": "Shintoism",
+    "es": "Shintoismo",
+    "fr": "Shintoïsme",
+    "no": "shintoisme",
+    "pt-BR": "xintoísmo",
+    "pt-PT": "xintoísmo",
+    "se": "Shintoism",
+    "zh-Hans": "日本神道教"
+  },
+  "qcode": "medtop:20000683",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000683",
+  "aid": "iptc_20000683"
+}

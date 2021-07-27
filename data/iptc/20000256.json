@@ -1,0 +1,60 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Produktion von elektrischer Energie, Wasser, Wind, Sonnenenergie und Kraftstoffe, die genutzt werden, um sie zu produzieren",
+    "dk": "Brug af naturlige ressourcer til plandt andet produktion og energiudvinding.",
+    "en-GB": "The use of natural resources for business purposes to generate energy",
+    "en-US": "The use of natural resources for business purposes to generate energy",
+    "pt-BR": "O uso de recursos naturais para gerar energia para fins comerciais.",
+    "pt-PT": "O uso de recursos naturais para gerar energia para fins comerciais.",
+    "se": "Användning av naturtillgångar för affärsändamål som produktion och energiutvinning.",
+    "zh-Hans": "将自然资源用于商业目的的能源生产"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005000",
+    "https://www.wikidata.org/entity/Q2151621"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000257",
+    "medtop:20000258",
+    "medtop:20000260",
+    "medtop:20000261",
+    "medtop:20000265",
+    "medtop:20000266",
+    "medtop:20000267",
+    "medtop:20001207",
+    "medtop:20001208",
+    "medtop:20001209",
+    "medtop:20001210",
+    "medtop:20001211",
+    "medtop:20001243"
+  ],
+  "prefLabel": {
+    "ar": "طاقة وموارد",
+    "de": "Energie",
+    "dk": "energi og ressourcer",
+    "en-GB": "energy and resource",
+    "en-US": "energy and resource",
+    "es": "Energía y recursos naturales",
+    "fr": "Énergie et ressources",
+    "no": "olje og energi",
+    "pt-BR": "energia e recursos",
+    "pt-PT": "energia e recursos",
+    "se": "Energi och naturtillgångar",
+    "zh-Hans": "能源和资源"
+  },
+  "qcode": "medtop:20000256",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000256",
+  "aid": "iptc_20000256"
+}

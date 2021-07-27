@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000626"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Verbesserung des Gemeinsamen von Gruppen der Gesellschaft",
+    "dk": "Politik om indvandring og integration, herunder hvordan man sikrer at nye medborgere finder sig til rette i samfundet.",
+    "en-GB": "Improving the co-existence of groups of the society",
+    "en-US": "Improving the co-existence of groups of the society",
+    "pt-BR": "Políticas para melhorar a coexistência de grupos da sociedade.",
+    "pt-PT": "Políticas para melhorar a coexistência de grupos da sociedade.",
+    "se": "Politik som syftar till lika rättigheter och möjligheter för alla, oavsett etnisk eller kulturell bakgrund, en samhällsgemenskap med samhällets mångfald som grund samt en samhällsutveckling präglad av ömsesidig respekt och tolerans.",
+    "zh-Hans": "促进社会各群体的共存"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q370735"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سياسة دمج",
+    "de": "Integration",
+    "dk": "integrationspolitik",
+    "en-GB": "integration policy",
+    "en-US": "integration policy",
+    "es": "Política de integración",
+    "fr": "Politique d'intégration",
+    "no": "sosial integrering",
+    "pt-BR": "política de integração",
+    "pt-PT": "política de integração",
+    "se": "Integrationspolitik",
+    "zh-Hans": "移民融合政策"
+  },
+  "qcode": "medtop:20001146",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001146",
+  "aid": "iptc_20001146"
+}

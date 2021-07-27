@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Komplexität des Spiels erfordert es zwei Subject Details zu kombinieren, um eine angemessene Identifizierung der speziellen Varianten zu ermöglichen",
+    "dk": "Hurtig boldsport mod en væg, hvor spillerne enten bruger deres hænder eller en specielt designet handske.",
+    "en-GB": "A fast ball play using either the bare hand or a wicker scoop in an arena of walls of different outlay and size",
+    "en-US": "A fast ball play using either the bare hand or a wicker scoop in an arena of walls of different outlay and size",
+    "pt-BR": "Esporte ancestral do País Basco em que dois ou quatro participantes batem alternadamente uma bola contra uma parede frontal com uma espécie de pá.",
+    "pt-PT": "Desporto ancestral do País Basco em que dois ou quatro participantes batem alternadamente uma bola contra uma parede frontal com uma espécie de pá.",
+    "se": "Snabb bollsport mot en vägg där spelarna antingen använder händerna eller en särskilt utformad handske.",
+    "zh-Hans": "在有不同费用和尺寸的墙壁的场地中使用裸手或柳制长勺手套的快速球赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15032000",
+    "https://www.wikidata.org/entity/Q1193361"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/jaialaitype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "جاي ألاي",
+    "de": "Jai Alai (Pelota)",
+    "dk": "jai alai (pelota)",
+    "en-GB": "Jai Alai (Pelota)",
+    "en-US": "Jai Alai (Pelota)",
+    "es": "Pelota vasca",
+    "fr": "Pelote basque",
+    "no": "jai alai",
+    "pt-BR": "pelota basca",
+    "pt-PT": "pelota basca",
+    "se": "Pelota",
+    "zh-Hans": "回力球"
+  },
+  "qcode": "medtop:20000968",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000968",
+  "aid": "iptc_20000968"
+}

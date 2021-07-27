@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Organisationen wie UNIDO, Weltbank, WTO, etc. Die auf internationaler Ebene handeln",
+    "dk": "Enheder som Verdensbanken, WTO og Unido, der opererer på globalt plan.",
+    "en-GB": "Entities such as UNIDO, World Bank, World Trade Organization, the Import-Expert Bank etc that deals at a world level",
+    "en-US": "Entities such as UNIDO, World Bank, World Trade Organization, the Import-Expert Bank etc that deals at a world level",
+    "pt-BR": "Entidades como a Organização das Nações Unidas para o Desenvolvimento Industrial, o Banco Mundial, a Organização Mundial de Comércio, o Import-Export Bank etc.",
+    "pt-PT": "Entidades como a Organização das Nações Unidas para o Desenvolvimento Industrial, o Banco Mundial, a Organização Mundial de Comércio, o Import-Export Bank, etc.",
+    "se": "Entiteter såsom Världsbanken, WTO och Unido, som verkar på en global nivå.",
+    "zh-Hans": "联合国工业发展组织、世界银行、世界贸易组织、进出口银行等这类在国际范围开展业务的实体"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008010",
+    "https://www.wikidata.org/entity/Q1345691"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مؤسسة اقتصادية دولية",
+    "de": "Internationale Wirtschaftsorganisation",
+    "dk": "international økonomisk organisation",
+    "en-GB": "international economic institution",
+    "en-US": "international economic institution",
+    "es": "Instituciones económicas internacionales",
+    "fr": "Institution économique internationale",
+    "no": "internasjonalt økonomisk organ",
+    "pt-BR": "instituições econômicas internacionais",
+    "pt-PT": "instituições económicas internacionais",
+    "se": "Internationella ekonomiska organisationer",
+    "zh-Hans": "国际经济机构"
+  },
+  "qcode": "medtop:20000372",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000372",
+  "aid": "iptc_20000372"
+}

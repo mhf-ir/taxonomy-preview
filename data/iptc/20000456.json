@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000446"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine traumatische körperliche Beeinträchtigung, verursacht durch äußerliche Gewalteinwirkung.",
+    "dk": "Fysiske skader på kroppen.",
+    "en-GB": "A traumatic condition of the human body caused usually by  outside forces",
+    "en-US": "A traumatic condition of the human body caused usually by outside forces",
+    "pt-BR": "Condição traumática do corpo, geralmente causada por forças externas.",
+    "pt-PT": "Condição traumática do corpo, geralmente causada por forças externas.",
+    "se": "Ett traumatiskt, kroppsligt tillstånd vanligen orsakat av yttre våld.",
+    "zh-Hans": "通常由外力引起的人体创伤"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07009000",
+    "https://www.wikidata.org/entity/Q193078"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اصابة",
+    "de": "Invalidität",
+    "dk": "fysisk skade",
+    "en-GB": "injury",
+    "en-US": "injury",
+    "es": "Lesiones",
+    "fr": "Blessure",
+    "no": "skade",
+    "pt-BR": "traumatismos",
+    "pt-PT": "traumatismos",
+    "se": "Kroppsskador",
+    "zh-Hans": "受伤"
+  },
+  "qcode": "medtop:20000456",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000456",
+  "aid": "iptc_20000456"
+}

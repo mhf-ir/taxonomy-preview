@@ -1,0 +1,54 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02007000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000106"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gremium der Rechtsprechung wo Rechtsfälle angehört werden",
+    "dk": "En institution, hvor en retssag føres, og hvor parterne får lov til at fremlægge deres respektive synspunkter, før der fældes en dom.",
+    "en-GB": "Place where legal cases are heard and decided",
+    "en-US": "Place where legal cases are heard and decided",
+    "pt-BR": "O órgão jurisdicional onde são ouvidos os casos legais.",
+    "pt-PT": "O órgão jurisdicional onde são ouvidos os casos legais.",
+    "se": "En instans där rättsfall tas upp och parterna får lägga fram sin respektive syn innan ett avgörande fälls och eventuell påföljd bestäms.",
+    "zh-Hans": "审理法律案件的管辖机构"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q41487"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000108",
+    "medtop:20000109",
+    "medtop:20000110",
+    "medtop:20000111",
+    "medtop:20001287"
+  ],
+  "prefLabel": {
+    "ar": "محكمة",
+    "de": "Gericht",
+    "dk": "domstol",
+    "en-GB": "court",
+    "en-US": "court",
+    "es": "Corte",
+    "fr": "Tribunal",
+    "no": "domstol",
+    "pt-BR": "tribunal",
+    "pt-PT": "tribunal",
+    "se": "Domstol",
+    "zh-Hans": "法院"
+  },
+  "qcode": "medtop:20000107",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000107",
+  "aid": "iptc_20000107"
+}

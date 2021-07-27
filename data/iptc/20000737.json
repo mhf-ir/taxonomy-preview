@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000735"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Untersuchungen in den Bereichen Gesundheit und Medizin, wie z.B. genetische Studien, Krankheitsforschung oder Arzneimittelversuche",
+    "dk": "Undersøgelse foretaget inden for sundhed og medicin, såsom genetiske studier, sygdomsforskning eller farmaceutiske lægemiddelforsøg.",
+    "en-GB": "Investigation conducted in the fields of health and medicine, such as genetic studies, disease research or pharmaceutical drug trials",
+    "en-US": "Investigation conducted in the fields of health and medicine, such as genetic studies, disease research or pharmaceutical drug trials",
+    "es": "Investigación llevada a cabo en los campos de la salud y la medicina, como estudios genéticos, investigación de enfermedades o ensayos de medicamentos farmacéuticos",
+    "fr": "Investigation menée dans les domaines de la santé et de la médecine, tels que les études génétiques, la recherche sur les maladies ou les essais pharmaceutiques",
+    "pt-BR": "Investigação nas áreas de saúde e medicina, como estudos genéticos, pesquisa de doenças ou testes de drogas farmacêuticas.",
+    "pt-PT": "Investigação nas áreas de saúde e medicina, como estudos genéticos, pesquisa de doenças ou testes de drogas farmacêuticas.",
+    "se": "Forskning inom hälsa och medicin, såsom genetiska studier, undersökning av sjukdomar eller farmaceutiska tester.",
+    "zh-Hans": "在健康和医学领域进行的调查，如基因研究、疾病研究或药物试验"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07005000",
+    "https://www.wikidata.org/entity/Q2752427"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ابحاث طبية",
+    "de": "Medizinische Forschung",
+    "dk": "medicinsk forskning",
+    "en-GB": "medical research",
+    "en-US": "medical research",
+    "es": "Investigación médica",
+    "fr": "Recherche médicale",
+    "no": "medisinsk forskning",
+    "pt-BR": "investigação médica",
+    "pt-PT": "investigação médica",
+    "se": "Medicinsk forskning",
+    "zh-Hans": "医学研究"
+  },
+  "qcode": "medtop:20000737",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000737",
+  "aid": "iptc_20000737"
+}

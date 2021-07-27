@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001026"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Boot für vier Personen mit je zwei Rudern und ohne den Steuermann",
+    "dk": "Firepersoners båd med to årer hver uden styrmand.",
+    "en-GB": "Four person boats with two oars each and without a team mate to give directions",
+    "en-US": "Four person boats with two oars each and without a team mate to give directions",
+    "pt-BR": "Barco de quatro pessoas com dois remos cada uma e sem companheiro de equipe para dar instruções.",
+    "pt-PT": "Barco de quatro pessoas com dois remos cada uma e sem companheiro de equipa para dar instruções.",
+    "zh-Hans": "四人，每人双桨，无人掌控方向"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15047003",
+    "https://www.wikidata.org/entity/Q507520"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تجديف رباعي",
+    "de": "Doppelvierer",
+    "dk": "dobbeltfirer",
+    "en-GB": "quadruple sculls",
+    "en-US": "quadruple sculls",
+    "es": "Scull cuádruple (remo)",
+    "fr": "Quatre de couple (aviron)",
+    "no": "dobbeltfirer",
+    "pt-BR": "quadruple sculls",
+    "pt-PT": "quadruple sculls",
+    "se": "Fyrsculler",
+    "zh-Hans": "四人双桨赛艇"
+  },
+  "qcode": "medtop:20001033",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001033",
+  "aid": "iptc_20001033"
+}

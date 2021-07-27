@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001157"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: broader term changed"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kampfsportart, ursprünglich aus Korea",
+    "dk": "Kampsport med koreansk oprindelse. Deltagerne vil med spark og slag slå særligt markerede steder på modstanderen. Det er forbudt at slå og sparke på hovedet.",
+    "en-GB": "A martial art of Korean origin",
+    "en-US": "A martial art of Korean origin",
+    "pt-BR": "Arte marcial de origem coreana.",
+    "pt-PT": "Arte marcial de origem coreana.",
+    "se": "Kampsport med koreanskt ursprung. De tävlande ska med sparkar och slag träffa speciellt markerade platser på motståndaren. Slag och sparkar mot huvudet är förbjudet.",
+    "zh-Hans": "源于韩国的武术运动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15064000",
+    "https://www.wikidata.org/entity/Q36389"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تايكواندو",
+    "de": "Taekwon-Do",
+    "dk": "taekwondo",
+    "en-GB": "Taekwon-Do",
+    "en-US": "Taekwon-Do",
+    "es": "Taekwondo",
+    "fr": "Taekwondo",
+    "no": "taekwondo",
+    "pt-BR": "taekwondo",
+    "pt-PT": "taekwondo",
+    "se": "Taekwondo",
+    "zh-Hans": "跆拳道"
+  },
+  "qcode": "medtop:20001084",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001084",
+  "aid": "iptc_20001084"
+}

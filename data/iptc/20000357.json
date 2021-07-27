@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ansteigen des BIP",
+    "dk": "Stigning over tid i produktionen af varer og tjenester i et land, bruttonationalproduktet (BNP).",
+    "en-GB": "An increase of the GDP",
+    "en-US": "An increase of the GDP",
+    "pt-BR": "Aumento do PIB.",
+    "pt-PT": "Aumento do PIB.",
+    "se": "Ökning över tiden av produktionen av varor och tjänster i ett land, bruttonationalprodukten (BNP).",
+    "zh-Hans": "GDP增长"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q189833"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نمو اقتصادي",
+    "de": "Wachstum",
+    "dk": "økonomisk vækst",
+    "en-GB": "economic growth",
+    "en-US": "economic growth",
+    "es": "Crecimiento",
+    "fr": "Croissance économique",
+    "no": "økonomisk vekst",
+    "pt-BR": "crescimento econômico",
+    "pt-PT": "crescimento económico",
+    "se": "Ekonomisk tillväxt",
+    "zh-Hans": "经济增长"
+  },
+  "qcode": "medtop:20000357",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000357",
+  "aid": "iptc_20000357"
+}

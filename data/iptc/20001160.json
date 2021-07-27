@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Produkte oder Dienstleistungen, die mit einfachen Fertigkeiten und Werkzeugen bereitgestellt werden, im Gegensatz zur industriellen Massenproduktion.",
+    "dk": "Salg af produkter eller tjenester produceret ved hjælp af enkle metoder og værktøjer i modsætning til industriel masseproduktion.",
+    "en-GB": "Products or services provided with simple skills and tools, as opposed to by mass industrial production.",
+    "en-US": "Products or services provided with simple skills and tools, as opposed to by mass industrial production.",
+    "pt-BR": "Produtos ou serviços realizados com métodos e ferramentas simples, por oposição à produção industrial em massa.",
+    "pt-PT": "Produtos ou serviços realizados com métodos e ferramentas simples, por oposição à produção industrial em massa.",
+    "se": "Produkter eller tjänster som framställs med enkla metoder och verktyg, till skillnad från industriell massproduktion.",
+    "zh-Hans": "用简单的技术和工具提供的产品或服务，与大规模工业生产相对"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q877729"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "صناعة حرفية",
+    "de": "Handwerk",
+    "dk": "kunsthåndværk",
+    "en-GB": "crafts industry",
+    "en-US": "crafts industry",
+    "es": "Artesanía",
+    "fr": "Artisanat",
+    "no": "kunsthåndverk",
+    "pt-BR": "artesanato",
+    "pt-PT": "artesanato",
+    "se": "Hantverk",
+    "zh-Hans": "手工艺品"
+  },
+  "qcode": "medtop:20001160",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001160",
+  "aid": "iptc_20001160"
+}

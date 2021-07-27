@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000400"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ausbildung oberhalb des zweiten Levels, meist erwartet von Fachhochschulen und Universitäten, die in einer professionellen Qualifikation oder einem akademischen Grad führt",
+    "dk": "Uddannelse på universiteter, akademier, gymnasier, seminarer, konservatorier og lignende institutioner, som normalt resulterer i en grad.",
+    "en-GB": "Education  above secondary level, usually provided by colleges and universities, which results in a professional qualification or academic degree",
+    "en-US": "Education above secondary level, usually provided by colleges and universities, which results in a professional qualification or academic degree",
+    "pt-BR": "Educação acima do ensino médio, geralmente fornecida por faculdades e universidades.",
+    "pt-PT": "Educação acima do ensino secundário, geralmente fornecida por faculdades e universidades.",
+    "se": "Utbildning vid universitet, akademier, högskolor, seminarier, konservatorier och liknande institutioner, som oftast resulterar i en examen.",
+    "zh-Hans": "中等以上的教育，通常由高等院校提供的用于取得专业资格或学位的教育"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q136822"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000406",
+    "medtop:20000407"
+  ],
+  "prefLabel": {
+    "ar": "تعليم عالي",
+    "de": "Hochschule",
+    "dk": "videregående uddannelse",
+    "en-GB": "higher education",
+    "en-US": "higher education",
+    "es": "Educación superior",
+    "fr": "Éducation supérieure",
+    "no": "høyere utdannelse",
+    "pt-BR": "ensino superior",
+    "pt-PT": "ensino superior",
+    "se": "Högre utbildning",
+    "zh-Hans": "高等教育"
+  },
+  "qcode": "medtop:20000405",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000405",
+  "aid": "iptc_20000405"
+}

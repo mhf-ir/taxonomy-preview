@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001181"
+  ],
+  "changeNote": {
+    "en-GB": "Changes: 2018-04-09 other Broader Term"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alle Arten von nationalen und internationalen Filmfestivals",
+    "dk": "Nationale eller internationale samlinger, hvor film vises, priser uddeles, og branchefolk mødes.",
+    "en-GB": "All forms of national and international film festivals",
+    "en-US": "All forms of national and international film festivals",
+    "es": "Todas las formas de festivales de cine nacionales e internacionales",
+    "fr": "Toutes les formes de festivals de cinéma nationaux et internationaux",
+    "pt-BR": "Todas as formas de festivais de cinema nacionais e internacionais.",
+    "pt-PT": "Todas as formas de festivais de cinema nacionais e internacionais.",
+    "se": "Nationella eller internationella samlingar där filmer visas, priser delas ut och branschfolk träffas.",
+    "zh-Hans": "各种形式的国家级或国际级电影节"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01005001",
+    "https://www.wikidata.org/entity/Q220505"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2018-04-09T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مهرجان افلام",
+    "de": "Filmfestival",
+    "dk": "filmfestival",
+    "en-GB": "film festival",
+    "en-US": "film festival",
+    "es": "Festival de cine",
+    "fr": "Festival de cinéma",
+    "no": "filmfestival",
+    "pt-BR": "festivais de cinema",
+    "pt-PT": "festivais de cinema",
+    "se": "Filmfestivaler",
+    "zh-Hans": "电影节"
+  },
+  "qcode": "medtop:20000006",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000006",
+  "aid": "iptc_20000006"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "changeNote": {
+    "en-GB": "2016-04-06: definition rephrased."
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zwei Teams mit jeweils 11 Spielern versuchen den Ball in das gegnerische Tor zu schießen oder zu köpfen über eine Spieldauer von 90 Minuten",
+    "dk": "Holdsport, hvor to hold af elleve spillere, forsøger at få en bold ind i modstanderens mål. Hvert hold har en målmand og ti udenfor spillere.",
+    "en-GB": "A form of football played by two teams competing on a pitch by kicking a spherical ball. Points are scored by kicking or heading the ball into a goal. Governed by the Fédération Internationale de Football Association",
+    "en-US": "A form of football played by two teams competing on a pitch by kicking a spherical ball. Points are scored by kicking or heading the ball into a goal. Governed by the Fédération Internationale de Football Association",
+    "pt-BR": "Jogo de bola disputado entre duas equipes de 11 jogadores que, durante 90 minutos, tentam chutar ou cabecear a bola para o gol adversário.",
+    "pt-PT": "Jogo de bola disputado entre duas equipas de 11 jogadores que, durante 90 minutos, tentam chutar ou cabecear a bola para a baliza adversária.",
+    "se": "Lagsport där elvamannalag passar, skjuter, nickar och dribblar en boll och försöker få in bollen i motståndarnas mål. Varje lag har en målvakt och tio utespelare.",
+    "zh-Hans": "两只球队在球场内踢一个圆形球的一种运动形式，踢进球门或者用头顶入球门得分。由国际足球联合会管理"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15054000",
+    "https://www.wikidata.org/entity/Q2736"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "قدم",
+    "de": "Fußball",
+    "dk": "fodbold",
+    "en-GB": "soccer",
+    "en-US": "soccer",
+    "es": "Fútbol",
+    "fr": "Football",
+    "no": "fotball",
+    "pt-BR": "futebol",
+    "pt-PT": "futebol",
+    "se": "Fotboll",
+    "zh-Hans": "足球"
+  },
+  "qcode": "medtop:20001065",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001065",
+  "aid": "iptc_20001065"
+}

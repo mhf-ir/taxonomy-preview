@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000095"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unerlaubter Handel mit meist gesundheitsgefährdenden Stoffen",
+    "dk": "Ulovlig smugle narkotika mellem forskellige lande.",
+    "en-GB": "Dealing in illicit often harmful substances",
+    "en-US": "Dealing in illicit often harmful substances",
+    "pt-BR": "Tráfico de substâncias ilegais.",
+    "pt-PT": "Tráfico de substâncias ilícitas.",
+    "se": "Att illegalt föra droger mellan olika länder.",
+    "zh-Hans": "从事有害药品的非法交易"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02001004",
+    "https://www.wikidata.org/entity/Q844924"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تهريب مخدرات",
+    "de": "Drogenhandel",
+    "dk": "narkosmugling",
+    "en-GB": "drug trafficking",
+    "en-US": "drug trafficking",
+    "es": "Narcotráfico",
+    "fr": "Trafic de drogue",
+    "no": "narkotikahandel",
+    "pt-BR": "tráfico de droga",
+    "pt-PT": "tráfico de droga",
+    "se": "Narkotikasmuggling",
+    "zh-Hans": "贩毒"
+  },
+  "qcode": "medtop:20000096",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000096",
+  "aid": "iptc_20000096"
+}

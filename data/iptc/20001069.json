@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein schneller Kampfsport mit viel Zeremonie bei dem zwei Wettkämpfer versuchen den Gegner aus dem markierten Bereich herauszudrängen oder schmeißen. Meist praktiziert von kräftigen Männern in Japan",
+    "dk": "En japansk kampsport, hvor tunge og stærke udøvere kæmper stående for enten at få modstanderen ud af ringen eller få ham til at røre jorden med enhver anden kropsdel end fodsålerne.",
+    "en-GB": "A combat sport of speed and rapidity with much ceremony where two contestants try to throw or slap a competitor out of a marked area. Generally practiced in Japan by large men.",
+    "en-US": "A combat sport of speed and rapidity with much ceremony where two contestants try to throw or slap a competitor out of a marked area. Generally practiced in Japan by large men.",
+    "pt-BR": "Esporte de combate de origem japonesa, baseado na força e na rapidez, em que os lutadores tentam derrubar ou deixar o adversário fora da área de combate. Geralmente, é praticado no Japão, com muita cerimônia, e por homens de grande porte.",
+    "pt-PT": "Desporto de combate de origem japonesa, baseado na força e na rapidez, em que os lutadores tentam derrubar ou deixar o adversário fora da área de combate. Geralmente, é praticado no Japão, com muita cerimónia, e por homens de grande porte.",
+    "se": "En japansk kampsport, där tunga och starka utövare brottas upprätt för att antingen få ut motståndaren ur ringen eller få denne att vidröra marken med någon annan kroppsdel än fotsulorna.",
+    "zh-Hans": "一种带仪式感的搏击运动，比拼速度和反应。比赛双方努力将对方摔到标识区域外。一般说来是在日本的块头大的男性之间的比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15060000",
+    "https://www.wikidata.org/entity/Q40561"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سومو",
+    "de": "Sumo",
+    "dk": "sumobrydning",
+    "en-GB": "sumo wrestling",
+    "en-US": "sumo wrestling",
+    "es": "Sumo",
+    "fr": "Sumo",
+    "no": "sumo",
+    "pt-BR": "sumô",
+    "pt-PT": "sumo",
+    "se": "Sumobrottning",
+    "zh-Hans": "相扑"
+  },
+  "qcode": "medtop:20001069",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001069",
+  "aid": "iptc_20001069"
+}

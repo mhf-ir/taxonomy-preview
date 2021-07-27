@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000337"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Aktivitäten um Flugzeuge und Flughäfen.",
+    "dk": "Kommerciel bevægelse af mennesker eller varer med fly.",
+    "en-GB": "Airplane and airport operations",
+    "en-US": "Airplane and airport operations",
+    "pt-BR": "Operações de aviões e de aeroportos.",
+    "pt-PT": "Operações de aviões e de aeroportos.",
+    "se": "Kommersiell förflyttning av folk eller varor med hjälp av flygplan.",
+    "zh-Hans": "飞机和机场运营"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04015001",
+    "https://www.wikidata.org/entity/Q1757562"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نقل جوي",
+    "de": "Luftverkehr",
+    "dk": "lufttransport",
+    "en-GB": "air transport",
+    "en-US": "air transport",
+    "es": "Transporte aéreo",
+    "fr": "Transport aérien",
+    "no": "luftfart",
+    "pt-BR": "aviação",
+    "pt-PT": "aviação",
+    "se": "Flygtransport",
+    "zh-Hans": "航空运输"
+  },
+  "qcode": "medtop:20000338",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000338",
+  "aid": "iptc_20000338"
+}

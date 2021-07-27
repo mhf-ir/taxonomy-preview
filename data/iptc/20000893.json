@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000892"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Einzelne oder Mannschaften auf einem oder zwei Fahrrädern in einer Arena. Punkte werden durch eine Jury vergeben",
+    "dk": "Individuel eller holdkonkurrence, hvor deltagerne laver forskellige tricks bedømt af dommere.",
+    "en-GB": "Individual or teams on one or two bicycles in an arena. Points are awarded by a jury.",
+    "en-US": "Individual or teams on one or two bicycles in an arena. Points are awarded by a jury.",
+    "pt-BR": "Competição, individual ou por equipes, que consiste em fazer manobras e acrobacias em bicicletas especiais, adaptadas para o efeito. Os pontos são atribuídos por um júri.",
+    "pt-PT": "Competição, individual ou por equipas, que consiste em fazer manobras e acrobacias em bicicletas especiais, adaptadas para o efeito. Os pontos são atribuídos por um júri.",
+    "se": "Individuell eller lagtävling där de tävlande gör olika trick som bedöms av domare.",
+    "zh-Hans": "在竞技场上骑一或两辆自行车的个人或团队进行表演。 计分由陪审团颁发"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15019020",
+    "https://www.wikidata.org/entity/Q1792605"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "دراجات",
+    "de": "Kunstfahren",
+    "dk": "cykelakrobatik",
+    "en-GB": "artistic cycling",
+    "en-US": "artistic cycling",
+    "es": "Ciclismo artístico",
+    "fr": "Cyclisme artistique",
+    "no": "kunstsykling",
+    "pt-BR": "ciclismo artístico",
+    "pt-PT": "ciclismo artístico",
+    "se": "Konstcykling",
+    "zh-Hans": "花样自行车"
+  },
+  "qcode": "medtop:20000893",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000893",
+  "aid": "iptc_20000893"
+}

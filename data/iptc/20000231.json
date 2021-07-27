@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000225"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Programme, die bei Installation auf der Hardware bestimmte Funktionen ausführen",
+    "dk": "Elektroniske programmer , der installeres på blandt andet computere eller mobiltelefoner.",
+    "en-GB": "Programming sets that, when installed on hardware, perform specified functions.",
+    "en-US": "Programming sets that, when installed on hardware, perform specified functions.",
+    "pt-BR": "Conjunto de programas que, quando instalados em computadores, realizam funções específicas.",
+    "pt-PT": "Conjunto de programas que, quando instalados em computadores, realizam funções específicas.",
+    "se": "Datorprogram som, vid installation i hårdvara, utför specificerade funktioner.",
+    "zh-Hans": "安装在硬件上来执行特定功能的程序集"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04003005",
+    "https://www.wikidata.org/entity/Q7397"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "برامج معلوماتية",
+    "de": "Software",
+    "dk": "software og apps",
+    "en-GB": "software",
+    "en-US": "software",
+    "es": "Software",
+    "fr": "Logiciel",
+    "no": "programvare",
+    "pt-BR": "software",
+    "pt-PT": "software",
+    "se": "Mjukvara",
+    "zh-Hans": "软件"
+  },
+  "qcode": "medtop:20000231",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000231",
+  "aid": "iptc_20000231"
+}

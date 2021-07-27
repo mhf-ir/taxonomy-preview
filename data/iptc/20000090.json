@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000087"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Absichtlicher Diebstahl von anvertrautem Geld",
+    "dk": "Bevidst tyveri eller forkert anvendelse af penge, som forvaltes for enhver klient, eller som tilhører en arbejdsgiver.",
+    "en-GB": "The intentional theft or misuse of money left in one's care or belonging to one's employer",
+    "en-US": "The intentional theft or misuse of money left in one's care or belonging to one's employer",
+    "pt-BR": "Roubo intencional de dinheiro deixado a cargo de alguém.",
+    "pt-PT": "Desvio e roubo de dinheiros públicos por quem os tinha a seu cargo.",
+    "se": "Medveten stöld eller felaktig användning av pengar som man satts att sköta för någon uppdragsgivare.",
+    "zh-Hans": "故意盗窃或滥用他人保管或属于雇主的钱财"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02012002",
+    "https://www.wikidata.org/entity/Q157833"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اختلاس اموال",
+    "de": "Unterschlagung",
+    "dk": "underslæb",
+    "en-GB": "embezzlement",
+    "en-US": "embezzlement",
+    "es": "Malversación",
+    "fr": "Détournement de fonds",
+    "no": "underslag",
+    "pt-BR": "peculato",
+    "pt-PT": "peculato",
+    "se": "Förskingring",
+    "zh-Hans": "挪用公款"
+  },
+  "qcode": "medtop:20000090",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000090",
+  "aid": "iptc_20000090"
+}

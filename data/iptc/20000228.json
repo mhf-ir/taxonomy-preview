@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000225"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Hardware und Software, die Geräte unterstützt um Signale hin und her zusenden via Satellit im Weltraum",
+    "dk": "Hardware og software, der muliggør kommunikation mellem enheder placeret på Jorden og satellitter i kredsløb omkring Jorden.",
+    "en-GB": "Hardware and software that enables ground-based devices to send signals to each other via an orbiting satellite.",
+    "en-US": "Hardware and software that enables ground-based devices to send signals to each other via an orbiting satellite.",
+    "pt-BR": "Hardware e software que permite que aparelhos em terra enviem sinais entre si, através de satélites em órbita.",
+    "pt-PT": "Hardware e software que permite que aparelhos em terra enviem sinais entre si, através de satélites em órbita.",
+    "se": "Hårdvara och mjukvara som möjliggör kommunikation mellan apparater placerade på jorden och satelliter i omloppsbana runt jorden.",
+    "zh-Hans": "使地面设备能够通过轨道卫星互相发送信号的硬件和软件"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04003003"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تقنيات اقمار اصطناعية",
+    "de": "Satellitentechnologie",
+    "dk": "satellitteknologi",
+    "en-GB": "satellite technology",
+    "en-US": "satellite technology",
+    "es": "Tecnología satelital",
+    "fr": "Satellites",
+    "no": "satellitteknologi",
+    "pt-BR": "tecnologia de satélite",
+    "pt-PT": "tecnologia de satélite",
+    "se": "Satellitteknik",
+    "zh-Hans": "卫星技术"
+  },
+  "qcode": "medtop:20000228",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000228",
+  "aid": "iptc_20000228"
+}

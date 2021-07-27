@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000969"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bis zu 100 kg bei Männern und 78 kg bei Frauen",
+    "dk": "Op til 100 kg for mænd og 78 kg for kvinder.",
+    "en-GB": "Up to 100kg for men and 78kg for women.",
+    "en-US": "Up to 100kg for men and 78kg for women.",
+    "pt-BR": "Categoria até 100kg para homens e até 78kg para mulheres.",
+    "pt-PT": "Categoria até 100kg para homens e até 78kg para mulheres.",
+    "zh-Hans": "选手体重分别最高不超过100公斤（男子）和78公斤（女子）"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15033002",
+    "https://www.wikidata.org/entity/Q77217224"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الوزن نصف الثقيل",
+    "de": "Halb-Schwergewicht (Judo)",
+    "dk": "halv-sværvægt",
+    "en-GB": "half-heavyweight (judo)",
+    "en-US": "half-heavyweight (judo)",
+    "es": "Peso mediopesado (judo)",
+    "fr": "Mi-lourds (judo)",
+    "no": "lett tungvekt",
+    "pt-BR": "peso-meio-pesado (judô)",
+    "pt-PT": "peso-meio-pesado (judo)",
+    "se": "Halv tungvikt, (Judo)",
+    "zh-Hans": "次重量级柔道"
+  },
+  "qcode": "medtop:20000971",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000971",
+  "aid": "iptc_20000971"
+}

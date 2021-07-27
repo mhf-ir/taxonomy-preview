@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07010000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/07000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Einrichtungen die genutzt werden für jede Art der Gesundheitsfürsorge",
+    "dk": "Faciliteter, der bruges til enhver form for sundhedsydelser.",
+    "en-GB": "Facilities used for any kind of healthcare",
+    "en-US": "Facilities used for any kind of healthcare",
+    "pt-BR": "Instalações usadas para qualquer tipo de cuidados de saúde.",
+    "pt-PT": "Instalações usadas para qualquer tipo de cuidados de saúde.",
+    "se": "Inrättningar som används för alla former av hälso- och sjukvård.",
+    "zh-Hans": "用于任何医疗保健的设施"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q4260475"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000462",
+    "medtop:20001229"
+  ],
+  "prefLabel": {
+    "ar": "منشأة صحية",
+    "de": "Gesundheitseinrichtung",
+    "dk": "sundhedsfacilitet",
+    "en-GB": "health facility",
+    "en-US": "health facility",
+    "es": "Establecimientos de salud",
+    "fr": "Centre de soins",
+    "no": "helsevesen",
+    "pt-BR": "estabelecimento de saúde",
+    "pt-PT": "estabelecimento de saúde",
+    "se": "Vårdinrättningar",
+    "zh-Hans": "医疗设施"
+  },
+  "qcode": "medtop:20000461",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000461",
+  "aid": "iptc_20000461"
+}

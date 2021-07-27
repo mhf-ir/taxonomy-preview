@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11013000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000621"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Abgabe zur Finanzierung von Staatsausgaben",
+    "dk": "Politik, der vedrører opkrævning af skatter og afgifter til bl.a. finansiering af offentlige udgifter.",
+    "en-GB": "A levy to fund government expenditure",
+    "en-US": "A levy to fund government expenditure",
+    "pt-BR": "Taxa imposta às pessoas físicas e jurídicas de um Estado, via coerção legislativa, para custear despesas do governo.",
+    "pt-PT": "Taxa imposta às pessoas físicas e jurídicas de um Estado, via coerção legislativa, para custear despesas do governo.",
+    "se": "Uttagande av skatt för att finansiera statliga utgifter.",
+    "zh-Hans": "为资助政府开支而征收的税款"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q8161"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "فرض ضرائب",
+    "de": "Steuern",
+    "dk": "skattepolitik",
+    "en-GB": "taxation",
+    "en-US": "taxation",
+    "es": "Impuestos",
+    "fr": "Fiscalité",
+    "no": "skatt",
+    "pt-BR": "impostos",
+    "pt-PT": "impostos",
+    "se": "Beskattning",
+    "zh-Hans": "税收"
+  },
+  "qcode": "medtop:20000620",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000620",
+  "aid": "iptc_20000620"
+}

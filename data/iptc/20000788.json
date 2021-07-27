@@ -1,0 +1,60 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/14000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Individuen als Ganzes, manchmal in verschiedene Klassen eingeteilt, wie Einheimische, Menschen einer Schicht etc.",
+    "dk": "Sammenfatning af alle mennesker gennem alle tidspunkter eller på et givet tidspunkt.",
+    "en-GB": "Human beings taken as a whole, or described as members of particular groups such as teenagers, women, or people with disabilities",
+    "en-US": "Human beings taken as a whole, or described as members of particular groups such as teenagers, women, or people with disabilities",
+    "pt-BR": "Indivíduos como um todo, por vezes divididos em classes, como povos indígenas, pessoas de classe etc.",
+    "pt-PT": "Indivíduos como um todo, por vezes divididos em classes, como povos indígenas, pessoas de classe, etc.",
+    "se": "Sammanfattningen av alla människor genom alla tider eller vid en viss tidpunkt.",
+    "zh-Hans": "被划分为不同的阶层的作为一个整体个人，例如土著人民、阶级人民等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14024000",
+    "https://www.wikidata.org/entity/Q1156970"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000789",
+    "medtop:20000790",
+    "medtop:20000791",
+    "medtop:20000792",
+    "medtop:20000793",
+    "medtop:20000794",
+    "medtop:20000795",
+    "medtop:20000796",
+    "medtop:20000797",
+    "medtop:20000798",
+    "medtop:20001288",
+    "medtop:20001327",
+    "medtop:20001328"
+  ],
+  "prefLabel": {
+    "ar": "رجال ونساء",
+    "de": "Bevölkerung",
+    "dk": "befolkningsgrupper",
+    "en-GB": "mankind",
+    "en-US": "mankind",
+    "es": "Humanidad",
+    "fr": "L'humanité",
+    "no": "menneskeheten",
+    "pt-BR": "humanidade",
+    "pt-PT": "humanidade",
+    "se": "Mänskligheten",
+    "zh-Hans": "人类"
+  },
+  "qcode": "medtop:20000788",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000788",
+  "aid": "iptc_20000788"
+}

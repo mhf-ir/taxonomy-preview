@@ -1,0 +1,55 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/01000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Ideen, Bräuche, Künste und Traditionen einer bestimmten Gruppe von Menschen",
+    "dk": "Ideer, skikke, traditioner og kunst for en gruppe mennesker.",
+    "en-GB": "The ideas, customs, arts, traditions of a particular group of persons",
+    "en-US": "The ideas, customs, arts, traditions of a particular group of persons",
+    "es": "Ideas, costumbres, artes, tradiciones de un grupo particular",
+    "fr": "Idées, coutumes, arts, traditions d'un groupe particulier de personnes",
+    "pt-BR": "Ideias, costumes, artes, tradições de um grupo em particular.",
+    "pt-PT": "Ideias, costumes, artes, tradições de um grupo em particular.",
+    "se": "Gemensamma idéer, seder, traditioner och konst hos en grupp människor.",
+    "zh-Hans": "特定人群的思想、习俗、艺术和传统"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q11042",
+    "http://cv.iptc.org/newscodes/subjectcode/01022000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000039",
+    "medtop:20000040",
+    "medtop:20000041",
+    "medtop:20000042",
+    "medtop:20000043",
+    "medtop:20000044"
+  ],
+  "prefLabel": {
+    "ar": "ثقافة",
+    "de": "Kultur",
+    "dk": "kultur",
+    "en-GB": "culture",
+    "en-US": "culture",
+    "es": "Cultura",
+    "fr": "Culture",
+    "no": "kultur",
+    "pt-BR": "cultura",
+    "pt-PT": "cultura",
+    "se": "Kultur",
+    "zh-Hans": "文化"
+  },
+  "qcode": "medtop:20000038",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000038",
+  "aid": "iptc_20000038"
+}

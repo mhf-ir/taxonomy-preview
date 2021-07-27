@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000294"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Firmen die Komponenten für Autos herstellen",
+    "dk": "Produktion af biler og komponenter, der er nødvendige for at fremstille biler.",
+    "en-GB": "Companies that manufacture automotive components and assemble automobiles",
+    "en-US": "Companies that manufacture automotive components and assemble automobiles",
+    "pt-BR": "Companhias que fabricam peças para automóveis e que os montam.",
+    "pt-PT": "Companhias que fabricam peças para automóveis e que os montam.",
+    "se": "Produktion av bilar och komponenter som behövs för att tillverka bilar.",
+    "zh-Hans": "指汽车零部件生产及整车组装"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04011002",
+    "https://www.wikidata.org/entity/Q190117"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تجهيزات سيارات",
+    "de": "Automobilindustrie",
+    "dk": "bilindustri",
+    "en-GB": "automotive",
+    "en-US": "automotive",
+    "es": "Equipamiento para vehículos",
+    "fr": "Industrie automobile",
+    "no": "bilindustri",
+    "pt-BR": "automóvel",
+    "pt-PT": "automóvel",
+    "se": "Bilindustri",
+    "zh-Hans": "汽车制造"
+  },
+  "qcode": "medtop:20000296",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000296",
+  "aid": "iptc_20000296"
+}

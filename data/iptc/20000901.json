@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000892"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sprint zwischen sechs Radfahrern, bei dem ein Tempomacher auf einem Moped das Tempo über die ersten 1400 m beschleunigt. Wenn der Tempomacher die Bahn verlässt, entwickelt sich das Rennen zu einem Endspurt über die letzten 6-700 Meter",
+    "dk": "Sprint mellem seks cyklister, hvor en pacer på en knallert gradvist øger tempoet i løbet af de første 1400 meter. Når paceren forlader banen, udvikles løbet til en sprintfinale over den sidste 6-700 meter.",
+    "en-GB": "Sprint between six cyclists where a pacemaker on a moped gradually increases the pace over the first 1400m. When the pacemaker leaves the track the race develops into a sprint finish over the final 6-700m.",
+    "en-US": "Sprint between six cyclists where a pacemaker on a moped gradually increases the pace over the first 1400m. When the pacemaker leaves the track the race develops into a sprint finish over the final 6-700m.",
+    "pt-BR": "Corrida de velocidade de 6 ciclistas em pista de velódromo. Os ciclistas seguem atrás de um motociclista que aumenta gradualmente a velocidade nos primeiros 1400 m. Quando ele abandona a pista, ocorre o *sprint* final.",
+    "pt-PT": "Corrida de velocidade de 6 ciclistas em pista de velódromo. Os ciclistas seguem atrás de um motociclista que aumenta gradualmente a velocidade nos primeiros 1400 m. Quando ele abandona a pista, ocorre o *sprint* final.",
+    "se": "De tävlande startar bakom en apparat som håller farten och sakta ökar den. Med några hundra meter kvar kör farthållaren undan och loppet avgörs i en spurt.",
+    "zh-Hans": "在前1400米的比赛中，骑在助力车上的领骑者逐渐加快速度，六名骑手竞相在赛道上冲刺争先。 在最后6-700米处，当领骑者离开赛道时，比赛发展成最终冲刺"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15019005",
+    "https://www.wikidata.org/entity/Q774176"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic cycling + sports facet cyclingtype"
+  },
+  "prefLabel": {
+    "ar": "كيرين",
+    "de": "Keirin",
+    "dk": "keirin",
+    "en-GB": "Keirin",
+    "en-US": "Keirin",
+    "es": "Keirin",
+    "fr": "Keirin",
+    "no": "keirin",
+    "pt-BR": "keirin",
+    "pt-PT": "keirin",
+    "se": "Keirin",
+    "zh-Hans": "自行车凯林赛"
+  },
+  "qcode": "medtop:20000901",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000901",
+  "aid": "iptc_20000901"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15073000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001108"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkampf, an dem die besten Wettkämpfer und Teams verschiedener Länder teilnehmen. Spiele genannt",
+    "dk": "Konkurrence, hvor atleter eller hold fra forskellige lande kan deltage.",
+    "en-GB": "A competition where individuals or teams from different countries may participate. Called *Games*",
+    "en-US": "A competition where individuals or teams from different countries may participate. Called *Games*",
+    "pt-BR": "Competição em que podem participar indivíduos ou equipes de diferentes países. Designa-se por *Jogos*.",
+    "pt-PT": "Competição em que podem participar indivíduos ou equipas de diferentes países. Designa-se por *Jogos*.",
+    "se": "Tävling där atleter eller lag från olika länder kan delta.",
+    "zh-Hans": "个人或团体代表国家参加的国际范围内的运动会"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "العاب دولية",
+    "de": "Internationale Spiele",
+    "dk": "internationale lege",
+    "en-GB": "international games",
+    "en-US": "international games",
+    "es": "Juegos internacionales",
+    "fr": "Jeux internationaux",
+    "no": "internasjonale leker",
+    "pt-BR": "jogos internacionais",
+    "pt-PT": "jogos internacionais",
+    "se": "Internationella spel",
+    "zh-Hans": "国际运动会"
+  },
+  "qcode": "medtop:20001114",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001114",
+  "aid": "iptc_20001114"
+}

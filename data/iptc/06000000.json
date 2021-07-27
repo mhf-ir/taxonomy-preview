@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alle Aspekte des Schutzes, der Zerstörung und die Bedingungen des Ökosystems der Erde und ihrer Umgebung",
+    "dk": "Alle aspekter af beskyttelse, skader og tilstand på planetens økosystem og dens omgivelser.",
+    "en-GB": "All aspects of protection, damage, and condition of the ecosystem of the planet earth and its surroundings.",
+    "en-US": "All aspects of protection, damage, and condition of the ecosystem of the planet earth and its surroundings.",
+    "pt-BR": "Todos os aspetos relativos a proteção, estragos e preservação do ecossistema do planeta Terra e de seu ambiente.",
+    "pt-PT": "Todos os aspetos relativos a proteção, estragos e preservação do ecossistema do planeta Terra e do seu ambiente.",
+    "se": "Alla aspekter av skydd, skador och hälsa hos planetens ekosystem, med omnejd. Alternativa energikällor, bevarande av arter, energisparande, miljöpolitik, miljöförstöring, naturtillgångar, naturen, befolkningsfrågor, avfall, vattentillgångar.",
+    "zh-Hans": "关于地球生态系统及其周围的保护、破坏和状况的各个方面"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06000000",
+    "https://www.wikidata.org/entity/Q43619"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000418",
+    "medtop:20000420",
+    "medtop:20000423",
+    "medtop:20000424",
+    "medtop:20000430",
+    "medtop:20000441"
+  ],
+  "prefLabel": {
+    "ar": "بيئة",
+    "de": "Umwelt",
+    "dk": "miljø og natur",
+    "en-GB": "environment",
+    "en-US": "environment",
+    "es": "Medio ambiente",
+    "fr": "Environnement",
+    "no": "natur og miljø",
+    "pt-BR": "ambiente",
+    "pt-PT": "ambiente",
+    "se": "Miljö och natur",
+    "zh-Hans": "环境"
+  },
+  "qcode": "medtop:06000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/06000000",
+  "aid": "iptc_06000000"
+}

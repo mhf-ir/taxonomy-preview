@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/08000000"
+  ],
+  "changeNote": {
+    "en-GB": "2021-05-05: Retired. Use more specific terms instead."
+  },
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/08003000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Einzelpersonen oder Gruppen mit Blick auf emotionale Aspekte",
+    "dk": "Personer eller grupper med fokus på følelsesmæssige facetter.",
+    "en-GB": "Individuals or groups with a focus on emotional facets",
+    "en-US": "Individuals or groups with a focus on emotional facets",
+    "pt-BR": "Indivíduos ou grupos, com foco em facetas emocionais.",
+    "pt-PT": "Indivíduos ou grupos, com foco em facetas emocionais.",
+    "se": "Nyheter om individer eller grupper av människor där fokus ligger på känslomässiga saker.",
+    "zh-Hans": "关注情感的个人或团体"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2472587"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شخصيات",
+    "de": "Leute",
+    "dk": "personhistorie",
+    "en-GB": "people",
+    "en-US": "people",
+    "es": "Interés humano",
+    "fr": "Gens",
+    "no": "folkeslag",
+    "pt-BR": "pessoas",
+    "pt-PT": "pessoas",
+    "se": "Människor",
+    "zh-Hans": "人"
+  },
+  "qcode": "medtop:20000502",
+  "retired": "2021-05-05T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000502",
+  "aid": "iptc_20000502"
+}

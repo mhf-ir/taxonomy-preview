@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000664"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Anhänger von John und Charles Wesley, die im 18. Jahrhundert die Kirche von England reformieren wollten und dadurch eine eigene Kirche gründeten.",
+    "dk": "En frikirkebevægelse med fokus på omhyggeligt planlagt fromhedsliv.",
+    "en-GB": "Followers of John and Charles Wesley who tried to reform the Church of England in the 18th century and turned into a separate church",
+    "en-US": "Followers of John and Charles Wesley who tried to reform the Church of England in the 18th century and turned into a separate church",
+    "pt-BR": "Seguidores de John e Charles Wesley, que tentaram reformar a igreja de Inglaterra no séc. XVIII e formaram uma igreja separada.",
+    "pt-PT": "Seguidores de John e Charles Wesley, que tentaram reformar a igreja de Inglaterra no séc. XVIII e formaram uma igreja separada.",
+    "se": "En frikyrklig rörelse med inriktning på noga planerat fromhetsliv.",
+    "zh-Hans": "约翰和查尔斯·卫斯理的追随者，他们在18世纪试图改革英国国教，后来变成了一个独立的教会"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12009005",
+    "https://www.wikidata.org/entity/Q33203"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ميثودية",
+    "de": "Methodisten",
+    "dk": "methodist",
+    "en-GB": "Methodist",
+    "en-US": "Methodist",
+    "es": "Metodista",
+    "fr": "Méthodisme",
+    "no": "metodisme",
+    "pt-BR": "metodista",
+    "pt-PT": "metodista",
+    "se": "Metodism",
+    "zh-Hans": "卫理公会"
+  },
+  "qcode": "medtop:20000669",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000669",
+  "aid": "iptc_20000669"
+}

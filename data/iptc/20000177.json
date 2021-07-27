@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000171"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ankündigungen von Dividendenauszahlungen",
+    "dk": "Meddelelse om udbetaling af udbytte.",
+    "en-GB": "Announcements regarding the disbursement of dividends.",
+    "en-US": "Announcements regarding the disbursement of dividends.",
+    "pt-BR": "Anúncios relativos à distribuição de dividendos.",
+    "pt-PT": "Anúncios relativos à distribuição de dividendos.",
+    "se": "Besked om utbetalning av aktieutdelning.",
+    "zh-Hans": "关于支付分红的公告"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016015",
+    "https://www.wikidata.org/entity/Q181201"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اعلان ارباح",
+    "de": "Dividende",
+    "dk": "udbyttebekendtgørelse",
+    "en-GB": "dividend announcement",
+    "en-US": "dividend announcement",
+    "es": "Anuncios de dividendos",
+    "fr": "Dividendes",
+    "no": "utbytte",
+    "pt-BR": "anúncio de dividendos",
+    "pt-PT": "anúncio de dividendos",
+    "se": "Aktieutdelningar",
+    "zh-Hans": "分红公告"
+  },
+  "qcode": "medtop:20000177",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000177",
+  "aid": "iptc_20000177"
+}

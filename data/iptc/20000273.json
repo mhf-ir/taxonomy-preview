@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Käufe durch bieten",
+    "dk": "Tjenester, hvor varer sælges, og hvor køberne gradvis byder højere, og varerne sælges til den højeste byder.",
+    "en-GB": "Sales by bidding",
+    "en-US": "Sales by bidding",
+    "pt-BR": "Vendas por leilão.",
+    "pt-PT": "Vendas por leilão.",
+    "se": "Tjänster där varor är ute för försäljning och vid vilken spekulanterna efter hand avger allt högre bud och varan säljs till den högstbjudande.",
+    "zh-Hans": "竞价销售"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006020",
+    "https://www.wikidata.org/entity/Q177923"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خدمات مزادات",
+    "de": "Auktion",
+    "dk": "auktion",
+    "en-GB": "auction service",
+    "en-US": "auction service",
+    "es": "Remates, subastas",
+    "fr": "Vente aux enchères",
+    "no": "auksjon",
+    "pt-BR": "venda por leilão",
+    "pt-PT": "venda por leilão",
+    "se": "Auktionstjänster",
+    "zh-Hans": "拍卖"
+  },
+  "qcode": "medtop:20000273",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000273",
+  "aid": "iptc_20000273"
+}

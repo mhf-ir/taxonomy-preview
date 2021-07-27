@@ -1,0 +1,57 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/05000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gebäude oder Einrichtung, wo verschiedenartige Ausbildung angeboten wird.",
+    "dk": "Institution, hvor undervisning foregår.",
+    "en-GB": "A building or institution in which education of various sorts is provided",
+    "en-US": "A building or institution in which education of various sorts is provided",
+    "pt-BR": "Edifício ou instituição onde educação de vários níveis é fornecida.",
+    "pt-PT": "Edifício ou instituição onde educação de vários níveis é fornecida.",
+    "se": "Institution där undervisning bedrivs.",
+    "zh-Hans": "提供各种教育的建筑物或机构"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3914",
+    "http://cv.iptc.org/newscodes/subjectcode/05005000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000401",
+    "medtop:20000402",
+    "medtop:20000404",
+    "medtop:20000405",
+    "medtop:20000408",
+    "medtop:20000409",
+    "medtop:20001212",
+    "medtop:20001213",
+    "medtop:20001214",
+    "medtop:20001215"
+  ],
+  "prefLabel": {
+    "ar": "مدرسة",
+    "de": "Schule",
+    "dk": "skole",
+    "en-GB": "school",
+    "en-US": "school",
+    "es": "Escuelas",
+    "fr": "Écoles, collèges, lycées",
+    "no": "skoler",
+    "pt-BR": "escolas",
+    "pt-PT": "escolas",
+    "se": "Skola",
+    "zh-Hans": "学校"
+  },
+  "qcode": "medtop:20000400",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000400",
+  "aid": "iptc_20000400"
+}

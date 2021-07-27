@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000550"
+  ],
+  "created": "2019-07-30T12:00:00+00:00",
+  "definition": {
+    "de": "Das Hobby des Suchens, Auffindens, Erwerbens, Organisierens, Katalogisierens, Ausstellens, Aufbewahrens oder Pflegens von Gegenständen, die für einen einzelnen Sammler von Interesse sind",
+    "dk": "En hobby, hvor man finder og køber genstande indenfor en bestemt kategori og måske udstiller, sorterer eller katalogiserer dem.",
+    "en-GB": "The hobby of seeking, locating, acquiring, organising, cataloguing, displaying, storing or maintaining items that are of interest to an individual collector",
+    "en-US": "The hobby of seeking, locating, acquiring, organizing, cataloging, displaying, storing or maintaining items that are of interest to an individual collector",
+    "pt-BR": "Atividade que consiste em procurar, localizar, adquirir, organizar, catalogar, exibir, armazenar ou manter itens de interesse para um colecionador individual.",
+    "pt-PT": "Atividade que consiste em procurar, localizar, adquirir, organizar, catalogar, exibir, armazenar ou manter itens de interesse para um colecionador individual.",
+    "se": "Hobby där man leta, skaffar, ordnar och kanske visar en stor mängd föremål av en viss sort.",
+    "zh-Hans": "寻找、定位、获取、组织、编目、展示、存储或维护个人收藏家感兴趣的物品的爱好"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q208165"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-30T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "جمع قطع",
+    "de": "Sammeln",
+    "dk": "samler",
+    "en-GB": "collecting",
+    "en-US": "collecting",
+    "es": "Coleccionismo",
+    "fr": "Collections (loisir)",
+    "no": "samle",
+    "pt-BR": "colecionismo",
+    "pt-PT": "colecionismo",
+    "se": "Samlande",
+    "zh-Hans": "收藏"
+  },
+  "qcode": "medtop:20001247",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001247",
+  "aid": "iptc_20001247"
+}

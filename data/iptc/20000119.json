@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/02000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die gerechte Anwendung von Gesetzen und Regularien",
+    "dk": "En retfærdig administration af love og regler.",
+    "en-GB": "The equitable administration of laws and regulations",
+    "en-US": "The equitable administration of laws and regulations",
+    "pt-BR": "Administração equitativa de leis e regulamentos.",
+    "pt-PT": "Administração equitativa de leis e regulamentos.",
+    "se": "Att ett samhälle sköts så att medborgarna åtnjuter det som stadgas i landets lagar.",
+    "zh-Hans": "维护法律法规公平"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02007000",
+    "https://www.wikidata.org/entity/Q5167661"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عدالة وحقوق",
+    "de": "Rechtsprechung",
+    "dk": "retfærdighed",
+    "en-GB": "justice",
+    "en-US": "justice",
+    "es": "Justicia y derechos",
+    "fr": "Droits juridiques",
+    "no": "juss",
+    "pt-BR": "justiça e direitos",
+    "pt-PT": "justiça",
+    "se": "Rättvisa och rättigheter",
+    "zh-Hans": "公正"
+  },
+  "qcode": "medtop:20000119",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000119",
+  "aid": "iptc_20000119"
+}

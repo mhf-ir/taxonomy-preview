@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/17000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Vorhersage und Berichte über den Verlauf des Wetters sowohl für einen kürzeren als auch längeren, zukünftigen Zeitraum",
+    "dk": "Den langsigtede eller kortvarige meteorologiske forudsigelse og rapportering af det kommende vejr for en given region.",
+    "en-GB": "The long- or short-term meteorological prediction and reporting of the upcoming weather for a given region",
+    "en-US": "The long- or short-term meteorological prediction and reporting of the upcoming weather for a given region",
+    "es": "Pronóstico o informe meteorológico a largo o corto plazo para una región determinada",
+    "fr": "Prévision ou rapport météorologique à long ou à court terme pour une région donnée",
+    "pt-BR": "Previsão do tempo meteorológico a curto e a longo prazo.",
+    "pt-PT": "Previsão do tempo meteorológico a curto e a longo prazo.",
+    "se": "Förutsägelse om vädret baserad på vetenskaplig grund.",
+    "zh-Hans": "对远期或近期特定区域气象情况的预报"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q182868",
+    "http://cv.iptc.org/newscodes/subjectcode/17001000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "توقعات الطقس",
+    "de": "Vorhersage",
+    "dk": "vejrudsigt",
+    "en-GB": "weather forecast",
+    "en-US": "weather forecast",
+    "es": "Pronóstico del tiempo",
+    "fr": "Prévisions météorologiques",
+    "no": "værmelding",
+    "pt-BR": "previsão meteorológica",
+    "pt-PT": "previsão meteorológica",
+    "se": "Väderprognos",
+    "zh-Hans": "天气预报"
+  },
+  "qcode": "medtop:20001128",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001128",
+  "aid": "iptc_20001128"
+}

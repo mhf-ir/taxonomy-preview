@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Festlegung und/oder Verlautbarung von Verhaltensregeln einer Gesellschaft, die Durchsetzung dieser Regeln, ihre Verstöße und die Bestrafung der Täter. Organisationen und Einheiten, die mit diesen Aktivitäten betraut sind",
+    "dk": "Oprettelse og/eller etablering af samfundets regler, håndhævelsen af disse regler, overtrædelse af reglerne og straf for kriminelle, herunder enkel personer, grupper, organisationer og andre enheder.",
+    "en-GB": "The establishment and/or statement of the rules of behaviour in society, the enforcement of these rules, breaches of the rules, the punishment of offenders and the organisations and bodies involved in these activities",
+    "en-US": "The establishment and/or statement of the rules of Behavior in society, the enforcement of these rules, breaches of the rules, the punishment of offenders and the organizations and bodies involved in these activities",
+    "pt-BR": "Estabelecimento e/ou declaração das regras de comportamento em sociedade, aplicação dessas regras, quebra das regras e penas para os infratores. Organizações e pessoas envolvidas nessas atividades.",
+    "pt-PT": "Estabelecimento e/ou declaração das regras de comportamento em sociedade, aplicação dessas regras, quebra das regras e penas para os infratores. Organizações e pessoas envolvidas nessas atividades.",
+    "se": "Etablering och/eller konstaterande av samhällets regler, dessa reglers genomförande, brott mot reglerna och bestraffning av förbrytarna. Organisationer och myndigheter inblandade i dessa aktiviteter. Brott, domstolsväsende, polis, straff, fängelse.",
+    "zh-Hans": "制订和发布社会行为守则、执行这些守则、违反守则、惩罚违法者，以及参与这些活动的组织和机构"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02000000",
+    "https://www.wikidata.org/entity/Q146491"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000082",
+    "medtop:20000106",
+    "medtop:20000119",
+    "medtop:20000121",
+    "medtop:20000129"
+  ],
+  "prefLabel": {
+    "ar": "جريمة، قانون وقضاء",
+    "de": "Justiz, Kriminalität",
+    "dk": "kriminalitet, lov og retfærdighed",
+    "en-GB": "crime, law and justice",
+    "en-US": "crime, law and justice",
+    "es": "Policía y justicia",
+    "fr": "Criminalité, droit et justice",
+    "no": "kriminalitet og rettsvesen",
+    "pt-BR": "crime, lei e justiça",
+    "pt-PT": "crime, lei e justiça",
+    "se": "Brott, lag och rätt",
+    "zh-Hans": "犯罪、法律和司法"
+  },
+  "qcode": "medtop:02000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/02000000",
+  "aid": "iptc_02000000"
+}

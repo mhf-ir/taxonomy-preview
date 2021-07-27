@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000487"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Eine medizinische Spezialisierung, die sich auf die Diagnose, Prävention und Behandlung von psychischen Störungen konzentriert",
+    "dk": "En medicinsk specialisering, der fokuserer på diagnose, forebyggelse og behandling af psykiske lidelser.",
+    "en-GB": "A medical specialisation that focuses on the diagnosis, prevention and treatment of mental disorders",
+    "en-US": "A medical specialization that focuses on the diagnosis, prevention and treatment of mental disorders",
+    "pt-BR": "Especialidade médica que se dedica ao estudo, diagnóstico, prevenção e tratamento de transtornos mentais.",
+    "pt-PT": "Especialidade médica que se dedica ao estudo, diagnóstico, prevenção e tratamento de transtornos mentais.",
+    "se": "Sjukvård som gäller diagnosticering, förebyggande och behandling av mentala åkommor.",
+    "zh-Hans": "专注于精神疾病诊断、预防和治疗的医学专业"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q7867"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "طب نفسي",
+    "de": "Psychiatrie",
+    "dk": "psykiatri",
+    "en-GB": "psychiatry",
+    "en-US": "psychiatry",
+    "es": "Psiquiatría",
+    "fr": "Psychiatrie",
+    "no": "psykiatri",
+    "pt-BR": "psiquiatria",
+    "pt-PT": "psiquiatria",
+    "se": "Psykiatri",
+    "zh-Hans": "精神病科"
+  },
+  "qcode": "medtop:20001227",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001227",
+  "aid": "iptc_20001227"
+}

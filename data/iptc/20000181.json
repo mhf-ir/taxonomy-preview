@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000180"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Anmeldungen von Stimmrechtsanteilen von Aktionären bei Aufsichtsbehörden",
+    "dk": "Oversigt over selskabsoplysninger og stemmerettigheder inden en generalforsamling.",
+    "en-GB": "Filings with regulatory agencies of proxy statements for upcoming shareholder votes.",
+    "en-US": "Filings with regulatory agencies of proxy statements for upcoming shareholder votes.",
+    "pt-BR": "Declarações de procurações junto de agências reguladoras para futuras votações de acionistas.",
+    "pt-PT": "Declarações de procurações junto de agências reguladoras para futuras votações de acionistas.",
+    "se": "Publicering av handlingar inför en bolagsstämma.",
+    "zh-Hans": "为即将到来的股东投票向监管机构提交代理声明"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016035"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "وكيل ايداع",
+    "de": "Anmeldung von Proxies",
+    "dk": "generalforsamlingsdokumenter",
+    "en-GB": "proxy filing",
+    "en-US": "proxy filing",
+    "es": "Votación por apoderados",
+    "fr": "Procurations pour assemblées générales",
+    "no": "fullmaktsinnsendelse",
+    "pt-BR": "procurações",
+    "pt-PT": "declaração de procuração",
+    "se": "Stämmohandlingar",
+    "zh-Hans": "代理申请"
+  },
+  "qcode": "medtop:20000181",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000181",
+  "aid": "iptc_20000181"
+}

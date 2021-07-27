@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000788"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Noch nicht entwickelte Menschen, gewöhnlich bis zum Alter der Pubertät",
+    "dk": "Personer i fasen mellem fødsel og voksen alder.",
+    "en-GB": "Young people, usually pre-pubescent, who are legally considered minors and are in a guardianship relationship with adults",
+    "en-US": "Young people, usually pre-pubescent, who are legally considered minors and are in a guardianship relationship with adults",
+    "pt-BR": "Pessoas imaturas, geralmente até a idade da puberdade.",
+    "pt-PT": "Pessoas imaturas, geralmente até a idade da puberdade.",
+    "se": "Personer under skedet mellan födelsen och vuxen ålder.",
+    "zh-Hans": "通常指未到青春期的未成年人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14024001",
+    "https://www.wikidata.org/entity/Q7569"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اطفال",
+    "de": "Kind",
+    "dk": "barn",
+    "en-GB": "children",
+    "en-US": "children",
+    "es": "Niños",
+    "fr": "Enfants",
+    "no": "barn",
+    "pt-BR": "crianças",
+    "pt-PT": "crianças",
+    "se": "Barn",
+    "zh-Hans": "儿童"
+  },
+  "qcode": "medtop:20000790",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000790",
+  "aid": "iptc_20000790"
+}

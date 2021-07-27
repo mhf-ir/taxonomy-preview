@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000225"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Dienstleistung, die von kommerziellen Firmen angeboten wird, die die Verbindung zwischen Telefonen, Fax und Computern erleichtern.",
+    "dk": "Tjeneste leveret af kommercielle virksomheder for at lette kommunikationen mellem telefoner eller computere.",
+    "en-GB": "Services provided by commercial companies that facilitate connections between telephones, pagers, computers",
+    "en-US": "Services provided by commercial companies that facilitate connections between telephones, pagers, computers",
+    "pt-BR": "Serviços fornecidos por empresas que facilitam ligações entre telefones, pagers ou computadores.",
+    "pt-PT": "Serviços fornecidos por empresas que facilitam ligações entre telefones, pagers ou computadores.",
+    "se": "Tjänster som tillhandahålls av kommersiella företag för att underlätta kommunikationen mellan telefoner eller datorer.",
+    "zh-Hans": "商业公司提供的电话、寻呼机、计算机之间连接的服务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04003007",
+    "https://www.wikidata.org/entity/Q25245117"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خدمات اتصالات",
+    "de": "Telekommunikation Service",
+    "dk": "telekommunikationstjeneste",
+    "en-GB": "telecommunication service",
+    "en-US": "telecommunication service",
+    "es": "Servicio de telecomunicaciones",
+    "fr": "Service de télécommunication",
+    "no": "telekommunikasjonstjenester",
+    "pt-BR": "serviços de telecomunicações",
+    "pt-PT": "serviços de telecomunicações",
+    "se": "Telekomtjänster",
+    "zh-Hans": "电信服务"
+  },
+  "qcode": "medtop:20000233",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000233",
+  "aid": "iptc_20000233"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000780"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein legaler Vorgang ein elternloses Kind in eine Beziehung zu integrieren",
+    "dk": "At formelt adoptere en person som deres eget barn.",
+    "en-GB": "The legal process of transferring parental rights to someone other than a person's birth parents, that person usually being a child",
+    "en-US": "The legal process of transferring parental rights to someone other than a person's birth parents, that person usually being a child",
+    "pt-BR": "Processo legal que integra uma criança sem apoio de pais numa família ou união de apoio.",
+    "pt-PT": "Processo legal que integra uma criança sem apoio de pais numa família ou união de apoio.",
+    "se": "Att formellt uppta en person som sitt eget barn.",
+    "zh-Hans": "将没有父母抚养的孩子领养为自己孩子的法律程序"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14006002",
+    "https://www.wikidata.org/entity/Q180472"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تبن",
+    "de": "Adoption",
+    "dk": "adoption",
+    "en-GB": "adoption",
+    "en-US": "adoption",
+    "es": "Adopción",
+    "fr": "Adoption",
+    "no": "adopsjon",
+    "pt-BR": "adoção",
+    "pt-PT": "adoção",
+    "se": "Adoption",
+    "zh-Hans": "收养"
+  },
+  "qcode": "medtop:20000781",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000781",
+  "aid": "iptc_20000781"
+}

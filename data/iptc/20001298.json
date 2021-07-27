@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000763"
+  ],
+  "created": "2020-08-05T12:00:00+00:00",
+  "definition": {
+    "de": "Ein Versuch, Computer simulieren zu lassen, wie das menschliche Gehirn arbeitet, indem statistische, heuristische oder maschinelle Lernmethoden und Algorithmen auf große Datensätze angewendet werden. Ermöglicht eine Vielzahl von automatischen Funktionen wie Bilderkennung und Kategorisierung.",
+    "dk": "Et videnskabeligt forsøg på at bruge computerteknologi til at simulere den menneskelige hjerne ved brug af statistiske, heuristiske metoder eller algoritmer på store datasæt.",
+    "en-GB": "An attempt to let computers simulate how the human brain works by applying statistical, heuristic or machine learning methods and algorithms to large datasets. Enables a long range of automatic functions like image recognition and categorisation.",
+    "en-US": "An attempt to let computers simulate how the human brain works by applying statistical, heuristic or machine learning methods and algorithms to large datasets. Enables a long range of automatic functions like image recognition and categorization.",
+    "pt-BR": "Uso de computadores para simular o funcionamento do cérebro humano aplicando algoritmos e métodos estatísticos, heurísticos ou de aprendizado automático a grandes conjuntos de dados. Permite uma grande variedade de funções automáticas, como reconhecimento e categorização de imagens.",
+    "pt-PT": "Uso de computadores para simular o funcionamento do cérebro humano aplicando algoritmos e métodos estatísticos, heurísticos ou de aprendizagem automática a grandes conjuntos de dados. Permite uma grande variedade de funções automáticas, como reconhecimento e categorização de imagens.",
+    "se": "Förkortas ofta AI. Beskriver dataprogram och robotar som efterliknar människors naturliga intelligens genom att utveckla sig baserat på tidigare försök.",
+    "zh-Hans": "通过将统计学、启发式或机器学习和算法应用于大数据集，让计算机模拟人类大脑运作。实现一系列自动功能诸如，图像识别、分类"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q11660"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ذكاء اصطناعي",
+    "de": "Künstliche Intelligenz",
+    "dk": "kunstig intelligens",
+    "en-GB": "artificial intelligence",
+    "en-US": "artificial intelligence",
+    "es": "Inteligencia artificial",
+    "fr": "Intelligence artificielle",
+    "no": "kunstig intelligens",
+    "pt-BR": "inteligência artificial",
+    "pt-PT": "inteligência artificial",
+    "se": "Artificiell intelligens",
+    "zh-Hans": "人工智能"
+  },
+  "qcode": "medtop:20001298",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001298",
+  "aid": "iptc_20001298"
+}

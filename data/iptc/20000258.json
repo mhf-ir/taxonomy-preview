@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000256"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Herstellung und Förderung von Glanz- und Steinkohle zur Energieerzeugung",
+    "dk": "Produktion og minedrift af antracit og bituminøse produkter til anvendelse i kraftproduktion.",
+    "en-GB": "Production and mining of anthracite and bituminous products for use in power production",
+    "en-US": "Production and mining of anthracite and bituminous products for use in power production",
+    "pt-BR": "Produção e extração de antracite e de produtos betuminosos para usar na produção de energia.",
+    "pt-PT": "Produção e extração de antracite e de produtos betuminosos para usar na produção de energia.",
+    "se": "Utvinning av antracit och bituminöst kol för användning i energiproduktion.",
+    "zh-Hans": "用于电力生产的无烟煤和沥青制品的生产和开采"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005002",
+    "https://www.wikidata.org/entity/Q1778629"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "فحم",
+    "de": "Kohle",
+    "dk": "kul",
+    "en-GB": "coal",
+    "en-US": "coal",
+    "es": "Carbón",
+    "fr": "Charbon",
+    "no": "kullindustri",
+    "pt-BR": "carvão",
+    "pt-PT": "carvão",
+    "se": "Kol",
+    "zh-Hans": "煤炭"
+  },
+  "qcode": "medtop:20000258",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000258",
+  "aid": "iptc_20000258"
+}

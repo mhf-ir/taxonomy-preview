@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Dienstleister, der versucht Käuferbedürfnisse zu ermitteln",
+    "dk": "Undersøgelse af mulighederne for at sælge et bestemt produkt eller tjeneste.",
+    "en-GB": "A service that tries to determine what people want to buy",
+    "en-US": "A service that tries to determine what people want to buy",
+    "pt-BR": "Serviço que tenta determinar o que as pessoas pretendem comprar.",
+    "pt-PT": "Serviço que tenta determinar o que as pessoas pretendem comprar.",
+    "se": "Undersökning av möjligheterna att sälja en viss vara eller tjänst.",
+    "zh-Hans": "试图确定人们想要购买什么的服务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006008",
+    "https://www.wikidata.org/entity/Q913709"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حركة السوق",
+    "de": "Marktforschung",
+    "dk": "markedsundersøgelse",
+    "en-GB": "market research",
+    "en-US": "market research",
+    "es": "Investigación de mercado",
+    "fr": "Étude de marché",
+    "no": "markedsundersøkelse",
+    "pt-BR": "estudos de mercado",
+    "pt-PT": "estudos de mercado",
+    "se": "Marknadsundersökningar",
+    "zh-Hans": "市场调查研究"
+  },
+  "qcode": "medtop:20000283",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000283",
+  "aid": "iptc_20000283"
+}

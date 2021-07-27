@@ -1,0 +1,68 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Rennen auf Fahrrädern über eine vorgegeben Distanz",
+    "dk": "Konkurrenter cykler en bestemt afstand så hurtigt som muligt, individuelt eller i hold.",
+    "en-GB": "A race over a given distance on bicycles.",
+    "en-US": "A race over a given distance on bicycles.",
+    "pt-BR": "Corrida de bicicleta.",
+    "pt-PT": "Corrida de bicicleta.",
+    "se": "Tävlande cyklar en bestämd distans så fort som möjligt, individuellt eller i lag.",
+    "zh-Hans": "固定距离的自行车赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15019000",
+    "https://www.wikidata.org/entity/Q2215841"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/cyclingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000893",
+    "medtop:20000894",
+    "medtop:20000895",
+    "medtop:20000896",
+    "medtop:20000897",
+    "medtop:20000898",
+    "medtop:20000899",
+    "medtop:20000900",
+    "medtop:20000901",
+    "medtop:20000902",
+    "medtop:20000903",
+    "medtop:20000904",
+    "medtop:20000905",
+    "medtop:20000906",
+    "medtop:20000907",
+    "medtop:20000908",
+    "medtop:20000909",
+    "medtop:20000910"
+  ],
+  "prefLabel": {
+    "ar": "دراجات",
+    "de": "Radsport",
+    "dk": "cykelsport",
+    "en-GB": "cycling",
+    "en-US": "cycling",
+    "es": "Ciclismo",
+    "fr": "Cyclisme",
+    "no": "sykling",
+    "pt-BR": "ciclismo",
+    "pt-PT": "ciclismo",
+    "se": "Cykel",
+    "zh-Hans": "自行车赛"
+  },
+  "qcode": "medtop:20000892",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000892",
+  "aid": "iptc_20000892"
+}

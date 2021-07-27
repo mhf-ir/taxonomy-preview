@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Studien, Vorhersagen und Berichte meteorologischer Phänomene",
+    "dk": "Undersøgelse, forudsigelse og rapportering af meteorologiske fænomener.",
+    "en-GB": "The study, prediction and reporting of meteorological phenomena",
+    "en-US": "The study, prediction and reporting of meteorological phenomena",
+    "es": "Estudio, observación y pronóstico de fenómenos meteorológicos",
+    "fr": "Etude, observation et prévision des phénomènes météorologiques",
+    "pt-BR": "Estudo, relatório e previsão de fenômenos meteorológicos.",
+    "pt-PT": "Estudo, relatório e previsão de fenómenos meteorológicos.",
+    "se": "Meteorologiska studier, rapporteringar och förutsägelser. Väderrapporter, globala förändringar i vädret, statistik, varningar",
+    "zh-Hans": "对气象现象研究预测和报道"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/17000000",
+    "https://www.wikidata.org/entity/Q11663"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001128",
+    "medtop:20001129",
+    "medtop:20001130",
+    "medtop:20001131"
+  ],
+  "prefLabel": {
+    "ar": "طقس",
+    "de": "Wetter",
+    "dk": "vejr",
+    "en-GB": "weather",
+    "en-US": "weather",
+    "es": "Meteorología",
+    "fr": "Météo",
+    "no": "vær",
+    "pt-BR": "meteorologia",
+    "pt-PT": "meteorologia",
+    "se": "Väder",
+    "zh-Hans": "天气"
+  },
+  "qcode": "medtop:17000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/17000000",
+  "aid": "iptc_17000000"
+}

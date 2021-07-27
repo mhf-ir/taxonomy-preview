@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine indische Religion, die der Lehre von Zarathustra folgt, meistens in Bombay, aber auch in (Karachi) Pakistan.",
+    "dk": "En religion i Indien efter den iranske profet Zoroaster, hovedsageligt i Bombay, men også i Karachi (Pakistan).",
+    "en-GB": "A religion in India following the Iranian prophet Zoroaster, mainly in Bombay, but also in Karachi (Pakistan).",
+    "en-US": "A religion in India following the Iranian prophet Zoroaster, mainly in Bombay, but also in Karachi (Pakistan).",
+    "pt-BR": "Religião da Índia que segue o profeta iraniano Zoroastro, ou Zaratustra, sobretudo em Bombaim, mas também em Karachi (Paquistão).",
+    "pt-PT": "Religião da Índia que segue o profeta iraniano Zoroastro, ou Zaratustra, sobretudo em Bombaim, mas também em Carachi (Paquistão).",
+    "se": "En persisk religion, numera mest utövad i Indien, som följer den iranske profeten Zarathustra.",
+    "zh-Hans": "印度的一种宗教，追随伊朗先知琐罗亚斯德，主要在孟买，也在卡拉奇(巴基斯坦)"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12021000",
+    "https://www.wikidata.org/entity/Q9601"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بارسيس",
+    "de": "Zoroastrismus",
+    "dk": "zoroastrianisme",
+    "en-GB": "Zoroastrianism",
+    "en-US": "Zoroastrianism",
+    "es": "Parsismo",
+    "fr": "Parsasm",
+    "no": "zoroastrisme",
+    "pt-BR": "parsismo",
+    "pt-PT": "parsismo",
+    "se": "Zoroastrism",
+    "zh-Hans": "琐罗亚斯德教"
+  },
+  "qcode": "medtop:20000681",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000681",
+  "aid": "iptc_20000681"
+}

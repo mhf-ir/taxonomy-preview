@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001152"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Turner dreht, schwingt und zeigt Pirouetten an dem horizontalen Reck",
+    "dk": "Gymnaster svinger, springer og udfører piruetter omkring den vandrette bjælke.",
+    "en-GB": "Gymnasts turn, spin and perform pirouettes around the horizontal bar.",
+    "en-US": "Gymnasts turn, spin and perform pirouettes around the horizontal bar.",
+    "pt-BR": "Prova masculina em que os ginastas executam uma sequência de movimentos giratórios e acrobacias suspenso de uma barra horizontal fixa.",
+    "pt-PT": "Prova masculina em que os ginastas executam uma sequência de movimentos giratórios e acrobacias suspenso de uma barra horizontal fixa.",
+    "zh-Hans": "运动员在单杆上展示翻转、回旋和转体等体操动作"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028006",
+    "https://www.wikidata.org/entity/Q623270"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عقلة",
+    "de": "Reck (Kunstturnen)",
+    "dk": "reck",
+    "en-GB": "horizontal bar (artistic gymnastics)",
+    "en-US": "horizontal bar (artistic gymnastics)",
+    "es": "Barra fija (gimnasia artística)",
+    "fr": "Barre fixe",
+    "no": "svingstang (turn)",
+    "pt-BR": "barra",
+    "pt-PT": "barra",
+    "se": "Räck",
+    "zh-Hans": "单杠（竞技体操）"
+  },
+  "qcode": "medtop:20000948",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000948",
+  "aid": "iptc_20000948"
+}

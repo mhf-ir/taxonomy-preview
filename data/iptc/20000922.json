@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sportliches Ereignis, beinhaltet Laufen und Radfahren",
+    "dk": "Konkurrencegren, som indeholder løb og cykling.",
+    "en-GB": "An athletic event involving running and cycling",
+    "en-US": "An athletic event involving running and cycling",
+    "pt-BR": "Evento esportivo que envolve corrida a pé e ciclismo.",
+    "pt-PT": "Evento desportivo que envolve corrida a pé e ciclismo.",
+    "se": "Tävlingsgren innehållande löpning och cykling.",
+    "zh-Hans": "包括跑步和自行车的运动项目"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15086000",
+    "https://www.wikidata.org/entity/Q429006"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "دواثلون",
+    "de": "Duathlon",
+    "dk": "duathlon",
+    "en-GB": "duathlon",
+    "en-US": "duathlon",
+    "es": "Duatlón",
+    "fr": "Duathlon",
+    "no": "duatlon",
+    "pt-BR": "duatlo",
+    "pt-PT": "duatlo",
+    "se": "Duathlon",
+    "zh-Hans": "铁人两项"
+  },
+  "qcode": "medtop:20000922",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000922",
+  "aid": "iptc_20000922"
+}

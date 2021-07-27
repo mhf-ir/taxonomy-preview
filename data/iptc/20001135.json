@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000002"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Zeitlich begrenzte Präsentation von Kunst in einem Museum, einer Kunsthalle oder Galerie",
+    "dk": "Midlertidig præsentation af kunst eller særemner på museer, kunsthaller eller gallerier.",
+    "en-GB": "Temporary presentation of art in museums, art halls or galleries",
+    "en-US": "Temporary presentation of art in museums, art halls or galleries",
+    "es": "Presentación temporal de arte en museos, salas de arte o galerías",
+    "fr": "Présentation temporaire d'art dans des musées, des salles ou des galeries",
+    "pt-BR": "Apresentação temporária de arte em museus, salas de arte ou galerias.",
+    "pt-PT": "Apresentação temporária de arte em museus, salas de arte ou galerias.",
+    "se": "Ett tillfälle då en eller flera konstverk visas upp i en lokal, vanligtvis under en avgränsad period.",
+    "zh-Hans": "在博物馆、艺术大厅或画廊举办的短期艺术品展出"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q667276"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2012-10-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "معرض فني",
+    "de": "Kunstausstellung",
+    "dk": "udstilling",
+    "en-GB": "art exhibition",
+    "en-US": "art exhibition",
+    "es": "Exposición de arte",
+    "fr": "Exposition artistique",
+    "no": "kunstutstilling",
+    "pt-BR": "exposição artística",
+    "pt-PT": "exposição artística",
+    "se": "Konstutställning",
+    "zh-Hans": "艺术展览"
+  },
+  "qcode": "medtop:20001135",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001135",
+  "aid": "iptc_20001135"
+}

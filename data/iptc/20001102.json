@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001157"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: broader term changed"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Grundsätzliche chinesische traditionelle Kampfkunst",
+    "dk": "Kinesisk traditionel kampsport.",
+    "en-GB": "Chinese traditional martial art",
+    "en-US": "Chinese traditional martial art",
+    "pt-BR": "Arte marcial tradicional chinesa.",
+    "pt-PT": "Arte marcial tradicional chinesa.",
+    "se": "Kinesisk traditionell stridskonst.",
+    "zh-Hans": "中国传统武术"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15099000",
+    "https://www.wikidata.org/entity/Q3479346"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ووشو",
+    "de": "Wushu",
+    "dk": "wushu",
+    "en-GB": "wushu",
+    "en-US": "wushu",
+    "es": "Wushu",
+    "fr": "Wushu",
+    "no": "wushu",
+    "pt-BR": "wushu",
+    "pt-PT": "wushu",
+    "se": "Wushu",
+    "zh-Hans": "武术"
+  },
+  "qcode": "medtop:20001102",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001102",
+  "aid": "iptc_20001102"
+}

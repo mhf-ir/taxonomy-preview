@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000139"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: English name changed"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jedes ungeplante Ereignis mit ungewollten Konsequenzen in einer Fabrik, einem Geschäft oder Büro",
+    "dk": "Uventet hændelser på en arbejdsplads, der forårsager personskader og/eller ejendomsskader.",
+    "en-GB": "Any unplanned event or mishap in an industrial setting that result in injuries to people and damage to property or the environment",
+    "en-US": "Any unplanned event or mishap in an industrial setting that result in injuries to people and damage to property or the environment",
+    "pt-BR": "Acidente em fábrica, loja ou oficina, potencialmente perigoso.",
+    "pt-PT": "Acidente em fábrica, loja ou oficina, potencialmente perigoso.",
+    "se": "Oönskade händelser på arbetsplatser som leder till att personer och/eller egendom skadas.",
+    "zh-Hans": "在工厂、商店或办公室发生的意外事故"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03006000",
+    "https://www.wikidata.org/entity/Q629257"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000142"
+  ],
+  "prefLabel": {
+    "ar": "حادث صناعي",
+    "de": "Industrieunglück",
+    "dk": "arbejdsulykke",
+    "en-GB": "industrial accident and incident",
+    "en-US": "industrial accident and incident",
+    "es": "Accidente industrial",
+    "fr": "Accident industriel",
+    "no": "arbeidsulykker",
+    "pt-BR": "acidente industrial",
+    "pt-PT": "acidente industrial",
+    "se": "Arbetsplatsolyckor",
+    "zh-Hans": "工业事故"
+  },
+  "qcode": "medtop:20000141",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000141",
+  "aid": "iptc_20000141"
+}

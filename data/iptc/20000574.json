@@ -1,0 +1,60 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/11000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Auswahl der Repräsentanten durch das Abgeben von Stimmen",
+    "dk": "Valg af repræsentanter ved afstemning.",
+    "en-GB": "The selection of representatives by the casting of votes",
+    "en-US": "The selection of representatives by the casting of votes",
+    "pt-BR": "Seleção de representantes por votação.",
+    "pt-PT": "Seleção de representantes por votação.",
+    "se": "Process då röstberättigade invånare utser representanter i riksdag och kommunala församlingar efter offentligrättslig reglering.",
+    "zh-Hans": "通过投票选出代表"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11003000",
+    "https://www.wikidata.org/entity/Q40231"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000575",
+    "medtop:20000576",
+    "medtop:20000577",
+    "medtop:20000578",
+    "medtop:20000579",
+    "medtop:20000580",
+    "medtop:20000582",
+    "medtop:20000583",
+    "medtop:20000584",
+    "medtop:20000585",
+    "medtop:20000586",
+    "medtop:20001263",
+    "medtop:20001266"
+  ],
+  "prefLabel": {
+    "ar": "انتخابات",
+    "de": "Wahl",
+    "dk": "valg",
+    "en-GB": "election",
+    "en-US": "election",
+    "es": "Elecciones",
+    "fr": "Élections",
+    "no": "valg",
+    "pt-BR": "eleições",
+    "pt-PT": "eleições",
+    "se": "Val",
+    "zh-Hans": "选举"
+  },
+  "qcode": "medtop:20000574",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000574",
+  "aid": "iptc_20000574"
+}

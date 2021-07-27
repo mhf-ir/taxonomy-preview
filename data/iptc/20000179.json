@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000171"
+  ],
+  "changeNote": {
+    "en-GB": "2020-08-05: Moved from medtop:20000178 (earnings) to medtop:20000171 (business finance)"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Vorhersage von Firmenumsätzen durch Analysten",
+    "dk": "Analytikeres eller virksomhedens egne forventninger til økonomiske resultater.",
+    "en-GB": "Analyst prediction of company earnings.",
+    "en-US": "Analyst prediction of company earnings.",
+    "pt-BR": "Previsões dos analistas sobre os lucros de empresas.",
+    "pt-PT": "Previsões dos analistas sobre os lucros de empresas.",
+    "se": "Analytikers förväntningar på företags finansiella resultat.",
+    "zh-Hans": "分析师对公司收益的预测"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016016",
+    "https://www.wikidata.org/entity/Q5449712"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تقديرات ارباح",
+    "de": "Gewinnprognose",
+    "dk": "indtjeningsforventninger",
+    "en-GB": "earnings forecast",
+    "en-US": "earnings forecast",
+    "es": "Previsión de beneficios",
+    "fr": "Prévisions de résultats",
+    "no": "resultatprognose",
+    "pt-BR": "previsão de lucros",
+    "pt-PT": "previsão de lucros",
+    "se": "Resultatprognoser",
+    "zh-Hans": "收益预期"
+  },
+  "qcode": "medtop:20000179",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000179",
+  "aid": "iptc_20000179"
+}

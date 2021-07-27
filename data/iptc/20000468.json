@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000467"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Drogen, die ausschließlich mit der Erlaubnis des Arztes verabreicht werden dürfen",
+    "dk": "Lægemiddel, der kun kan købes med tilladelse fra lægen.",
+    "en-GB": "Drugs that can be purchased only with a doctor's authorisation",
+    "en-US": "Drugs that can be purchased only with a doctor's authorization",
+    "pt-BR": "Medicamentos que só podem ser comprados com autorização médica.",
+    "pt-PT": "Medicamentos que só podem ser comprados com autorização médica.",
+    "se": "Mediciner som bara kan köpas med läkares tillstånd.",
+    "zh-Hans": "只有医生授权才能购买的药物"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07003001",
+    "https://www.wikidata.org/entity/Q1643563"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ادوية موصوفة طبيا",
+    "de": "Droge auf Rezept",
+    "dk": "receptpligtig medicin",
+    "en-GB": "prescription drugs",
+    "en-US": "prescription drugs",
+    "es": "Medicamento bajo prescripción médica",
+    "fr": "Prescription médicale",
+    "no": "reseptbelagte legemiddel",
+    "pt-BR": "medicamentos sujeitos a prescrição médica",
+    "pt-PT": "medicamentos sujeitos a receita médica",
+    "se": "Receptbelagda mediciner",
+    "zh-Hans": "处方药"
+  },
+  "qcode": "medtop:20000468",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000468",
+  "aid": "iptc_20000468"
+}

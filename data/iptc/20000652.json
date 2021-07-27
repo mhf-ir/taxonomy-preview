@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000649"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Entstehung und Entwicklung politischer Systeme und die Geschichte der Menschen und Nationen, die mit diesen in Zusammenhang stehen.",
+    "dk": "Oprettelsen og opkomsten af politiske systemer og historien til de mennesker og nationer, der er forbundet med disse systemer.",
+    "en-GB": "The creation and rise of political systems and the history of the people and nations that are associated with those systems.",
+    "en-US": "The creation and rise of political systems and the history of the people and nations that are associated with those systems.",
+    "pt-BR": "Criação e evolução de sistemas políticos e a história dos povos e nações que estão associados a esses sistemas.",
+    "pt-PT": "Criação e evolução de sistemas políticos e a história dos povos e nações que estão associados a esses sistemas.",
+    "se": "Skapandet och framväxten av politiska system och historien om de personer och nationer som förknippas med dessa.",
+    "zh-Hans": "政治制度的建立和兴起以及与这些制度有关的人民和国家的历史"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11024003"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تطوير سياسي",
+    "de": "Politikgeschichte",
+    "dk": "politisk udvikling",
+    "en-GB": "political development",
+    "en-US": "political development",
+    "es": "Historia política",
+    "fr": "Histoire politique",
+    "no": "politisk utvikling",
+    "pt-BR": "desenvolvimento político",
+    "pt-PT": "desenvolvimento político",
+    "se": "Politisk utveckling",
+    "zh-Hans": "政治发展"
+  },
+  "qcode": "medtop:20000652",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000652",
+  "aid": "iptc_20000652"
+}

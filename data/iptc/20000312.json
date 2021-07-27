@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000304"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Tätigkeit Produkte und Dienstleistungen anzupreisen durch Werbekampagnen, und/oder Kundenkontakt oder Nachrichtenverbreitung.",
+    "dk": "Kommercielle virksomheder, der markedsfører produkter eller tjenester gennem reklame, direkte kontakt eller annoncer.",
+    "en-GB": "The job of promoting products and services  through advertising campaigns and/or through person-to-person contact or through news releases",
+    "en-US": "The job of promoting products and services through advertising campaigns and/or through person-to-person contact or through news releases",
+    "pt-BR": "Promoção de produtos e serviços através de campanhas publicitárias e/ou pessoa a pessoa, ou através de releases.",
+    "pt-PT": "Promoção de produtos e serviços através de campanhas publicitárias e/ou pessoa a pessoa, ou através de comunicados de imprensa.",
+    "se": "Den kommersiella verksamhet som marknadsför produkter eller tjänster med hjälp av reklam, direktkontakt eller annonser.",
+    "zh-Hans": "简称公关，指通过广告，或通过人际关系，或通过新闻传播推广产品和服务的工作"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04010007",
+    "https://www.wikidata.org/entity/Q133080"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علاقات عامة",
+    "de": "Öffentlichkeitsarbeit",
+    "dk": "PR",
+    "en-GB": "public relations",
+    "en-US": "public relations",
+    "es": "Relaciones públicas",
+    "fr": "Relations publiques",
+    "no": "PR-bransjen",
+    "pt-BR": "relações públicas",
+    "pt-PT": "relações públicas",
+    "se": "Pr",
+    "zh-Hans": "公共关系"
+  },
+  "qcode": "medtop:20000312",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000312",
+  "aid": "iptc_20000312"
+}

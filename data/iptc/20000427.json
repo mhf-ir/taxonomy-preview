@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000424"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Materialien, die für Mensch und Tier gefährlich sind, wenn diese mit ihnen in Kontakt kommen. Umfasst Radioaktivität, giftige Gase, Chemikalien, Schwermetalle, PCBs, und bestimmte pflanzliche Produkte.",
+    "dk": "Materialer, der er skadelige for mennesker og dyr, hvis de udsættes for dem. Omfatter stråling, giftgasser, kemikalier, tungmetaller, PCB og visse planteprodukter.",
+    "en-GB": "Materials that are harmful to humans or animals if they are exposed to them. Includes radiation, poison gases, chemicals, heavy metals, PCBs, and certain plant products",
+    "en-US": "Materials that are harmful to humans or animals if they are exposed to them. Includes radiation, poison gases, chemicals, heavy metals, PCBs, and certain plant products",
+    "pt-BR": "Materiais perigosos para o homem e para os animais quando expostos a eles. Inclui radiação, gases venenosos, químicos, metais pesados, PCB, certos produtos vegetais etc.",
+    "pt-PT": "Materiais perigosos para o homem e para os animais quando expostos a eles. Inclui radiação, gases venenosos, químicos, metais pesados, PCB e certos produtos vegetais.",
+    "se": "Avfall som bedömts utgöra ett särskilt starkt hot mot miljön och därför måste omhändertas med särskild försiktighet och under särskilda bestämmelser.",
+    "zh-Hans": "指人类或动物暴露其中会造成危害的物质，包括辐射、有毒气体、化学品、重金属、多氯联苯，和某些植物产品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06012000",
+    "https://www.wikidata.org/entity/Q757138"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مواد خطيرة",
+    "de": "Giftstoff",
+    "dk": "farligt affald",
+    "en-GB": "hazardous materials",
+    "en-US": "hazardous materials",
+    "es": "Materiales tóxicos",
+    "fr": "Matières dangereuses",
+    "no": "farlig gods",
+    "pt-BR": "materiais perigosos",
+    "pt-PT": "materiais perigosos",
+    "se": "Farligt avfall",
+    "zh-Hans": "有害物质"
+  },
+  "qcode": "medtop:20000427",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000427",
+  "aid": "iptc_20000427"
+}

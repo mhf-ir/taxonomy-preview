@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000121"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "System der Strafvergehen und Delikte",
+    "dk": "Den del af et lands love, der beskæftiger sig med kriminalitet.",
+    "en-GB": "The system of law concerned with the punishment of those who commit crimes",
+    "en-US": "The system of law concerned with the punishment of those who commit crimes",
+    "pt-BR": "Sistema do código criminal.",
+    "pt-PT": "Sistema do código criminal.",
+    "se": "Den del av ett lands lagar som handlar om brottslighet.",
+    "zh-Hans": "刑法体系"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02006001",
+    "https://www.wikidata.org/entity/Q146491"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "قانون جنائي",
+    "de": "Strafgesetzbuch",
+    "dk": "straffelov",
+    "en-GB": "criminal law",
+    "en-US": "criminal law",
+    "es": "Derecho penal",
+    "fr": "Droit pénal",
+    "no": "strafferett",
+    "pt-BR": "lei criminal",
+    "pt-PT": "lei criminal",
+    "se": "Brottsbalken",
+    "zh-Hans": "刑法"
+  },
+  "qcode": "medtop:20000125",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000125",
+  "aid": "iptc_20000125"
+}

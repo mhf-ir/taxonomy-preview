@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Statistisch relevantes Konsumverhalten.",
+    "dk": "Udviklingsretning styret af forbrugeradfærd.",
+    "en-GB": "Statistically significant consumer behaviour.",
+    "en-US": "Statistically significant consumer behavior.",
+    "pt-BR": "Comportamento estatisticamente significativo dos consumidores.",
+    "pt-PT": "Comportamento estatisticamente significativo dos consumidores.",
+    "se": "Utvecklingsriktning styrd av konsumentbeteende.",
+    "zh-Hans": "具有统计学意义的消费者行为"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006011",
+    "https://www.wikidata.org/entity/Q1004322"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اتجاهات السوق",
+    "de": "Marktentwicklung",
+    "dk": "markedsudvikling",
+    "en-GB": "market trend",
+    "en-US": "market trend",
+    "es": "Tendencias de mercado",
+    "fr": "Tendance du marché",
+    "no": "markedstrend",
+    "pt-BR": "indicadores de consumo",
+    "pt-PT": "indicadores de consumo",
+    "se": "Marknadstrender",
+    "zh-Hans": "市场趋势"
+  },
+  "qcode": "medtop:20000284",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000284",
+  "aid": "iptc_20000284"
+}

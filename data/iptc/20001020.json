@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001017"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rodeo Disziplin",
+    "dk": "Konkurrence, hvor rytteren rider på en tyr.",
+    "en-GB": "Rodeo discipline",
+    "en-US": "Rodeo discipline",
+    "pt-BR": "Disciplina de rodeio.",
+    "pt-PT": "Disciplina de rodeio.",
+    "se": "Tävling där ryttaren rider på en tjur.",
+    "zh-Hans": "一种牛仔竞技比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15074003",
+    "https://www.wikidata.org/entity/Q696267"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ركوب الثيران",
+    "de": "Bullenreiten",
+    "dk": "bull riding",
+    "en-GB": "bull riding",
+    "en-US": "bull riding",
+    "es": "Rodeo de toros",
+    "fr": "Bull riding (rodéo)",
+    "no": "okseridning",
+    "pt-BR": "bull riding",
+    "pt-PT": "bull riding",
+    "se": "Tjurridning",
+    "zh-Hans": "驯牛"
+  },
+  "qcode": "medtop:20001020",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001020",
+  "aid": "iptc_20001020"
+}

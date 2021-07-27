@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000129"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Festnahme bei Verdacht auf ein Verbrechen",
+    "dk": "Når en person, der mistænkes for en forbrydelse, bliver fanget eller forhindret i at flygte.",
+    "en-GB": "The detention of a suspect of a crime",
+    "en-US": "The detention of a suspect of a crime",
+    "pt-BR": "Detenção de um suspeito de um crime.",
+    "pt-PT": "Detenção de um suspeito de um crime.",
+    "se": "När en person som är misstänkt för något brott infångas eller hindras från att fly.",
+    "zh-Hans": "拘留犯罪嫌疑人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02003003",
+    "https://www.wikidata.org/entity/Q1403016"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "توقيف",
+    "de": "Untersuchungshaft",
+    "dk": "anholdelse",
+    "en-GB": "arrest",
+    "en-US": "arrest",
+    "es": "Arresto",
+    "fr": "Arrestation",
+    "no": "pågripelse",
+    "pt-BR": "detenção",
+    "pt-PT": "detenção",
+    "se": "Frihetsberövande",
+    "zh-Hans": "逮捕"
+  },
+  "qcode": "medtop:20000130",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000130",
+  "aid": "iptc_20000130"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000171"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Formale Aussagen über die Verwertung und den Inhalt von Quartals- oder Halbjahresbilanzen von Firmen",
+    "dk": "Regnskab fra en virksomhed. Offentliggøres kvartalsvis, halvårligt eller helårligt.",
+    "en-GB": "Formal statements about the company financials typically delivered annually or quarterly",
+    "en-US": "Formal statements about the company financials typically delivered annually or quarterly",
+    "pt-BR": "Relatórios formais sobre o estado financeiro da empresa, apresentados geralmente anual ou trimestralmente.",
+    "pt-PT": "Relatórios formais sobre o estado financeiro da empresa, apresentados geralmente anual ou trimestralmente.",
+    "se": "Sammanställning av en juridisk persons ekonomiska ställning gällande helår eller delar av året.",
+    "zh-Hans": "关于公司财务状况的正式声明，通常每年或每季度发布一次"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016038",
+    "https://www.wikidata.org/entity/Q192907"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000181"
+  ],
+  "prefLabel": {
+    "ar": "بيان مالي",
+    "de": "Finanzbericht",
+    "dk": "virksomhedsregnskab",
+    "en-GB": "financial statement",
+    "en-US": "financial statement",
+    "es": "Resultados empresariales",
+    "fr": "Communiqué de résultats",
+    "no": "finansregnskap",
+    "pt-BR": "demonstração financeira",
+    "pt-PT": "relatório financeiro",
+    "se": "Bokslut",
+    "zh-Hans": "财务报表"
+  },
+  "qcode": "medtop:20000180",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000180",
+  "aid": "iptc_20000180"
+}

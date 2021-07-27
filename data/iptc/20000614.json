@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die herrschende, regulierende Kraft eines Staates",
+    "dk": "Et lands styrende organ.",
+    "en-GB": "The ruling body of a nation",
+    "en-US": "The ruling body of a nation",
+    "pt-BR": "Corpo governativo de uma nação.",
+    "pt-PT": "Corpo governativo de uma nação.",
+    "se": "Högsta styrelsen för ett land.",
+    "zh-Hans": "一个国家的统治机构"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11006004",
+    "https://www.wikidata.org/entity/Q1320217"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حكومة مركزية",
+    "de": "Bundesregierung",
+    "dk": "national regering",
+    "en-GB": "national government",
+    "en-US": "national government",
+    "es": "Gobierno nacional",
+    "fr": "Gouvernement national",
+    "no": "nasjonal regjering",
+    "pt-BR": "governo nacional",
+    "pt-PT": "governo nacional",
+    "se": "Regeringen",
+    "zh-Hans": "中央政府"
+  },
+  "qcode": "medtop:20000614",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000614",
+  "aid": "iptc_20000614"
+}

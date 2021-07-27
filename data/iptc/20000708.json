@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000705"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Heiliges Buch des Judentums",
+    "dk": "Jødedommens hellige skrifter.",
+    "en-GB": "Holy scriptures of Judaism",
+    "en-US": "Holy scriptures of Judaism",
+    "pt-BR": "Escrituras sagradas do judaísmo.",
+    "pt-PT": "Escrituras sagradas do judaísmo.",
+    "se": "Judendomens heliga skrifter.",
+    "zh-Hans": "又译托辣、托拉，为犹太教的核心"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12023003",
+    "https://www.wikidata.org/entity/Q34990"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "توراة",
+    "de": "Thora",
+    "dk": "Tora",
+    "en-GB": "Torah",
+    "en-US": "Torah",
+    "es": "Tora",
+    "fr": "Torah",
+    "no": "Torah",
+    "pt-BR": "Torá",
+    "pt-PT": "Tora",
+    "se": "Toran",
+    "zh-Hans": "妥拉"
+  },
+  "qcode": "medtop:20000708",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000708",
+  "aid": "iptc_20000708"
+}

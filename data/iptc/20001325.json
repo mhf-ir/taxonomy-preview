@@ -1,0 +1,28 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/15000000"
+  ],
+  "created": "2021-05-05T12:00:00+00:00",
+  "definition": {
+    "en-GB": "Referees, umpires and other staff who enforce the rules of a sport from on the field of play",
+    "en-US": "Referees, umpires and other staff who enforce the rules of a sport from on the field of play"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q94271838"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "en-GB": "sports officiating",
+    "en-US": "sports officiating"
+  },
+  "qcode": "medtop:20001325",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001325",
+  "aid": "iptc_20001325"
+}

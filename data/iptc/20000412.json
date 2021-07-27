@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000411"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unterrichtseinheiten einer Bildungseinrichtung und deren Regularien",
+    "dk": "Omfattende instruktioner om skolens uddannelsesindhold, mål og metoder.",
+    "en-GB": "The courses offered by a learning institution and the regulation of those courses",
+    "en-US": "The courses offered by a learning institution and the regulation of those courses",
+    "pt-BR": "Conjunto dos cursos oferecidos por uma instituição de ensino e regulamentação desses cursos.",
+    "pt-PT": "Conjunto dos cursos oferecidos por uma instituição de ensino e regulamentação desses cursos.",
+    "se": "Övergripande anvisningar om skolundervisningens innehåll, mål och metoder.",
+    "zh-Hans": "学习机构提供的课程和这些课程的规定"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05010003",
+    "https://www.wikidata.org/entity/Q207137"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "برنامج تعليمي",
+    "de": "Lehrplan",
+    "dk": "pensum",
+    "en-GB": "curriculum",
+    "en-US": "curriculum",
+    "es": "Malla curricular",
+    "fr": "Programmes d'études",
+    "no": "læreplan",
+    "pt-BR": "currículo",
+    "pt-PT": "currículo",
+    "se": "Läroplan",
+    "zh-Hans": "课程"
+  },
+  "qcode": "medtop:20000412",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000412",
+  "aid": "iptc_20000412"
+}

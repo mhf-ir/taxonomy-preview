@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000735"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Land-, See- oder Weltraumreisen zur Entdeckung neuer Informationen",
+    "dk": "Land-, sø- eller rumrejser, der er foretaget for at finde nye oplysninger.",
+    "en-GB": "Land, sea or space journeys undertaken to discover new information",
+    "en-US": "Land, sea or space journeys undertaken to discover new information",
+    "es": "Viajes terrestres, marítimos o espaciales llevados a cabo para descubrir nueva información",
+    "fr": "Voyages terrestres, maritimes ou spatiaux entrepris pour découvrir de nouvelles informations",
+    "pt-BR": "Viagens em terra, no mar ou no espaço para descobrir novas informações.",
+    "pt-PT": "Viagens em terra, no mar ou no espaço para descobrir novas informações.",
+    "se": "Land-, havs- eller rymdfärder med syfte att samla in ny information.",
+    "zh-Hans": "为发现新信息而在陆地、海洋或太空中进行的探索活动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13007000",
+    "https://www.wikidata.org/entity/Q6502154"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000739"
+  ],
+  "prefLabel": {
+    "ar": "استكشاف علمي",
+    "de": "Wissenschaftliche Forschung",
+    "dk": "videnskabelig ekspedition",
+    "en-GB": "scientific exploration",
+    "en-US": "scientific exploration",
+    "es": "Exploración científica",
+    "fr": "Exploration scientifique",
+    "no": "vitenskapelig utforskning",
+    "pt-BR": "exploração científica",
+    "pt-PT": "exploração científica",
+    "se": "Vetenskaplig expedition",
+    "zh-Hans": "科学探索"
+  },
+  "qcode": "medtop:20000738",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000738",
+  "aid": "iptc_20000738"
+}

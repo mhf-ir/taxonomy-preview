@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000151"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Übermaß an Wasser, verursacht durch schwere Regenfälle oder Schneeschmelze, in der Regel an Orten, wo es nicht gewünscht ist",
+    "dk": "Overflod af vand forårsaget af kraftig regn eller smeltende sne, normalt på steder, hvor det ikke er ønsket.",
+    "en-GB": "Surfeit of water, caused by heavy rains or melting snow, usually in places where it's not wanted",
+    "en-US": "Surfeit of water, caused by heavy rains or melting snow, usually in places where it's not wanted",
+    "pt-BR": "Excesso de água, causado por chuvas intensas ou por neve derretida.",
+    "pt-PT": "Excesso de água, causado por chuvas intensas ou por neve derretida.",
+    "se": "När vattennivån stiger över marken intill vattendraget. Kan exempelsvis orsakas av snösmältning, kraftigt regn eller havsvågor.",
+    "zh-Hans": "暴雨或融雪造成的水过剩"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03005000",
+    "https://www.wikidata.org/entity/Q8068"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "فيضانات",
+    "de": "Hochwasser",
+    "dk": "oversvømmelse",
+    "en-GB": "flood",
+    "en-US": "flood",
+    "es": "Inundaciones",
+    "fr": "Inondation",
+    "no": "flom",
+    "pt-BR": "inundações",
+    "pt-PT": "inundações",
+    "se": "Översvämning",
+    "zh-Hans": "水灾"
+  },
+  "qcode": "medtop:20000154",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000154",
+  "aid": "iptc_20000154"
+}

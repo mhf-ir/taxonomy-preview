@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000780"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Vorbereitungen um einen Partner zu werben und für sich zu gewinnen",
+    "dk": "At kurtisere og vinde en partner.",
+    "en-GB": "The development of an intimate connection between individuals, through various forms of activities enjoyed together, often leading to a legal or permanent union such as marriage",
+    "en-US": "The development of an intimate connection between individuals, through various forms of activities enjoyed together, often leading to a legal or permanent union such as marriage",
+    "pt-BR": "Procedimento para cortejar e conquistar um parceiro.",
+    "pt-PT": "Procedimento para cortejar e conquistar um parceiro.",
+    "se": "Försök att vinna en partner.",
+    "zh-Hans": "请求对方与自己结婚的行为或过程"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14006006",
+    "https://www.wikidata.org/entity/Q376596"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "غزل",
+    "de": "Partnerwahl",
+    "dk": "frieri",
+    "en-GB": "Dating and Relationships",
+    "en-US": "Dating and Relationships",
+    "es": "Noviazgo",
+    "fr": "Relation amoureuse",
+    "no": "dating",
+    "pt-BR": "namoro",
+    "pt-PT": "namoro",
+    "se": "Uppvaktning",
+    "zh-Hans": "求婚"
+  },
+  "qcode": "medtop:20000782",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000782",
+  "aid": "iptc_20000782"
+}

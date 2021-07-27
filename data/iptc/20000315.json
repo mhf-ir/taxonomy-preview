@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000304"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Fernsehgeschäft",
+    "dk": "Kommercielle virksomheder, der producerer, distribuerer og sender tv.",
+    "en-GB": "The business of television",
+    "en-US": "The business of television",
+    "pt-BR": "Histórias relativas ao negócio da televisão.",
+    "pt-PT": "Histórias relativas ao negócio da televisão.",
+    "se": "Den kommersiella verksamhet som producerar, distribuerar och sänder tv.",
+    "zh-Hans": "电视业务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04010010",
+    "https://www.wikidata.org/entity/Q209588"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صناعة التلفزيون",
+    "de": "Fernsehproduktion",
+    "dk": "tv-branche",
+    "en-GB": "television industry",
+    "en-US": "television industry",
+    "es": "Industria de la televisión",
+    "fr": "Télévision",
+    "no": "tv-bransjen",
+    "pt-BR": "televisão",
+    "pt-PT": "televisão",
+    "se": "Tv-industrin",
+    "zh-Hans": "电视业"
+  },
+  "qcode": "medtop:20000315",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000315",
+  "aid": "iptc_20000315"
+}

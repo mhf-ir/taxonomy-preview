@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/16000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der Massenmord an einer Gruppe von Menschen, meist Zivilisten, während einer kriegerischen Auseinandersetzung.",
+    "dk": "Massedrab på mennesker, ofte civile, under krig eller konflikt",
+    "en-GB": "The mass killing of people, usually civilians, during wartime hostilities",
+    "en-US": "The mass killing of people, usually civilians, during wartime hostilities",
+    "es": "Masacre de personas, generalmente civiles, durante las hostilidades de una guerra",
+    "fr": "Massacre de personnes, généralement des civils, pendant les hostilités en temps de guerre",
+    "pt-BR": "Morte de um grande grupo de pessoas em um curto período de tempo.",
+    "pt-PT": "Morte de um grande grupo de pessoas num curto período de tempo.",
+    "se": "Samtidigt dödande av många människor, ofta civila, under krigstid.",
+    "zh-Hans": "战争期间对人民，通常是平民的大规模杀戮"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16006000",
+    "https://www.wikidata.org/entity/Q3199915"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000072"
+  ],
+  "prefLabel": {
+    "ar": "مجزرة",
+    "de": "Massaker",
+    "dk": "massakre",
+    "en-GB": "massacre",
+    "en-US": "massacre",
+    "es": "Matanza",
+    "fr": "Massacre",
+    "no": "massakre",
+    "pt-BR": "massacre",
+    "pt-PT": "massacre",
+    "se": "Massaker",
+    "zh-Hans": "大屠杀"
+  },
+  "qcode": "medtop:20000071",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000071",
+  "aid": "iptc_20000071"
+}

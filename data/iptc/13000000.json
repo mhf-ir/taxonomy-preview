@@ -1,0 +1,54 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alle Aspekte des menschlichen Verständnisses sowie der methodischen Erforschung der Natur-, Form- und Sozialwissenschaften, wie Astronomie, Linguistik oder Ökonomie",
+    "dk": "Alle aspekter, der vedrører menneskelig forståelse af, såvel som metodologisk undersøgelse og forskning i natur-, formel- og samfundsvidenskab, såsom astronomi, sprogvidenskab eller økonomi.",
+    "en-GB": "All aspects pertaining to human understanding of, as well as methodical study and research of natural, formal and social sciences, such as astronomy, linguistics or economics",
+    "en-US": "All aspects pertaining to human understanding of, as well as methodical study and research of natural, formal and social sciences, such as astronomy, linguistics or economics",
+    "es": "Todos los campos relacionados con la comprensión humana, así como el estudio metódico y la investigación de las ciencias naturales, formales y sociales, como la astronomía, la lingüística o la economía",
+    "fr": "Tous les domaines relatifs à la compréhension humaine, ainsi qu'à l'étude méthodique et à la recherche des sciences naturelles, formelles et sociales, telles que l'astronomie, la linguistique ou l'économie",
+    "pt-BR": "Todos os aspetos relacionados com a interpretação humana da natureza e do mundo físico e com o desenvolvimento e aplicação desse conhecimento.",
+    "pt-PT": "Todos os aspetos relacionados com a interpretação humana da natureza e do mundo físico e com o desenvolvimento e aplicação desse conhecimento.",
+    "se": "Allt som rör den mänskliga förståelsen av naturen och den fysiska världen, utveckling och användning av denna kunskap. Vetenskaplig praktik, ingenjörskonst, human- och naturvetenskap, filosofi, research, vetenskapliga undersökningar, rymdfart.",
+    "zh-Hans": "与人类对自然科学、形式科学和社会科学(如天文学、语言学或经济学)的理解、系统研究有关的所有方面"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13000000",
+    "https://www.wikidata.org/entity/Q34104"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000710",
+    "medtop:20000715",
+    "medtop:20000717",
+    "medtop:20000735",
+    "medtop:20000741",
+    "medtop:20000742",
+    "medtop:20000755",
+    "medtop:20000756"
+  ],
+  "prefLabel": {
+    "ar": "علوم وتكنولوجيا",
+    "de": "Wissenschaft, Technik, Forschung",
+    "dk": "videnskab og teknologi",
+    "en-GB": "science and technology",
+    "en-US": "science and technology",
+    "es": "Ciencia y tecnología",
+    "fr": "Science et technologie",
+    "no": "vitenskap og teknologi",
+    "pt-BR": "ciência e tecnologia",
+    "pt-PT": "ciência e tecnologia",
+    "se": "Teknik och vetenskap",
+    "zh-Hans": "科学技术"
+  },
+  "qcode": "medtop:13000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/13000000",
+  "aid": "iptc_13000000"
+}

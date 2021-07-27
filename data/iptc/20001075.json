@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001071"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15062000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer schwimmen egal in welchem Stil, wobei meist das Kraulschwimmen bevorzugt wird",
+    "dk": "Enhver svømmedisciplin kan anvendes i den frie stil, selvom crawl er universelt anvendt.",
+    "en-GB": "Any swimming style may be employed, though front crawl is universally employed",
+    "en-US": "Any swimming style may be employed, though front crawl is universally employed",
+    "pt-BR": "Prova em que o nadador pode escolher qualquer estilo, embora o crawl seja o estilo mais usado.",
+    "pt-PT": "Prova em que o nadador pode escolher qualquer estilo, embora o crawl seja o estilo mais usado.",
+    "zh-Hans": "任何泳姿都可自由的应用，尽管多数人选择前冲式"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q31987"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حرة",
+    "de": "Freistil",
+    "dk": "freestyle (fri stil)",
+    "en-GB": "freestyle swimming",
+    "en-US": "freestyle swimming",
+    "es": "Libre (natación)",
+    "fr": "Nage libre",
+    "no": "frisvømming",
+    "pt-BR": "livre",
+    "pt-PT": "livres",
+    "se": "Frisim",
+    "zh-Hans": "自由泳"
+  },
+  "qcode": "medtop:20001075",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001075",
+  "aid": "iptc_20001075"
+}

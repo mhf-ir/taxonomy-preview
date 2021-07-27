@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000621"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Politik der Regierung in Bezug auf die Nutzung von nuklearer Energie- oder Waffenproduktion",
+    "dk": "Politikker, der vedrører kernekraft som energikilde eller som del af et våbenarsenal.",
+    "en-GB": "Government policies as regards to use of nuclear fuels for power production or weapons",
+    "en-US": "Government policies as regards to use of nuclear fuels for power production or weapons",
+    "pt-BR": "Políticas governamentais relativas ao uso de energia nuclear para a produção de energia ou de armas.",
+    "pt-PT": "Políticas governamentais relativas ao uso de energia nuclear para a produção de energia ou de armas.",
+    "se": "Politik som styr användandet av kärnkraft som energikälla eller som del av en vapenarsenal.",
+    "zh-Hans": "政府关于将核燃料用于发电或武器的政策"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11020000",
+    "https://www.wikidata.org/entity/Q757637"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سياسة نووية",
+    "de": "Atompolitik",
+    "dk": "atompolitik",
+    "en-GB": "nuclear policy",
+    "en-US": "nuclear policy",
+    "es": "Políticas nucleares",
+    "fr": "Politique Nucléaire",
+    "no": "atompolitikk",
+    "pt-BR": "política nuclear",
+    "pt-PT": "política nuclear",
+    "se": "Kärnkraftspolitik",
+    "zh-Hans": "核政策"
+  },
+  "qcode": "medtop:20000635",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000635",
+  "aid": "iptc_20000635"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15004000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000824"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schießen mit einem Langbogen auf Zielscheiben aus unterschiedlicher Distanz. Der Wettkampf findet draußen auf einem großen flachen Feld statt.",
+    "dk": "Skyd med langbue på mål fra forskellige afstande. Konkurrencen afholdes udendørs på et åbent (fladt) felt.",
+    "en-GB": "Shooting with longbow on targets from different distances. The competition is held outdoors on an open (flat) field.",
+    "en-US": "Shooting with longbow on targets from different distances. The competition is held outdoors on an open (flat) field.",
+    "pt-BR": "Tiro com arco longo contra alvos colocados a várias distâncias. A competição decorre no exterior, em um campo grande e plano.",
+    "pt-PT": "Tiro com arco longo contra alvos colocados a várias distâncias. A competição decorre no exterior, num campo grande e plano.",
+    "se": "Bågskytte, men utan de hjälpmedel som finns moderna pilbågar. En långbåge ska mer påminna om gamla tiders pilbågar.",
+    "zh-Hans": "用长弓射击不同距离的目标。比赛在室外露天区域进行"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q6673620"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "قوس",
+    "de": "Langbogen",
+    "dk": "langbue",
+    "en-GB": "longbow",
+    "en-US": "longbow",
+    "es": "Arco largo inglés",
+    "fr": "Arc long",
+    "no": "langbueskyting",
+    "pt-BR": "tiro com arco longo",
+    "pt-PT": "tiro com arco longo",
+    "se": "Långbågeskytte",
+    "zh-Hans": "长弓射箭"
+  },
+  "qcode": "medtop:20000826",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000826",
+  "aid": "iptc_20000826"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000485"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Medizinische Unterstützung/Hilfsmittel für Ärzte, wie Bluttests oder andere Tests an Einzelnen, Röntgen, CT, MRT etc.",
+    "dk": "Medicinsk støtte til læger, herunder blodprøver og andre medicinske tests på individer, røntgenstråler CAT-scanninger MR-scanninger osv.",
+    "en-GB": "Medical support for doctors, including blood tests and other medical tests on individuals, X-rays CAT scans MRIs etc.",
+    "en-US": "Medical support for doctors, including blood tests and other medical tests on individuals, X-rays CAT scans MRIs etc.",
+    "pt-BR": "Serviços de apoio a médicos, incluindo exames de sangue e outros testes individuais, raios X, tomografias computadorizadas, ressonâncias magnéticas etc.",
+    "pt-PT": "Serviços de apoio a médicos, incluindo análises ao sangue e outros testes individuais, raios X, tomografias axiais computadorizadas, ressonâncias magnéticas, etc.",
+    "se": "Stöd för doktorer, såsom blodprover och andra prover, röntgenbilder och så vidare.",
+    "zh-Hans": "对医生的医疗支持，包括血液检查、x射线、CAT扫描核磁共振成像等."
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07015000",
+    "https://www.wikidata.org/entity/Q55698119"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خدمات طبية",
+    "de": "Medizinischer Service",
+    "dk": "medicinske støttefunktioner",
+    "en-GB": "medical service",
+    "en-US": "medical service",
+    "es": "Servicios médicos",
+    "fr": "Examens médicaux",
+    "no": "helsetjeneste",
+    "pt-BR": "serviços médicos",
+    "pt-PT": "serviços médicos",
+    "se": "Medicinska hjälpmedel",
+    "zh-Hans": "医疗服务"
+  },
+  "qcode": "medtop:20000486",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000486",
+  "aid": "iptc_20000486"
+}

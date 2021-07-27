@@ -1,0 +1,41 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000235"
+  ],
+  "created": "2019-07-25T12:00:00+00:00",
+  "definition": {
+    "de": "Der Bau von Gebäuden für Handel und Gewerbe, einschließlich Bürogebäuden, Einzelhandelsgeschäften, Restaurants, Hotels und Stadien",
+    "dk": "Bygninger, der er beregnet til erhvervsbrug. Det kan være kontorbyggeri, butikker, restauranter og hoteller.",
+    "en-GB": "The construction of buildings for commerce and business, including office buildings, retail shops, restaurants, hotels and stadiums",
+    "en-US": "The construction of buildings for commerce and business, including office buildings, retail shops, restaurants, hotels and stadiums",
+    "pt-BR": "Construção de edifícios para comércio e negócios, como prédios de escritórios, lojas, restaurantes, hotéis e estádios.",
+    "pt-PT": "Construção de edifícios para comércio e negócios, como prédios de escritórios, lojas, restaurantes, hotéis e estádios.",
+    "se": "Planering, bygge och underhåll av byggnader som främst används för kommersiell verksamhet.",
+    "zh-Hans": "商业建筑的建设，包括办公楼、零售店、餐馆、酒店和体育场馆"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-25T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مبنى تجاري",
+    "de": "Geschäftsgebäude",
+    "dk": "erhvervsbyggeri",
+    "en-GB": "commercial building",
+    "en-US": "commercial building",
+    "es": "Construcción de edificios comerciales",
+    "fr": "Construction de bâtiments destinés au commerce",
+    "no": "bygging av forretningslokaler",
+    "pt-BR": "construção comercial",
+    "pt-PT": "construção comercial",
+    "se": "Företagsbyggnader",
+    "zh-Hans": "商业建筑"
+  },
+  "qcode": "medtop:20001246",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001246",
+  "aid": "iptc_20001246"
+}

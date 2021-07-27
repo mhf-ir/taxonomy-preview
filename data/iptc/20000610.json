@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Symbolischer oder aktiver Repräsentant eines Landes, wie z.B. König, Präsident oder Emir.",
+    "dk": "Øverste leder eller repræsentant for en stat f.eks. konge, dronning eller præsident.",
+    "en-GB": "Symbolic or actual chief representative of a nation, such as royalty, or president or emir, for example",
+    "en-US": "Symbolic or actual chief representative of a nation, such as royalty, or president or emir, for example",
+    "pt-BR": "Representante supremo de uma nação, simbólico ou não, como a realeza, um presidente ou um emir, por exemplo.",
+    "pt-PT": "Representante supremo de uma nação, simbólico ou não, como a realeza, um presidente ou um emir, por exemplo.",
+    "se": "Högste företrädaren för en stat, oftast kallad president i en republik, kung eller drottning i en monarki.",
+    "zh-Hans": "国家的象征或实际的领袖。例如王室成员、总统、 国家主席、埃米尔"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11006006",
+    "https://www.wikidata.org/entity/Q48352"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رئيس حكومة",
+    "de": "Staatsoberhaupt/Bundespräsident",
+    "dk": "statsoverhoved",
+    "en-GB": "heads of state",
+    "en-US": "heads of state",
+    "es": "Jefes de Estado",
+    "fr": "Chef de l'Etat",
+    "no": "statsoverhode",
+    "pt-BR": "chefes de estado",
+    "pt-PT": "chefes de estado",
+    "se": "Statsöverhuvud",
+    "zh-Hans": "国家元首"
+  },
+  "qcode": "medtop:20000610",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000610",
+  "aid": "iptc_20000610"
+}

@@ -1,0 +1,57 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000170"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Finanzen eines Unternehmens",
+    "dk": "Virksomhedens økonomiske situation.",
+    "en-GB": "A business entity's finances",
+    "en-US": "A business entity's finances",
+    "pt-BR": "As finanças de uma entidade empresarial.",
+    "pt-PT": "As finanças de uma entidade empresarial.",
+    "se": "Ett företags ekonomiska situation.",
+    "zh-Hans": "企业实体的财务状况"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000172",
+    "medtop:20000173",
+    "medtop:20000174",
+    "medtop:20000176",
+    "medtop:20000177",
+    "medtop:20000178",
+    "medtop:20000179",
+    "medtop:20000180",
+    "medtop:20000182",
+    "medtop:20000183",
+    "medtop:20000185"
+  ],
+  "prefLabel": {
+    "ar": "تمويل اعمال تجارية",
+    "de": "Unternehmenszahlen",
+    "dk": "virksomhedsfinansiering",
+    "en-GB": "business finance",
+    "en-US": "business finance",
+    "es": "Finanzas empresariales",
+    "fr": "Vie des entreprises",
+    "no": "selskapsøkonomi",
+    "pt-BR": "finanças empresariais",
+    "pt-PT": "finanças empresariais",
+    "se": "Företagsekonomi",
+    "zh-Hans": "企业财务"
+  },
+  "qcode": "medtop:20000171",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000171",
+  "aid": "iptc_20000171"
+}

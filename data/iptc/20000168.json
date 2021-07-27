@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03012000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/03000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Organisationen, die jenen Hilfe anbieten, die Mangel an Nahrungsmitteln, Wasser oder Unterkunft haben",
+    "dk": "Organisationer, der sigter mod at hjælpe mennesker uden mad, vand og ly i pludselige nødsituationer.",
+    "en-GB": "The planning and efforts made by people and organizations to help victims of a sudden, unplanned event, natural disaster or crisis",
+    "en-US": "The planning and efforts made by people and organizations to help victims of a sudden, unplanned event, natural disaster or crisis",
+    "pt-BR": "Organizações criadas para fornecer ajuda a quem tem falta de comida, água ou abrigo.",
+    "pt-PT": "Organizações criadas para fornecer ajuda a quem tem falta de comida, água ou abrigo.",
+    "se": "Organisationer som har som syfte att hjälpa personer utan hem, mat och vatten vid plötsligt uppkomna krissituationer.",
+    "zh-Hans": "为那些因缺乏食物、水或住所的人们提供帮助而设立的组织机构。为帮助突发、意外事件、自然灾害或危机的受害者而进行的计划和努力"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q55692637"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "استجابة لحالة طوارىء",
+    "de": "Hilfsorganisation",
+    "dk": "beredskabsindsats",
+    "en-GB": "emergency response",
+    "en-US": "emergency response",
+    "es": "Socorro de emergencia",
+    "fr": "Secours d'urgence",
+    "no": "nødhjelp",
+    "pt-BR": "resposta de emergência",
+    "pt-PT": "resposta de emergência",
+    "se": "Katastrofhjälp",
+    "zh-Hans": "应急响应"
+  },
+  "qcode": "medtop:20000168",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000168",
+  "aid": "iptc_20000168"
+}

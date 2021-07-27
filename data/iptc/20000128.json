@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000126"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Aktivitäten von internationalen Tribunalen wie der Europäische Gerichtshof für Menschenrechte, Internationaler Gerichtshof in Den Haag etc.",
+    "dk": "En international domstol, der dømmer i tilfælde af krænkelse af folkeretten.",
+    "en-GB": "The activities of courts under the authority of international organizations or formed by treaties between nations, such as the European Court for Human Rights and International Court of Justice",
+    "en-US": "The activities of courts under the authority of international organizations or formed by treaties between nations, such as the European Court for Human Rights and International Court of Justice",
+    "pt-BR": "Atividades de tribunais internacionais como o Tribunal Europeu dos Direitos do Homem, o Tribunal de Haia, o Tribunal Internacional de Justiça etc.",
+    "pt-PT": "Atividades de tribunais internacionais como o Tribunal Europeu dos Direitos do Homem, o Tribunal de Haia, o Tribunal Internacional de Justiça, etc.",
+    "se": "En domstol som dömer i fall som gäller brott mot internationell lag.",
+    "zh-Hans": "欧洲人权法院、海牙法庭、国际法院等国际机构的活动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02011001",
+    "https://www.wikidata.org/entity/Q1262438"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "محكمة دولية",
+    "de": "Internationales Strafgericht",
+    "dk": "international domstol",
+    "en-GB": "international court or tribunal",
+    "en-US": "international court or tribunal",
+    "es": "Corte o tribunal internacional",
+    "fr": "Cour ou tribunal international",
+    "no": "internasjonal domstol",
+    "pt-BR": "tribunal internacional",
+    "pt-PT": "tribunal internacional",
+    "se": "Internationell domstol",
+    "zh-Hans": "国际法院、法庭"
+  },
+  "qcode": "medtop:20000128",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000128",
+  "aid": "iptc_20000128"
+}

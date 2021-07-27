@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000188"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Geplante oder aktuell durchgeführte Minimierung von Arbeitskräften",
+    "dk": "Planlagt eller faktisk reduktion af personale.",
+    "en-GB": "Planned or actual reductions in the labour force.",
+    "en-US": "Planned or actual reductions in the labor force.",
+    "pt-BR": "Reduções reais ou previstas da força de trabalho de uma empresa.",
+    "pt-PT": "Reduções reais ou previstas da força de trabalho de uma empresa.",
+    "se": "Planerade eller faktiska minskningar av personalstyrkan.",
+    "zh-Hans": "计划或实际裁减劳动力"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016025",
+    "https://www.wikidata.org/entity/Q13634065"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تسريح وخفض نفقات",
+    "de": "Entlassung und Rationalisierung",
+    "dk": "nedskæringer",
+    "en-GB": "layoffs and downsizing",
+    "en-US": "layoffs and downsizing",
+    "es": "Despidos y reestructuraciones",
+    "fr": "Restructurations et suppressions d'emplois",
+    "no": "permittering og nedbemanning",
+    "pt-BR": "redução de efetivos",
+    "pt-PT": "redução de efetivos",
+    "se": "Nedskärningar",
+    "zh-Hans": "裁员和缩编"
+  },
+  "qcode": "medtop:20000189",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000189",
+  "aid": "iptc_20000189"
+}

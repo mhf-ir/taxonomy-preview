@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000400"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schule für die Altersgruppe der 11 bis 15-jährigen.",
+    "dk": "Grundskolens sidste treårige trin bestående af klasse 7-9.",
+    "en-GB": "Transitional school between elementary and high school, 12 through 13 years of age",
+    "en-US": "Transitional school between elementary and high school, 12 through 13 years of age",
+    "pt-BR": "Escola de transição, anterior à escola de ensino médio, entre 10 e 15 anos.",
+    "pt-PT": "Escola de transição, entre as escolas de 1.º ciclo e as escolas secundárias, entre 10 e 15 anos.",
+    "se": "Grundskolans avslutande treåriga stadium omfattande årskurserna 7-9.",
+    "zh-Hans": "从小学到高中的过渡学校，入学年龄12岁至13岁"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05005002",
+    "https://www.wikidata.org/entity/Q149566"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مدارس متوسطة",
+    "de": "Haupt-und Realschule",
+    "dk": "mellemskole",
+    "en-GB": "middle schools",
+    "en-US": "middle schools",
+    "es": "Colegio de secundaria",
+    "fr": "Collège",
+    "no": "middelskole",
+    "pt-BR": "escolas de ensino fundamental, 6ª à 9ª série",
+    "pt-PT": "escolas de 2.º ciclo e 3.º ciclo",
+    "se": "Högstadium",
+    "zh-Hans": "初级中学"
+  },
+  "qcode": "medtop:20000408",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000408",
+  "aid": "iptc_20000408"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die angreifende Seite punktet durch Berührung, die andere Seite durch Sicherung. Die wiederholten Angriffe nennt man 'kabaddi'.",
+    "dk": "To hold stiller sig op over for hinanden, hvorefter en spiller fra det ene hold skal løbe frem og berøre eller tackle en modstander. Den berørte modstander har nu 30 sekunder til at stoppe den første spiller, før han når tilbage bag en linje på egen banehalvdel.",
+    "en-GB": "The attacking side scores by touching, and the side to guard scores by capturing. The attacker continues calling it 'kabaddi'.",
+    "en-US": "The attacking side scores by touching, and the side to guard scores by capturing. The attacker continues calling it 'kabaddi'.",
+    "pt-BR": "Esporte de origem índia em que as duas equipes se perseguem, tocando ou capturando os jogadores adversários.",
+    "pt-PT": "Desporto de origem indiana em que as duas equipas se perseguem, tocando ou capturando os jogadores adversários.",
+    "se": "Lagsport med rötter i Indien. Det försvarande laget samarbetar medan bara en ur det anfallande laget får anfalla i taget. Anfallaren försöker röra så många försvarare som möjligt och försvararna försöker hindra anfallaren att återvända till sin planhalva.",
+    "zh-Hans": "进攻方靠触碰对手得分，防守方靠抓到对手得分。进攻方不停喊“卡巴迪”"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15097000",
+    "https://www.wikidata.org/entity/Q148636"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كابادي",
+    "de": "Kabaddi",
+    "dk": "kabaddi",
+    "en-GB": "kabaddi",
+    "en-US": "kabaddi",
+    "es": "Kabaddi",
+    "fr": "Kabaddi",
+    "no": "kabaddi",
+    "pt-BR": "kabaddi",
+    "pt-PT": "kabaddi",
+    "se": "Kabaddi",
+    "zh-Hans": "卡巴迪"
+  },
+  "qcode": "medtop:20000978",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000978",
+  "aid": "iptc_20000978"
+}

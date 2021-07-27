@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Eine offizielle Überprüfung von Ereignissen oder Handlungen, die von einer Regierungsstelle, einschließlich königlicher Kommissionen, angeordnet wurde",
+    "dk": "En officiel undersøgelse af en begivenhed eller sag, som er iværksat af en statslig myndighed.",
+    "en-GB": "An official review of events or actions ordered by a government body, including royal commissions",
+    "en-US": "An official review of events or actions ordered by a government body, including royal commissions",
+    "pt-BR": "Investigação oficial de eventos ou de ações, ordenada por um órgão governamental, incluindo comissões reais.",
+    "pt-PT": "Investigação oficial de eventos ou de ações, ordenada por um órgão governamental, incluindo comissões reais.",
+    "se": "Utredning av händelser och aktioner utförda av styrande myndigheter.",
+    "zh-Hans": "由政府下令发起的对事件、行动的正式审查，包括皇家委员会"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q20669447"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تحقيق عام",
+    "de": "öffentliche Untersuchung",
+    "dk": "kommission",
+    "en-GB": "public inquiry",
+    "en-US": "public inquiry",
+    "es": "Consulta pública",
+    "fr": "Enquête publique",
+    "no": "offentlig utredning",
+    "pt-BR": "inquérito público",
+    "pt-PT": "inquérito público",
+    "se": "Offentlig utredning",
+    "zh-Hans": "公开调查"
+  },
+  "qcode": "medtop:20001262",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001262",
+  "aid": "iptc_20001262"
+}

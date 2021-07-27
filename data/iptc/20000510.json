@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000509"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Menschen, die sich lernend im Arbeitsprozess befinden und von einem Ausbilder betreut werden",
+    "dk": "Enhver, der undervises i et erhverv, normalt et håndværk, ved at arbejde med nogen, der tidligere er blevet uddannet.",
+    "en-GB": "A period of work used to learn a skill or trade",
+    "en-US": "A period of work used to learn a skill or trade",
+    "pt-BR": "Pessoas que fazem parte de uma força de trabalho em nível inicial, aprendendo a profissão sob a direção de alguém.",
+    "pt-PT": "Pessoas que fazem parte de uma força de trabalho num nível inicial, aprendendo a profissão sob a direção de alguém.",
+    "se": "Den som lär ett yrke, oftast ett hantverksyrke, genom att arbeta tillsammans med någon tidigare yrkesutbildad.",
+    "zh-Hans": "在劳动力中处于学习阶段，在师傅手下工作的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09001000",
+    "https://www.wikidata.org/entity/Q253567"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مبتدئون/متدربون",
+    "de": "Ausbildung",
+    "dk": "lærling",
+    "en-GB": "apprenticeship",
+    "en-US": "apprenticeship",
+    "es": "Aprendices",
+    "fr": "Apprentissage",
+    "no": "lærling",
+    "pt-BR": "estagiários e aprendizes",
+    "pt-PT": "estagiários e aprendizes",
+    "se": "Lärlingar",
+    "zh-Hans": "学徒"
+  },
+  "qcode": "medtop:20000510",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000510",
+  "aid": "iptc_20000510"
+}

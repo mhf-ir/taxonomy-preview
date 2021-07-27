@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000574"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Vorwahlen auf lokaler oder regionaler Ebene, die zu einer regionalen oder nationalen Wahl führen",
+    "dk": "Forberedelse af lokale og regionale valg, især i USA, inden for et parti for at give vejledning til at nominere kandidater på regionalt eller nationalt niveau.",
+    "en-GB": "Preliminary elections on a local or regional basis leading up to a regional or national election",
+    "en-US": "Preliminary elections on a local or regional basis leading up to a regional or national election",
+    "pt-BR": "Eleições primárias locais ou regionais que conduzem a eleições regionais ou nacionais.",
+    "pt-PT": "Eleições primárias locais ou regionais que conduzem a eleições regionais ou nacionais.",
+    "se": "Förberedande lokala och regionala val, särskilt i USA, inom ett parti för att ge vägledning inför nominering av kandidater på regional eller nationell nivå.",
+    "zh-Hans": "地方或区域一级的初步选举，直至区域或全国选举"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11003010",
+    "https://www.wikidata.org/entity/Q669262"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "انتخابات تمهيدية",
+    "de": "Vorwahl",
+    "dk": "primærvalg",
+    "en-GB": "primary elections",
+    "en-US": "primary elections",
+    "es": "Primarias",
+    "fr": "Élections primaires",
+    "no": "primærvalg i USA",
+    "pt-BR": "eleições primárias",
+    "pt-PT": "eleições primárias",
+    "se": "Primärval",
+    "zh-Hans": "初选"
+  },
+  "qcode": "medtop:20000583",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000583",
+  "aid": "iptc_20000583"
+}

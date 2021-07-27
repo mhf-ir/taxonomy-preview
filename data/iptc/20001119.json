@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001108"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkampf, an dem die besten Wettkämpfer oder Teams einer Region teilnehmen. Cup genannt",
+    "dk": "Pokal, hvor atleter eller hold fra en bestemt del af landet kan deltage.",
+    "en-GB": "A competition where individuals or teams from a region of a country may participate. Called a *Cup*",
+    "en-US": "A competition where individuals or teams from a region of a country may participate. Called a *Cup*",
+    "pt-BR": "Competição em que podem participar indivíduos ou equipes de uma região. Designa-se por *Copa*.",
+    "pt-PT": "Competição em que podem participar indivíduos ou equipas de uma região. Designa-se por *Taça*.",
+    "se": "Cup där atleter eller lag från en viss del av landet kan delta.",
+    "zh-Hans": "国内某个地区的个人或团体参加的该地区的杯赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15073024"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كأس اقليمية",
+    "de": "Regionaler Cup",
+    "dk": "regional pokal",
+    "en-GB": "regional cup",
+    "en-US": "regional cup",
+    "es": "Copa regional",
+    "fr": "Coupe régionale",
+    "no": "distriktscup",
+    "pt-BR": "copa regional",
+    "pt-PT": "taça regional",
+    "se": "Distriktscup",
+    "zh-Hans": "国内地区杯赛"
+  },
+  "qcode": "medtop:20001119",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001119",
+  "aid": "iptc_20001119"
+}

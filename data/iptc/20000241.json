@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000235"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kaufen und Verkaufen von baulichem Eigentum aller Art",
+    "dk": "Køb, salg og udlejning af ejendomme.",
+    "en-GB": "The buying, selling, renting and leasing of properties of all types",
+    "en-US": "The buying, selling, renting and leasing of properties of all types",
+    "pt-BR": "Compra, venda e arrendamento de todo tipo de propriedades.",
+    "pt-PT": "Compra, venda e arrendamento de todo o tipo de propriedades.",
+    "se": "Köp, försäljning och uthyrning av egendom av alla dess slag.",
+    "zh-Hans": "买卖、租赁各类不动产业务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04004003",
+    "https://www.wikidata.org/entity/Q10494269"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عقارات",
+    "de": "Immobilien",
+    "dk": "fast ejendom",
+    "en-GB": "real estate",
+    "en-US": "real estate",
+    "es": "Bienes raíces",
+    "fr": "Immobilier",
+    "no": "eiendom",
+    "pt-BR": "imobiliário",
+    "pt-PT": "imobiliário",
+    "se": "Fastigheter",
+    "zh-Hans": "房地产"
+  },
+  "qcode": "medtop:20000241",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000241",
+  "aid": "iptc_20000241"
+}

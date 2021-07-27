@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000304"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Geschäft mit der Verbreitung von Nachrichten und Informationen über Computernetzwerke für den öffentlichen Gebrauch",
+    "dk": "Kommercielle virksomheder, der distribuerer nyheder og information gennem computernetværk til almindeligt forbrug.",
+    "en-GB": "The business of distributing news and information through computer networks for public consumption",
+    "en-US": "The business of distributing news and information through computer networks for public consumption",
+    "pt-BR": "Negócio de distribuição de notícias e informação através de redes de computadores, para consumo público.",
+    "pt-PT": "Negócio de distribuição de notícias e informação através de redes de computadores, para consumo público.",
+    "se": "Den kommersiella verksamhet som distribuerar nyheter och information genom datornätverk för allmän konsumtion.",
+    "zh-Hans": "通过计算机网络向公众传播新闻和信息的业务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04010006",
+    "https://www.wikidata.org/entity/Q1076968"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "انترنت",
+    "de": "Online Medien",
+    "dk": "online-mediebranche",
+    "en-GB": "online media industry",
+    "en-US": "online media industry",
+    "es": "Noticias en línea",
+    "fr": "Presse en ligne",
+    "no": "audiovisuelle medier",
+    "pt-BR": "mídia online",
+    "pt-PT": "média online",
+    "se": "Internetbaserade medier",
+    "zh-Hans": "网络媒体产业"
+  },
+  "qcode": "medtop:20000311",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000311",
+  "aid": "iptc_20000311"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000029"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Ein Comic-Stil, bei dem ein Komiker eine Reihe von Witzen oder Geschichten vor einem Live-Publikum vorträgt, wobei er sich in der Regel direkt an das Publikum wendet.",
+    "dk": "En stil, hvor en komiker udfører en række vittigheder eller historier foran et levende publikum og ofte taler direkte til dem.",
+    "en-GB": "A comic style in which a comedian performs a series of jokes or stories in front of a live audience, usually speaking directly to them",
+    "en-US": "A comic style in which a comedian performs a series of jokes or stories in front of a live audience, usually speaking directly to them",
+    "pt-BR": "Estilo de comédia em que um comediante, habitualmente de pé, conta uma série de piadas ou histórias à frente de um público ao vivo, falando diretamente para ele.",
+    "pt-PT": "Estilo de comédia em que um comediante, habitualmente de pé, conta uma série de piadas ou histórias à frente de um público ao vivo, falando diretamente para ele.",
+    "se": "Typ av underhållning, där en person står på scen och pratar till publiken. Ofta skämtsamt men med en allvarlig underton och ibland svidande satir.",
+    "zh-Hans": "一种喜剧形式，演员面对观众现场讲述一系列笑话或故事"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q145806"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ستاند أب كوميدي",
+    "de": "Stand-Up-Comedy",
+    "dk": "standupkomedie",
+    "en-GB": "stand-up comedy",
+    "en-US": "stand-up comedy",
+    "es": "Comedia en vivo",
+    "fr": "Stand-up",
+    "no": "standup",
+    "pt-BR": "stand-up",
+    "pt-PT": "stand-up",
+    "se": "Stand up comedy",
+    "zh-Hans": "单口喜剧"
+  },
+  "qcode": "medtop:20001190",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001190",
+  "aid": "iptc_20001190"
+}

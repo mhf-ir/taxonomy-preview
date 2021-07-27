@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001157"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: broader term changed"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Traditionelle japanische Kampfsportart mit einem Bambusschwert, auch Japanisches Fechten genannt",
+    "dk": "Japansk kampsport, hvor våbnet er et sværd af bambus.",
+    "en-GB": "Japanese traditional martial art using a bamboo sword, sometimes called Japanese fencing",
+    "en-US": "Japanese traditional martial art using a bamboo sword, sometimes called Japanese fencing",
+    "pt-BR": "Arte marcial tradicional japonesa que usa uma espada de bambu.",
+    "pt-PT": "Arte marcial tradicional japonesa que usa uma espada de bambu.",
+    "se": "Japansk stridskonst där vapnet är ett *svärd* av bambu.",
+    "zh-Hans": "日本传统武术，使用竹剑。有时也叫日本击剑"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15093000",
+    "https://www.wikidata.org/entity/Q170931"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كندو",
+    "de": "Kendo",
+    "dk": "kendo",
+    "en-GB": "kendo",
+    "en-US": "kendo",
+    "es": "Kendo",
+    "fr": "Kendo",
+    "no": "kendo",
+    "pt-BR": "kendo",
+    "pt-PT": "kendo",
+    "se": "Kendo",
+    "zh-Hans": "剑道"
+  },
+  "qcode": "medtop:20000984",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000984",
+  "aid": "iptc_20000984"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001098"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Traditionelle Schweizer Sportart, ähnlich dem Ringen mit speziellen Regeln",
+    "dk": "En schweizisk variant af brydning.",
+    "en-GB": "Traditional Swiss sport similar to wrestling with specific rules",
+    "en-US": "Traditional Swiss sport similar to wrestling with specific rules",
+    "pt-BR": "Esporte tradicional suíço, semelhante à luta livre, mas com regras específicas.",
+    "pt-PT": "Desporto tradicional suíço, semelhante à luta livre, mas com regras específicas.",
+    "se": "En schweizisk variant av brottning.",
+    "zh-Hans": "传统瑞士摔跤与普通摔跤相似，只是规则不同"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15072012",
+    "https://www.wikidata.org/entity/Q685078"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مصارعة سويسرية",
+    "de": "Schweizer Ringen",
+    "dk": "schweizisk brydning",
+    "en-GB": "Swiss wrestling",
+    "en-US": "Swiss wrestling",
+    "es": "Lucha suiza",
+    "fr": "Lutte suisse",
+    "no": "sveitsisk bryting",
+    "pt-BR": "luta suíça",
+    "pt-PT": "luta suíça",
+    "se": "Schwingen",
+    "zh-Hans": "瑞士式摔跤"
+  },
+  "qcode": "medtop:20001101",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001101",
+  "aid": "iptc_20001101"
+}

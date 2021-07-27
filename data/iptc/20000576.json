@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000574"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verfahren, mit denen gewählt wird",
+    "dk": "Regler for hvordan et valg skal afvikles, og hvordan stemmerne omsættes i mandater inden for et bestemt politisk system.",
+    "en-GB": "Voting systems",
+    "en-US": "Voting systems",
+    "pt-BR": "Sistemas de votação.",
+    "pt-PT": "Sistemas de votação.",
+    "se": "Övergripande utformning av ett lands representationssystem på nationell och subnationell nivå.",
+    "zh-Hans": "投票制度"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q182985"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نظام انتخابي",
+    "de": "Wahlsystem",
+    "dk": "valgsystem",
+    "en-GB": "electoral system",
+    "en-US": "electoral system",
+    "es": "Sistema electoral",
+    "fr": "Système électoral",
+    "no": "valgordning",
+    "pt-BR": "sistema eleitoral",
+    "pt-PT": "sistema eleitoral",
+    "se": "Valsystem",
+    "zh-Hans": "选举制度"
+  },
+  "qcode": "medtop:20000576",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000576",
+  "aid": "iptc_20000576"
+}

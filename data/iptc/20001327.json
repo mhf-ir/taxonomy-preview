@@ -1,0 +1,28 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000788"
+  ],
+  "created": "2021-05-05T12:00:00+00:00",
+  "definition": {
+    "en-GB": "People who identify as female, focusing on the group as a demographic, and accomplishments, such as the first woman to achieve a milestone or serve in a role",
+    "en-US": "People who identify as female, focusing on the group as a demographic, and accomplishments, such as the first woman to achieve a milestone or serve in a role"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q467"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "en-GB": "women",
+    "en-US": "women"
+  },
+  "qcode": "medtop:20001327",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001327",
+  "aid": "iptc_20001327"
+}

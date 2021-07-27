@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000788"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gruppe von Menschen, die eine Minderheit bilden auf ethnischer oder nationaler Grundlage, ihres Status, ihrer Probleme und Beziehungen zur Mehrheit",
+    "dk": "Grupper af mennesker, der udgør et mindretal på etnisk eller nationalt grundlag, deres status, problemer og forhold til flertallet.",
+    "en-GB": "Groups of people that form a minority on an ethnic or national basis, and their status or issues relating to the majority",
+    "en-US": "Groups of people that form a minority on an ethnic or national basis, and their status or issues relating to the majority",
+    "pt-BR": "Grupos de pessoas que formam uma minoria étnica ou nacional, seu estatuto, seus problemas e suas relações com a maioria.",
+    "pt-PT": "Grupos de pessoas que formam uma minoria étnica ou nacional, o seu estatuto, os seus problemas e as relações com a maioria.",
+    "se": "Människor som utgör en mindre grupp än andra konkurrerande grupper utifrån etnicitet eller nationalitet, deras status, problem och relation till majoriteten.",
+    "zh-Hans": "在民族或民族基础上形成少数民族的群体，他们的地位、问题和与多数民族的关系"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14010002",
+    "https://www.wikidata.org/entity/Q769696"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اقلية وطنية او اتنية",
+    "de": "Nationale oder ethische Minderheit",
+    "dk": "national eller etnisk minoritet",
+    "en-GB": "national or ethnic minority",
+    "en-US": "national or ethnic minority",
+    "es": "Minoría étnica o nacional",
+    "fr": "Minorité ethnique ou nationale",
+    "no": "etnisk minoritet",
+    "pt-BR": "minoria étnica ou nacional",
+    "pt-PT": "minoria étnica ou nacional",
+    "se": "Minoriteter",
+    "zh-Hans": "少数族裔"
+  },
+  "qcode": "medtop:20000795",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000795",
+  "aid": "iptc_20000795"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000294"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Hersteller von Instrumenten zur Eichung, Messungen von Dingen wie Geschwindigkeit, Druck und Entfernung",
+    "dk": "Produktion af instrumenter til kalibrering og måling af fx hastighed, tryk og afstand.",
+    "en-GB": "Manufacturers of instruments for calibration, measurement of things like speed, pressure, distance",
+    "en-US": "Manufacturers of instruments for calibration, measurement of things like speed, pressure, distance",
+    "pt-BR": "Fabricantes de instrumentos de calibração ou de medição de coisas como velocidade, pressão, distância etc.",
+    "pt-PT": "Fabricantes de instrumentos de calibração ou de medição de coisas como velocidade, pressão, distância, etc.",
+    "se": "Produktion av instrument för kalibrering samt mätning av t ex hastighet, tryck och distans.",
+    "zh-Hans": "用于校准、测量诸如速度、压力、距离等的仪表制造商"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04011007",
+    "https://www.wikidata.org/entity/Q56604289"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "هندسة اجهزة",
+    "de": "Gerätebau",
+    "dk": "instrumentteknik",
+    "en-GB": "instrument engineering",
+    "en-US": "instrument engineering",
+    "es": "Ingeniería de instrumentos",
+    "fr": "Construction d'instruments",
+    "no": "presisjonsinstrumentindustri",
+    "pt-BR": "engenharia de instrumentação",
+    "pt-PT": "engenharia de instrumentação",
+    "se": "Mätinstrumenttillverkning",
+    "zh-Hans": "仪表工程"
+  },
+  "qcode": "medtop:20000301",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000301",
+  "aid": "iptc_20000301"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000719"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Studium ausgestorbener Tiere und Fossilien",
+    "dk": "Undersøgelsen af forhistoriske livsformer, geologiske perioder og fossiler.",
+    "en-GB": "The study of prehistoric life forms, geological periods and fossils",
+    "en-US": "The study of prehistoric life forms, geological periods and fossils",
+    "pt-BR": "Estudo de formas de vida pré-históricas, períodos geológicos e fósseis.",
+    "pt-PT": "Estudo de formas de vida pré-históricas, períodos geológicos e fósseis.",
+    "se": "Vetenskapen om utdöda livsformer och om hur de utvecklades och levde.",
+    "zh-Hans": "研究史前生命形态、地质时期及化石的科学"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13004002",
+    "https://www.wikidata.org/entity/Q7205"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علم المتحجرات",
+    "de": "Paläontologie",
+    "dk": "palæontologi",
+    "en-GB": "palaeontology",
+    "en-US": "paleontology",
+    "es": "Paleontología",
+    "fr": "Paléontologie",
+    "no": "paleontologi",
+    "pt-BR": "paleontologia",
+    "pt-PT": "paleontologia",
+    "se": "Paleontologi",
+    "zh-Hans": "古生物学"
+  },
+  "qcode": "medtop:20000722",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000722",
+  "aid": "iptc_20000722"
+}

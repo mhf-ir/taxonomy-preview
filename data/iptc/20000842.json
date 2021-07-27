@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Team von Läufern, die eine Staffel über die gleiche Distanz laufen",
+    "dk": "Et stafetløb er en konkurrence, hvor flere hold-deltagere afløser hinanden og viderelevere en depeche for at levere en samlet præstation.",
+    "en-GB": "A team of athletes run a relay over identical distances",
+    "en-US": "A team of athletes run a relay over identical distances",
+    "pt-BR": "Atletas da mesma equipe se revezam durante um percurso, cumprindo distâncias iguais.",
+    "pt-PT": "Atletas da mesma equipa revezam-se durante um percurso, cumprindo distâncias iguais.",
+    "se": "Springtävlingar där personer i ett lag tar en delsträcka var.",
+    "zh-Hans": "每人跑同样距离的接力形式的团队比赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q12469953"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سباق التتابع",
+    "de": "Staffellauf",
+    "dk": "stafetløb",
+    "en-GB": "relay run",
+    "en-US": "relay run",
+    "es": "Carrera de relevos",
+    "fr": "Relais",
+    "no": "stafett",
+    "pt-BR": "revezamento",
+    "pt-PT": "estafetas",
+    "se": "Stafett",
+    "zh-Hans": "接力跑"
+  },
+  "qcode": "medtop:20000842",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000842",
+  "aid": "iptc_20000842"
+}

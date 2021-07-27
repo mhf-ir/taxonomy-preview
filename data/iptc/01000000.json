@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/01000000",
+  "qcode": "medtop:01000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "فنون، ثقافة وترفيه",
+    "fr": "Arts, culture, divertissement et médias",
+    "en-GB": "arts, culture, entertainment and media",
+    "es": "Artes, cultura, entretenimiento y medios",
+    "se": "Konst, kultur och nöje",
+    "de": "Kultur, Kunst, Unterhaltung und Medien",
+    "pt-PT": "artes, cultura, entretenimento e média",
+    "pt-BR": "artes, cultura, entretenimento e mídia",
+    "dk": "kunst, kultur, underholdning og medier",
+    "zh-Hans": "艺术、文化、娱乐和媒体",
+    "no": "kultur og underholdning",
+    "en-US": "arts, culture, entertainment and media"
+  },
+  "definition": {
+    "en-GB": "All forms of arts, entertainment, cultural heritage and media",
+    "es": "Todas las formas de arte, entretenimiento cultura y medios",
+    "se": "Ämnen som rör utveckling och förfining av det mänskliga medvetandet, av intressen, färdigheter, smak och känslor, inklusive sådant som språk, radio, och tv.",
+    "fr": "Toutes les formes d'arts, de divertissement, de culture et de médias",
+    "de": "Alle Formen von Kunst, Unterhaltung, Kulturerbe und Medien",
+    "pt-PT": "Todas as formas de arte, entretenimento, herança cultural e média.",
+    "pt-BR": "Todas as formas de arte, entretenimento, herança cultural e mídia.",
+    "dk": "Kunst, kultur, underholdning og medier.",
+    "zh-Hans": "各种形式的艺术、娱乐、文化遗产和媒体",
+    "en-US": "All forms of arts, entertainment, cultural heritage and media"
+  },
+  "narrower": [
+    "medtop:20000002",
+    "medtop:20000038",
+    "medtop:20000045"
+  ],
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "aid": "iptc_01000000"
+}

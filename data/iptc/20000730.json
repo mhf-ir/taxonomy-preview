@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000717"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Studium der Atmosphärenchemie und -physik mit Schwerpunkt Wettervorhersage",
+    "dk": "Undersøgelsen af atmosfærisk kemi og fysik med fokus på vejrprognose.",
+    "en-GB": "The study of atmospheric chemistry and physics, with a focus on weather forecasting",
+    "en-US": "The study of atmospheric chemistry and physics, with a focus on weather forecasting",
+    "es": "El estudio de la química y física atmosférica, con un enfoque en la predicción del tiempo",
+    "fr": "Etude de la chimie et de la physique de l'atmosphère, en particulier des prévisions météorologiques",
+    "pt-BR": "Estudo da química e da física da atmosfera e física, com o foco na previsão do tempo.",
+    "pt-PT": "Estudo da química e da física da atmosfera e física, com o foco na previsão do tempo.",
+    "se": "Vetenskapen om atmosfärens fysik och kemi.",
+    "zh-Hans": "研究大气及其物理现象的科学，以天气预报为重点"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13015000",
+    "https://www.wikidata.org/entity/Q25261"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ارصاد جوية",
+    "de": "Meteorologie",
+    "dk": "meteorologi",
+    "en-GB": "meteorology",
+    "en-US": "meteorology",
+    "es": "Meteorología",
+    "fr": "Climatologie",
+    "no": "meteorologi",
+    "pt-BR": "meteorologia",
+    "pt-PT": "meteorologia",
+    "se": "Meteorologi",
+    "zh-Hans": "气象学"
+  },
+  "qcode": "medtop:20000730",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000730",
+  "aid": "iptc_20000730"
+}

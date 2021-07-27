@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000252"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Große Läden, die bestimmt sind um Sachen für Einzelne anzubieten",
+    "dk": "Forretning opdelt i flere mindre butikker under samme tag.",
+    "en-GB": "Store selling a variety of goods, such as clothing, housewares, jewellery and cosmetics",
+    "en-US": "Store selling a variety of goods, such as clothing, housewares, jewelry and cosmetics",
+    "pt-BR": "Grandes superfícies destinadas à venda ao público.",
+    "pt-PT": "Grandes superfícies destinadas à venda ao público.",
+    "se": "Försäljningsställe med stor säljyta och med ett brett varusortiment.",
+    "zh-Hans": "销售服装、家用器具、珠宝和化妆品等各式商品的商店"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04007002",
+    "https://www.wikidata.org/entity/Q216107"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مخزن تجاري",
+    "de": "Kaufhaus",
+    "dk": "stormagasin",
+    "en-GB": "department store",
+    "en-US": "department store",
+    "es": "Grandes tiendas - grandes almacenes",
+    "fr": "Grand magasin",
+    "no": "varemagasin",
+    "pt-BR": "lojas de departamento",
+    "pt-PT": "grandes armazéns",
+    "se": "Varuhus",
+    "zh-Hans": "百货商店"
+  },
+  "qcode": "medtop:20000246",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000246",
+  "aid": "iptc_20000246"
+}

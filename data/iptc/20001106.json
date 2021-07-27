@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001104"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mittel und Wege um den Drogengebrauch im Sport zu überprüfen",
+    "dk": "Test til undersøgelse af brugen af lovlige og ulovlige stoffer i sport.",
+    "en-GB": "Means and ways to check the use of drugs in sports",
+    "en-US": "Means and ways to check the use of drugs in sports",
+    "pt-BR": "Meios e formas de verificar o uso de drogas no esporte.",
+    "pt-PT": "Meios e formas de verificar o uso de drogas no desporto.",
+    "se": "Medel för att undersöka användning av lovliga och olovliga läkemedel inom idrotten.",
+    "zh-Hans": "检测体育运动中使用违禁药物的手段和方法"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تحليل منشطات",
+    "de": "Drogentest",
+    "dk": "dopingtest",
+    "en-GB": "drug testing in sport",
+    "en-US": "drug testing in sport",
+    "es": "Controles de dopaje",
+    "fr": "Contrôle antidopage",
+    "no": "dopingtest",
+    "pt-BR": "exame antidoping",
+    "pt-PT": "teste antidoping",
+    "se": "Dopningskontroll",
+    "zh-Hans": "药物检测"
+  },
+  "qcode": "medtop:20001106",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001106",
+  "aid": "iptc_20001106"
+}

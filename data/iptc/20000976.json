@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000969"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bis zu 90kg bei Männern und 70kg bei Frauen",
+    "dk": "Op til 90 kg for mænd og 70 kg for kvinder.",
+    "en-GB": "Up to 90kg for men and 70kg for women.",
+    "en-US": "Up to 90kg for men and 70kg for women.",
+    "pt-BR": "Categoria até 90kg para homens e até 70kg para mulheres.",
+    "pt-PT": "Categoria até 90kg para homens e até 70kg para mulheres.",
+    "zh-Hans": "选手体重分别最高不超过最高男子90公斤（男子）和70公斤（女子）"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15033003",
+    "https://www.wikidata.org/entity/Q77217218"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الوزن المتوسط (جودو)",
+    "de": "Mittelgewicht (Judo)",
+    "dk": "mellemvægt",
+    "en-GB": "middleweight (judo)",
+    "en-US": "middleweight (judo)",
+    "es": "Peso mediano (judo)",
+    "fr": "Moyens (judo)",
+    "no": "mellomvekt",
+    "pt-BR": "peso-médio (judô)",
+    "pt-PT": "peso-médio (judo)",
+    "se": "Mellanvikt",
+    "zh-Hans": "中量级柔道"
+  },
+  "qcode": "medtop:20000976",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000976",
+  "aid": "iptc_20000976"
+}

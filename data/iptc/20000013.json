@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000002"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Erzählen einer Geschichte in Schriftform",
+    "dk": "Fortællingen om en historie gennem skriftsprog.",
+    "en-GB": "The telling of a story through written language",
+    "en-US": "The telling of a story through written language",
+    "es": "El relato de una historia a través del lenguaje escrito",
+    "fr": "Le récit d'une histoire à travers le langage écrit",
+    "pt-BR": "Uso de panfletos, livros ou outros materiais impressos para transmitir ideias, histórias ou mensagens ao público.",
+    "pt-PT": "Uso de panfletos, livros ou outros materiais impressos para transmitir ideias, histórias ou mensagens ao público.",
+    "se": "Uttryck av känslor eller överförande av budskap via skriftspråk.",
+    "zh-Hans": "用书面语言讲述故事"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01010000",
+    "https://www.wikidata.org/entity/Q8242"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000014",
+    "medtop:20000015",
+    "medtop:20000016",
+    "medtop:20000017"
+  ],
+  "prefLabel": {
+    "ar": "ادب",
+    "de": "Literatur",
+    "dk": "litteratur",
+    "en-GB": "literature",
+    "en-US": "literature",
+    "es": "Literatura",
+    "fr": "Littérature",
+    "no": "litteratur",
+    "pt-BR": "literatura",
+    "pt-PT": "literatura",
+    "se": "Litteratur",
+    "zh-Hans": "文学"
+  },
+  "qcode": "medtop:20000013",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000013",
+  "aid": "iptc_20000013"
+}

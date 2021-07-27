@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000243"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die oberste Stufe in der Handelshierarchie im Anschluss an die Produktion",
+    "dk": "Det første led i salgskæden efter produktion.",
+    "en-GB": "The first link in the sales chain after production",
+    "en-US": "The first link in the sales chain after production",
+    "pt-BR": "Primeiro elo da cadeia comercial após a produção.",
+    "pt-PT": "Primeiro elo da cadeia de vendas após a produção.",
+    "se": "Distributionsled som förmedlar varor till detaljhandeln och större förbrukare, det vill säga inte till privata konsumenter.",
+    "zh-Hans": "生产后销售链中的第一个环节"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04007007",
+    "https://www.wikidata.org/entity/Q220695"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تجارة جملة",
+    "de": "Großhandel",
+    "dk": "engrossalg",
+    "en-GB": "wholesale",
+    "en-US": "wholesale",
+    "es": "Venta mayorista",
+    "fr": "Grossiste",
+    "no": "engroshandel",
+    "pt-BR": "mercado atacadista",
+    "pt-PT": "mercado grossista",
+    "se": "Grossister",
+    "zh-Hans": "批发"
+  },
+  "qcode": "medtop:20000255",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000255",
+  "aid": "iptc_20000255"
+}

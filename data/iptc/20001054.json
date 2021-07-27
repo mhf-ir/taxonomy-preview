@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15051005"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001049"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schießwettkampf bei dem auf fliegende Scheiben gezielt wird",
+    "dk": "En skydedisciplin, der involverer skydning mod specielle flyvende mål, kendt som lerduer eller lermål.",
+    "en-GB": "Shooting event which involves shooting at special flying targets, known as clay pigeons or clay targets",
+    "en-US": "Shooting event which involves shooting at special flying targets, known as clay pigeons or clay targets",
+    "pt-BR": "Prova de tiro em que o atirador dispara contra alvos lançados ao ar, conhecidos como pratos.",
+    "pt-PT": "Prova de tiro em que o atirador dispara contra alvos lançados ao ar, conhecidos como pratos.",
+    "se": "En sportskyttegren för hagelgevär mot lerduvor, som kastats ut av en maskin eller för hand i disciplinerna skeet, trap och sporting.",
+    "zh-Hans": "射击特殊的飞行目标。目标被称为黏土鸽子或蝶形飞靶"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q5130059"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic sport shooting + sports facet shootingtype."
+  },
+  "prefLabel": {
+    "ar": "رماية الصحن الطائر",
+    "de": "Sportpistole",
+    "dk": "flugtskydning",
+    "en-GB": "clay pigeon shooting",
+    "en-US": "clay pigeon shooting",
+    "es": "Blancos de la arcilla",
+    "fr": "Tir aux plateaux d'argile",
+    "no": "leirdueskyting",
+    "pt-BR": "tiro ao prato",
+    "pt-PT": "tiro ao prato",
+    "se": "Lerduveskytte",
+    "zh-Hans": "飞碟射击"
+  },
+  "qcode": "medtop:20001054",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001054",
+  "aid": "iptc_20001054"
+}

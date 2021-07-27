@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000188"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Beiderseitige Vereinbarung Aktien zu kaufen oder zu verkaufen, wenn diese einen bestimmten Preis erreicht haben, ausschließlich angeboten für Angestellte und Beschäftigte dieses Unternehmens",
+    "dk": "Retten for en medarbejder i en virksomhed til at købe eller sælge aktier til en bestemt pris på eller inden et bestemt tidspunkt.",
+    "en-GB": "An agreement to either buy or sell a stock when it meets a certain price, applies to employees and officers of this company only",
+    "en-US": "An agreement to either buy or sell a stock when it meets a certain price, applies to employees and officers of this company only",
+    "pt-BR": "Acordo para compra ou venda de uma ação quando atinge determinado preço, que se aplica apenas a empregados ou dirigentes dessa companhia.",
+    "pt-PT": "Acordo para compra ou venda de uma ação quando atinge determinado preço, que se aplica apenas a empregados ou dirigentes dessa companhia.",
+    "se": "Rätt, men inte skyldighet, för en anställd i ett företag att köpa eller sälja aktier till ett visst pris vid eller före en viss tidpunkt.",
+    "zh-Hans": "当股票达到一定的价格时，买卖股票的协议，只适用于本公司的员工和管理人员"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016052",
+    "https://www.wikidata.org/entity/Q187860"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خيار شراء اسهم",
+    "de": "Aktienoption",
+    "dk": "aktieoption",
+    "en-GB": "stock option",
+    "en-US": "stock option",
+    "es": "Opciones sobre acciones",
+    "fr": "Options sur titres",
+    "no": "opsjon",
+    "pt-BR": "opções de compra de ações",
+    "pt-PT": "opções de compra de ações",
+    "se": "Aktieoptioner",
+    "zh-Hans": "股票期权"
+  },
+  "qcode": "medtop:20000191",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000191",
+  "aid": "iptc_20000191"
+}

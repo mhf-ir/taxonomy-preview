@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Wassersport, bei dem man sich mit Brett und Paddel im Stehen durch das Wasser bewegt",
+    "dk": "Vandsport, hvor man bruger et bræt og en padel til at bevæge sig fremad med.",
+    "en-GB": "Water sport using a board and paddle to propel through the water while standing",
+    "en-US": "Water sport using a board and paddle to propel through the water while standing",
+    "pt-BR": "Esporte aquático em que o praticante fica de pé sobre uma prancha e usa um remo para se deslocar na água.",
+    "pt-PT": "Desporto aquático em que o praticante fica de pé sobre uma prancha e usa um remo para se deslocar na água.",
+    "se": "De tävlande står på brädor liknande windsurfing och paddlar sig fram.",
+    "zh-Hans": "一种站立在划水板上用桨划水推进的水上运动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2035123"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ركوب الامواج وقوفا",
+    "de": "Stand Up Paddling (SUP)",
+    "dk": "stand up paddleboarding (SUP)",
+    "en-GB": "stand up paddleboarding (SUP)",
+    "en-US": "stand up paddleboarding (SUP)",
+    "es": "Stand up paddle",
+    "fr": "Stand up paddle",
+    "no": "brettpadling, sup",
+    "pt-BR": "stand up paddle (SUP)",
+    "pt-PT": "stand up paddle (SUP)",
+    "se": "SUP",
+    "zh-Hans": "站立划水板（SUP）"
+  },
+  "qcode": "medtop:20001307",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001307",
+  "aid": "iptc_20001307"
+}

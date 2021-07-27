@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Entscheidung eines Unternehmens ein defektes Produkt zurückzunehmen oder zu reparieren",
+    "dk": "En virksomheds beslutning om at tage et produkt tilbage eller reparere det.",
+    "en-GB": "A decision by a company to take back or repair a defective product",
+    "en-US": "A decision by a company to take back or repair a defective product",
+    "pt-BR": "Decisão de uma empresa de recolher ou reparar um produto com defeito.",
+    "pt-PT": "Decisão de uma empresa de recolher ou reparar um produto com defeito.",
+    "se": "Ett beslut av ett företag att ta tillbaka eller reparera en defekt produkt.",
+    "zh-Hans": "企业决定收回或修复有缺陷的产品的行为"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016053",
+    "https://www.wikidata.org/entity/Q359495"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سحب منتج",
+    "de": "Reklamation",
+    "dk": "produkttilbagekaldelse",
+    "en-GB": "product recall",
+    "en-US": "product recall",
+    "es": "Retiro de productos",
+    "fr": "Rappel de marchandise",
+    "no": "tilbakekalling",
+    "pt-BR": "recolha de produtos",
+    "pt-PT": "recolha de produtos",
+    "se": "Produktåterkallelse",
+    "zh-Hans": "产品召回"
+  },
+  "qcode": "medtop:20000207",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000207",
+  "aid": "iptc_20000207"
+}

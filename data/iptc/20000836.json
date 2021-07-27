@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettlauf über eine Distanz von mehr als 1500 Metern",
+    "dk": "Alle former for løbekonkurrence, der er længere end 1500 meter.",
+    "en-GB": "A running race at distances for more than 1500 metres",
+    "en-US": "A running race at distances for more than 1500 meters",
+    "pt-BR": "Corrida de distâncias superiores a 1500 metros.",
+    "pt-PT": "Corrida de distâncias superiores a 1500 metros.",
+    "se": "Alla former av springtävlingar som är längre än 1500 meter.",
+    "zh-Hans": "距离超过1500米的赛跑"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q917206"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "جري المسافات الطويلة",
+    "de": "Langstreckenlauf",
+    "dk": "langdistanceløb",
+    "en-GB": "long distance run",
+    "en-US": "long distance run",
+    "es": "Carrera de larga distancia",
+    "fr": "Course d'endurance",
+    "no": "langdistanseløp",
+    "pt-BR": "corrida de fundo",
+    "pt-PT": "corrida de fundo",
+    "se": "Långdistanslöpning",
+    "zh-Hans": "长跑"
+  },
+  "qcode": "medtop:20000836",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000836",
+  "aid": "iptc_20000836"
+}

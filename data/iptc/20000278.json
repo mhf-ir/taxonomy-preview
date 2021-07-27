@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Anbieter von medizinischen Diensten auf allen Ebenen, inklusive Ärzte, Kliniken etc.",
+    "dk": "Virksomheder, der leverer sundhedsydelser.",
+    "en-GB": "Providers of medical services at all levels, including doctors, hospitals etc",
+    "en-US": "Providers of medical services at all levels, including doctors, hospitals etc",
+    "pt-BR": "Fornecedores de serviços médicos a todos os níveis, incluindo médicos, hospitais etc.",
+    "pt-PT": "Fornecedores de serviços médicos a todos os níveis, incluindo médicos, hospitais, etc.",
+    "se": "Företag som tillhandahåller tjänster inom hälso- och sjukvård.",
+    "zh-Hans": "各级医疗服务的提供者，包括医生、医院等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006005",
+    "https://www.wikidata.org/entity/Q55645123"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مزود خدمات صحية",
+    "de": "Gesundheitsdienst",
+    "dk": "privat sundhedsforsikring",
+    "en-GB": "healthcare provider",
+    "en-US": "healthcare provider",
+    "es": "Prestadores de servicios de salud",
+    "fr": "Services de santé",
+    "no": "helsevesen/helsepersonell",
+    "pt-BR": "prestador de serviços de saúde",
+    "pt-PT": "prestador de serviços de saúde",
+    "se": "Vårdgivare",
+    "zh-Hans": "医疗服务提供者"
+  },
+  "qcode": "medtop:20000278",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000278",
+  "aid": "iptc_20000278"
+}

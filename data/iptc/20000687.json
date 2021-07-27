@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/12000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jede Form des Austausches zwischen Religionen",
+    "dk": "Alle former for kommunikation mellem forskellige religioner.",
+    "en-GB": "Any form of communication between religions",
+    "en-US": "Any form of communication between religions",
+    "pt-BR": "Toda forma de comunicação entre religiões.",
+    "pt-PT": "Qualquer forma de comunicação entre religiões.",
+    "se": "Alla former av kommunikation mellan olika religioner.",
+    "zh-Hans": "宗教间的任何形式的交流"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12024000",
+    "https://www.wikidata.org/entity/Q1304214"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حوار ديانات",
+    "de": "Interreligiöser Dialog",
+    "dk": "interreligiøs dialog",
+    "en-GB": "interreligious dialogue",
+    "en-US": "interreligious dialog",
+    "es": "Diálogo interreligioso",
+    "fr": "Dialogue interreligieux",
+    "no": "interreligiøsitet",
+    "pt-BR": "diálogo inter-religioso",
+    "pt-PT": "diálogo inter-religioso",
+    "se": "Interreligiös dialog",
+    "zh-Hans": "各宗教间对话"
+  },
+  "qcode": "medtop:20000687",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000687",
+  "aid": "iptc_20000687"
+}

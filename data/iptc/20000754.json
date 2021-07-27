@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000742"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Untersuchung menschlicher sozialer Organisation, sozialer Beziehungen und gesellschaftlicher Veränderungen",
+    "dk": "Videnskaben om social opførsel, grupper og forhold.",
+    "en-GB": "The study of human social organisation, social relationships and societal changes",
+    "en-US": "The study of human social organization, social relationships and societal changes",
+    "es": "El estudio de la organización social humana, las relaciones sociales y los cambios sociales",
+    "fr": "Etude de l'organisation sociale humaine, des relations sociales et des changements sociétaux",
+    "pt-BR": "Estudo da organização social humana e das relações e mudanças sociais.",
+    "pt-PT": "Estudo da organização social humana e das relações e mudanças sociais.",
+    "se": "Vetenskapen om sociala beteenden, grupper och relationer.",
+    "zh-Hans": "研究人类社会组织、社会关系和社会变迁的学科"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13003004",
+    "https://www.wikidata.org/entity/Q21201"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علم اجتماع",
+    "de": "Soziologie",
+    "dk": "sociologi",
+    "en-GB": "sociology",
+    "en-US": "sociology",
+    "es": "Sociología",
+    "fr": "Sociologie",
+    "no": "sosiologi",
+    "pt-BR": "sociologia",
+    "pt-PT": "sociologia",
+    "se": "Sociologi",
+    "zh-Hans": "社会学"
+  },
+  "qcode": "medtop:20000754",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000754",
+  "aid": "iptc_20000754"
+}

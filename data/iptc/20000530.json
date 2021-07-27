@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000529"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Arbeitsaktion, umfasst die Niederlegung der Arbeit.",
+    "dk": "Organiseret lukning af arbejdet for at udøve pres på arbejdsgiveren i en længere eller kortere periode.",
+    "en-GB": "Groups of employees agreeing to cease work activities with the aim of achieving better pay or work conditions",
+    "en-US": "Groups of employees agreeing to cease work activities with the aim of achieving better pay or work conditions",
+    "pt-BR": "Ação por parte dos empregados que envolve paralisação de atividade laboral.",
+    "pt-PT": "Ação por parte dos empregados que envolve paralisação de atividade laboral.",
+    "se": "Organiserad nedläggelse av arbete i syfte att utöva påtryckningar på arbetsgivaren under längre eller kortare tid.",
+    "zh-Hans": "涉及停止工作的临时罢工示威"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09008000",
+    "https://www.wikidata.org/entity/Q49776"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اضراب",
+    "de": "Streik",
+    "dk": "strejke og lockout",
+    "en-GB": "labour strike",
+    "en-US": "labor strike",
+    "es": "Huelga",
+    "fr": "Grèves",
+    "no": "streik",
+    "pt-BR": "greve",
+    "pt-PT": "greve",
+    "se": "Strejk",
+    "zh-Hans": "罢工"
+  },
+  "qcode": "medtop:20000530",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000530",
+  "aid": "iptc_20000530"
+}

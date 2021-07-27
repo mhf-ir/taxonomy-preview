@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kredit: Geldmenge, die jemandem zur Verfügung steht, meistens als Leihgabe. Schulden: Geldmenge, die jemand schuldig ist.",
+    "dk": "Kredit, det beløb du har til rådighed, ofte ved lån. Gæld,  det beløb, du skylder.",
+    "en-GB": "Credit: the amount of money available to you, often by loan. Debt:  the amount you owe.",
+    "en-US": "Credit: the amount of money available to you, often by loan. Debt: the amount you owe.",
+    "pt-BR": "Crédito: dinheiro disponível, geralmente por empréstimo. Dívida: dinheiro devido.",
+    "pt-PT": "Crédito: dinheiro disponível, geralmente por empréstimo. Dívida: dinheiro devido.",
+    "se": "Ekonomisk tillgång som får disponeras mot räntekostnader och penningsumma, som man är skyldig att betala tillbaka.",
+    "zh-Hans": "信用：通常指通过贷款可用的金额。债务:所欠的金额"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008020",
+    "https://www.wikidata.org/entity/Q3196867"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ائتمان ودين",
+    "de": "Kredit- und Schuldensumme",
+    "dk": "kredit og gæld",
+    "en-GB": "credit and debt",
+    "en-US": "credit and debt",
+    "es": "Crédito y débito",
+    "fr": "Crédit et endettement",
+    "no": "gjeld",
+    "pt-BR": "crédito e dívida",
+    "pt-PT": "crédito e dívida",
+    "se": "Krediter och skulder",
+    "zh-Hans": "信用和债务"
+  },
+  "qcode": "medtop:20000354",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000354",
+  "aid": "iptc_20000354"
+}

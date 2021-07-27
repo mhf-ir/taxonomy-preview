@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Spiel von zwei Mannschaften aus fünfzehn jeweils mit einem gebogenen Holzstock genannt hurley. Die Aufgabe ist es, den kleinen Ball zwischen die gegnerischen Torpfosten, entweder über die Querlatte oder unter ihm in ein Netz zu bekommen, was von einem Torhüter bewacht ist",
+    "dk": "Irsk holdsport med 15-mands hold efter en plan, der har de samme dimensioner som gælisk fodbold. Spillerne har en trækølle og prøver at slå en lille hård bold i mål. Man må også aflevere bolden med hånden eller fødderne.",
+    "en-GB": "A game played by two teams of fifteen each with a curved wooden stick called a hurley. The object is to score a goal by hitting the small ball between the opponents' goalposts either over the crossbar or under it into a net guarded by a goalkeeper.",
+    "en-US": "A game played by two teams of fifteen each with a curved wooden stick called a hurley. The object is to score a goal by hitting the small ball between the opponents' goalposts either over the crossbar or under it into a net guarded by a goalkeeper.",
+    "pt-BR": "Jogo disputado por duas equipes de quinze jogadores, cada um com um taco de madeira achatado e curvado na ponta, chamado *hurley*. O objetivo é marcar um gol colocando a pequena bola entre os postes de gol do adversário, seja por cima da barra, seja por baixo dela em uma rede protegida por um goleiro.",
+    "pt-PT": "Jogo disputado por duas equipas de quinze jogadores, cada um com um taco de madeira achatado e curvo na ponta, chamado *hurley*. O objetivo é marcar um golo colocando a pequena bola entre os postes da baliza do adversário, seja por cima da barra, seja por baixo dela numa rede protegida por um guarda-redes.",
+    "se": "Irländsk lagsport med 15-mannalag på en plan som har samma mått som gaelisk fotboll. Spelarna har en träklubba och försöker slå en liten hård boll i mål. Man får även passa bollen med hand eller fot.",
+    "zh-Hans": "集体球类运动。15人一队，两队用一根弯曲的木棍进行比赛。 目标是通过击打小球越过对方带有横梁的门柱之间得分，击过横梁上或由一名守门员守卫的横梁下的网中均可得分。"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q213711"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "هرلينغ",
+    "de": "Hurling",
+    "dk": "hurling",
+    "en-GB": "hurling",
+    "en-US": "hurling",
+    "es": "Hurling",
+    "fr": "Hurling",
+    "no": "hurling",
+    "pt-BR": "hurling",
+    "pt-PT": "hurling",
+    "se": "Hurling",
+    "zh-Hans": "爱尔兰式曲棍球"
+  },
+  "qcode": "medtop:20000964",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000964",
+  "aid": "iptc_20000964"
+}

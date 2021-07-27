@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000252"
+  ],
+  "created": "2020-08-05T12:00:00+00:00",
+  "definition": {
+    "de": "Ein großes Gebäude oder eine Reihe miteinander verbundener Gebäude, die eine Vielzahl von Einzelhandelsgeschäften und Lebensmittelverkäufern enthalten",
+    "dk": "En stor bygning eller flere forbundne bygninger, der indeholder en blanding af detailbutikker og spisesteder.",
+    "en-GB": "A large building or series of connected buildings that contain a variety of retail stores and food vendors",
+    "en-US": "A large building or series of connected buildings that contain a variety of retail stores and food vendors",
+    "pt-BR": "Edifício de grandes dimensões ou série de edifícios conectados que reúnem uma variedade de lojas de varejo e de comida.",
+    "pt-PT": "Edifício de grandes dimensões ou série de edifícios ligados que reúnem uma variedade de lojas de retalho e de comida.",
+    "se": "En stor byggnad, eller sammankopplade byggnader, där många olika affärer, restauranger osv samlas.",
+    "zh-Hans": "一栋或多栋相互连接的建筑，聚集大量零售商店和餐饮"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q97395548"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مركز تجاري",
+    "de": "Einkaufszentrum",
+    "dk": "storcenter",
+    "en-GB": "shopping mall",
+    "en-US": "shopping mall",
+    "es": "Centro comercial",
+    "fr": "Centre commercial",
+    "no": "kjøpesentere",
+    "pt-BR": "centro comercial",
+    "pt-PT": "centro comercial",
+    "se": "Köpcentrum",
+    "zh-Hans": "购物中心"
+  },
+  "qcode": "medtop:20001296",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001296",
+  "aid": "iptc_20001296"
+}

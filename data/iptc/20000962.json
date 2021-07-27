@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000960"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Pferdewagenrennen mit Jockey im Trab auf einer flachen Bahn.",
+    "dk": "Hestevæddeløb med en mand/kvinde i en sulky (lille vogn) bag hesten. Hesten må ikke galoppere.",
+    "en-GB": "Horses hitched to a jockeyed buggy race round a flat course. Can be performed at a trotting gait or a pacing gait.",
+    "en-US": "Horses hitched to a jockeyed buggy race round a flat course. Can be performed at a trotting gait or a pacing gait.",
+    "pt-BR": "Corridas de cavalos montados.",
+    "pt-PT": "Corridas de cavalos montados.",
+    "se": "Hästtävlingar med människan i en liten vagn bakom hästen. Hästen får inte galoppera.",
+    "zh-Hans": "绕平地的轻型驾马车比赛，可以是慢跑或固定节奏的跑态"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15030000",
+    "https://www.wikidata.org/entity/Q1194269"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic horse racing + sports facet equestriantype."
+  },
+  "prefLabel": {
+    "ar": "سباق الخيل لجر العربة",
+    "de": "Trabrennen",
+    "dk": "travløb",
+    "en-GB": "harness racing",
+    "en-US": "harness racing",
+    "es": "Carrera de arnés",
+    "fr": "Course sous harnais",
+    "no": "travløp",
+    "pt-BR": "corridas de cavalos",
+    "pt-PT": "corridas de cavalos",
+    "se": "Trav",
+    "zh-Hans": "轻驾马车赛"
+  },
+  "qcode": "medtop:20000962",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000962",
+  "aid": "iptc_20000962"
+}

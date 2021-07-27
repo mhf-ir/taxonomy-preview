@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000690"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "50 Tage nach Ostern begangenes Fest zur Erinnerung an das Herabkommen des Heiligen Geistes.",
+    "dk": "Kristen højtid, fejret 50 dage efter påske til minde om Helligåndens komme.",
+    "en-GB": "Christian festival, celebrated on the 50th day after Easter commemorating the descent of the Holy Spirit",
+    "en-US": "Christian festival, celebrated on the 50th day after Easter commemorating the descent of the Holy Spirit",
+    "pt-BR": "Festa cristã, celebrada no 50.º dia depois da Páscoa, que comemora a descida do Espírito Santo.",
+    "pt-PT": "Festa cristã, celebrada no 50.º dia depois da Páscoa, que comemora a descida do Espírito Santo.",
+    "se": "En kristen högtid som firas (i maj eller juni) till minne av det tillfälle då apostlarna enligt Bibeln uppfylldes av helig ande.",
+    "zh-Hans": "基督教节日，在复活节后的第50天庆祝，以纪念圣灵的降临"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12014003",
+    "https://www.wikidata.org/entity/Q39864"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عيد العنصرة وعيد الحصاد (اليهود)",
+    "de": "Pfingsten",
+    "dk": "pinse",
+    "en-GB": "Pentecost",
+    "en-US": "Pentecost",
+    "es": "Pentecostés",
+    "fr": "Pentecôte",
+    "no": "pinse",
+    "pt-BR": "pentecostes",
+    "pt-PT": "pentecostes",
+    "se": "Pingst",
+    "zh-Hans": "五旬节"
+  },
+  "qcode": "medtop:20000693",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000693",
+  "aid": "iptc_20000693"
+}

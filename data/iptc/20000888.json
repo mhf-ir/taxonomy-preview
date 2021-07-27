@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ballsport mit zwei Teams je 11 Spielern, Bälle, Schlagholz und Pfostentoren. Das Ziel ist so viele Tore wie möglich zu durchschlagen und das andere Team rauszuschmeißen. Ein 'Run' beinhaltet das Rennen eines Spielers zwischen den Pfostentoren. Das gegnerische Team versucht die Konkurrenten rauszuschmeißen",
+    "dk": "En boldsport, der spilles på græs med bold og boldtræ.",
+    "en-GB": "Ball sport involving two teams of 11 players, balls, bats and wickets. The aim is to score as many runs as possible, and to get the opposing team 'out'. A 'run' involves a player running between two wickets. The opposing team try to get their rivals 'out'",
+    "en-US": "Ball sport involving two teams of 11 players, balls, bats and wickets. The aim is to score as many runs as possible, and to get the opposing team 'out'. A 'run' involves a player running between two wickets. The opposing team try to get their rivals 'out'",
+    "pt-BR": "Jogo de bola e taco entre duas equipes de 11 jogadores. Joga-se em campo de grama, amplo e de formato oval. O objetivo é marcar o maior número de corridas, impedindo corridas e eliminando batedores da equipe adversária.",
+    "pt-PT": "Jogo de bola e taco entre duas equipas de 11 jogadores. Joga-se em campo relvado, amplo e de formato oval. O objetivo é marcar o maior número de corridas, impedindo corridas e eliminando batedores da equipa adversária.",
+    "se": "En bollsport som spelas på gräs med boll och slagträ.",
+    "zh-Hans": "对抗性球类运动，包括两队各11名球员，球、球棒和三柱门。目标是尽可能多地通过“跑动”得分，让对手出局。“跑动”是指球员在两个三柱门之间跑动。每方球队都试图让对手“出局”"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15017000",
+    "https://www.wikidata.org/entity/Q5375"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كريكيت",
+    "de": "Kricket",
+    "dk": "cricket",
+    "en-GB": "cricket",
+    "en-US": "cricket",
+    "es": "Cricket",
+    "fr": "Cricket",
+    "no": "cricket",
+    "pt-BR": "críquete",
+    "pt-PT": "críquete",
+    "se": "Cricket",
+    "zh-Hans": "板球"
+  },
+  "qcode": "medtop:20000888",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000888",
+  "aid": "iptc_20000888"
+}

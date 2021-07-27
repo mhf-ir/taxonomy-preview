@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000788"
+  ],
+  "created": "2019-11-25T12:00:00+00:00",
+  "definition": {
+    "de": "Menschen, die die ursprünglichen Eigentümer und Verwalter einer bestimmten Region sind, die auch als Ureinwohner, Erstvölker oder Ureinwohner bezeichnet werden, im Gegensatz zu Gruppen, die das Gebiet in jüngerer Zeit besiedelt, besetzt oder kolonisiert haben",
+    "dk": "Den befolkningsgruppe, der oprindeligt beboede et geografisk område i modsætning til bosættere eller kolonister.",
+    "en-GB": "People who are the original owners and caretakers of a given region, also known as native peoples, first peoples or aboriginal peoples, in contrast to groups that have settled, occupied or colonised the area more recently",
+    "en-US": "People who are the original owners and caretakers of a given region, also known as native peoples, first peoples or aboriginal peoples, in contrast to groups that have settled, occupied or colonized the area more recently",
+    "pt-BR": "Pessoas que são os proprietários e conservadores originais de determinada região, também conhecidos como povos nativos, primeiros povos ou povos indígenas, em contraste com grupos que se fixaram, ocuparam ou colonizaram a área mais recentemente.",
+    "pt-PT": "Pessoas que são os proprietários e conservadores originais de determinada região, também conhecidos como povos nativos, primeiros povos ou povos indígenas, em contraste com grupos que se fixaram, ocuparam ou colonizaram a área mais recentemente.",
+    "se": "Människogrupp som är ättlingar till den ursprungliga befolkningen i ett område. Numera ofta i minoritet i det området.",
+    "zh-Hans": "又译当地人或土著人，与后期在该地区定居、占领或殖民的群体相对比，是指定区域的原始所有者和看护者"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q103817"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-11-25T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سكان أصليون",
+    "de": "indigene Völker",
+    "dk": "oprindeligt folk",
+    "en-GB": "indigenous people",
+    "en-US": "indigenous people",
+    "es": "Pueblo indígena",
+    "fr": "Autochtones",
+    "no": "urfolk",
+    "pt-BR": "povo indígena",
+    "pt-PT": "povo indígena",
+    "se": "Ursprungsbefolkning",
+    "zh-Hans": "原住民"
+  },
+  "qcode": "medtop:20001288",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001288",
+  "aid": "iptc_20001288"
+}

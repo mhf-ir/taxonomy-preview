@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000521"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Regeln und Maßnahmen, die die Gesundheit der Arbeiter garantieren.",
+    "dk": "Regler og procedurer for sikring af arbejdstagernes sundhed.",
+    "en-GB": "Laws protecting a safe and healthy work environment",
+    "en-US": "Laws protecting a safe and healthy work environment",
+    "pt-BR": "Regras e procedimentos para garantir a saúde dos trabalhadores.",
+    "pt-PT": "Regras e procedimentos para garantir a saúde dos trabalhadores.",
+    "se": "Regler och processer för att garantera arbetstagarnas hälsa.",
+    "zh-Hans": "保障劳动者健康的规章制度和程序"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09013000",
+    "https://www.wikidata.org/entity/Q629029"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الصحة والسلامة في العمل",
+    "de": "Arbeitssicherheit",
+    "dk": "sundhed og sikkerhed på arbejdspladsen",
+    "en-GB": "workplace health and safety",
+    "en-US": "workplace health and safety",
+    "es": "Salud y seguridad laboral",
+    "fr": "Règles de sécurité au travail",
+    "no": "helse, miljø og sikkerhet",
+    "pt-BR": "higiene e segurança no trabalho",
+    "pt-PT": "higiene e segurança no trabalho",
+    "se": "Arbetsmiljöfrågor",
+    "zh-Hans": "劳动卫生和劳动安全"
+  },
+  "qcode": "medtop:20000522",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000522",
+  "aid": "iptc_20000522"
+}

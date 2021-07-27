@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000316"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gewinnung, Verfeinerung und Verkauf von Gold und anderen wertvollen Metallen",
+    "dk": "Minedrift, berigelse og salg af guld og andre ædelmetaller.",
+    "en-GB": "The mining, refining and sales of gold, precious metals, diamonds, rare earths, etc",
+    "en-US": "The mining, refining and sales of gold, silver, precious metals, diamonds, rare earths, etc",
+    "pt-BR": "Mineração, refinação e venda de ouro e de outros metais preciosos.",
+    "pt-PT": "Mineração, refinação e venda de ouro e de outros metais preciosos.",
+    "se": "Gruvdrift, anrikning och försäljning av guld och andra ädla metaller.",
+    "zh-Hans": "黄金及其他贵金属的开采、提炼、销售"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04012002",
+    "https://www.wikidata.org/entity/Q56573752"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ذهب واحجار ثمينة",
+    "de": "Gold und Edelmetall",
+    "dk": "guld og dyrebart materiale",
+    "en-GB": "gold and precious material",
+    "en-US": "gold and precious material",
+    "es": "Oro y metales preciosos",
+    "fr": "Or et métaux précieux",
+    "no": "edelmetaller",
+    "pt-BR": "ouro e metais preciosos",
+    "pt-PT": "ouro e metais preciosos",
+    "se": "Guld och värdefulla metaller",
+    "zh-Hans": "黄金和贵金属"
+  },
+  "qcode": "medtop:20000318",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000318",
+  "aid": "iptc_20000318"
+}

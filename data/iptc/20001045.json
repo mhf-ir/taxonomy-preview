@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15050000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001038"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Segeln als Einzelperson auf offener See als Teil eines Rennens",
+    "dk": "Sejlkonkurrencer, hvor sejleren skal være alene.",
+    "en-GB": "Sailing oceans as an individual,  as part of a race.",
+    "en-US": "Sailing oceans as an individual, as part of a race.",
+    "pt-BR": "Corrida de embarcações com um só tripulante à volta do mundo através dos oceanos.",
+    "pt-PT": "Corrida de embarcações com um só tripulante à volta do mundo através dos oceanos.",
+    "se": "Segeltävlingar där seglaren måste vara ensam.",
+    "zh-Hans": "单人远洋航行赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1307611"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic sailing + sports facet sailingtype."
+  },
+  "prefLabel": {
+    "ar": "سباق قوارب منفرد في المحيط",
+    "de": "Meersegeln Solo",
+    "dk": "solo oceansejlads",
+    "en-GB": "solo ocean sailing",
+    "en-US": "solo ocean sailing",
+    "es": "Regata en solitario",
+    "fr": "Course en solitaire",
+    "no": "solo-seilas",
+    "pt-BR": "regata em solitário",
+    "pt-PT": "regata em solitário",
+    "se": "Ensamsegling",
+    "zh-Hans": "单人远洋航行"
+  },
+  "qcode": "medtop:20001045",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001045",
+  "aid": "iptc_20001045"
+}

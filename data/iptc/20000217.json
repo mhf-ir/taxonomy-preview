@@ -1,0 +1,54 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Natürliche oder künstliche Stoffe, um andere Materialien zu erzeugen",
+    "dk": "Naturlige eller kunstige stoffer, der bruges til at fremstille andre materialer.",
+    "en-GB": "Natural or manmade materials used to produce other materials",
+    "en-US": "Natural or manmade materials used to produce other materials",
+    "pt-BR": "Materiais naturais ou feitos pelo homem para produzir outros materiais.",
+    "pt-PT": "Materiais naturais ou feitos pelo homem para produzir outros materiais.",
+    "se": "Naturliga eller skapade ämnen som används för att producera annat material.",
+    "zh-Hans": "用于生产其他材料的天然或人造材料"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04002000",
+    "https://www.wikidata.org/entity/Q79529"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000218",
+    "medtop:20000219",
+    "medtop:20000220",
+    "medtop:20000221",
+    "medtop:20000222",
+    "medtop:20000223",
+    "medtop:20000224"
+  ],
+  "prefLabel": {
+    "ar": "مواد كيميائية",
+    "de": "Chemie",
+    "dk": "kemikalie",
+    "en-GB": "chemicals",
+    "en-US": "chemicals",
+    "es": "Productos químicos",
+    "fr": "Chimie",
+    "no": "kjemikalier",
+    "pt-BR": "produtos químicos",
+    "pt-PT": "produtos químicos",
+    "se": "Kemisk industri",
+    "zh-Hans": "化工产品"
+  },
+  "qcode": "medtop:20000217",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000217",
+  "aid": "iptc_20000217"
+}

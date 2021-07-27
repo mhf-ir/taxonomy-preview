@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000756"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Studium und die Entwicklung von Technologien im mikroskopischen Maßstab, wie z.B. Mikrobiologie oder Mikrocomputing",
+    "dk": "Videnskab af og teknologier bygget på mikroskopisk skala, såsom mikrobiologi eller mikrocomputing.",
+    "en-GB": "The study of and technologies built at a microscopic scale, such as microbiology or microcomputing",
+    "en-US": "The study of and technologies built at a microscopic scale, such as microbiology or microcomputing",
+    "es": "El estudio y las tecnologías construidas a escala microscópica, como la microbiología o la microcomputación",
+    "fr": "Etude et technologies construites à l'échelle microscopique, telles que la microbiologie ou la micro-informatique",
+    "pt-BR": "Estudo e tecnologias construídas em escala microscópica, como a microbiologia ou a microcomputação.",
+    "pt-PT": "Estudo e tecnologias construídas em escala microscópica, como a microbiologia ou a microcomputação.",
+    "se": "Vetenskap och teknik rörande saker byggda i mikroskopisk skala.",
+    "zh-Hans": "在微观尺度上建立的研究和技术，如微生物学或微计算"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13013000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000766"
+  ],
+  "prefLabel": {
+    "ar": "علم الاحياء الدقيقة",
+    "de": "Mikroelektronik",
+    "dk": "mikrovidenskab",
+    "en-GB": "micro science",
+    "en-US": "micro science",
+    "es": "Microciencias",
+    "fr": "Science de l'infiniment petit",
+    "no": "mikrovitenskap",
+    "pt-BR": "nanociência",
+    "pt-PT": "nanociência",
+    "se": "Mikrovetenskap",
+    "zh-Hans": "微观科学"
+  },
+  "qcode": "medtop:20000765",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000765",
+  "aid": "iptc_20000765"
+}

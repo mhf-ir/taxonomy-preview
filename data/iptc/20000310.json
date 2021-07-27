@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000304"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Geschäft mit gebundenen und ungebundenen, gedruckten Papiermaterial zur regelmäßigen Verbreitung von Nachrichten",
+    "dk": "Kommercielle virksomheder, der producerer papirprodukter, der indeholder nyheder og information.",
+    "en-GB": "The business of producing bound and unbound printed paper products for periodic distribution of news items",
+    "en-US": "The business of producing bound and unbound printed paper products for periodic distribution of news items",
+    "pt-BR": "Negócio de produção de meios escritos ou gráficos impressos para a distribuição periódica de notícias.",
+    "pt-PT": "Negócio de produção de meios escritos ou gráficos impressos para a distribuição periódica de notícias.",
+    "se": "Den kommersiella verksamhet som producerar pappersprodukter innehållande nyheter och information.",
+    "zh-Hans": "生产装订和未装订的印刷品定期发行新闻产品的业务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04010005",
+    "https://www.wikidata.org/entity/Q3579160"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صحف ومجلات",
+    "de": "Presse",
+    "dk": "avis og magasin",
+    "en-GB": "newspaper and magazine",
+    "en-US": "newspaper and magazine",
+    "es": "Diarios y revistas",
+    "fr": "Journaux et périodiques",
+    "no": "aviser og blader",
+    "pt-BR": "imprensa",
+    "pt-PT": "imprensa",
+    "se": "Dagstidningar och magasin",
+    "zh-Hans": "报纸和杂志"
+  },
+  "qcode": "medtop:20000310",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000310",
+  "aid": "iptc_20000310"
+}

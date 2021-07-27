@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000129"
+  ],
+  "created": "2020-08-05T12:00:00+00:00",
+  "definition": {
+    "de": "Monitoring the activities of the individual through the use of cameras and data in order to prevent or uncover criminal activities",
+    "dk": "At holde øje med et individ og dets handlinger ved brug af data og kameraer for at forhindre eller afsløre kriminelle handlinger.",
+    "en-GB": "Monitoring the activities of the individual through the use of cameras and data in order to prevent or uncover criminal activities",
+    "en-US": "Monitoring the activities of the individual through the use of cameras and data in order to prevent or uncover criminal activities",
+    "pt-BR": "Monitorar atividades individuais por meio do uso de câmeras e dados, a fim de prevenir ou descobrir atividades criminosas.",
+    "pt-PT": "Monitorizar atividades individuais por meio do uso de câmaras e dados, a fim de prevenir ou descobrir atividades criminosas.",
+    "se": "Med hjälp av kameror och datainsamling försöker polisen förbygga brott och avslöja brottslig verksamhet.",
+    "zh-Hans": "通过使用摄像头和数据的方式监视个人行为用于预防或揭露犯罪"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q334401"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مراقبة",
+    "de": "Überwachung",
+    "dk": "overvågning",
+    "en-GB": "surveillance",
+    "en-US": "surveillance",
+    "es": "Vigilancia",
+    "fr": "Surveillance",
+    "no": "overvåkning",
+    "pt-BR": "vigilância",
+    "pt-PT": "vigilância",
+    "se": "Övervakning",
+    "zh-Hans": "监控"
+  },
+  "qcode": "medtop:20001299",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001299",
+  "aid": "iptc_20001299"
+}

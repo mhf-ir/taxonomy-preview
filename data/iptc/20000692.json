@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000690"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Fest zur Erinnerung an die Auferstehung von Jesus Christus.",
+    "dk": "Kristen højtid til minde om Jesu Kristi opstandelse.",
+    "en-GB": "Christian festival in commemorating the resurrection of Jesus Christ",
+    "en-US": "Christian festival in commemorating the resurrection of Jesus Christ",
+    "pt-BR": "Festa cristã que comemora a ressurreição de Jesus Cristo.",
+    "pt-PT": "Festa cristã que comemora a ressurreição de Jesus Cristo.",
+    "se": "En kristen vårhögtid till minne av Jesu korsfästelse och uppståndelse.",
+    "zh-Hans": "纪念耶稣基督复活的基督教节日"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12014002",
+    "https://www.wikidata.org/entity/Q21196"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عيد الفصح",
+    "de": "Ostern",
+    "dk": "påske",
+    "en-GB": "Easter",
+    "en-US": "Easter",
+    "es": "Semana santa",
+    "fr": "Pâques",
+    "no": "påske",
+    "pt-BR": "páscoa",
+    "pt-PT": "páscoa",
+    "se": "Påsk",
+    "zh-Hans": "复活节"
+  },
+  "qcode": "medtop:20000692",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000692",
+  "aid": "iptc_20000692"
+}

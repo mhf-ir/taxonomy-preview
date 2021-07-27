@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07014003"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000487"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Umfasst Reproduktionstechnologien, wie Invitro-Fertilisation, sowohl das Klonen als auch die damit zusammenhängenden Debatten. Entwicklungen der Sexualität und durch sexuellen Kontakt übertragene Krankheiten fallen auch in diese Kategorie",
+    "dk": "Forskellige metoder til behandling af par, der ikke kan få børn naturligt, såsom befrugtning af reagensglas.",
+    "en-GB": "Speciality of reproductive technologies like invitro fertilisation",
+    "en-US": "Speciality of reproductive technologies like invitro fertilization",
+    "pt-BR": "Especialidade das tecnologias de reprodução como a fertilização in vitro.",
+    "pt-PT": "Especialidade das tecnologias de reprodução como a fertilização in vitro.",
+    "se": "Olika metoder att behandla par som inte kan få barn på naturlig väg, såsom provrörsbefruktning.",
+    "zh-Hans": "生殖技术的专科，体外受精入此"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q351870"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "طب تناسلي",
+    "de": "Reproduktionsmedizin",
+    "dk": "reproduktiv medicin",
+    "en-GB": "reproductive medicine",
+    "en-US": "reproductive medicine",
+    "es": "Medicina reproductiva",
+    "fr": "Médecine de la reproduction",
+    "no": "reproduksjonsmedisin",
+    "pt-BR": "medicina reprodutiva",
+    "pt-PT": "medicina reprodutiva",
+    "se": "Reproduktiv medicin",
+    "zh-Hans": "生殖科"
+  },
+  "qcode": "medtop:20000491",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000491",
+  "aid": "iptc_20000491"
+}

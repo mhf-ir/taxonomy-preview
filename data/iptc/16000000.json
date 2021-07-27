@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sozial oder politisch motivierte Aktivitäten sowhl in Form von Protesten, Gewalttätigkeiten, Militäraktionen und geopolitischen Konflikten, als auch Aktivitäten zur Lösung dessen",
+    "dk": "Socialt eller politisk motiverede protester og/eller voldshandlinger. Terrorisme, væbnede konflikter, social uro, statskup, guerillaaktiviteter, massakrer, optøjer, voldelige demonstrationer og krig, såvel som fredsinitiativer.",
+    "en-GB": "Acts of socially or politically motivated protest or violence, military activities, geopolitical conflicts, as well as resolution efforts",
+    "en-US": "Acts of socially or politically motivated protest or violence, military activities, geopolitical conflicts, as well as resolution efforts",
+    "es": "Actos de protesta o de violencia cuyos motivos pueden ser sociales o políticos, actividades militares, conflictos geopolíticos, esfuerzos de resolución de conflictos",
+    "fr": "Actes de violence dont les motifs peuvent être sociaux ou politiques, activités militaires, conflits géopolitiques, efforts de résolution de conflit",
+    "pt-BR": "Atos de protesto ou de violência, cujos motivos podem ser sociais ou políticos, atividades militares, conflitos geopolíticos, esforços de resolução de conflitos.",
+    "pt-PT": "Atos de protesto ou de violência, cujos motivos podem ser sociais ou políticos, atividades militares, conflitos geopolíticos, esforços de resolução de conflitos.",
+    "se": "Socialt eller politiskt motiverade protester och/eller våldshandlingar. Terrorism, väpnade konflikter, social oro, statskupper, Gerillaaktiviteter, massakrer, upplopp, våldsamma demonstrationer, krig.",
+    "zh-Hans": "具有社会或政治动机的示威或暴力行为、军事活动、地缘政治冲突以及试图解决问题的努力"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000053",
+    "medtop:20000056",
+    "medtop:20000065",
+    "medtop:20000070",
+    "medtop:20000071",
+    "medtop:20000073",
+    "medtop:20000077",
+    "medtop:20000080"
+  ],
+  "prefLabel": {
+    "ar": "نزاعات،  حرب وسلام",
+    "de": "Krise, Krieg, Konflikte",
+    "dk": "konflikt, krig og fred",
+    "en-GB": "conflict, war and peace",
+    "en-US": "conflict, war and peace",
+    "es": "Conflicto, guerra y paz",
+    "fr": "Conflit, guerre et paix",
+    "no": "konflikt, krig og fred",
+    "pt-BR": "conflito, guerra e paz",
+    "pt-PT": "conflito, guerra e paz",
+    "se": "Krig, konflikter och oroligheter",
+    "zh-Hans": "冲突、战争与和平"
+  },
+  "qcode": "medtop:16000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/16000000",
+  "aid": "iptc_16000000"
+}

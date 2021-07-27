@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Die Zufügung von Grausamkeit oder Vernachlässigung von Tieren durch Menschen",
+    "dk": "Mishandling eller misrøgt af dyr.",
+    "en-GB": "The infliction of cruelty or neglect onto animals by humans",
+    "en-US": "The infliction of cruelty or neglect onto animals by humans",
+    "pt-BR": "Comportamento cruel ou negligente imposto por humanos a animais.",
+    "pt-PT": "Comportamento cruel ou negligente imposto por humanos a animais.",
+    "se": "Vanvård eller övergrepp mot egna eller andras djur.",
+    "zh-Hans": "人类施加于动物的残害或忽视行为"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q40053"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "قسوة على الحيوانات",
+    "de": "Tierquälerei",
+    "dk": "dyremishandling",
+    "en-GB": "animal abuse",
+    "en-US": "animal abuse",
+    "es": "Maltrato animal",
+    "fr": "Maltraitance animale",
+    "no": "overgrep mot dyr",
+    "pt-BR": "maus-tratos a animais",
+    "pt-PT": "maus-tratos a animais",
+    "se": "Djurplågeri",
+    "zh-Hans": "动物虐待"
+  },
+  "qcode": "medtop:20001314",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001314",
+  "aid": "iptc_20001314"
+}

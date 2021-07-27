@@ -1,0 +1,41 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000568"
+  ],
+  "created": "2019-07-30T12:00:00+00:00",
+  "definition": {
+    "de": "Interesse am Konsum, der Herstellung und dem Sammeln von alkoholischen Getränken",
+    "dk": "Interesse i produktionen eller nydelsen af alkoholiske drikke.",
+    "en-GB": "Interest in the consumption, production and collection of alcoholic beverages",
+    "en-US": "Interest in the consumption, production and collection of alcoholic beverages",
+    "pt-BR": "Interesse pelo consumo, pela produção e pela coleção de bebidas alcoólicas.",
+    "pt-PT": "Interesse pelo consumo, pela produção e pela coleção de bebidas alcoólicas.",
+    "se": "Intresse i produktion, avsmakning och samlande av olika alkoholhaltiga drycker.",
+    "zh-Hans": "对酒精饮料的消费、生产和收集的兴趣"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-30T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "جعة، نبيذ ومشروبات روحية",
+    "de": "Bier, Wein und Spirituosen",
+    "dk": "øl, vin og spiritus",
+    "en-GB": "beer, wine and spirits",
+    "en-US": "beer, wine and spirits",
+    "es": "Cerveza, vino y licores (ocio)",
+    "fr": "Bières, vins et spiritueux (centre d'intérêt)",
+    "no": "øl, vin og brennevin",
+    "pt-BR": "cerveja, vinho e bebidas espirituosas",
+    "pt-PT": "cerveja, vinho e bebidas espirituosas",
+    "se": "Öl, vin och sprit",
+    "zh-Hans": "啤酒、葡萄酒和烈酒"
+  },
+  "qcode": "medtop:20001254",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001254",
+  "aid": "iptc_20001254"
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verschiedene Indizes, wie Warenbestände von Unternehmen, Preisbewegungen, die anzeigen, ob die Wirtschaftslage sich verbessert oder verschlechtert",
+    "dk": "Specifikke indekser, såsom aktiebalancer og prisindeks, der viser, om økonomien forbedres eller forværres.",
+    "en-GB": "Certain indexes, such as company inventories, the movement of prices that show whether the economy is improving or declining",
+    "en-US": "Certain indexes, such as company inventories, the movement of prices that show whether the economy is improving or declining",
+    "pt-BR": "Certos índices, tais como inventários, movimento dos preços, que indicam se a economia melhora ou piora.",
+    "pt-PT": "Certos índices, tais como inventários, movimento dos preços, que indicam se a economia melhora ou piora.",
+    "se": "Specifika index, t ex lagersaldon och prisindex, som visar om ekonomin förbättras eller försämras.",
+    "zh-Hans": "反映经济是好转还是衰退的某些指标，如公司库存、价格变动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008004",
+    "https://www.wikidata.org/entity/Q1167393"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000359",
+    "medtop:20000360",
+    "medtop:20000361",
+    "medtop:20000362"
+  ],
+  "prefLabel": {
+    "ar": "مؤشر اقتصادي",
+    "de": "Konjunktur",
+    "dk": "økonomisk indikator",
+    "en-GB": "economic indicator",
+    "en-US": "economic indicator",
+    "es": "Indicadores económicos",
+    "fr": "Indicateur économique",
+    "no": "økonomisk indikator",
+    "pt-BR": "indicadores econômicos",
+    "pt-PT": "indicadores económicos",
+    "se": "Ekonomiska indikatorer",
+    "zh-Hans": "经济指标"
+  },
+  "qcode": "medtop:20000358",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000358",
+  "aid": "iptc_20000358"
+}

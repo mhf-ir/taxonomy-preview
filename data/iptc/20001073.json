@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15062000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001071"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schwimmstil, auf dem Bauch liegend sich vorwärts und außerhalb mit den Armen und rückwärts mit den Beinen bewegend",
+    "dk": "Svømmedisciplin på maven, hvor man kommer frem ved bevægelser udad og bagud med armene, mens benene skubbes udad og bagud.",
+    "en-GB": "Swimming style , on the front, effecting forward and outward push movements with the arms and backward and outward pushes with the legs",
+    "en-US": "Swimming style , on the front, effecting forward and outward push movements with the arms and backward and outward pushes with the legs",
+    "pt-BR": "Estilo de nado em que o nadador, de barriga para o fundo, realiza movimentos para a frente e para fora com os braços e para trás e para fora com as pernas.",
+    "pt-PT": "Estilo de natação em que o nadador, de barriga para o fundo, realiza movimentos para a frente e para fora com os braços e para trás e para fora com as pernas.",
+    "zh-Hans": "一种泳姿。双臂往前和往外划水，腿向后和向外夹水"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q326163"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سباحة الصدر",
+    "de": "Brustschwimmen",
+    "dk": "brystsvømning",
+    "en-GB": "breaststroke",
+    "en-US": "breaststroke",
+    "es": "Braza (natación)",
+    "fr": "Brasse",
+    "no": "brystsvømming",
+    "pt-BR": "peito",
+    "pt-PT": "bruços",
+    "se": "Bröstsim",
+    "zh-Hans": "蛙泳"
+  },
+  "qcode": "medtop:20001073",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001073",
+  "aid": "iptc_20001073"
+}

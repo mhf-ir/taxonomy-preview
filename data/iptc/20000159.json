@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000151"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bruch in der Erdkruste, aus dem geschmolzenes Material an der Oberfläche ausgeworfen wird",
+    "dk": "Udbrud af magmatisk materiale fra jordens indre.",
+    "en-GB": "A rupture in the crust of the Earth allowing molten material to escape to the surface",
+    "en-US": "A rupture in the crust of the Earth allowing molten material to escape to the surface",
+    "pt-BR": "Ruptura da crosta terrestre que permite a emissão de material derretido para a superfície.",
+    "pt-PT": "Rutura da crosta terrestre que permite a emissão de material derretido para a superfície.",
+    "se": "Utgjutandet och utslungandet av magmatiskt material på jordytan.",
+    "zh-Hans": "地球表面的破裂使熔化的物质喷发到地表"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03011000",
+    "https://www.wikidata.org/entity/Q7692360"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انفجار بركان",
+    "de": "Vulkanausbruch",
+    "dk": "vulkanudbrud",
+    "en-GB": "volcanic eruption",
+    "en-US": "volcanic eruption",
+    "es": "Erupción volcánica",
+    "fr": "Éruption volcanique",
+    "no": "vulkanutbrudd",
+    "pt-BR": "erupção vulcânica",
+    "pt-PT": "erupção vulcânica",
+    "se": "Vulkanutbrott",
+    "zh-Hans": "火山喷发"
+  },
+  "qcode": "medtop:20000159",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000159",
+  "aid": "iptc_20000159"
+}

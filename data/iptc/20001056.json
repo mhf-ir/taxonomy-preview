@@ -1,0 +1,57 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wintersport mit unterschiedlichen Typen von Skiern",
+    "dk": "Fællesbetegnelse for alle typer konkurrencer, hvor konkurrenterne har ski på.",
+    "en-GB": "A winter sport using different types of skis",
+    "en-US": "A winter sport using different types of skis",
+    "pt-BR": "Esporte de inverno na neve que usa diferentes tipos de esquis.",
+    "pt-PT": "Desporto de inverno na neve que usa diferentes tipos de esquis.",
+    "se": "Samlingsbegrepp för alla typer av tävlingar där de tävlande har skidor på fötterna.",
+    "zh-Hans": "冬季运动。使用不同型号的滑雪板"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q130949"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001057",
+    "medtop:20001058",
+    "medtop:20001059",
+    "medtop:20001060",
+    "medtop:20001061",
+    "medtop:20001149",
+    "medtop:20001150",
+    "medtop:20001153"
+  ],
+  "prefLabel": {
+    "ar": "تزلج",
+    "de": "Ski",
+    "dk": "skiløb",
+    "en-GB": "skiing",
+    "en-US": "skiing",
+    "es": "Esquí",
+    "fr": "Ski",
+    "no": "ski",
+    "pt-BR": "esqui",
+    "pt-PT": "esqui",
+    "se": "Skidor",
+    "zh-Hans": "滑雪"
+  },
+  "qcode": "medtop:20001056",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001056",
+  "aid": "iptc_20001056"
+}

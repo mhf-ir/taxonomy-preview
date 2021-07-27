@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000256"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Kraftstoff, der aus lebender Materie gewonnen wird, wie zum Beispiel Ethano",
+    "dk": "Brændstof produceret af produkter fra biologiske processer i stedet for brændstof produceret baseret på geologiske processer som fossile brændstoffer, kul osv.",
+    "en-GB": "Fuel that is derived from living matter, such as ethanol",
+    "en-US": "Fuel that is derived from living matter, such as ethanol",
+    "pt-BR": "Combustível produzido a partir de material orgânico, como o etanol.",
+    "pt-PT": "Combustível produzido a partir de material orgânico, como o etanol.",
+    "se": "Bränsle som tillverkas av produkter från biologiska processer istället för bränsle som tillverkas baserat på geologiska processer som fossila bränslen, kol osv.",
+    "zh-Hans": "从生物物质中提取的燃料，如乙醇"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q128991"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "وقود حيوي",
+    "de": "Biokraftstoff",
+    "dk": "biobrændstof",
+    "en-GB": "biofuel",
+    "en-US": "biofuel",
+    "es": "Biocarburante",
+    "fr": "Biocarburant",
+    "no": "biodrivstoff",
+    "pt-BR": "biocombustível",
+    "pt-PT": "biocombustível",
+    "se": "Biobränsle",
+    "zh-Hans": "生物燃料"
+  },
+  "qcode": "medtop:20001207",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001207",
+  "aid": "iptc_20001207"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001244"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Geschäft mit der Abfallverwertung und Verschmutzungskontrolle",
+    "dk": "De kommercielle aktiviteter, der håndterer affald og overvåger emissioner.",
+    "en-GB": "The business of waste management and pollution control",
+    "en-US": "The business of waste management and pollution control",
+    "pt-BR": "O negócio da gestão de resíduos e do controle da poluição.",
+    "pt-PT": "O negócio da gestão de resíduos e do controlo da poluição.",
+    "se": "Den kommersiella verksamhet som hanterar avfall och bevakar utsläpp.",
+    "zh-Hans": "经营废物管理及污染控制业务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005007",
+    "https://www.wikidata.org/entity/Q180388"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ادارة نفايات ومراقبة التلوث",
+    "de": "Schadstoffkontrolle",
+    "dk": "affaldshåndtering og forureningskontrol",
+    "en-GB": "waste management industry",
+    "en-US": "waste management industry",
+    "es": "Manejo de desechos y control de contaminación",
+    "fr": "Traitement des déchets et contrôle de la pollution",
+    "no": "avfallshåndtering",
+    "pt-BR": "indústria de gestão de resíduos",
+    "pt-PT": "indústria de gestão de resíduos",
+    "se": "Avfallshantering och bekämpning av föroreningar",
+    "zh-Hans": "废物管理业"
+  },
+  "qcode": "medtop:20000269",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000269",
+  "aid": "iptc_20000269"
+}

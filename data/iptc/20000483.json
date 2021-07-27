@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000479"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Versicherung, die besondere medizinische Kosten übernimmt",
+    "dk": "Privat forsikring, som i tilfælde af sygdom og ulykke giver godtgørelse for omkostninger såsom medicinske udgifter, hospital pleje, operation og mere.",
+    "en-GB": "Insurance covering extraordinary medical costs",
+    "en-US": "Insurance covering extraordinary medical costs",
+    "pt-BR": "Seguro que cobre custos médicos extraordinários.",
+    "pt-PT": "Seguro que cobre custos médicos extraordinários.",
+    "se": "Privat försäkring som vid sjukdom och olycksfall ger ersättning för kostnader som läkararvoden, sjukhusvård, operation med mera.",
+    "zh-Hans": "保险覆盖的超常规的医疗费用"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14008000",
+    "https://www.wikidata.org/entity/Q334911"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تأمين صحي",
+    "de": "Zusatzversicherung",
+    "dk": "privat sygesikring",
+    "en-GB": "health insurance",
+    "en-US": "health insurance",
+    "es": "Seguro de salud",
+    "fr": "Assurance maladie",
+    "no": "helseforsikring",
+    "pt-BR": "seguro de saúde",
+    "pt-PT": "seguro de saúde",
+    "se": "Sjukförsäkringar",
+    "zh-Hans": "健康保险"
+  },
+  "qcode": "medtop:20000483",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000483",
+  "aid": "iptc_20000483"
+}

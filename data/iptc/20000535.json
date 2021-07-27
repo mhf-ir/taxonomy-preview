@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09009000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000533"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Finanzieller Ausgleich während der Arbeitslosigkeit",
+    "dk": "Statsstøttet forsikring, der yder kompensation for uforsikret arbejdsløshed.",
+    "en-GB": "Monetary compensation paid to the jobless",
+    "en-US": "Monetary compensation paid to the jobless",
+    "pt-BR": "Compensação monetária paga aos desempregados.",
+    "pt-PT": "Compensação monetária paga aos desempregados.",
+    "se": "Statsunderstödd försäkring som ger ersättning vid oförvållad arbetslöshet.",
+    "zh-Hans": "支付给失业者的货币补偿金"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q311255"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تعويضات البطالة",
+    "de": "Arbeitslosengeld",
+    "dk": "arbejdsløshedsunderstøttelse",
+    "en-GB": "unemployment benefits",
+    "en-US": "unemployment benefits",
+    "es": "Subsidio de paro",
+    "fr": "Allocations chômage",
+    "no": "arbeidsledighetstrygd",
+    "pt-BR": "seguro-desemprego",
+    "pt-PT": "subsídio de desemprego",
+    "se": "Arbetslöshetsersättning",
+    "zh-Hans": "失业救济金"
+  },
+  "qcode": "medtop:20000535",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000535",
+  "aid": "iptc_20000535"
+}

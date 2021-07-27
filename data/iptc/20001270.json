@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000551"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Feier, die in einer Reihe von Ländern am 31. Oktober mit Aktivitäten wie *Süßes oder Saures*, dem Tragen von Kostümen, dem Schnitzen von Kürbissen, dem Besuch von Spukattraktionen, dem Erzählen von Gruselgeschichten und dem Anschauen von Horrorfilmen gefeiert wird",
+    "dk": "Foregår 31. oktober og er oprindeligt en dag, hvor man mindes de døde. Efter amerikansk forbillede har fejringen i Danmark udviklet sig til en udklædningsfest, hvor man skræmmer hinanden for sjov, og hvor børnene tigger slik i nabolaget.",
+    "en-GB": "A celebration observed in a number of countries on 31 October with activities including trick-or-treating, wearing costumes, carving pumpkins,visiting haunted attractions, telling scary stories and watching horror films",
+    "en-US": "A celebration observed in a number of countries on 31 October with activities including trick-or-treating, wearing costumes, carving pumpkins,visiting haunted attractions, telling scary stories and watching horror films",
+    "pt-BR": "Celebração comemorada em vários países em 31 de outubro, com atividades que incluem pedir doçuras ou travessuras, usar fantasias, esculpir abóboras, visitar atrações assombradas, contar histórias assustadoras e assistir filmes de terror.",
+    "pt-PT": "Celebração comemorada em vários países a 31 de outubro, com atividades que incluem pedir doçuras ou travessuras, usar fantasias, esculpir abóboras, visitar atrações assombradas, contar histórias assustadoras e ver filmes de terror.",
+    "se": "Firas i en del länder den 31 oktober och innehåller ofta kostymer, bus-eller-godis, pumpadekorationer och festligheter.",
+    "zh-Hans": "通常在10月31日庆祝的节日，活动包括不给糖就捣乱的游戏、装扮、雕刻南瓜、参观闹鬼的景点、讲恐怖故事和观看恐怖电影等"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q251868"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "هالويين",
+    "de": "Halloween",
+    "dk": "halloween/allehelgensaften",
+    "en-GB": "Halloween",
+    "en-US": "Halloween",
+    "es": "Halloween",
+    "fr": "Halloween",
+    "no": "halloween",
+    "pt-BR": "Dia das Bruxas",
+    "pt-PT": "Dia das Bruxas",
+    "se": "Halloween",
+    "zh-Hans": "万圣节"
+  },
+  "qcode": "medtop:20001270",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001270",
+  "aid": "iptc_20001270"
+}

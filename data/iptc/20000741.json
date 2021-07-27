@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/13000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Institution, die wissenschaftliche Arbeiten durchführt oder regelt, wie die Nationale Akademie der Künste und Wissenschaften",
+    "dk": "Institutioner, der udfører eller forvalter videnskabeligt arbejde.",
+    "en-GB": "Institution that carries out or governs scientific work, such as the National Academy of Arts and Sciences",
+    "en-US": "Institution that carries out or governs scientific work, such as the National Academy of Arts and Sciences",
+    "es": "Institución que lleva a cabo o administra el trabajo científico, como las academias de ciencias",
+    "fr": "Institution qui exécute ou gère des travaux scientifiques, tels que l'Académie des arts et des sciences",
+    "pt-BR": "Instituições que realizam ou gerem trabalho científico.",
+    "pt-PT": "Instituições que realizam ou gerem trabalho científico.",
+    "se": "Institutioner som genomför eller styr vetenskapligt arbete.",
+    "zh-Hans": "开展或管理科学工作的机构，如国家艺术和科学学院"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13023000",
+    "https://www.wikidata.org/entity/Q31855"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مؤسسات علمية",
+    "de": "Wissenschaftliche Institutionen",
+    "dk": "videnskabelig institution",
+    "en-GB": "scientific institution",
+    "en-US": "scientific institution",
+    "es": "Institución científica",
+    "fr": "Institution scientifique",
+    "no": "forskningsinstitutt",
+    "pt-BR": "instituições científicas",
+    "pt-PT": "instituições científicas",
+    "se": "Forskningsinstitutioner",
+    "zh-Hans": "科研机构"
+  },
+  "qcode": "medtop:20000741",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000741",
+  "aid": "iptc_20000741"
+}

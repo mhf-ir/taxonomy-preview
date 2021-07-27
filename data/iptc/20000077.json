@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11002000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/16000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Aktivitäten zur Wiederherstellung der Gesellschaft, Wirtschaft oder des politischen Systems in einem Gebiet nach einem Krieg",
+    "dk": "Foranstaltninger til at genoprette samfundet, økonomien og det politiske system i et krigshærget område.",
+    "en-GB": "Actions to rebuild a society, economy or political system in an area affected by war",
+    "en-US": "Actions to rebuild a society, economy or political system in an area affected by war",
+    "es": "Acciones para reconstruir una sociedad, economía o sistema político en una zona afectada por la guerra",
+    "fr": "Actions pour reconstruire une société, une économie ou un système politique dans une zone touchée par la guerre",
+    "pt-BR": "Ações para reconstruir uma sociedade, economia ou sistema político numa área afetada pela guerra.",
+    "pt-PT": "Ações para reconstruir uma sociedade, economia ou sistema político numa área afetada pela guerra.",
+    "se": "Åtgärder för att återskapa samhället, ekonomin och det politiska systemet i ett krigshärjat område.",
+    "zh-Hans": "重建受战争影响地区的社会、经济或政治制度的行动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3422086"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000078",
+    "medtop:20000079"
+  ],
+  "prefLabel": {
+    "ar": "اعمار ما بعد الحرب",
+    "de": "Wiederaufbau",
+    "dk": "genopbygning efter krig",
+    "en-GB": "post-war reconstruction",
+    "en-US": "post-war reconstruction",
+    "es": "Reconstrucción",
+    "fr": "Reconstruction",
+    "no": "gjenreisning",
+    "pt-BR": "reconstrução pós-guerra",
+    "pt-PT": "reconstrução pós-guerra",
+    "se": "Återuppbyggnad",
+    "zh-Hans": "战后重建"
+  },
+  "qcode": "medtop:20000077",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000077",
+  "aid": "iptc_20000077"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unternehmen, die Pakete und Dokumente für Einzelne oder Firmen verpacken und auf allen Wegen transportieren, Postdienste miteingeschlossen",
+    "dk": "Virksomheder, der forbereder og sender pakker og dokumenter til enkeltpersoner eller virksomheder.",
+    "en-GB": "Companies that prepare and transport packages and documents for individuals or companies by any means, including postal services.",
+    "en-US": "Companies that prepare and transport packages and documents for individuals or companies by any means, including postal services.",
+    "pt-BR": "Empresas que preparam e transportam embalagens e documentos por vários meios, incluindo serviços postais.",
+    "pt-PT": "Empresas que preparam e transportam embalagens e documentos por vários meios, incluindo serviços postais.",
+    "se": "Företag som förbereder och fraktar paket och dokument åt individer eller företag.",
+    "zh-Hans": "以任何方式（包括邮政服务）为个人或公司包装和运输包裹和文件的公司"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006012",
+    "https://www.wikidata.org/entity/Q1447463"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خدمات الشحن",
+    "de": "Kurierdienst",
+    "dk": "kurer- og transporttjeneste",
+    "en-GB": "shipping service",
+    "en-US": "shipping service",
+    "es": "Servicios de envío",
+    "fr": "Messagerie",
+    "no": "fraktselskap",
+    "pt-BR": "serviços de expedição",
+    "pt-PT": "serviços de expedição",
+    "se": "Bud- och transporttjänster",
+    "zh-Hans": "运输服务"
+  },
+  "qcode": "medtop:20000291",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000291",
+  "aid": "iptc_20000291"
+}

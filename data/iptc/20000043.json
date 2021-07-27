@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000038"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Einrichtungen, die Sammlungen von Büchern, Musik, Kunst oder Objekten aus der Vergangenheit beherbergen und wahlweise der Öffentlichkeit zur Besichtigung und Nutzung öffnen",
+    "dk": "Institutioner, der samler bøger, musikoptagelser, film, kunstværker og gamle ting fra forskellige epoker og lader interesserede se på dem og i nogle tilfælde låne dem hjem.",
+    "en-GB": "Institutions that house collections of books, music, art, or objects from the past and present optionally for public use and display",
+    "en-US": "Institutions that house collections of books, music, art, or objects from the past and present optionally for public use and display",
+    "es": "Instituciones que albergan colecciones de libros, música, arte u objetos del pasado y del presente, opcionalmente para uso público y exposiciones",
+    "fr": "Institution qui abrite des collections de livres, de musique, d'œuvres d'art ou d'objets du passé et du présent pouvant être exposées ou mises à la disposition du public",
+    "pt-BR": "Edifícios utilizados para albergar coleções de livros, música, arte ou objetos do passado e do presente para uso público e exibição.",
+    "pt-PT": "Edifícios utilizados para albergar coleções de livros, música, arte ou objetos do passado e do presente para uso público e exibição.",
+    "se": "Institutioner som samlar böcker, musikinspelningar, filmer, konstverk och gamla saker från olika tidsepoker och låter intresserade titta på dessa och i vissa fall låna hem dem.",
+    "zh-Hans": "收藏书籍、音乐、艺术品等的机构，既可服务于公共用途，也可以是对内用途"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01009000",
+    "https://www.wikidata.org/entity/Q5193377"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مكاتب ومتاحف",
+    "de": "Bibliothek und Museum",
+    "dk": "bibliotek og museum",
+    "en-GB": "library and museum",
+    "en-US": "library and museum",
+    "es": "Bibliotecas y museos",
+    "fr": "Bibliothèque et musée",
+    "no": "bibliotek og museum",
+    "pt-BR": "bibliotecas e museus",
+    "pt-PT": "bibliotecas e museus",
+    "se": "Bibliotek och museum",
+    "zh-Hans": "图书馆和博物馆"
+  },
+  "qcode": "medtop:20000043",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000043",
+  "aid": "iptc_20000043"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der Geldwert von Waren, Dienstleistungen oder Aktien und Anleihen",
+    "dk": "Den monetære værdi af varer, tjenester, aktier eller obligationer.",
+    "en-GB": "The monetary value of goods, services or stocks and bonds",
+    "en-US": "The monetary value of goods, services or stocks and bonds",
+    "pt-BR": "Valor monetário de bens e serviços ou de ações e obrigações.",
+    "pt-PT": "Valor monetário de bens e serviços ou de ações e obrigações.",
+    "se": "Det monetära värdet av varor, tjänster, aktier eller obligationer.",
+    "zh-Hans": "商品、服务或股票和债券的货币价值"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008017",
+    "https://www.wikidata.org/entity/Q160151"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اسعار",
+    "de": "Preis",
+    "dk": "markedspris",
+    "en-GB": "prices",
+    "en-US": "prices",
+    "es": "Precios",
+    "fr": "Prix",
+    "no": "pris",
+    "pt-BR": "preços",
+    "pt-PT": "preços",
+    "se": "Marknadspriser",
+    "zh-Hans": "价格"
+  },
+  "qcode": "medtop:20000382",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000382",
+  "aid": "iptc_20000382"
+}

@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/05000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Beide Eckpfeiler des Gleichgewichts in der Ausbildung",
+    "dk": "Formidling af viden i organiseret form og på en systematisk måde, især i skolen, og modtagelse af denne formidling.",
+    "en-GB": "Either end of the education equation",
+    "en-US": "Either end of the education equation",
+    "pt-BR": "Os dois objetivos da equação escolar: ensinar e aprender.",
+    "pt-PT": "Os dois objetivos da equação escolar: ensinar e aprender.",
+    "se": "Förmedling av kunskaper i organiserad form och på systematiskt sätt, särskilt i skola, och mottagandet av denna förmedling.",
+    "zh-Hans": "教与学"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05010000",
+    "https://www.wikidata.org/entity/Q8434"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000412",
+    "medtop:20000413",
+    "medtop:20000415",
+    "medtop:20000416",
+    "medtop:20001217"
+  ],
+  "prefLabel": {
+    "ar": "تعليم وتعلم",
+    "de": "Lehren und Lernen",
+    "dk": "undervisning og læring",
+    "en-GB": "teaching and learning",
+    "en-US": "teaching and learning",
+    "es": "Enseñanza y aprendizaje",
+    "fr": "Pédagogie",
+    "no": "læring og utdanning",
+    "pt-BR": "ensino/aprendizado",
+    "pt-PT": "ensino / aprendizagem",
+    "se": "Undervisning och lärande",
+    "zh-Hans": "教学和学习"
+  },
+  "qcode": "medtop:20000411",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000411",
+  "aid": "iptc_20000411"
+}

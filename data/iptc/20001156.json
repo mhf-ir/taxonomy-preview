@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001155"
+  ],
+  "created": "2014-11-07T12:00:00+00:00",
+  "definition": {
+    "de": "Wettbewerbe mit Stunts und akrobatischen Kunststücken, die auf einem Skateboard unter Verwendung verschiedener Rampen und anderer Hindernisse ausgeführt werden",
+    "dk": "Deltagerne bruger et skateboard (træplade med fire hjul) og udfører forskellige tricks på bane eller rampe.",
+    "en-GB": "Competitions involving stunts and acrobatic feats performed on a skateboard using various ramps and other obstacles",
+    "en-US": "Competitions involving stunts and acrobatic feats performed on a skateboard using various ramps and other obstacles",
+    "pt-BR": "Competições envolvendo manobras e acrobacias realizadas em skate usando várias rampas e outros obstáculos.",
+    "pt-PT": "Competições envolvendo manobras e acrobacias realizadas em skate usando várias rampas e outros obstáculos.",
+    "se": "De tävlande använder en liten platta med fyra hjul och åker runt och gör olika trick.",
+    "zh-Hans": "在具有不同坡度、障碍的赛道上使用滑板表演特技和杂技动作"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q842284"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-11-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "لوح تزلج",
+    "de": "Skateboarden",
+    "dk": "skateboarding",
+    "en-GB": "skateboarding",
+    "en-US": "skateboarding",
+    "es": "Skateboarding",
+    "fr": "Skateboard",
+    "no": "skateboarding",
+    "pt-BR": "skate",
+    "pt-PT": "skate",
+    "se": "Skateboard",
+    "zh-Hans": "滑板运动"
+  },
+  "qcode": "medtop:20001156",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001156",
+  "aid": "iptc_20001156"
+}

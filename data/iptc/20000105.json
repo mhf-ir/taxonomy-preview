@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kriminelle Handlungen und deren Strafverfolgung, die während eines Krieges oder bewaffneten Konfliktes begangen werden, gewöhnlich gegen Zivilisten oder Kriegsgefangene",
+    "dk": "Alvorlige krænkelser af krigslovene, ofte overgreb på civile eller krigsfanger, herunder retsforfølgelse af disse forbrydelser.",
+    "en-GB": "Crimes committed during a war or armed conflict, usually against civilians or POW's, including the prosecution of such crimes",
+    "en-US": "Crimes committed during a war or armed conflict, usually against civilians or POW's, including the prosecution of such crimes",
+    "pt-BR": "Crimes cometidos durante uma guerra ou conflito armado, geralmente contra civis ou prisioneiros de guerra, incluindo o julgamento desses crimes.",
+    "pt-PT": "Crimes cometidos durante uma guerra ou conflito armado, geralmente contra civis ou prisioneiros de guerra, incluindo o julgamento desses crimes.",
+    "se": "Svåra överträdelser av krigets lagar, exempelvis genom användning av förbjudna vapen, order om eller deltagande i tortyr eller annan svår misshandel av krigsfångar eller civila.",
+    "zh-Hans": "在战争或武装冲突中对平民或战俘犯下的罪行，包括对此类罪行的起诉"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02013000",
+    "https://www.wikidata.org/entity/Q135010"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "جرائم حرب",
+    "de": "Kriegsverbrechen",
+    "dk": "krigskriminalitet",
+    "en-GB": "war crime",
+    "en-US": "war crime",
+    "es": "Crimen de guerra",
+    "fr": "Crime de guerre",
+    "no": "krigsforbrytelser",
+    "pt-BR": "crime de guerra",
+    "pt-PT": "crime de guerra",
+    "se": "Krigsbrott",
+    "zh-Hans": "战争罪"
+  },
+  "qcode": "medtop:20000105",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000105",
+  "aid": "iptc_20000105"
+}

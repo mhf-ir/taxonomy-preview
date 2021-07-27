@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001108"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkampf, an dem die besten Wettkämpfer und Teams verschiedener Länder teilnehmen. Cup genannt",
+    "dk": "Pokal, hvor atleter eller hold fra forskellige lande kan deltage.",
+    "en-GB": "A competition where individuals or teams from different countries may participate. Called a *Cup*",
+    "en-US": "A competition where individuals or teams from different countries may participate. Called a *Cup*",
+    "pt-BR": "Competição em que podem participar indivíduos ou equipes de diferentes países. Designa-se por *Copa*.",
+    "pt-PT": "Competição em que podem participar indivíduos ou equipas de diferentes países. Designa-se por *Taça*.",
+    "se": "Cup där atleter eller lag från olika länder kan delta.",
+    "zh-Hans": "个人或团体代表国家参加的国际范围内的杯赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15073021",
+    "https://www.wikidata.org/entity/Q1936368"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كأس دولية",
+    "de": "Internationaler Cup",
+    "dk": "international pokal",
+    "en-GB": "international cup",
+    "en-US": "international cup",
+    "es": "Copa internacional",
+    "fr": "Coupe internationale",
+    "no": "internasjonal cup",
+    "pt-BR": "copa internacional",
+    "pt-PT": "taça internacional",
+    "se": "Internationella cuper",
+    "zh-Hans": "国际杯赛"
+  },
+  "qcode": "medtop:20001113",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001113",
+  "aid": "iptc_20001113"
+}

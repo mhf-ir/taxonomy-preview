@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000756"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Untersuchung, Entwicklung, Anwendung und ethische Überlegungen zu technologischen Methoden zur Identifizierung von Produkten, Tieren oder Menschen, einschließlich Radiofrequenz, Biometrie oder Gesichtserkennung",
+    "dk": "Videnskab, udvikling, anvendelse og etiske spørgsmål vedrørende tekniske metoder til genkendelse af produkter, dyr eller mennesker, såsom ansigtsgenkendelse og biometrisk teknologi.",
+    "en-GB": "The study, development, application and ethical considerations of technological methods for identifying products, animals or people; including radio frequency, biometrics or face recognition",
+    "en-US": "The study, development, application and ethical considerations of technological methods for identifying products, animals or people; including radio frequency, biometrics or face recognition",
+    "es": "El estudio, desarrollo, aplicación y consideraciones éticas de los métodos tecnológicos para identificar productos, animales o personas; incluyendo radiofrecuencia, biometría o reconocimiento facial",
+    "fr": "Etude, développement, application et considérations éthiques des méthodes technologiques d'identification de produits, d'animaux ou de personnes; y compris la radiofréquence, la biométrie ou la reconnaissance faciale",
+    "pt-BR": "Estudo, desenvolvimento, aplicação e considerações éticas dos métodos tecnológicos para identificação de produtos, animais ou pessoas; inclui radiofrequência, biometria ou reconhecimento facial.",
+    "pt-PT": "Estudo, desenvolvimento, aplicação e considerações éticas dos métodos tecnológicos para identificação de produtos, animais ou pessoas; inclui radiofrequência, biometria ou reconhecimento facial.",
+    "se": "Vetenskapen, utvecklingen, tillämpningen och de etiska frågorna rörande tekniska metoder för att känna igen produkter, djur eller människor, till exempel ansiktsigenkänning och biometrisk teknik.",
+    "zh-Hans": "研究、发展、应用和伦理上考虑鉴别产品、动物或人的技术方法； 包括射频、生物特征识别或人脸识别"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13017000",
+    "https://www.wikidata.org/entity/Q787282"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تقنيات التعرف على الهوية",
+    "de": "Technologie zur Identitätsprüfung",
+    "dk": "identifikationsteknologi",
+    "en-GB": "identification technology",
+    "en-US": "identification technology",
+    "es": "Tecnología de identificación",
+    "fr": "Technologie de l'identification",
+    "no": "automatisk identifisering",
+    "pt-BR": "tecnologia de identificação",
+    "pt-PT": "tecnologia de identificação",
+    "se": "Identifieringsteknik",
+    "zh-Hans": "识别技术"
+  },
+  "qcode": "medtop:20000762",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000762",
+  "aid": "iptc_20000762"
+}

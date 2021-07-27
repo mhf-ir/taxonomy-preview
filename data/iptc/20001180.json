@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000029"
+  ],
+  "created": "2018-04-09T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Gattung von Theater bei der dramatische oder unterhaltende Stücke auf einer Bühne aufgeführt werden.",
+    "dk": "En teatergenre, hvor et drama eller en komedie udelukkende udføres med tale og skuespil af skuespillere på en scene.",
+    "en-GB": "A genre of theatre where dramatic or comedic plays are performed on the stage",
+    "en-US": "A genre of theatre where dramatic or comedic plays are performed on the stage",
+    "es": "Género teatral en el que se representan obras dramáticas o comedias en un escenario",
+    "fr": "Genre théâtral où des pièces dramatiques ou comiques sont jouées sur scène",
+    "pt-BR": "Gênero teatral em que peças dramáticas ou cômicas são representadas em palco.",
+    "pt-PT": "Género teatral em que peças dramáticas ou cómicas são representadas em palco.",
+    "se": "En teatergenre där ett drama eller en komedi framförs uteslutande med tal och agerande av skådespelare på en scen.",
+    "zh-Hans": "一种在舞台上演出的戏剧或喜剧"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q39892385"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2018-04-09T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مسرحية",
+    "de": "Drama (Theater)",
+    "dk": "drama (teater)",
+    "en-GB": "drama (theatre)",
+    "en-US": "drama (theatre)",
+    "es": "Drama",
+    "fr": "Pièce de théâtre",
+    "no": "drama",
+    "pt-BR": "drama (teatro)",
+    "pt-PT": "drama (teatro)",
+    "se": "Dramatisk teater",
+    "zh-Hans": "话剧"
+  },
+  "qcode": "medtop:20001180",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001180",
+  "aid": "iptc_20001180"
+}

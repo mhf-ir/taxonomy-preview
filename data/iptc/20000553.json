@@ -1,0 +1,56 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000538"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ort, an dem Menschen sich amüsieren oder unterhalten werden",
+    "dk": "Et sted, hvor folk går hen for at underholde sig eller blive underholdt.",
+    "en-GB": "A place where people go to be entertained or amused. For sporting events, use sport venue.",
+    "en-US": "A place where people go to be entertained or amused",
+    "pt-BR": "Lugar onde as pessoas vão para entretenimento ou diversão.",
+    "pt-PT": "Lugar onde as pessoas vão para entretenimento ou diversão.",
+    "se": "En plats dit folk går för att bli underhållna eller roade.",
+    "zh-Hans": "人们去娱乐或消遣的场所，供体育赛事使用的运动场地。"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q18674739"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000554",
+    "medtop:20000555",
+    "medtop:20000556",
+    "medtop:20000557",
+    "medtop:20000558",
+    "medtop:20000559",
+    "medtop:20001315"
+  ],
+  "prefLabel": {
+    "ar": "مكان ترفيه",
+    "de": "Veranstaltungsort",
+    "dk": "underholdningssted",
+    "en-GB": "leisure venue",
+    "en-US": "leisure venue",
+    "es": "Lugares de ocio",
+    "fr": "Lieu de loisirs",
+    "no": "fritidsarena",
+    "pt-BR": "lugar de lazer",
+    "pt-PT": "lugar de lazer",
+    "se": "Nöjeslokal",
+    "zh-Hans": "休闲场所"
+  },
+  "qcode": "medtop:20000553",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000553",
+  "aid": "iptc_20000553"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01006000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000007"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein theatralischer Tanzstil, mehr geprägt von freiem Ausdruck als von vorgegebenen Bewegungen",
+    "dk": "Teatralsk dansestil, der ikke er begrænset til klassiske udtryk.",
+    "en-GB": "A theatrical dance style based on free-style expression rather than formal gestures",
+    "en-US": "A theatrical dance style based on free-style expression rather than formal gestures",
+    "pt-BR": "Estilo de dança teatral, baseado na expressão livre em vez de gestos formais.",
+    "pt-PT": "Estilo de dança teatral, baseado na expressão livre em vez de gestos formais.",
+    "se": "Teatralisk dansstil som inte är begränsad till klassiska uttryck.",
+    "zh-Hans": "一种基于自由表达而非特定动作程式的舞蹈形式"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q850130"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رقص حديث",
+    "de": "Modern Dance",
+    "dk": "moderne dans",
+    "en-GB": "modern dance",
+    "en-US": "modern dance",
+    "es": "Danza moderna",
+    "fr": "Danse moderne",
+    "no": "moderne dans",
+    "pt-BR": "dança moderna",
+    "pt-PT": "dança moderna",
+    "se": "Modern dans",
+    "zh-Hans": "现代舞"
+  },
+  "qcode": "medtop:20000009",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000009",
+  "aid": "iptc_20000009"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000565"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Soziales Ereignis mit Tanz",
+    "dk": "Social begivenhed med dans.",
+    "en-GB": "A social gathering of invited guests, often involving eating, drinking, dancing or the playing of games",
+    "en-US": "A social gathering of invited guests, often involving eating, drinking, dancing or the playing of games",
+    "pt-BR": "Evento social que reúne pessoas convidadas, geralmente com comida, bebida, dança ou jogos.",
+    "pt-PT": "Evento social que reúne pessoas convidadas, geralmente com comida, bebida, dança ou jogos.",
+    "se": "Sammankomst med riklig förtäring av god mat och dryck, för deltagarnas nöje, ibland med dans.",
+    "zh-Hans": "邀请客人参加的社交聚会，通常包括吃饭、喝酒、跳舞或玩游戏"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q200538"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2012-10-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حفلة",
+    "de": "Party",
+    "dk": "fest",
+    "en-GB": "party",
+    "en-US": "party",
+    "es": "Fiesta",
+    "fr": "Soirée (fête)",
+    "no": "fest",
+    "pt-BR": "festa",
+    "pt-PT": "festa",
+    "se": "Fester",
+    "zh-Hans": "派对"
+  },
+  "qcode": "medtop:20001143",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001143",
+  "aid": "iptc_20001143"
+}

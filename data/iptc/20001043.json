@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15050000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001038"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Segeln auf offener See als Teil eines Rennens",
+    "dk": "Konkurrencer med sejlskibe over eet eller flere oceaner.",
+    "en-GB": "Sailing vessels across oceans as part of a competitive race.",
+    "en-US": "Sailing vessels across oceans as part of a competitive race.",
+    "pt-BR": "Corrida de embarcações à volta do mundo através dos oceanos.",
+    "pt-PT": "Corrida de embarcações à volta do mundo através dos oceanos.",
+    "se": "Segeltävlingar över en eller flera oceaner.",
+    "zh-Hans": "跨大洋航海比赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q8046440"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic sailing + sports facet sailingtype."
+  },
+  "prefLabel": {
+    "ar": "سباق قوارب في المحيط",
+    "de": "Meersegeln",
+    "dk": "oceansejllads",
+    "en-GB": "ocean sailing",
+    "en-US": "ocean sailing",
+    "es": "Regata transatlántica",
+    "fr": "Course transatlantique",
+    "no": "hav-regatta",
+    "pt-BR": "regata oceânica",
+    "pt-PT": "regata oceânica",
+    "se": "Havskappsegling",
+    "zh-Hans": "远洋航行赛"
+  },
+  "qcode": "medtop:20001043",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001043",
+  "aid": "iptc_20001043"
+}

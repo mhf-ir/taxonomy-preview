@@ -1,0 +1,59 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wassersport bei dem die Wettkämpfer so schnell wie möglich in einem vorgegebenen Stil schwimmen. Sieger ist, wer zuerst ankommt",
+    "dk": "En vandsport, hvor deltagere svømmer så hurtigt som muligt i en given stil og på en bestemt distance og vinderen er den som er hurtigst.",
+    "en-GB": "A water sport where contestants swim as fast as possible in a given style and win races by being the first to touch home",
+    "en-US": "A water sport where contestants swim as fast as possible in a given style and win races by being the first to touch home",
+    "pt-BR": "Esporte aquático em que os atletas nadam o mais rápido possível em determinado estilo.",
+    "pt-PT": "Desporto aquático em que os atletas nadam o mais rápido possível em determinado estilo.",
+    "se": "Tävlingarna sker i speciella bassänger med uppmärkta banor. Bassängerna kan vara långa eller korta. Man tävlar i olika distanser och olika simsätt som bröst, frisim, rygg och medley. Även som stafetter som i simning kallas lagkapp.",
+    "zh-Hans": "水上运动。运动员按要求的泳姿以最快的速度，第一个游到终点并触壁的获胜"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15062000",
+    "https://www.wikidata.org/entity/Q31920"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/swimmingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001072",
+    "medtop:20001073",
+    "medtop:20001074",
+    "medtop:20001075",
+    "medtop:20001076",
+    "medtop:20001077",
+    "medtop:20001078",
+    "medtop:20001079",
+    "medtop:20001080"
+  ],
+  "prefLabel": {
+    "ar": "سباحة",
+    "de": "Schwimmen",
+    "dk": "svømning",
+    "en-GB": "swimming",
+    "en-US": "swimming",
+    "es": "Natación",
+    "fr": "Natation",
+    "no": "svømming",
+    "pt-BR": "natação",
+    "pt-PT": "natação",
+    "se": "Simning",
+    "zh-Hans": "游泳"
+  },
+  "qcode": "medtop:20001071",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001071",
+  "aid": "iptc_20001071"
+}

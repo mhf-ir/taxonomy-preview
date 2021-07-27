@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03015002"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000155"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Plötzlicher Schneefall, Eis, Steinschlag oder Schlamm von einem Berg herunter",
+    "dk": "Ophobet sne, der pludselig skrider ned af en bjerg side eller skråning.",
+    "en-GB": "A sudden fall of snow, ice, rock, or mud down the side of a mountain",
+    "en-US": "A sudden fall of snow, ice, rock, or mud down the side of a mountain",
+    "pt-BR": "A queda repentina de neve, gelo, rochas ou lama de uma montanha.",
+    "pt-PT": "A queda repentina de neve, gelo, rochas ou lama de uma montanha.",
+    "se": "När snö samlats på en sluttning och plötsligt släppper och rasar ned.",
+    "zh-Hans": "雪、冰、岩石或泥土突然从山的一侧滑落"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q7935"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انهيار",
+    "de": "Lawine",
+    "dk": "lavine",
+    "en-GB": "avalanche",
+    "en-US": "avalanche",
+    "es": "Avalancha",
+    "fr": "Avalanche",
+    "no": "snøskred",
+    "pt-BR": "avalancha",
+    "pt-PT": "avalanche",
+    "se": "Laviner",
+    "zh-Hans": "雪崩（山崩）"
+  },
+  "qcode": "medtop:20000156",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000156",
+  "aid": "iptc_20000156"
+}

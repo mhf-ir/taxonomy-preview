@@ -1,0 +1,59 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11006000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/11000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein umfassender Plan oder Kurs der Regierung, um Entscheidungen und Aktionen zu einem gewünschten Ergebnis zu bringen und zu steuern",
+    "dk": "En overordnet plan eller handlingsforløb, der er fastlagt af en regering, som har til formål at påvirke og lede beslutninger og handlinger mod et ønsket resultat.",
+    "en-GB": "An overall plan or course of action set out by a government intended to influence and guide decisions and actions towards a desired outcome.",
+    "en-US": "An overall plan or course of action set out by a government intended to influence and guide decisions and actions towards a desired outcome.",
+    "pt-BR": "Plano global ou plano de ação estabelecido por um governo para influenciar e orientar decisões e ações em direção a um resultado desejado.",
+    "pt-PT": "Plano global ou plano de ação estabelecido por um governo para influenciar e orientar decisões e ações em direção a um resultado desejado.",
+    "se": "Presentation av regeringens politik som avges av statsministern till riksdagen vid riksmötets första sammanträde.",
+    "zh-Hans": "政府制定的总体计划或行动方针，旨在影响和指导决策和行动以达到预期的结果"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q546113"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000345",
+    "medtop:20000619",
+    "medtop:20000620",
+    "medtop:20000626",
+    "medtop:20000634",
+    "medtop:20000635",
+    "medtop:20000636",
+    "medtop:20001132",
+    "medtop:20001147",
+    "medtop:20001265"
+  ],
+  "prefLabel": {
+    "ar": "سياسة حكومة",
+    "de": "Regierungspolitik",
+    "dk": "regeringspolitik",
+    "en-GB": "government policy",
+    "en-US": "government policy",
+    "es": "Política del gobierno",
+    "fr": "Politique du gouvernement",
+    "no": "offentlig politikk",
+    "pt-BR": "política governamental",
+    "pt-PT": "política governamental",
+    "se": "Regeringsförklaring",
+    "zh-Hans": "政府政策"
+  },
+  "qcode": "medtop:20000621",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000621",
+  "aid": "iptc_20000621"
+}

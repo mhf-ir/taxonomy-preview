@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Ballspiel mit zwei Teams mit gebogenen Stöcken camans genannt. Das Ziel ist, Tore zu schießen durch Drücken des kleinen Lederballs durch die Tore.",
+    "dk": "En keltisk boldsport, der udføres mellem to hold med specielle køller, og hvor mål scores ved at skubbe en lille læderkugle mellem målstolperne.",
+    "en-GB": "A ball game involving 2 teams with curved sticks called camans. The object is to score goals by hitting the small leather ball through the goals.",
+    "en-US": "A ball game involving 2 teams with curved sticks called camans. The object is to score goals by hitting the small leather ball through the goals.",
+    "pt-BR": "Jogo de bola que envolve 2 equipes com tacos curvos chamados *camans*. O objetivo é marcar gols, introduzindo a pequena bola de couro no gol.",
+    "pt-PT": "Jogo de bola que envolve 2 equipas com tacos curvos chamados *camans*. O objetivo é marcar golos, introduzindo a pequena bola de couro na baliza.",
+    "se": "En keltisk bollidrott, som utförs mellan två lag med speciella klubbor och där mål görs genom att skjuta en liten läderboll mellan målstolparna.",
+    "zh-Hans": "两个队进行的集体比赛。使用弯曲的球棍，击打小皮球进门得分"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q850256"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صولجان",
+    "de": "Shinty",
+    "dk": "shinty",
+    "en-GB": "shinty",
+    "en-US": "shinty",
+    "es": "Shinty",
+    "fr": "Shinty",
+    "no": "shinty",
+    "pt-BR": "shinty",
+    "pt-PT": "shinty",
+    "se": "Shinty",
+    "zh-Hans": "简化曲棍球"
+  },
+  "qcode": "medtop:20001048",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001048",
+  "aid": "iptc_20001048"
+}

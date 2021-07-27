@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000413"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Prüfungen für die Aufnahme ins Gymnasium, zur Universität, Fachhochschulen und allen anderen Bildungseinrichtungen, inklusive Vorbereitung, die den Schülern bei der Examensprüfung helfen auch für weiterführende Schulen",
+    "dk": "Test for at komme ind på forskellige kurser.",
+    "en-GB": "Exams for entering colleges, universities, junior and senior high schools, and all other higher and lower education institutes, including cram schools, which help students prepare for exams for entry to prestigious schools.",
+    "en-US": "Exams for entering colleges, universities, junior and senior high schools, and all other higher and lower education institutes, including cram schools, which help students prepare for exams for entry to prestigious schools.",
+    "pt-BR": "Exames para entrar em universidades, institutos superiores e outras instituições de ensino.",
+    "pt-PT": "Exames para entrar em universidades, institutos superiores e outras instituições de ensino.",
+    "se": "Tester för att komma in på olika utbildningar.",
+    "zh-Hans": "进入大学、大学、初中和高中，以及所有其他高等和低等教育机构的考试，包括帮助学生准备进入名牌学校的考试的补习班"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05009000",
+    "https://www.wikidata.org/entity/Q759860"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "امتحانات قبول",
+    "de": "Aufnhameprüfung/Abschluss",
+    "dk": "optagelsesprøve",
+    "en-GB": "entrance examination",
+    "en-US": "entrance examination",
+    "es": "Examen de admisión",
+    "fr": "Examen ou concours d'entrée",
+    "no": "opptaksprøve",
+    "pt-BR": "exame de admissão",
+    "pt-PT": "exame de admissão",
+    "se": "Antagningsprov",
+    "zh-Hans": "入学考试"
+  },
+  "qcode": "medtop:20000414",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000414",
+  "aid": "iptc_20000414"
+}

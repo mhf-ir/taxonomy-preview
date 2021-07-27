@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000553"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Park, in dem verschiedene Fahrten und Unterhaltungsattraktionen für Kinder und Erwachsene angeboten werden, inklusive Themenparks",
+    "dk": "En park med forskellige forlystelser og underholdningsattraktioner for både voksne og børn, herunder forlystelsesparker.",
+    "en-GB": "A park providing various rides and entertainment attractions for both adults and children, including theme parks",
+    "en-US": "A park providing various rides and entertainment attractions for both adults and children, including theme parks",
+    "pt-BR": "Parque que oferece várias atrações de entretenimento para adultos e crianças, incluindo parques temáticos.",
+    "pt-PT": "Parque que oferece várias atrações de entretenimento para adultos e crianças, incluindo parques temáticos.",
+    "se": "Stationär eller ambulerande nöjespark med bland annat karuseller och andra åkattraktioner.",
+    "zh-Hans": "为成人和儿童提供各种游乐设施和娱乐景点的公园，包括主题公园"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q194195"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "منتزه تسلية",
+    "de": "Vergnügungspark",
+    "dk": "forlystelsespark",
+    "en-GB": "amusement park",
+    "en-US": "amusement park",
+    "es": "Parque de atracciones",
+    "fr": "Parc d'attractions",
+    "no": "fornøyelsespark",
+    "pt-BR": "parque de diversões",
+    "pt-PT": "parque de diversões",
+    "se": "Nöjesfält",
+    "zh-Hans": "游乐园"
+  },
+  "qcode": "medtop:20000554",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000554",
+  "aid": "iptc_20000554"
+}

@@ -1,0 +1,58 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Geschäft aus Rohstoffen nützliche Produkte herzustellen",
+    "dk": "Kommercielle virksomheder, der omdanner råvarer til nyttige produkter. Det drejer sig blandt andet om kemisk industri og medicinalbranchen.",
+    "en-GB": "The business of turning raw materials into useable products",
+    "en-US": "The business of turning raw materials into useable products",
+    "pt-BR": "Negócio da transformação de matéria-prima em produtos utilizáveis.",
+    "pt-PT": "Negócio da transformação de matéria-prima em produtos utilizáveis.",
+    "se": "Den kommersiella verksamhet som omvandlar råmaterial till användbara produkter.",
+    "zh-Hans": "加工制造业：将原材料转化为可用产品的产业"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04013000",
+    "https://www.wikidata.org/entity/Q15991203"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000323",
+    "medtop:20000324",
+    "medtop:20000325",
+    "medtop:20000326",
+    "medtop:20000327",
+    "medtop:20000328",
+    "medtop:20000329",
+    "medtop:20000330",
+    "medtop:20001167",
+    "medtop:20001168",
+    "medtop:20001169"
+  ],
+  "prefLabel": {
+    "ar": "صناعة تحويلية",
+    "de": "Verarbeitende Industrie",
+    "dk": "procesindustri",
+    "en-GB": "process industry",
+    "en-US": "process industry",
+    "es": "Industrias de procesamiento",
+    "fr": "Industrie de transformation",
+    "no": "industriproduksjon",
+    "pt-BR": "indústria transformadora",
+    "pt-PT": "indústria transformadora",
+    "se": "Processindustri",
+    "zh-Hans": "流程工业"
+  },
+  "qcode": "medtop:20000322",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000322",
+  "aid": "iptc_20000322"
+}

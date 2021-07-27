@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000424"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Feste und flüssige Stoffe, die die Qualität des Wassers verschlechtern, was als Trinkwasser oder zur Bewässerung genutzt werden könnte.",
+    "dk": "Stoffer, der er til stede i vand i en så stor mængde, at det kan skade mennesker, dyr og planter.",
+    "en-GB": "Solids or liquids that corrupt the quality of water that could be used for drinking or irrigation",
+    "en-US": "Solids or liquids that corrupt the quality of water that could be used for drinking or irrigation",
+    "pt-BR": "Sólidos ou líquidos que contaminam a qualidade da água que podia ser usada para beber ou regar.",
+    "pt-PT": "Sólidos ou líquidos que contaminam a qualidade da água que podia ser usada para beber ou regar.",
+    "se": "Ämnen som förekommer i vatten i så stor mängd att det kan skada människor, djur och växter.",
+    "zh-Hans": "破坏饮用或灌溉用水水质的固体或液体"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06005002",
+    "https://www.wikidata.org/entity/Q183129"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تلوث مياه",
+    "de": "Wasserverschmutzung",
+    "dk": "vandforurening",
+    "en-GB": "water pollution",
+    "en-US": "water pollution",
+    "es": "Contaminación del agua",
+    "fr": "Pollution de l'eau",
+    "no": "vannforurensning",
+    "pt-BR": "poluição da água",
+    "pt-PT": "poluição da água",
+    "se": "Vattenföroreningar",
+    "zh-Hans": "水污染"
+  },
+  "qcode": "medtop:20000429",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000429",
+  "aid": "iptc_20000429"
+}

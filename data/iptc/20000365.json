@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Statistiken über Beschäftigung",
+    "dk": "Statistik om beskæftigelse.",
+    "en-GB": "Statistics about employment",
+    "en-US": "Statistics about employment",
+    "pt-BR": "Estatísticas sobre o emprego.",
+    "pt-PT": "Estatísticas sobre o emprego.",
+    "se": "Statistik som beskriver den nationella arbetsmarknaden.",
+    "zh-Hans": "关于就业的统计数据"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "احصاءات قطاع الوظائف",
+    "de": "Arbeitsstatistik",
+    "dk": "beskæftigelsesstatistik",
+    "en-GB": "employment statistics",
+    "en-US": "employment statistics",
+    "es": "Estadísticas de empleo",
+    "fr": "Statistiques de l'emploi",
+    "no": "sysselsettingsstatistikk",
+    "pt-BR": "estatísticas de emprego",
+    "pt-PT": "estatísticas de emprego",
+    "se": "Arbetsmarknadsstatistik",
+    "zh-Hans": "就业统计"
+  },
+  "qcode": "medtop:20000365",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000365",
+  "aid": "iptc_20000365"
+}

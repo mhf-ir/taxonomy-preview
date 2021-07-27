@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13001001"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000731"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Untersuchung der Struktur und des Verhaltens von Atomkernen",
+    "dk": "Undersøgelsen af atomkerners struktur og opførsel.",
+    "en-GB": "The study of the structure and behaviour of atomic nuclei",
+    "en-US": "The study of the structure and behavior of atomic nuclei",
+    "es": "El estudio de la estructura y el comportamiento de los núcleos atómicos",
+    "fr": "Etude de la structure et du comportement des noyaux atomiques",
+    "pt-BR": "Estudo da estrutura e comportamento dos núcleos atômicos.",
+    "pt-PT": "Estudo da estrutura e comportamento dos núcleos atómicos.",
+    "se": "Vetenskapen om atomkärnornas struktur och kärnmateriens egenskaper.",
+    "zh-Hans": "研究原子核的结构和变化规律的学科"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q81197"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000734"
+  ],
+  "prefLabel": {
+    "ar": "فيزياء نووية",
+    "de": "Atomphysik",
+    "dk": "atomfysik",
+    "en-GB": "nuclear physics",
+    "en-US": "nuclear physics",
+    "es": "Física nuclear",
+    "fr": "Physique nucléaire",
+    "no": "kjernefysikk",
+    "pt-BR": "física nuclear",
+    "pt-PT": "física nuclear",
+    "se": "Kärnfysik",
+    "zh-Hans": "核物理"
+  },
+  "qcode": "medtop:20000733",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000733",
+  "aid": "iptc_20000733"
+}

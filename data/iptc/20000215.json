@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000210"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Züchtung von Tieren als Nahrungsmittel",
+    "dk": "Avl af dyr til produktion af mad eller pels.",
+    "en-GB": "Raising of animals for their by-products, such as meat, eggs, milk, fur and wool",
+    "en-US": "Raising of animals for their by-products, such as meat, eggs, milk, fur and wool",
+    "pt-BR": "Criação de animais para consumo alimentar.",
+    "pt-PT": "Criação de animais para consumo alimentar.",
+    "se": "Uppfödning av djur för framställning av mat.",
+    "zh-Hans": "饲养动物获取食物"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04001004",
+    "https://www.wikidata.org/entity/Q7143051"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تربية الماشية",
+    "de": "Tierhaltung",
+    "dk": "husdyrbrug",
+    "en-GB": "livestock farming",
+    "en-US": "livestock farming",
+    "es": "Ganadería y avicultura",
+    "fr": "Élevage",
+    "no": "husdyrhold",
+    "pt-BR": "pecuária",
+    "pt-PT": "pecuária",
+    "se": "Djurhållning",
+    "zh-Hans": "畜牧业"
+  },
+  "qcode": "medtop:20000215",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000215",
+  "aid": "iptc_20000215"
+}

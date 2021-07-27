@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/05000000"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05003000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Elterngruppen, die sich für die Schule engagieren",
+    "dk": "Gruppe af forældre nedsat for at støtte deres børns uddannelsesaktiviteter.",
+    "en-GB": "Group of parents set up to support educational activities of their children",
+    "en-US": "Group of parents set up to support educational activities of their children",
+    "pt-BR": "Grupos de pais que se organizam para apoiar as atividades educacionais dos filhos.",
+    "pt-PT": "Grupos de pais que se organizam para apoiar as atividades educacionais dos filhos.",
+    "se": "Förskola som startats av en föräldraförening och sköts genom en, av denna, vald styrelse.",
+    "zh-Hans": "为支持孩子的教育活动而成立的家长团体"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q706242"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "منظمة الآباء",
+    "de": "Eltern",
+    "dk": "forældrebestyrelse",
+    "en-GB": "parent organisation",
+    "en-US": "parent organization",
+    "es": "Asociaciones de padres de alumnos",
+    "fr": "Parents d'élèves",
+    "no": "skoleorganisasjoner",
+    "pt-BR": "associações de pais",
+    "pt-PT": "associações de pais",
+    "se": "Föräldraföreningar",
+    "zh-Hans": "家长组织"
+  },
+  "qcode": "medtop:20000398",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000398",
+  "aid": "iptc_20000398"
+}

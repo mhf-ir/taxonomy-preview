@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Menge, die eine Regierung an festverzinslichen Wertpapieren, Dienstleistungen und Waren schuldet und Leistungen für die sie kein Bargeld zahlen kann",
+    "dk": "De penge, som staten skylder, for eksempel til andre lande.",
+    "en-GB": "The amount a government owes on bonds, services and for goods and services for which it has no ready cash",
+    "en-US": "The amount a government owes on bonds, services and for goods and services for which it has no ready cash",
+    "pt-BR": "Quantia que um governo deve em obrigações, serviços ou bens pelos quais não existe dinheiro efetivo.",
+    "pt-PT": "Quantia que um governo deve em obrigações, serviços ou bens pelos quais não existe dinheiro efetivo.",
+    "se": "De pengar som staten är skyldig till exempel andra länder.",
+    "zh-Hans": "政府所欠债券、服务以及没有现款购买的商品和服务的总额"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008008",
+    "https://www.wikidata.org/entity/Q12695"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ديون حكومية",
+    "de": "Staatsverschuldung",
+    "dk": "statsgæld",
+    "en-GB": "government debt",
+    "en-US": "government debt",
+    "es": "Deuda pública",
+    "fr": "Dette publique",
+    "no": "statsgjeld",
+    "pt-BR": "dívida pública",
+    "pt-PT": "dívida pública",
+    "se": "Statsskuld",
+    "zh-Hans": "政府债务"
+  },
+  "qcode": "medtop:20000368",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000368",
+  "aid": "iptc_20000368"
+}

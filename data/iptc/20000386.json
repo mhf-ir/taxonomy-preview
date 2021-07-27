@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000385"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Tauschgeschäft und Verkauf von Waren, wie Baumwolle, Öl, Kohle, Metalle etc.",
+    "dk": "Handelssted for standardiseret handel med råvarer og/eller råvarer eller afledte instrumenter baseret på disse varer, for eksempel bomuld, olie, kul, metaller og mere.",
+    "en-GB": "The bartering or trading of goods such as cotton, oil, coal, metals, etc",
+    "en-US": "The bartering or trading of goods such as cotton, oil, coal, metals, etc",
+    "pt-BR": "Troca ou comercialização de matérias-primas como algodão, petróleo, carvão, metais etc.",
+    "pt-PT": "Troca ou comercialização de matérias-primas como algodão, petróleo, carvão, metais, etc.",
+    "se": "Handelsplats för standardiserad handel med råvaror och/eller handelsvaror, eller derivatinstrument baserade på dessa varor t ex bomull, olja, kol, metaller med mera.",
+    "zh-Hans": "棉花、石油、煤炭、金属等商品的易货或交易"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008024",
+    "https://www.wikidata.org/entity/Q2922469"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000387",
+    "medtop:20000388",
+    "medtop:20000389"
+  ],
+  "prefLabel": {
+    "ar": "سوق السلع",
+    "de": "Warenbörse",
+    "dk": "råvarebørs",
+    "en-GB": "commodity market",
+    "en-US": "commodity market",
+    "es": "Mercado de materias primas",
+    "fr": "Marché des matières premières",
+    "no": "råvaremarked",
+    "pt-BR": "mercados de produtos de base",
+    "pt-PT": "mercados de produtos de base",
+    "se": "Råvarumarknad",
+    "zh-Hans": "大宗商品市场"
+  },
+  "qcode": "medtop:20000386",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000386",
+  "aid": "iptc_20000386"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000256"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Elektrizität, die aus Wasserkraft erzeugt wird, wenn Wasser durch Turbinen fließt",
+    "dk": "Energi genereret ved at føre vand gennem turbiner. Vandet opsamles ofte i damme, så strømmen kan reguleres efter behov.",
+    "en-GB": "Electricity produced from hydropower when water flows through turbines",
+    "en-US": "Electricity produced from hydropower when water flows through turbines",
+    "pt-BR": "Eletricidade produzida a partir de energia hídrica quando a água passa através de turbinas.",
+    "pt-PT": "Eletricidade produzida a partir de energia hídrica quando a água passa através de turbinas.",
+    "se": "Energi som genereras genom att leda vatten genom turbiner. Vattnet samlas ofta i dammar så flödet kan regleras efter behov.",
+    "zh-Hans": "当水流过涡轮时产生的电能"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q80638"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "طاقة هيدروالكترونية",
+    "de": "Wasserkraft",
+    "dk": "vandkraft",
+    "en-GB": "hydroelectric power",
+    "en-US": "hydroelectric power",
+    "es": "Energía hidroeléctrica",
+    "fr": "Énergie hydroélectrique",
+    "no": "vannkraft",
+    "pt-BR": "energia hidrelétrica",
+    "pt-PT": "energia hidroelétrica",
+    "se": "Vattenkraft",
+    "zh-Hans": "水力发电"
+  },
+  "qcode": "medtop:20001210",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001210",
+  "aid": "iptc_20001210"
+}

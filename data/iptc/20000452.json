@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000451"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Acquired Immunity Deficiency Syndrome, eine unheilbare Krankheit verursacht durch HIV.",
+    "dk": "En dødbringende sygdom, der er kendetegnet ved alvorlig skade på immunsystemet, der får den berørte person til at blive ekstremt modtagelig for infektioner. AIDS er forårsaget af human immundefektvirus, HIV, og er slutstadiet af en HIV-infektion.",
+    "en-GB": "Acquired Immunity Deficiency Syndrome, an incurable disease caused by the human immunodeficiency virus",
+    "en-US": "Acquired Immunity Deficiency Syndrome, an incurable disease caused by the human immunodeficiency virus",
+    "pt-BR": "Síndrome de Imunodeficiência Adquirida, doença incurável causada pelo vírus da imunodeficiência humana.",
+    "pt-PT": "Síndrome da Imunodeficiência Adquirida, doença incurável causada pelo vírus da imunodeficiência humana.",
+    "se": "En dödlig sjukdom som kännetecknas av svåra skador på immunförsvaret, vilket medför att den drabbade blir extremt känslig för infektioner. Aids orsakas av humant immunbristvirus, HIV, och utgör slutstadiet av en hiv-infektion.",
+    "zh-Hans": "获得性免疫缺陷综合征，一种由人类免疫缺陷病毒引起的无法治愈的疾病"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07001003",
+    "https://www.wikidata.org/entity/Q12199"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ايدز",
+    "de": "AIDS",
+    "dk": "aids",
+    "en-GB": "AIDS",
+    "en-US": "AIDS",
+    "es": "Sida",
+    "fr": "SIDA",
+    "no": "aids",
+    "pt-BR": "aids",
+    "pt-PT": "sida",
+    "se": "Aids",
+    "zh-Hans": "艾滋病"
+  },
+  "qcode": "medtop:20000452",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000452",
+  "aid": "iptc_20000452"
+}

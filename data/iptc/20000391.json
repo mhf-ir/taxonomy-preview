@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000385"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der Welthandel mit Schekel, Dinar, Euro, Dollar etc. auf geregelten Märkten",
+    "dk": "Handel med valutaer, hvori valutakurser bestemmes.",
+    "en-GB": "The trading of shekels, dinars, euros, dollars etc around the world through regulated markets",
+    "en-US": "The trading of shekels, dinars, euros, dollars etc around the world through regulated markets",
+    "pt-BR": "Troca de divisas em todo o mundo, através de mercados regulados.",
+    "pt-PT": "Troca de divisas em todo o mundo, através de mercados regulados.",
+    "se": "Den handel med valutor i vilken valutakurser bestäms.",
+    "zh-Hans": "通过受管制的市场在世界各地进行谢克尔、第纳尔、欧元、美元等的交易"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008006",
+    "https://www.wikidata.org/entity/Q66076"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سوق صرف العملات",
+    "de": "Devisenmarkt",
+    "dk": "valutamarked",
+    "en-GB": "foreign exchange market",
+    "en-US": "foreign exchange market",
+    "es": "Mercados cambiario",
+    "fr": "Marché des changes",
+    "no": "valutahandel",
+    "pt-BR": "mercado cambial",
+    "pt-PT": "mercado cambial",
+    "se": "Valutamarknad",
+    "zh-Hans": "外汇市场"
+  },
+  "qcode": "medtop:20000391",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000391",
+  "aid": "iptc_20000391"
+}

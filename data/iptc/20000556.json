@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000553"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Geschäft mit der Zubereitung und Bereitstellung von Getränken und kleinen Snacks, spezielle Details in verschiedenen Kulturen",
+    "dk": "Lokale, hvor der serveres kaffe, te og læskedrikke samt morgenmad, kager og sandwich.",
+    "en-GB": "A small business where drinks and snacks are prepared and served - its specifics may depend on the local culture",
+    "en-US": "A small business where drinks and snacks are prepared and served - its specifics may depend on the local culture",
+    "pt-BR": "Pequeno estabelecimento onde são preparadas e servidas ao público bebidas e refeições ligeiras – a sua especificidade pode depender da cultura local.",
+    "pt-PT": "Pequeno estabelecimento onde são preparadas e servidas ao público bebidas e refeições ligeiras – a sua especificidade pode depender da cultura local.",
+    "se": "Lokal där det framför allt serveras kaffe, te och läskedrycker samt bakverk och smörgåsar.",
+    "zh-Hans": "提供饮料和小吃的小型企业——具体情况可能取决于当地文化"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q30022"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مقهى",
+    "de": "Café",
+    "dk": "cafe",
+    "en-GB": "cafe",
+    "en-US": "cafe",
+    "es": "Café",
+    "fr": "Café",
+    "no": "kafé",
+    "pt-BR": "café",
+    "pt-PT": "café",
+    "se": "Kafé",
+    "zh-Hans": "咖啡厅"
+  },
+  "qcode": "medtop:20000556",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000556",
+  "aid": "iptc_20000556"
+}

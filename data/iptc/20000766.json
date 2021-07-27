@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000765"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Erforschung von Technologien, die Materialien oder Vorrichtungen auf atomarer oder molekularer Ebene beinhalten",
+    "dk": "Teknologi til fremstilling, påvirkning og håndtering af materialer og genstande med mindst en dimension i størrelsesordenen 1–100 nanometer.",
+    "en-GB": "Manipulating objects at the molecular scale",
+    "en-US": "Manipulating objects at the molecular scale",
+    "es": "El estudio de tecnologías que involucran materiales o dispositivos construidos a escala atómica o molecular",
+    "fr": "Etude de technologies impliquant des matériaux ou des dispositifs construits à l'échelle atomique ou moléculaire",
+    "pt-BR": "Manipulação de objetos à escala molecular.",
+    "pt-PT": "Manipulação de objetos à escala molecular.",
+    "se": "Teknik för att tillverka, påverka och hantera material och objekt med minst en dimension i storleksordningen 1–100 nanometer.",
+    "zh-Hans": "在分子尺度上处理对象"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13021000",
+    "https://www.wikidata.org/entity/Q11468"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تكنولوجيا الاجهزة الدقيقة",
+    "de": "Nanotechnologie",
+    "dk": "nanoteknologi",
+    "en-GB": "nanotechnology",
+    "en-US": "nanotechnology",
+    "es": "Nanotecnología",
+    "fr": "Nanotechnologie",
+    "no": "nanoteknologi",
+    "pt-BR": "nanotecnologia",
+    "pt-PT": "nanotecnologia",
+    "se": "Nanoteknologi",
+    "zh-Hans": "纳米技术"
+  },
+  "qcode": "medtop:20000766",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000766",
+  "aid": "iptc_20000766"
+}

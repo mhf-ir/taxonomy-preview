@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14005000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000811"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Freiwilliger Tod durch fremde Hilfe",
+    "dk": "Forsætlig selvdestruktiv handling, der fører til død, udført med hjælp fra en anden person.",
+    "en-GB": "The practice of assisting a person suffering from a terminal illness in the process of suicide, often with a physician's oversight",
+    "en-US": "The practice of assisting a person suffering from a terminal illness in the process of suicide, often with a physician's oversight",
+    "pt-BR": "Morte pelas próprias mãos com a ajuda de outra pessoa.",
+    "pt-PT": "Morte pelas próprias mãos com a ajuda de outra pessoa.",
+    "se": "Avsiktlig självdestruktiv handling som leder till döden, som utförs med hjälp av en annan person.",
+    "zh-Hans": "通过别人的协助来自愿结束自己性命"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q689846"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "انتحار بمساعدة",
+    "de": "Beihilfe zum Selbstmord",
+    "dk": "assisteret selvmord",
+    "en-GB": "assisted suicide",
+    "en-US": "assisted suicide",
+    "es": "Suicidio asistido",
+    "fr": "Suicide assisté",
+    "no": "assistert selvmord",
+    "pt-BR": "suicídio assistido",
+    "pt-PT": "suicídio assistido",
+    "se": "Assisterat självmord",
+    "zh-Hans": "协助自杀"
+  },
+  "qcode": "medtop:20000812",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000812",
+  "aid": "iptc_20000812"
+}

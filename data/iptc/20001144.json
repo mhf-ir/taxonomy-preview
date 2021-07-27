@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000594"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Unbezahlter Dienst für die Gemeinschaft als Zivilist",
+    "dk": "Arbejde udført af den del af samfundet, hvor mennesker hjælper hinanden uden inddragelse af offentligheden, staten eller kommunerne.",
+    "en-GB": "Unpaid service for the community as civilian",
+    "en-US": "Unpaid service for the community as civilian",
+    "pt-BR": "Serviço não remunerado feito por um civil para a comunidade.",
+    "pt-PT": "Serviço não remunerado feito por um civil para a comunidade.",
+    "se": "Arbete som utförs av den del av samhället där människor hjälper varandra utan inblandning av det offentliga, staten eller kommuner.",
+    "zh-Hans": "向社区百姓提供的无偿服务"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q702635"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2012-10-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "خدمة مدنية",
+    "de": "Zivildienst",
+    "dk": "civil embedsvæsen",
+    "en-GB": "civilian service",
+    "en-US": "civilian service",
+    "es": "Servicio civil",
+    "fr": "Service civil",
+    "no": "siviltjeneste",
+    "pt-BR": "serviço alternativo",
+    "pt-PT": "serviço cívico",
+    "se": "Civilsamhälleligt arbete",
+    "zh-Hans": "公民服务"
+  },
+  "qcode": "medtop:20001144",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001144",
+  "aid": "iptc_20001144"
+}

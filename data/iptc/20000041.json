@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000038"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Ereignis, das von einer Gruppe gefeiert wird und das sich auf eine charakteristische Eigenschaft der Gruppe oder ihrer Religion oder Gebräuche konzentriert",
+    "dk": "En begivenhed fejret af en gruppe mennesker med samme interesse, og som fokuserer på et karakteristisk aspekt af gruppen og dens traditioner.",
+    "en-GB": "An event ordinarily celebrated by a community and centring on some characteristic aspect of that community and its religion or traditions",
+    "en-US": "An event ordinarily celebrated by a community and centering on some characteristic aspect of that community and its religion or traditions",
+    "es": "Evento comúnmente celebrado por una comunidad y centrado en algún aspecto característico de esa comunidad y su religión o sus tradiciones",
+    "fr": "Événement habituellement célébré par une communauté et centré sur un aspect caractéristique de cette communauté, de sa religion ou de ses traditions",
+    "pt-BR": "Um evento geralmente celebrado por uma comunidade e centrado em algum aspeto dessa comunidade ou em sua religião e tradições.",
+    "pt-PT": "Um evento geralmente celebrado por uma comunidade e centrado em algum aspeto dessa comunidade ou na sua religião e tradições.",
+    "se": "En händelse som firas av en grupp personer med samma intresse och som fokuserar på en karakteristisk aspekt av gruppen och dess traditioner.",
+    "zh-Hans": "通常由一个社群举行的庆祝活动，以该社群及其宗教或传统的某些特征为中心"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01004000",
+    "https://www.wikidata.org/entity/Q132241"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حدث احتفالي",
+    "de": "Fest (Kultur)",
+    "dk": "festlig begivenhed (kultur)",
+    "en-GB": "festive event (culture)",
+    "en-US": "festive event (culture)",
+    "es": "Festividades",
+    "fr": "Festivals et commémorations",
+    "no": "festivaler",
+    "pt-BR": "festividades (cultura)",
+    "pt-PT": "festividades (cultura)",
+    "se": "Kulturell fest eller händelse",
+    "zh-Hans": "节日活动（文化）"
+  },
+  "qcode": "medtop:20000041",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000041",
+  "aid": "iptc_20000041"
+}

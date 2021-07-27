@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000817"
+  ],
+  "created": "2020-08-05T12:00:00+00:00",
+  "definition": {
+    "de": "Wohnungen, die Eigentum einer Regierung oder einer gemeinnützigen Organisation sind oder von ihr verwaltet werden und an Mieter vermietet werden, mit dem Ziel, Wohnraum erschwinglich zu machen. Die Anspruchsberechtigung für solche Wohnvereinbarungen variiert von Land zu Land.",
+    "dk": "Byggeri der er ejet eller styret af en regering eller non-profit organisation med mål om at udleje til rimelige priser. Berettigelse til dette variere fra land til land.",
+    "en-GB": "Housing that is owned or managed by a government or nonprofit organisation and rented to tenants with the aim of making housing affordable. Eligibility for such housing arrangements varies country to country.",
+    "en-US": "Housing that is owned or managed by a government or nonprofit organization and rented to tenants with the aim of making housing affordable. Eligibility for such housing arrangements varies country to country.",
+    "pt-BR": "Habitação que pertence ou é administrada por um governo ou por uma organização sem fins lucrativos e alugada a inquilinos com o objetivo de tornar a habitação acessível. A elegibilidade para esse tipo de alojamento varia de país para país.",
+    "pt-PT": "Habitação que pertence ou é administrada por um governo ou por uma organização sem fins lucrativos e alugada a inquilinos com o objetivo de tornar a habitação acessível. A elegibilidade para esse tipo de alojamento varia de país para país.",
+    "se": "Hus som drivs av myndigheter eller organisationer för att erbjuda boende till hemlösa.",
+    "zh-Hans": "政府或非营利机构拥有或管理的房屋，用于租赁给低收入人群，不同国家对享有租赁该种房屋的人员资质要求各异"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q6532502"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "",
+    "de": "Sozialer Wohnungsbau",
+    "dk": "socialt byggeri",
+    "en-GB": "public housing",
+    "en-US": "public housing",
+    "es": "Vivienda social",
+    "fr": "Logement social",
+    "no": "kommunale boliger",
+    "pt-BR": "habitação social",
+    "pt-PT": "habitação social",
+    "se": "Nödboende",
+    "zh-Hans": "公共房屋"
+  },
+  "qcode": "medtop:20001290",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001290",
+  "aid": "iptc_20001290"
+}

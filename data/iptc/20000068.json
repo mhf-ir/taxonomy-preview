@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000065"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein oft gewalttätiger Wechsel oder Umsturz der Regierung eines Landes oder von dessen politischen System durch Kräfte aus dem Land um ein neues System durchzusetzen.",
+    "dk": "Større, væbnet og organiseret omstyrtning af det eksisterende samfund.",
+    "en-GB": "A forcible and often violent change to, or overthrow of, a country's political system or social order by internal forces, in favour of a new system",
+    "en-US": "A forcible and often violent change to, or overthrow of, a country's political system or social order by internal forces, in favor of a new system",
+    "es": "Un cambio por la fuerza y a menudo violento, o un derrocamiento del sistema de gobierno o del orden social de un país, por parte de fuerzas internas, en favor de un nuevo sistema",
+    "fr": "Changement par la force et souvent violent, ou renversement, du système de gouvernement ou de l'ordre social d'un pays par des forces internes, en faveur d'un nouveau système",
+    "pt-BR": "Alteração por vezes violenta do sistema governativo de um país, feita por forças internas que provocam mudanças sociais sistemáticas.",
+    "pt-PT": "Alteração por vezes violenta do sistema governativo de um país, feita por forças internas que provocam mudanças sociais sistemáticas.",
+    "se": "Större, väpnad, organiserad omstörtning av det bestående samhället.",
+    "zh-Hans": "内部势力为支持一种新制度而强行改变或推翻一个国家的政治制度或社会秩序，这种改变通常是暴力的"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16003001",
+    "https://www.wikidata.org/entity/Q10931"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ثورة",
+    "de": "Revolution",
+    "dk": "revolution",
+    "en-GB": "revolution",
+    "en-US": "revolution",
+    "es": "Revoluciones",
+    "fr": "Révolution",
+    "no": "revolusjon",
+    "pt-BR": "revoluções",
+    "pt-PT": "revoluções",
+    "se": "Revolution",
+    "zh-Hans": "革命"
+  },
+  "qcode": "medtop:20000068",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000068",
+  "aid": "iptc_20000068"
+}

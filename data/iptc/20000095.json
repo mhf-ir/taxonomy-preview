@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02001000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alle Arten von Kriminalität im Zusammenhang mit Drogen",
+    "dk": "Aktiviteter, der overtræder love om håndtering af narkotiske stoffer og udstyr.",
+    "en-GB": "Illegal activities involving illicit substances, including buying, distribution, selling and smuggling",
+    "en-US": "Illegal activities involving illicit substances, including buying, distribution, selling and smuggling",
+    "pt-BR": "Atividades ilegais que envolvem substâncias ilícitas, incluindo a compra, a distribuição, a venda e o tráfego.",
+    "pt-PT": "Atividades ilegais que envolvem substâncias ilícitas, incluindo a compra, a distribuição, a venda e o tráfego.",
+    "se": "Aktiviteter som bryter mot lagar kring hantering av narkotiska preparat och utrustning.",
+    "zh-Hans": "涉及违禁药品的非法活动，包括购买、分销、售卖和走私"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1259975"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000096"
+  ],
+  "prefLabel": {
+    "ar": "جرائم مخدرات",
+    "de": "Drogenkriminalität",
+    "dk": "narkokriminalitet",
+    "en-GB": "drug related crimes",
+    "en-US": "drug related crimes",
+    "es": "Crímenes relacionados con las drogas",
+    "fr": "Crimes liés aux stupéfiants",
+    "no": "narkotikalovbrudd",
+    "pt-BR": "crimes relacionados com drogas",
+    "pt-PT": "crimes relacionados com drogas",
+    "se": "Narkotikabrott",
+    "zh-Hans": "毒品犯罪"
+  },
+  "qcode": "medtop:20000095",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000095",
+  "aid": "iptc_20000095"
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Handel von Gütern und Dienstleistungen zwischen Ländern",
+    "dk": "Handel med varer og tjenester mellem lande.",
+    "en-GB": "Trade of goods and services between nations",
+    "en-US": "Trade of goods and services between nations",
+    "pt-BR": "Comércio de bens e serviços entre nações.",
+    "pt-PT": "Comércio de bens e serviços entre nações.",
+    "se": "Handel med varor och tjänster mellan länder.",
+    "zh-Hans": "国家间货物和服务贸易"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008011",
+    "https://www.wikidata.org/entity/Q178803"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000374",
+    "medtop:20000375",
+    "medtop:20000376",
+    "medtop:20000377"
+  ],
+  "prefLabel": {
+    "ar": "تجارة دولية",
+    "de": "Welthandel",
+    "dk": "international handel",
+    "en-GB": "international trade",
+    "en-US": "international trade",
+    "es": "Comercio internacional",
+    "fr": "Commerce international",
+    "no": "internasjonal handel",
+    "pt-BR": "comércio externo",
+    "pt-PT": "comércio externo",
+    "se": "Internationell handel",
+    "zh-Hans": "国际贸易"
+  },
+  "qcode": "medtop:20000373",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000373",
+  "aid": "iptc_20000373"
+}

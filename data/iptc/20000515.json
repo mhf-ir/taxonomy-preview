@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000514"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ergänzende Maßnahmen, um aktuelle Sachkenntnisse zu erwerben",
+    "dk": "Studier og kurser for fagfolk og ledere med henblik på at give viden og færdigheder ud over, hvad en tidligere grunduddannelse har givet.",
+    "en-GB": "Additional training to enhance current skills",
+    "en-US": "Additional training to enhance current skills",
+    "pt-BR": "Formação adicional para melhorar as competências atuais.",
+    "pt-PT": "Formação adicional para melhorar as competências atuais.",
+    "se": "Studier och kurser för yrkesutövare och befattningshavare i syfte att ge kunskaper och färdigheter utöver vad en tidigare, grundläggande utbildning givit.",
+    "zh-Hans": "加强现有技能的额外培训"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09014000",
+    "https://www.wikidata.org/entity/Q828748"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تأهيل متقدم",
+    "de": "Fortbildung",
+    "dk": "efteruddannelse",
+    "en-GB": "advanced training",
+    "en-US": "advanced training",
+    "es": "Especialización",
+    "fr": "Formation continue",
+    "no": "videreutdanning",
+    "pt-BR": "formação avançada",
+    "pt-PT": "formação avançada",
+    "se": "Kompetensutveckling",
+    "zh-Hans": "高级培训"
+  },
+  "qcode": "medtop:20000515",
+  "retired": "2019-10-07T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000515",
+  "aid": "iptc_20000515"
+}

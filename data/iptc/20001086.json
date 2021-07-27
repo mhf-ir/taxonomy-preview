@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Spiel, wobei ein Spieler Punkte erzielt indem er versucht 10 Kegel mit einer Kugel umzuschmeißen. Wenn er erfolglos ist, hat er einen zweiten Versuch. Ein Spiel besteht aus 10 Aufstellungen",
+    "dk": "Et spil, hvor en spiller scorer point ved at forsøge at vælte ti kegler ned ved hjælp af en bowlingkugle - hvis det ikke lykkes, har spilleren et andet forsøg. Et spil består af ti runder.",
+    "en-GB": "A game in which a player scores points by trying to knock down ten 'pins' using a ball - if unsuccessful the player has a second attempt. A game consists of ten frames.",
+    "en-US": "A game in which a player scores points by trying to knock down ten 'pins' using a ball - if unsuccessful the player has a second attempt. A game consists of ten frames.",
+    "pt-BR": "Jogo que consiste em derrubar um conjunto de 10 pinos alinhados no final de uma pista através do lançamento de uma bola pesada. Se falhar, o jogador tem até 10 tentativas para derrubar todos os pinos.",
+    "pt-PT": "Jogo que consiste em derrubar um conjunto de 10 pinos alinhados no final de uma pista através do lançamento de uma bola pesada. Se falhar, o jogador tem até 10 tentativas para derrubar todos os pinos.",
+    "se": "De tävlande turas om att med ett speciellt klot försöka fälla tio käglor som står uppställda på en speciell bana. Varje tävlande har två försök per omgång. En match består av en eller flera rundor om tio omgångar.",
+    "zh-Hans": "每人用球尽量击倒10个瓶。若第一次不能全部击倒，可以再击一次。一场比赛包含十轮"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15012000",
+    "https://www.wikidata.org/entity/Q172809"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بولينغ",
+    "de": "Bowling",
+    "dk": "bowling",
+    "en-GB": "ten pin bowling",
+    "en-US": "ten pin bowling",
+    "es": "Boliche",
+    "fr": "Bowling",
+    "no": "bowling",
+    "pt-BR": "boliche",
+    "pt-PT": "bowling",
+    "se": "Bowling",
+    "zh-Hans": "十柱保龄球"
+  },
+  "qcode": "medtop:20001086",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001086",
+  "aid": "iptc_20001086"
+}

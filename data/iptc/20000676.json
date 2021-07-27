@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein religiöses und soziales System, Glaube an ein Kastensystem, in dem der Brahmane die Höchste und die Unberührbaren die niedrigste Stufe darstellen.",
+    "dk": "En indisk religion med en tro på selvtransformation og den guddommelige tilstedeværelse i alle dele af universet.",
+    "en-GB": "A religious and social system, believing in a caste system with the Brahmans the highest and untouchables the lowest.",
+    "en-US": "A religious and social system, believing in a caste system with the Brahmans the highest and untouchables the lowest.",
+    "pt-BR": "Sistema religioso e social que acredita num sistema de castas, com os brâmanes na casta mais alta e os intocáveis na casta mais baixa.",
+    "pt-PT": "Sistema religioso e social que acredita num sistema de castas, com os brâmanes na casta mais alta e os intocáveis na casta mais baixa.",
+    "se": "En indisk religion med tro på själavandring och det gudomligas närvaro i varje del av världsalltet.",
+    "zh-Hans": "一种宗教和社会制度，相信婆罗门最高，贱民最低的种姓制度"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12013000",
+    "https://www.wikidata.org/entity/Q9089"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "هندوسية",
+    "de": "Hinduismus",
+    "dk": "hinduisme",
+    "en-GB": "Hinduism",
+    "en-US": "Hinduism",
+    "es": "Hinduismo",
+    "fr": "Hindouisme",
+    "no": "hinduisme",
+    "pt-BR": "hinduísmo",
+    "pt-PT": "hinduísmo",
+    "se": "Hinduism",
+    "zh-Hans": "印度教"
+  },
+  "qcode": "medtop:20000676",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000676",
+  "aid": "iptc_20000676"
+}

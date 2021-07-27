@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000458"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Magersucht, Bulimie, Adipositas und vergleichbare Krankheiten",
+    "dk": "Anoreksi, bulimi, overspisning og lignende sygdomme.",
+    "en-GB": "Anorexia, bulimia, overeating and similar illnesses",
+    "en-US": "Anorexia, bulimia, overeating and similar illnesses",
+    "pt-BR": "Anorexia, bulimia, ingestão abusiva de alimentos e doenças similares.",
+    "pt-PT": "Anorexia, bulimia, ingestão abusiva de alimentos e doenças similares.",
+    "se": "Tillstånd som kännetecknas av problem med ätande, aptit och vikt, såsom anorexia, bulimi och hetsätning.",
+    "zh-Hans": "厌食、贪食、暴食和类似疾病"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07017002",
+    "https://www.wikidata.org/entity/Q373822"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اضطرابات غذائية",
+    "de": "Essstörung",
+    "dk": "spiseforstyrrelse",
+    "en-GB": "eating disorder",
+    "en-US": "eating disorder",
+    "es": "Desordenes alimenticios",
+    "fr": "Troubles alimentaires",
+    "no": "spiseforstyrrelse",
+    "pt-BR": "transtornos alimentares",
+    "pt-PT": "distúrbios alimentares",
+    "se": "Ätstörning",
+    "zh-Hans": "进食障碍"
+  },
+  "qcode": "medtop:20000459",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000459",
+  "aid": "iptc_20000459"
+}

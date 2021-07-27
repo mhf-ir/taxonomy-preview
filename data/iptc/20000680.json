@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verehrung von Naturelementen wie Feuer, Wasser, Bäume, Berge",
+    "dk": "Tilbedelse af naturlige elementer som ild, vand, træer og bjerge.",
+    "en-GB": "Worship of natural elements like fire, water, trees, mountains",
+    "en-US": "Worship of natural elements like fire, water, trees, mountains",
+    "pt-BR": "Adoração de elementos naturais como fogo, água, árvores, montanhas.",
+    "pt-PT": "Adoração de elementos naturais como fogo, água, árvores, montanhas.",
+    "se": "Dyrkan av naturliga element, såsom eld, vatten, träd och berg.",
+    "zh-Hans": "崇拜火、水、树、山等自然元素"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12016000",
+    "https://www.wikidata.org/entity/Q12291451"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عبادة الطبيعة",
+    "de": "Naturreligion",
+    "dk": "naturreligion",
+    "en-GB": "nature religion",
+    "en-US": "nature religion",
+    "es": "Animismo",
+    "fr": "Animisme",
+    "no": "naturreligion",
+    "pt-BR": "religião natural",
+    "pt-PT": "religião natural",
+    "se": "Naturreligioner",
+    "zh-Hans": "自然宗教"
+  },
+  "qcode": "medtop:20000680",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000680",
+  "aid": "iptc_20000680"
+}

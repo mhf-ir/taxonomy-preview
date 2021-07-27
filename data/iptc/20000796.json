@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000788"
+  ],
+  "changeNote": {
+    "en-GB": "2019-10-07: Retired. Use nuclear accident and incident (20000142) instead."
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schließt die Anti-Atomkraftbewegungen mit ein und Entschädigung für Strahlenopfer",
+    "dk": "Inkluderer antinuklear bevægelser og kompensation for ofre for nuklear stråling.",
+    "en-GB": "Includes antinuclear movements and compensation for atomic blast victims.",
+    "en-US": "Includes antinuclear movements and compensation for atomic blast victims.",
+    "pt-BR": "Inclui movimentos antinucleares e indenizações às vítimas de explosões nucleares.",
+    "pt-PT": "Inclui movimentos antinucleares e indemnizações às vítimas de explosões nucleares.",
+    "se": "Grupper som vill avveckla kärnkraften, men också personer som har utsatts för radioaktiv strålning och kompensation till dessa.",
+    "zh-Hans": "包括反核运动和对原子弹爆炸受害者的赔偿。"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14020000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ضحايا اشعة نووية",
+    "de": "Strahlenopfer",
+    "dk": "offer for nuklear stråling",
+    "en-GB": "nuclear radiation victims",
+    "en-US": "nuclear radiation victims",
+    "es": "Víctimas de radiación nuclear",
+    "fr": "Victimes irradiées",
+    "no": "stråleskadde",
+    "pt-BR": "vítimas de radiação nuclear",
+    "pt-PT": "vítimas de radiação nuclear",
+    "se": "Kärnkraftsmotståndare",
+    "zh-Hans": "核辐射受害者"
+  },
+  "qcode": "medtop:20000796",
+  "retired": "2019-10-07T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000796",
+  "aid": "iptc_20000796"
+}

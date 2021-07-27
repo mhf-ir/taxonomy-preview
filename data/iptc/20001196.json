@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Schwere Verkehrsverstöße, die zur Gefährdung, Verletzung oder zum Tod einer Person oder von Personen oder zur Gefährdung oder zu erheblichen Sachschäden führen können oder geführt haben.",
+    "dk": "Ulovlige handlinger i trafikken.",
+    "en-GB": "Serious traffic violations that are likely to, or have led to, the endangerment, injury or death of a person or persons, or the endangerment of or significant property damage",
+    "en-US": "Serious traffic violations that are likely to, or have led to, the endangerment, injury or death of a person or persons, or the endangerment of or significant property damage",
+    "pt-BR": "Infrações rodoviárias graves que possam causar, ou que causaram, possível perigo, ferimento ou morte de pessoa ou pessoas, ou possível perigo ou danos significativos de propriedade.",
+    "pt-PT": "Infrações rodoviárias graves que possam causar, ou que causaram, possível perigo, ferimento ou morte de pessoa ou pessoas, ou possível perigo ou danos significativos de propriedade.",
+    "se": "Händelser i trafiken som lett fram till skador, eller kunnat leda fram till skador, där den ansvarige uppträtt brottsligt. Till skillnad från rena olyckshändelser.",
+    "zh-Hans": "可能或已导致人身伤亡、财产遭受重大损毁的严重交通违法行为"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q657433"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مخالفة مرور",
+    "de": "Verkehrsdelikte",
+    "dk": "færdselsovertrædelser",
+    "en-GB": "reckless driving",
+    "en-US": "reckless driving",
+    "es": "Conducción peligrosa",
+    "fr": "Conduite dangereuse",
+    "no": "trafikklovbrudd",
+    "pt-BR": "infração de trânsito",
+    "pt-PT": "infração de trânsito",
+    "se": "Trafikbrott",
+    "zh-Hans": "野蛮驾驶"
+  },
+  "qcode": "medtop:20001196",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001196",
+  "aid": "iptc_20001196"
+}

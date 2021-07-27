@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000134"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Strafe die mit Geld abgegolten wird",
+    "dk": "En straf, hvor den dømte skal betale et beløb.",
+    "en-GB": "Money that a court of law or other authority decides has to be paid as punishment for a crime or other offence",
+    "en-US": "Money that a court of law or other authority decides has to be paid as punishment for a crime or other offence",
+    "pt-BR": "Punição monetária.",
+    "pt-PT": "Punição monetária.",
+    "se": "En påföljd som innebär att den som fällts får betala en summa pengar.",
+    "zh-Hans": "货币惩罚"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02004001",
+    "https://www.wikidata.org/entity/Q2842797"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "غرامة",
+    "de": "Geldstrafe",
+    "dk": "bøde",
+    "en-GB": "fine (penalty)",
+    "en-US": "fine (penalty)",
+    "es": "Multa",
+    "fr": "Amende",
+    "no": "forelegg",
+    "pt-BR": "multa",
+    "pt-PT": "multa",
+    "se": "Böter",
+    "zh-Hans": "罚款"
+  },
+  "qcode": "medtop:20000136",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000136",
+  "aid": "iptc_20000136"
+}

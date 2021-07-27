@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000304"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Aufnahme, Produktion, Marketing von Musik",
+    "dk": "Optagelse, produktion og markedsføring af musik.",
+    "en-GB": "Recording, production, marketing of music",
+    "en-US": "Recording, production, marketing of music",
+    "pt-BR": "Gravação, produção e marketing de música.",
+    "pt-PT": "Gravação, produção e marketing de música.",
+    "se": "Den kommersiella verksamhet som omfattar publicering och försäljning av musik i olika former, främst fonogram eller digitala filer via internet, men även noter samt industriell tillverkning av och handel med musikinstrument och apparater för in- och avspelning av musik.",
+    "zh-Hans": "录制、生产、销售音乐作品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04010011",
+    "https://www.wikidata.org/entity/Q746359"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صناعة الموسيقى",
+    "de": "Musikindustrie",
+    "dk": "musikbranche",
+    "en-GB": "music industry",
+    "en-US": "music industry",
+    "es": "Industria musical",
+    "fr": "Industrie musicale",
+    "no": "musikkbransjen",
+    "pt-BR": "indústria musical",
+    "pt-PT": "indústria musical",
+    "se": "Musikindustrin",
+    "zh-Hans": "音乐产业"
+  },
+  "qcode": "medtop:20000308",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000308",
+  "aid": "iptc_20000308"
+}

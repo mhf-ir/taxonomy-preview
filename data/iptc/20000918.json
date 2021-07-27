@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sport wie Hockey, der unter Wasser ausgeübt wird",
+    "dk": "Forskellige sportsgrene udført under vand.",
+    "en-GB": "Competitive sports played under water",
+    "en-US": "Competitive sports played under water",
+    "pt-BR": "Esportes de competição que se realizam debaixo de água.",
+    "pt-PT": "Desportos de competição que se realizam debaixo de água.",
+    "se": "Olika sportgrenar utförda under vatten.",
+    "zh-Hans": "水下进行的运动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15021005",
+    "https://www.wikidata.org/entity/Q2369170"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-10T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "غوص الامدادات السطحية",
+    "de": "Unterwassersport",
+    "dk": "sportsdykning",
+    "en-GB": "underwater sports",
+    "en-US": "underwater sports",
+    "es": "Subacuáticos",
+    "fr": "Subaquatique",
+    "no": "undervannssport",
+    "pt-BR": "esportes subaquáticos",
+    "pt-PT": "desportos subaquáticos",
+    "se": "Undervattenssport",
+    "zh-Hans": "水下运动"
+  },
+  "qcode": "medtop:20000918",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000918",
+  "aid": "iptc_20000918"
+}

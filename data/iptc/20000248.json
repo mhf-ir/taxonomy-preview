@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000243"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Früchte, Gemüse, Brot, Fleisch zum Verzehr für Menschen",
+    "dk": "Salg af madvarer.",
+    "en-GB": "The selling of edible goods for human consumption to the end customers",
+    "en-US": "The selling of edible goods for human consumption to the end customers",
+    "pt-BR": "Venda de bens para consumo humano ao consumidor final.",
+    "pt-PT": "Venda de bens para consumo humano ao consumidor final.",
+    "se": "Föda som regelbundet måste tillföras kroppen för att livsfunktionerna ska uppehållas.",
+    "zh-Hans": "向最终消费者售卖食杂品。描述对食品加工、配送、销售的内容宜入“食品业”"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04007003",
+    "https://www.wikidata.org/entity/Q2095"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-12-11T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اغذية",
+    "de": "Lebensmittel",
+    "dk": "mad",
+    "en-GB": "grocery",
+    "en-US": "grocery",
+    "es": "Alimentos",
+    "fr": "Distribution alimentaire",
+    "no": "mat",
+    "pt-BR": "alimentação",
+    "pt-PT": "alimentação",
+    "se": "Mat",
+    "zh-Hans": "食品杂货"
+  },
+  "qcode": "medtop:20000248",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000248",
+  "aid": "iptc_20000248"
+}

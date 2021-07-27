@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000799"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unzureichende Möglichkeiten sich selbst oder die eigene Familie zu versorgen",
+    "dk": "Levestandard, der er uacceptabelt lav.",
+    "en-GB": "The lack of sufficient resources and means to provide basic needs such as food, clothing or shelter for oneself and one's family",
+    "en-US": "The lack of sufficient resources and means to provide basic needs such as food, clothing or shelter for oneself and one's family",
+    "pt-BR": "Insuficiência de recursos para garantir os serviços básicos e a subsistência de alguém ou de sua família.",
+    "pt-PT": "Insuficiência de recursos para garantir os serviços básicos e a subsistência de alguém ou da sua família.",
+    "se": "Levnadsstandard som är oacceptabelt låg.",
+    "zh-Hans": "没有足够的资源为自己或家庭提供基本服务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14012000",
+    "https://www.wikidata.org/entity/Q10294"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "فقر",
+    "de": "Armut",
+    "dk": "fattigdom",
+    "en-GB": "poverty",
+    "en-US": "poverty",
+    "es": "Pobreza",
+    "fr": "Pauvreté",
+    "no": "fattigdom",
+    "pt-BR": "pobreza",
+    "pt-PT": "pobreza",
+    "se": "Fattigdom",
+    "zh-Hans": "贫困"
+  },
+  "qcode": "medtop:20000801",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000801",
+  "aid": "iptc_20000801"
+}

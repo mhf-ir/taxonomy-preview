@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Durch die Regierungsbank (Bundesbank) gesteuerte Politik über die Höhe des sich im Umlauf befindenden Geldes und die Zinsraten zu denen es verliehen wird.",
+    "dk": "Statslige foranstaltninger til regulering af det monetære system og kreditmarkedet i et land, især gennem centralbanken.",
+    "en-GB": "Government bank directed policy on the amount of money in circulation and the rate at which it can be loaned",
+    "en-US": "Government bank directed policy on the amount of money in circulation and the rate at which it can be loaned",
+    "pt-BR": "Política monetária governamental sobre a quantidade de dinheiro em circulação e a taxa de juro a que pode ser emprestado.",
+    "pt-PT": "Política monetária governamental sobre a quantidade de dinheiro em circulação e a taxa de juro a que pode ser emprestado.",
+    "se": "Statliga åtgärder för reglering av penningväsendet och kreditmarknaden i ett land, särskilt genom centralbanken.",
+    "zh-Hans": "由政府银行主导的货币流通量和贷款利率政策"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04019001",
+    "https://www.wikidata.org/entity/Q178476"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عملة وسياسة نقدية",
+    "de": "Geld- und Finanzpolitik",
+    "dk": "pengepolitik",
+    "en-GB": "monetary policy",
+    "en-US": "monetary policy",
+    "es": "Política monetaria y fiscal",
+    "fr": "Politique monétaire",
+    "no": "pengepolitikk",
+    "pt-BR": "política monetária",
+    "pt-PT": "política monetária",
+    "se": "Penningpolitik",
+    "zh-Hans": "货币政策"
+  },
+  "qcode": "medtop:20000379",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000379",
+  "aid": "iptc_20000379"
+}

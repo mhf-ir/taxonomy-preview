@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000998"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rennen über schmutzige Straßen und enge Dämme",
+    "dk": "Motorcykelløb på en bane med grus og store hop.",
+    "en-GB": "Raced over dirt tracks featuring severe mounds",
+    "en-US": "Raced over dirt tracks featuring severe mounds",
+    "pt-BR": "Corrida de motos em piso de terra com grandes desníveis.",
+    "pt-PT": "Corrida de motos em piso de terra com grandes desníveis.",
+    "se": "Motorcykeltävling runt en bana med grus och kraftiga hopp.",
+    "zh-Hans": "设置了高难土堆的土路上进行的摩托车比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15041005",
+    "https://www.wikidata.org/entity/Q215862"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic motorcycling+ sports facet racetype."
+  },
+  "prefLabel": {
+    "ar": "موتوكروس",
+    "de": "Motocross",
+    "dk": "motorcross",
+    "en-GB": "moto-cross",
+    "en-US": "moto-cross",
+    "es": "Motocross",
+    "fr": "Motocross",
+    "no": "motocross",
+    "pt-BR": "motocross",
+    "pt-PT": "motocrosse",
+    "se": "Motocross",
+    "zh-Hans": "摩托车越野赛"
+  },
+  "qcode": "medtop:20001003",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001003",
+  "aid": "iptc_20001003"
+}

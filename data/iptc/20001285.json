@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2019-11-20T12:00:00+00:00",
+  "definition": {
+    "de": "Absichtliches Beschädigen oder Zerstören von öffentlichem oder privatem Eigentum",
+    "dk": "Beskadige eller ødelægge offentlig eller privat ejendom med vilje.",
+    "en-GB": "Deliberately damaging or destroying public or private property",
+    "en-US": "Deliberately damaging or destroying public or private property",
+    "pt-BR": "Danificar ou destruir deliberadamente propriedade pública ou privada.",
+    "pt-PT": "Danificar ou destruir deliberadamente propriedade pública ou privada.",
+    "se": "Att medvetet förstöra annans egendom.",
+    "zh-Hans": "故意破坏损毁公共或私人财产的行为"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q6160"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-11-20T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تخريب",
+    "de": "Vandalismus",
+    "dk": "hærværk",
+    "en-GB": "vandalism",
+    "en-US": "vandalism",
+    "es": "Vandalismo",
+    "fr": "Vandalisme",
+    "no": "hærverk",
+    "pt-BR": "vandalismo",
+    "pt-PT": "vandalismo",
+    "se": "Vandalism",
+    "zh-Hans": "故意毁坏财物"
+  },
+  "qcode": "medtop:20001285",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001285",
+  "aid": "iptc_20001285"
+}

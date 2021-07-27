@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000171"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Neues Wertpapierangebot, inklusive öffentliche Erstangebote",
+    "dk": "Tilbud til eksisterende eller nye aktionærer om at købe nyudstedte aktier.",
+    "en-GB": "The financing, capital structuring, and investment decisions of a corporation",
+    "en-US": "The financing, capital structuring, and investment decisions of a corporation",
+    "pt-BR": "Novas oferta de ações, incluindo ofertas públicas iniciais.",
+    "pt-PT": "Novas oferta de ações, incluindo ofertas públicas iniciais.",
+    "se": "Erbjudande om försäljning av nyutgivna aktier, till exempel i samband med en börsintroduktion, för att kapitalisera ett bolag.",
+    "zh-Hans": "企业的融资、资本结构和投资决策管理"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016019",
+    "https://www.wikidata.org/entity/Q1134763"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000175",
+    "medtop:20000184",
+    "medtop:20000186",
+    "medtop:20000187"
+  ],
+  "prefLabel": {
+    "ar": "عرض تمويل واسهم",
+    "de": "Aktien",
+    "dk": "emission",
+    "en-GB": "corporate financing",
+    "en-US": "corporate financing",
+    "es": "Financiamiento, ofertas de acciones",
+    "fr": "Financement et vente d'actions",
+    "no": "aksjeutvidelse",
+    "pt-BR": "financiamento e oferta de ações",
+    "pt-PT": "financiamento e oferta de ações",
+    "se": "Nyemissioner",
+    "zh-Hans": "公司金融"
+  },
+  "qcode": "medtop:20000183",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000183",
+  "aid": "iptc_20000183"
+}

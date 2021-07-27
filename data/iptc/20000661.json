@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000659"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mitglieder einer christlichen Gemeinschaft, die an das Buch Mormone und die Visionen des Gründers M.J. Smith glauben.",
+    "dk": "En kristen bevægelse, hvis grundlag foruden Bibelen bl.a. er *Mormons Bog*, som blev åbenbaret for J. Smith i 1827.",
+    "en-GB": "Members of a religious community which believes in the 'Book of Mormon' and the revelations of founder M.J. Smith",
+    "en-US": "Members of a religious community which believes in the 'Book of Mormon' and the revelations of founder M.J. Smith",
+    "pt-BR": "Membros de uma comunidade religiosa que acredita no *Livro de Mórmon* e nas revelações do fundador M. J. Smith.",
+    "pt-PT": "Membros de uma comunidade religiosa que acredita no *Livro de Mórmon* e nas revelações do fundador M. J. Smith.",
+    "se": "En kristen rörelse som tror på Mormons bok och Joseph Smiths uppenbarelser.",
+    "zh-Hans": "信奉《摩门经》和创始人M.J.史密斯启示的宗教团体的成员"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12009009",
+    "https://www.wikidata.org/entity/Q747802"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مورمون",
+    "de": "Mormonen",
+    "dk": "mormon",
+    "en-GB": "Mormon",
+    "en-US": "Mormon",
+    "es": "Mormón",
+    "fr": "Mormon",
+    "no": "mormonisme",
+    "pt-BR": "mórmon",
+    "pt-PT": "mórmon",
+    "se": "Mormonism",
+    "zh-Hans": "摩门教"
+  },
+  "qcode": "medtop:20000661",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000661",
+  "aid": "iptc_20000661"
+}

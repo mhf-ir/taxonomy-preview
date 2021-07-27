@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000551"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10011000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein oder mehrere Tage, die für Feierlichkeiten festgesetzt sind.",
+    "dk": "En årlig officiel fridag til festligheder erklæret af myndighederne, ofte i forbindelse med en religiøs højtid.",
+    "en-GB": "A day of celebration declared by a government",
+    "en-US": "A day of celebration declared by a government",
+    "pt-BR": "Dia de celebração declarado por um governo.",
+    "pt-PT": "Dia de celebração declarado por um governo.",
+    "se": "Allmänt arbetsfri dag.",
+    "zh-Hans": "官方宣布的庆祝活动休息日"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1197685"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001267",
+    "medtop:20001268",
+    "medtop:20001269"
+  ],
+  "prefLabel": {
+    "ar": "عطلة عامة",
+    "de": "Feiertag",
+    "dk": "helligdag",
+    "en-GB": "public holiday",
+    "en-US": "public holiday",
+    "es": "Días feriados",
+    "fr": "Jour férié",
+    "no": "offentlig fridag",
+    "pt-BR": "feriado",
+    "pt-PT": "feriado",
+    "se": "Helgdagar",
+    "zh-Hans": "公共假日"
+  },
+  "qcode": "medtop:20000552",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000552",
+  "aid": "iptc_20000552"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/05000000"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Ausbildung, die die Studenten vorbereitet, bietet praktische Erfahrung und Ausbildung in einem bestimmten Berufsfeld. Sie wird manchmal auch als Berufsausbildung oder technische Ausbildung bezeichnet",
+    "dk": "Uddannelse, der er planlagt og implementeret for at give de studerende viden om at kunne udføre et specifikt erhverv direkte.",
+    "en-GB": "Education that prepares students provides practical experience and training in a particular occupational field. It is sometimes referred to as career education or technical education.",
+    "en-US": "Education that prepares students provides practical experience and training in a particular occupational field. It is sometimes referred to as career education or technical education.",
+    "pt-BR": "Educação que prepara os alunos, fornece experiência prática e treinamento em um campo ocupacional específico. Por vezes é designada por educação profissional ou educação técnica.",
+    "pt-PT": "Educação que prepara os alunos, fornece experiência prática e treino num campo ocupacional específico. Por vezes é designada por educação profissional ou educação técnica.",
+    "se": "Utbildning som är planerad och genomförs för att ge de studerande kunskaper att direkt kunna utföra ett specifikt yrke.",
+    "zh-Hans": "提供特定职业领域的实践经验和培训来培养学生的教育，有时被称为职业教育或技术教育"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q6869278"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تعليم مهني",
+    "de": "Berufsausbildung",
+    "dk": "erhvervsuddannelse",
+    "en-GB": "vocational education",
+    "en-US": "vocational education",
+    "es": "Educación vocacional",
+    "fr": "Enseignement professionnel",
+    "no": "yrkesutdanning",
+    "pt-BR": "ensino profissional",
+    "pt-PT": "ensino profissional",
+    "se": "Yrkesutbildning",
+    "zh-Hans": "职业教育"
+  },
+  "qcode": "medtop:20001216",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001216",
+  "aid": "iptc_20001216"
+}

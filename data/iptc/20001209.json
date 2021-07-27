@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000256"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Aus Sonnenstrahlen erzeugte und geerntete Elektrizitä",
+    "dk": "Elektricitet produceret og genereret fra solens stråler.",
+    "en-GB": "Electricity generated and harvested from the sun's rays",
+    "en-US": "Electricity generated and harvested from the sun's rays",
+    "pt-BR": "Eletricidade gerada e colhida a partir dos raios solares.",
+    "pt-PT": "Eletricidade gerada e colhida a partir dos raios solares.",
+    "se": "Energi som bygger på omvandling av solenergi i någon form.",
+    "zh-Hans": "从太阳光中产生和获得的电能"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1483757"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الطاقة الشمسية",
+    "de": "Solarenergie",
+    "dk": "solenergi",
+    "en-GB": "solar power",
+    "en-US": "solar power",
+    "es": "Energía solar",
+    "fr": "Énergie solaire",
+    "no": "solenergi",
+    "pt-BR": "energia solar",
+    "pt-PT": "energia solar",
+    "se": "Solenergi",
+    "zh-Hans": "太阳能发电"
+  },
+  "qcode": "medtop:20001209",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001209",
+  "aid": "iptc_20001209"
+}

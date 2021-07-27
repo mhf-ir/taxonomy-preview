@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000479"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gesundheitsfürsorge, die von privat finanzierten oder Versicherungsorganisationen unterstützt wird",
+    "dk": "Sundhedsydelser leveret af privatfinansierede organisationer.",
+    "en-GB": "Health care provided by privately funded or insured organisations",
+    "en-US": "Health care provided by privately funded or insured organizations",
+    "pt-BR": "Cuidados de saúde fornecidos por organizações de fundos ou seguros privados.",
+    "pt-PT": "Cuidados de saúde fornecidos por organizações de fundos ou seguros privados.",
+    "se": "Sjukvård som tillhandahålles av privat finansierade eller försäkrade organisationer.",
+    "zh-Hans": "私人资助或保险机构提供的医疗保健服务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07012000",
+    "https://www.wikidata.org/entity/Q615678"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "القطاع الصحي الخاص",
+    "de": "Private Krankenversicherung",
+    "dk": "privat sundhedspleje",
+    "en-GB": "private health care",
+    "en-US": "private health care",
+    "es": "Medicina privada",
+    "fr": "Soins de santé privés",
+    "no": "privat helsevesen",
+    "pt-BR": "sistemas privados de saúde",
+    "pt-PT": "sistemas privados de saúde",
+    "se": "Privat sjukvård",
+    "zh-Hans": "私人健康护理"
+  },
+  "qcode": "medtop:20000484",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000484",
+  "aid": "iptc_20000484"
+}

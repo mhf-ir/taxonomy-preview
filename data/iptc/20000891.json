@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000890"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ähnlich dem Curling, wird auf Ziele auf dem Eis gespielt, anderer Spielstein mit geradem Stockgriff und abweichenden Regeln, vornehmlich in Alpenländern gespielt",
+    "dk": "Minder om curling, men i stedet for sten er det en plade med lige håndtag. Mest spillede i Centraleuropa omkring Alperne.",
+    "en-GB": "Similar to curling, played on targets on ice, different stones with straight handle and different rules, played in alpine countries",
+    "en-US": "Similar to curling, played on targets on ice, different stones with straight handle and different rules, played in alpine countries",
+    "pt-BR": "Jogo semelhante ao curling, disputado com pedras de pega direita e regras diferentes, geralmente praticado ao ar livre, nos países alpinos.",
+    "pt-PT": "Jogo semelhante ao curling, disputado com pedras de pega direita e regras diferentes, geralmente praticado ao ar livre, nos países alpinos.",
+    "se": "Påminner om curling men i stället för stenar är det en platta med rakt handtag. Spelas mest i Mellaneuropa kring Alperna.",
+    "zh-Hans": "简称冰盘，类似于冰壶，在冰上的目标，不同的有直柄的石头以及不同规则，在阿尔卑斯山周边国家流行"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15018001",
+    "https://www.wikidata.org/entity/Q1070325"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كيرلينغ (المانيا)",
+    "de": "Eisstockschießen",
+    "dk": "isstok",
+    "en-GB": "icestock sport",
+    "en-US": "icestock sport",
+    "es": "Ice stock sport (curling bávaro)",
+    "fr": "Crosse sur glace",
+    "no": "Isstokk",
+    "pt-BR": "ice stock sport",
+    "pt-PT": "ice stock sport",
+    "se": "Isstock",
+    "zh-Hans": "冰上滑盘"
+  },
+  "qcode": "medtop:20000891",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000891",
+  "aid": "iptc_20000891"
+}

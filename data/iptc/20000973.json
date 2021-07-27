@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000969"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bis zu 81 kg bei Männern und 63 kg bei Frauen",
+    "dk": "Op til 81 kg for mænd og 63 kg for kvinder.",
+    "en-GB": "Up to 81kg for men and 63kg for women",
+    "en-US": "Up to 81kg for men and 63kg for women",
+    "pt-BR": "Categoria até 81kg para homens e até 63kg para mulheres.",
+    "pt-PT": "Categoria até 81kg para homens e até 63kg para mulheres.",
+    "zh-Hans": "选手体重分别最高不超过不超过男子81公斤（男子）和女子63公斤（女子）"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15033004",
+    "https://www.wikidata.org/entity/Q77217215"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الوزن نصف المتوسط",
+    "de": "Halb-Mittelgewicht (Judo)",
+    "dk": "halv-mellemvægt",
+    "en-GB": "half-middleweight (judo)",
+    "en-US": "half-middleweight (judo)",
+    "es": "Peso medio mediano (judo)",
+    "fr": "Mi-moyens (judo)",
+    "no": "weltervekt",
+    "pt-BR": "peso-meio-médio (judô)",
+    "pt-PT": "peso-meio-médio (judo)",
+    "se": "Halv mellanvikt, (Judo)",
+    "zh-Hans": "次中量级柔道"
+  },
+  "qcode": "medtop:20000973",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000973",
+  "aid": "iptc_20000973"
+}

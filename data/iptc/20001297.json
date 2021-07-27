@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000252"
+  ],
+  "created": "2020-08-05T12:00:00+00:00",
+  "definition": {
+    "de": "Primäre Einzelhandelsstraßen von Städten oder Gemeinden mit einzelnen Geschäften und Restaurants",
+    "dk": "En bygade, der indeholder flere butikker og restauranter",
+    "en-GB": "Primary retail streets of towns or cities containing individual stores and restaurants",
+    "en-US": "Primary retail streets of towns or cities containing individual stores and restaurants",
+    "pt-BR": "Principais ruas de varejo de vilas ou cidades, com lojas e restaurantes individuais.",
+    "pt-PT": "Principais ruas de comércio a retalho de vilas ou cidades, com lojas e restaurantes individuais.",
+    "se": "En gata eller område i en stad där många affärer och restauranger är samlade.",
+    "zh-Hans": "包含个体商店和餐馆的城镇或城市的主要零售街道"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q21000333"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "منطقة تجارية",
+    "de": "Einkaufsviertel",
+    "dk": "butiksstrøg",
+    "en-GB": "shopping district and high street",
+    "en-US": "shopping district and high street",
+    "es": "Zona comercial",
+    "fr": "Zone commerciale",
+    "no": "handlegater",
+    "pt-BR": "zona comercial",
+    "pt-PT": "zona comercial",
+    "se": "Affärsgata",
+    "zh-Hans": "商业街"
+  },
+  "qcode": "medtop:20001297",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001297",
+  "aid": "iptc_20001297"
+}

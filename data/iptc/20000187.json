@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016019"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000183"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Erstmalig öffentliches Angebot von Aktien eines Unternehmens. Wird auch als Initial Public Offering IPO bezeichnet.",
+    "dk": "Et firma udsteder aktier til offentligheden for første gang.",
+    "en-GB": "The issuing of stock shares to the public for the first time, also called an Initial Public Offering (IPO)",
+    "en-US": "The issuing of stock shares to the public for the first time, also called an Initial Public Offering (IPO)",
+    "pt-BR": "Uma empresa emite ações ao público pela primeira vez.",
+    "pt-PT": "Uma empresa emite ações ao público pela primeira vez.",
+    "se": "Ett företag ger ut aktier till allmänheten för första gången, kallas även börsintroduktion.",
+    "zh-Hans": "公司首次将它的股票卖给一般公众，也称为首次公开募股（IPO）"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q185142"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تعويم اسهم",
+    "de": "Börsengang",
+    "dk": "børsnotering",
+    "en-GB": "stock flotation",
+    "en-US": "stock flotation",
+    "es": "Entrada en bolsa",
+    "fr": "Entrée en Bourse",
+    "no": "børsnotering",
+    "pt-BR": "oferta pública inicial",
+    "pt-PT": "oferta pública inicial",
+    "se": "Börsnotering",
+    "zh-Hans": "募集设立"
+  },
+  "qcode": "medtop:20000187",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000187",
+  "aid": "iptc_20000187"
+}

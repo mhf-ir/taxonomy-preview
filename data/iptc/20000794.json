@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000788"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Menschen von Geburt bis zum 1. oder 2. Lebensjahr,  gewöhnlich wenn sie beginnen zu laufen",
+    "dk": "Børn op til omkring et års alder, når de begynder at gå.",
+    "en-GB": "Very young people, usually defined as being just born up to the age of two",
+    "en-US": "Very young people, usually defined as being just born up to the age of two",
+    "pt-BR": "Indivíduos na fase que vai do nascimento até à idade de 1-2 anos, geralmente quando começam a caminhar.",
+    "pt-PT": "Indivíduos na fase que vai do nascimento até à idade de 1-2 anos, geralmente quando começam a caminhar.",
+    "se": "Personer upp till cirka ett års ålder, då de börjar gå.",
+    "zh-Hans": "小于1周岁或2周岁的孩子，通常是刚开始学走路的年龄"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14024002",
+    "https://www.wikidata.org/entity/Q998"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "رضع",
+    "de": "Kleinkind",
+    "dk": "spædbarn",
+    "en-GB": "infants",
+    "en-US": "infants",
+    "es": "Bebés",
+    "fr": "Bébé",
+    "no": "spedbarn",
+    "pt-BR": "bebês",
+    "pt-PT": "bebés",
+    "se": "Spädbarn",
+    "zh-Hans": "婴儿"
+  },
+  "qcode": "medtop:20000794",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000794",
+  "aid": "iptc_20000794"
+}

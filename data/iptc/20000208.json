@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Forschung und Ausgaben für die Entwicklung neuer Produkte",
+    "dk": "Udvikling af nye produkter og tjenester eller forbedring af eksisterende.",
+    "en-GB": "Research and expenditure on new product or service development",
+    "en-US": "Research and expenditure on new product or service development",
+    "pt-BR": "Investigação e despesas relativas ao desenvolvimento de novos produtos.",
+    "pt-PT": "Investigação e despesas relativas ao desenvolvimento de novos produtos.",
+    "se": "Process som genom systematiskt arbete kan frambringa nya kunskaper och ökat vetande kring en produkt eller tjänst.",
+    "zh-Hans": "新产品或服务开发的研究及其费用支出"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016037",
+    "https://www.wikidata.org/entity/Q276099"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بحث وتنمية",
+    "de": "Forschung und Entwicklung",
+    "dk": "forskning og udvikling",
+    "en-GB": "research and development",
+    "en-US": "research and development",
+    "es": "Investigación y desarrollo",
+    "fr": "Recherche et développement",
+    "no": "forskning og utvikling",
+    "pt-BR": "pesquisa e desenvolvimento",
+    "pt-PT": "investigação e desenvolvimento",
+    "se": "Forskning och utveckling",
+    "zh-Hans": "研发"
+  },
+  "qcode": "medtop:20000208",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000208",
+  "aid": "iptc_20000208"
+}

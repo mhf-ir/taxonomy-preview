@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000373"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verträge zwischen Ländern auf Regierungsebene für den An- und Verkauf von Gütern und Dienstleistungen",
+    "dk": "Aftale mellem to eller flere lande om handelsbetingelserne mellem landene.",
+    "en-GB": "Government level agreements between countries for the sale and purchase of goods and services",
+    "en-US": "Government level agreements between countries for the sale and purchase of goods and services",
+    "pt-BR": "Acordo governamental entre países para a compra e venda de bens e serviços.",
+    "pt-PT": "Acordo governamental entre países para a compra e venda de bens e serviços.",
+    "se": "Överenskommelse mellan två eller flera länder om villkoren för handelsförbindelser länderna emellan.",
+    "zh-Hans": "各国之间就销售和购买商品和服务达成的政府级协议"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008032",
+    "https://www.wikidata.org/entity/Q252550"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اتفاقات تجارية",
+    "de": "Handelsabkommen",
+    "dk": "handelsaftale",
+    "en-GB": "trade agreements",
+    "en-US": "trade agreements",
+    "es": "Acuerdos comerciales",
+    "fr": "Accords commerciaux",
+    "no": "handelsavtale",
+    "pt-BR": "acordos comerciais",
+    "pt-PT": "acordos comerciais",
+    "se": "Handelsavtal",
+    "zh-Hans": "贸易协定"
+  },
+  "qcode": "medtop:20000374",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000374",
+  "aid": "iptc_20000374"
+}

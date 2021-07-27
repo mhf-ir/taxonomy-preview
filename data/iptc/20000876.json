@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "changeNote": {
+    "en-GB": "2016-04-06: definition rephrased."
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Football der mit Kanadischen Regeln gespielt wird",
+    "dk": "En sport, der minder om amerikansk fodbold, men har forskellige dimensioner og regler og et andet antal spillere.",
+    "en-GB": "Team ball game that opposes two teams of 12 that have offence and defence sections. Each offence attempts to move an oval ball down the 150 yards long field. Points are scored by advancing the ball into the opposing team*s end zone.",
+    "en-US": "Team ball game that opposes two teams of 12 that have offense and defense sections. Each offense attempts to move an oval ball down the 150 yards long field. Points are scored by advancing the ball into the opposing team*s end zone.",
+    "pt-BR": "Jogo de bola disputado entre duas equipes de 12 jogadores que têm seções de ataque e defesa. Cada ataque tenta mover uma bola oval pelo campo de 150 jardas de comprimento. Os pontos são marcados quando se avança a bola para a *end zone* do adversário.",
+    "pt-PT": "Jogo de bola disputado entre duas equipas de 12 jogadores que têm secções de ataque e defesa. Cada ataque tenta mover uma bola oval pelo campo de 150 jardas de comprimento. Os pontos são marcados quando se avança a bola para a *end zone* do adversário.",
+    "se": "En sport som påminner om amerikansk fotboll men har andra mått och regler och ett annat antal spelare.",
+    "zh-Hans": "一种对抗性的集体球类运动，对抗两队各有12人，每回合一方进攻一方防守。 每次进攻方都试图把橄榄球从本方端沿150码长的场地向对方端推进。 通过将球推进到对方球队的底线来得分"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15085000",
+    "https://www.wikidata.org/entity/Q248534"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كرة القدم الكندية",
+    "de": "Canadian Football",
+    "dk": "canadisk fodbold",
+    "en-GB": "Canadian football",
+    "en-US": "Canadian football",
+    "es": "Fútbol canadiense",
+    "fr": "Football canadien",
+    "no": "canadisk fotball",
+    "pt-BR": "futebol canadense",
+    "pt-PT": "futebol canadiano",
+    "se": "Kanadensisk fotboll",
+    "zh-Hans": "加拿大橄榄球"
+  },
+  "qcode": "medtop:20000876",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000876",
+  "aid": "iptc_20000876"
+}

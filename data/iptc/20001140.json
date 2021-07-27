@@ -1,0 +1,41 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001137"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Empfehlung eines Analysten, bestimmte Aktien zu verkaufen. Kann das Kursziel des Analysten für die Aktie beinhalten.",
+    "dk": "En analytikers anbefaling om at sælge en bestemt aktie.",
+    "en-GB": "An analyst's recommendation to sell particular stocks. May include the analyst*s price target for the stock.",
+    "en-US": "An analyst's recommendation to sell particular stocks. May include the analyst*s price target for the stock.",
+    "pt-BR": "Recomendação de um analista para vender ações específicas. Pode incluir o preço-alvo do analista para uma ação.",
+    "pt-PT": "Recomendação de um analista para vender ações específicas. Pode incluir o preço-alvo do analista para uma ação.",
+    "se": "En analytikers rekommendation att sälja en specifik aktie.",
+    "zh-Hans": "分析师卖出特定股票的建议。可能包括分析师对该股的目标价"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2012-10-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "توصية بالبيع (بورصة)",
+    "de": "Verkaufen (Empfehlung)",
+    "dk": "salgsanbefaling",
+    "en-GB": "sell recommendation",
+    "en-US": "sell recommendation",
+    "es": "Recomendación de venta",
+    "fr": "Recommandation de vente (bourse)",
+    "no": "salgsanbefaling",
+    "pt-BR": "recomendação de venda",
+    "pt-PT": "recomendação de venda",
+    "se": "Säljråd",
+    "zh-Hans": "卖出建议"
+  },
+  "qcode": "medtop:20001140",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001140",
+  "aid": "iptc_20001140"
+}

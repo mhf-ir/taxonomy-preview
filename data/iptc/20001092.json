@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer wird auf einem oder zwei Skiern von einem Boot am Seil über die Wasseroberfläche gezogen",
+    "dk": "På en eller to ski bliver deltagere trukket af en motorbåd langs vandoverfladen.",
+    "en-GB": "On one or two skis contestants are pulled by a power boat along the water's surface",
+    "en-US": "On one or two skis contestants are pulled by a power boat along the water's surface",
+    "pt-BR": "Com um ou dois esquis, os participantes são puxados por uma embarcação a motor ao longo da superfície da água.",
+    "pt-PT": "Com um ou dois esquis, os participantes são puxados por uma embarcação a motor ao longo da superfície da água.",
+    "se": "De tävlande åker på vatten dragna av en dragbåt, eller på annat sätt. Man tävlar i hopp, slalom och trick. Man kan åka på två skidor eller på en skida.",
+    "zh-Hans": "选手站在单板或双板水撬上被摩托艇拉着在水面竞速"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15069000",
+    "https://www.wikidata.org/entity/Q472827"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/waterskiingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تزلج على المياه",
+    "de": "Wasserski",
+    "dk": "vandski",
+    "en-GB": "water skiing",
+    "en-US": "water skiing",
+    "es": "Esquí náutico",
+    "fr": "Ski nautique",
+    "no": "vannski",
+    "pt-BR": "esqui náutico",
+    "pt-PT": "esqui náutico",
+    "se": "Vattenskidor",
+    "zh-Hans": "滑水"
+  },
+  "qcode": "medtop:20001092",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001092",
+  "aid": "iptc_20001092"
+}

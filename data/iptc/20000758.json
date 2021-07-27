@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000757"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Studie, Entwurf, Entwicklung und Bau von Raketen",
+    "dk": "Videnskab, design, udvikling og konstruktion af raketter.",
+    "en-GB": "The study, design, development and construction of rockets",
+    "en-US": "The study, design, development and construction of rockets",
+    "es": "El estudio, diseño, desarrollo y construcción de cohetes",
+    "fr": "Etude, conception, développement et construction de fusées",
+    "pt-BR": "Estudo, concepção, desenvolvimento e construção de foguetes.",
+    "pt-PT": "Estudo, conceção, desenvolvimento e construção de foguetes.",
+    "se": "Vetenskap, design, utveckling och konstruktion rörande raketer.",
+    "zh-Hans": "火箭的研究、设计、开发和建造"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13010001",
+    "https://www.wikidata.org/entity/Q23064627"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علم صواريخ",
+    "de": "Raketentechnik",
+    "dk": "raket",
+    "en-GB": "rocketry",
+    "en-US": "rocketry",
+    "es": "Cohetería",
+    "fr": "Fuséologie",
+    "no": "rakettindustri",
+    "pt-BR": "ciência de foguetes",
+    "pt-PT": "ciência de foguetes",
+    "se": "Raketteknik",
+    "zh-Hans": "火箭"
+  },
+  "qcode": "medtop:20000758",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000758",
+  "aid": "iptc_20000758"
+}

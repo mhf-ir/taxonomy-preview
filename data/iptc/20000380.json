@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Darlehen mit der Absicht Eigentum zu kaufen, sowohl Land als auch Gebäude. Oder für Hausbesitzer um den Besitz zu renovieren oder instand zu halten, meist basierend auf Eigenkapital in Form von Eigentum.",
+    "dk": "Låne penge til køb af jord eller ejendom eller til reparation, renovering af ejendom, for sikkerhed, normalt i en ejendom.",
+    "en-GB": "The loan of money for the purpose of purchasing a property, whether land or building. Or, for homeowners to repair or maintain properties, often based on owner equity in a property",
+    "en-US": "The loan of money for the purpose of purchasing a property, whether land or building. Or, for homeowners to repair or maintain properties, often based on owner equity in a property",
+    "pt-BR": "Empréstimo de dinheiro com o objetivo de comprar uma propriedade, terreno ou edifício, ou, para proprietários, de reparar ou fazer a manutenção de propriedades.",
+    "pt-PT": "Empréstimo de dinheiro com o objetivo de comprar uma propriedade, terreno ou edifício, ou, para proprietários, de reparar ou fazer a manutenção de propriedades.",
+    "se": "Upplåning av pengar för köp av mark eller fastighet eller för reparation eller renovering av fastighet, mot säkerhet, vanligtvis i en fastighet.",
+    "zh-Hans": "用于购买土地或建筑物不动产的贷款，或者基于房产所有者权益维修或维护不动产的贷款。"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008022",
+    "https://www.wikidata.org/entity/Q1210094"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رهن",
+    "de": "Hypothek",
+    "dk": "boliglån og realkredit",
+    "en-GB": "mortgage",
+    "en-US": "mortgage",
+    "es": "Hipoteca",
+    "fr": "Emprunt immobilier",
+    "no": "lån",
+    "pt-BR": "hipotecas",
+    "pt-PT": "hipotecas",
+    "se": "Bolån",
+    "zh-Hans": "抵押贷款"
+  },
+  "qcode": "medtop:20000380",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000380",
+  "aid": "iptc_20000380"
+}

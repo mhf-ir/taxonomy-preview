@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sport der aus verschiedenen Disziplinen besteht in denen Turner artistische und akrobatische Figuren zeigen an unterschiedlichen Geräten. Es gibt 6 Disziplinen bei den Männern und 4 bei den Frauen",
+    "dk": "Deltagerne udfører forskellige bevægelser på forskellige redskaber og bedømmes af dommere.",
+    "en-GB": "A sport consisting of a variety of disciplines in which gymnasts perform artistic and acrobatic moves using different apparatus.",
+    "en-US": "A sport consisting of a variety of disciplines in which gymnasts perform artistic and acrobatic moves using different apparatus.",
+    "pt-BR": "Esporte que consiste numa variedade de  disciplinas em que os ginastas realizam movimentos artísticos e acrobáticos em diferentes aparelhos. Há 6 disciplinas para os homens e 4 para as mulheres.",
+    "pt-PT": "Desporto que consiste numa variedade de  disciplinas em que os ginastas realizam movimentos artísticos e acrobáticos em diferentes aparelhos. Há 6 disciplinas para os homens e 4 para as mulheres.",
+    "se": "De tävlande utför olika rörelser på olika redskap och bedöms av domare.",
+    "zh-Hans": "有很多分项的体育项目。运动员使用不同的器材展示具有艺术性和技巧性的动作"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028000",
+    "https://www.wikidata.org/entity/Q43450"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000951",
+    "medtop:20000955",
+    "medtop:20001152"
+  ],
+  "prefLabel": {
+    "ar": "جمباز",
+    "de": "Turnen",
+    "dk": "gymnastik",
+    "en-GB": "gymnastics",
+    "en-US": "gymnastics",
+    "es": "Gimnasia",
+    "fr": "Gymnastique",
+    "no": "gymnastikk",
+    "pt-BR": "ginástica",
+    "pt-PT": "ginástica",
+    "se": "Gymnastik",
+    "zh-Hans": "体操"
+  },
+  "qcode": "medtop:20000942",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000942",
+  "aid": "iptc_20000942"
+}

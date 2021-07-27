@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000824"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schießen mit der Armbrust auf Zielscheiben in unterschiedlichen Distanzen",
+    "dk": "Som en bueskytte, men med en armbrøst, der skyder hårdere og længere end en bue og skal lades, før den kan skyde.",
+    "en-GB": "Shooting with crossbow on targets from different distances",
+    "en-US": "Shooting with crossbow on targets from different distances",
+    "pt-BR": "Tiro com besta contra alvos colocados a várias distâncias.",
+    "pt-PT": "Tiro com besta contra alvos colocados a várias distâncias.",
+    "se": "Som bågskytte, men med en armborst som skjuter hårdare och längre än en pilbåge och behöver laddas innan den kan avfyras.",
+    "zh-Hans": "使用十字弓向不同距离的靶子射箭"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15004002",
+    "https://www.wikidata.org/entity/Q18089113"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "قوس",
+    "de": "Armbrust",
+    "dk": "armbrøst",
+    "en-GB": "crossbow shooting",
+    "en-US": "crossbow shooting",
+    "es": "Tiro con ballesta",
+    "fr": "Tir à l'arbalète",
+    "no": "armbrøstskyting",
+    "pt-BR": "tiro com besta",
+    "pt-PT": "tiro com besta",
+    "se": "Armborstskytte",
+    "zh-Hans": "弩射"
+  },
+  "qcode": "medtop:20000825",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000825",
+  "aid": "iptc_20000825"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000121"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "System der zivilen Vergehen und Delikte",
+    "dk": "Den del af et lands love, der handler om forhold mellem private.",
+    "en-GB": "The system of law focused on private rights and disputes between individuals in such areas as contracts, torts, property, and family law",
+    "en-US": "The system of law focused on private rights and disputes between individuals in such areas as contracts, torts, property, and family law",
+    "pt-BR": "Sistema do código civil.",
+    "pt-PT": "Sistema do código civil.",
+    "se": "Den del av ett lands lagar som handlar om förhållanden mellan privatpersoner.",
+    "zh-Hans": "集中于解决私人权利和个人之间在合同、侵权、财产和家庭法等领域纠纷的法律体系"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02006002",
+    "https://www.wikidata.org/entity/Q222249"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000124"
+  ],
+  "prefLabel": {
+    "ar": "قانون مدني",
+    "de": "Bürgerliches Gesetzbuch",
+    "dk": "civilret",
+    "en-GB": "civil law",
+    "en-US": "civil law",
+    "es": "Derecho civil",
+    "fr": "Droit civil",
+    "no": "sivilrett",
+    "pt-BR": "lei civil",
+    "pt-PT": "lei civil",
+    "se": "Civilrätt",
+    "zh-Hans": "民法"
+  },
+  "qcode": "medtop:20000122",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000122",
+  "aid": "iptc_20000122"
+}

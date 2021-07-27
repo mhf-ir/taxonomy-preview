@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000084"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sexuelle Nötigung und Körperverletzung",
+    "dk": "Seksuel relateret vold, herunder voldtægt, overgreb, chikane eller befamling.",
+    "en-GB": "Sexual crimes against a person, such as rape, harassment, molestation or groping",
+    "en-US": "Sexual crimes against a person, such as rape, harassment, molestation or groping",
+    "pt-BR": "Agressão de natureza sexual cometida contra outra pessoa, como violação, assédio ou molestamento.",
+    "pt-PT": "Agressão de natureza sexual cometida contra outra pessoa, como violação, assédio ou molestamento.",
+    "se": "Sexuellt relaterat våld.",
+    "zh-Hans": "对人的性犯罪，如强奸、骚扰、性骚扰或猥亵"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02001005",
+    "https://www.wikidata.org/entity/Q673281"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T20:00:00+00:00",
+  "prefLabel": {
+    "ar": "اعتداء جنسي",
+    "de": "Sexuelle Gewalt",
+    "dk": "seksualforbrydelse",
+    "en-GB": "sex crime",
+    "en-US": "sex crime",
+    "es": "Agresión sexual",
+    "fr": "Agression sexuelle",
+    "no": "seksualforbrytelser",
+    "pt-BR": "crimes sexuais",
+    "pt-PT": "crimes sexuais",
+    "se": "Våldtäkt",
+    "zh-Hans": "性犯罪"
+  },
+  "qcode": "medtop:20000085",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000085",
+  "aid": "iptc_20000085"
+}

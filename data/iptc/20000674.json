@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Randerscheinungen von anerkannten religiösen Einheiten, oder kleine eng konzentrierte Gruppen, verbreitet durch ein oder zwei Einzelpersonen",
+    "dk": "Religiøse grupperinger, der er kendetegnet ved en diffus organisation og et afvigende trossystem i forhold til andre religiøse grupper.",
+    "en-GB": "Offshoots of established religious bodies, or small narrow-focused group promulgated by one or two individuals",
+    "en-US": "Offshoots of established religious bodies, or small narrow-focused group promulgated by one or two individuals",
+    "pt-BR": "Ramificações de corpos religiosos estabelecidos ou grupo restrito disseminado por um ou dois indivíduos.",
+    "pt-PT": "Ramificações de corpos religiosos estabelecidos ou grupo restrito disseminado por um ou dois indivíduos.",
+    "se": "Religiösa grupperingar som karaktäriseras av en diffus organisation och av ett i förhållande till andra religiösa grupper avvikande trossystem.",
+    "zh-Hans": "由一两个人发布的宗教团体的分支或小范围的团体"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12001000",
+    "https://www.wikidata.org/entity/Q11038979"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "معتقدات وطوائف",
+    "de": "Kult und Sekte",
+    "dk": "kult og sekt",
+    "en-GB": "cult and sect",
+    "en-US": "cult and sect",
+    "es": "Cultos y sectas",
+    "fr": "Cultes et sectes",
+    "no": "kult",
+    "pt-BR": "cultos e seitas",
+    "pt-PT": "cultos e seitas",
+    "se": "Kulter och sekter",
+    "zh-Hans": "膜拜教派"
+  },
+  "qcode": "medtop:20000674",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000674",
+  "aid": "iptc_20000674"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000470"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Behandlung, die auf der Nutzung von Kräutern und anderen Pflanzen beruht, um Krankheitssymptomen vorzubeugen oder zu heilen",
+    "dk": "Behandling baseret på brugen af urter og andre planter til at kurere eller lindre sygdomssymptomer.",
+    "en-GB": "Treatment based on the use of herbs and other plants to cure or alleviate disease symptoms",
+    "en-US": "Treatment based on the use of herbs and other plants to cure or alleviate disease symptoms",
+    "pt-BR": "Tratamento baseado no uso de ervas e de outras plantas para curar ou aliviar sintomas de doença.",
+    "pt-PT": "Tratamento baseado no uso de ervas e de outras plantas para curar ou aliviar sintomas de doença.",
+    "se": "Benämning på medel, huvudsakligen avsedda för egenbehandling, vilka utgörs av torkade växtdelar eller extrakt av sådana som används för att bota sjukdomar.",
+    "zh-Hans": "基于草药和其他植物治疗来减轻疾病症状的治疗方法"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07007001",
+    "https://www.wikidata.org/entity/Q861699"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اعشاب",
+    "de": "Homöopathie",
+    "dk": "urtemedicin",
+    "en-GB": "herbal medicine",
+    "en-US": "herbal medicine",
+    "es": "Hierbas medicinales",
+    "fr": "Phytothérapie",
+    "no": "naturmedisin",
+    "pt-BR": "fitoterapia",
+    "pt-PT": "fitoterapia",
+    "se": "Örtmedicin",
+    "zh-Hans": "草药医学"
+  },
+  "qcode": "medtop:20000471",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000471",
+  "aid": "iptc_20000471"
+}

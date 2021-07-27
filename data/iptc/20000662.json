@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000659"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mitglieder einer katholischen Kirche, die 1870 entstand und die die Lehre über die Unfehlbarkeit des Papstes ablehnt.",
+    "dk": "Medlemmer af en katolsk kirke, der startede i 1870 og benægter dogmen om pavens ufejlbarhed.",
+    "en-GB": "Members of a catholic church which  started in 1870 and denies the dogma of the infallibility of the pope",
+    "en-US": "Members of a catholic church which started in 1870 and denies the dogma of the infallibility of the pope",
+    "pt-BR": "Membros de uma igreja católica que começou em 1870 e que nega o dogma da infalibilidade do papa.",
+    "pt-PT": "Membros de uma igreja católica que começou em 1870 e que nega o dogma da infalibilidade do papa.",
+    "se": "En sammanslutning av självständiga och episkopalt styrda kyrkor, som står utanför gemenskapen med påven och den romersk-katolska kyrkan.",
+    "zh-Hans": "1870年成立的天主教会成员并否认教皇的教义是绝对正确的"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12009011",
+    "https://www.wikidata.org/entity/Q5169816"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كنيسة كاثوليكية قديمة",
+    "de": "Altkatholiken",
+    "dk": "gammelkatolik",
+    "en-GB": "Old Catholic",
+    "en-US": "Old Catholic",
+    "es": "Antiguo católico",
+    "fr": "Vieux Catholique",
+    "no": "Den gammelkatolske kirke",
+    "pt-BR": "veterocatólico",
+    "pt-PT": "veterocatólico",
+    "se": "Gammalkatolicism",
+    "zh-Hans": "老天主教"
+  },
+  "qcode": "medtop:20000662",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000662",
+  "aid": "iptc_20000662"
+}

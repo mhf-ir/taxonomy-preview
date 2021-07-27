@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000002"
+  ],
+  "created": "2017-11-16T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Abfolge mehrerer Episoden von fiktiven oder dokumentarischen Inhalten die unter demselben Titel präsentiert werden",
+    "dk": "Et sammenhængende sæt programmer, der udsendes under samme titel, undertiden over flere sæsoner.",
+    "en-GB": "A connected set of fictional or non-fictional program episodes that run under the same title.",
+    "en-US": "A connected set of fictional or non-fictional program episodes that run under the same title.",
+    "es": "Una serie es un conjunto de emisiones periódicas de ficción o documentales agrupadas bajo un título común.",
+    "fr": "Une série est une œuvre, fictionnelle ou non, constituée d'épisodes réunis sous le même titre.",
+    "pt-BR": "Conjunto ligado de episódios de programas fictícios ou não, exibidos sob o mesmo título.",
+    "pt-PT": "Conjunto ligado de episódios de programas fictícios ou não, exibidos sob o mesmo título.",
+    "se": "Ett sammanhållet set av program som sänds under samma titel, ibland över flera säsonger.",
+    "zh-Hans": "在同一剧名下展开且情节相关联的系列故事，可以是虚构或非虚构的"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/wiki/Q7725310"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-11-16T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مسلسل",
+    "de": "Serie",
+    "dk": "serie",
+    "en-GB": "series",
+    "en-US": "series",
+    "es": "Serie",
+    "fr": "Série",
+    "no": "TV-serier",
+    "pt-BR": "série",
+    "pt-PT": "série",
+    "se": "Serie",
+    "zh-Hans": "连续剧"
+  },
+  "qcode": "medtop:20001179",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001179",
+  "aid": "iptc_20001179"
+}

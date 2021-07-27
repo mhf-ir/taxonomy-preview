@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000451"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Familie des RNA Virus, wie der, der Leukämie und Aids verursacht",
+    "dk": "En familie af RNA-vira, såsom dem, der forårsager leukæmi og AIDS.",
+    "en-GB": "A family of RNA viruses such as those causing leukaemia and AIDS",
+    "en-US": "A family of RNA viruses such as those causing leukemia and AIDS",
+    "pt-BR": "Família de vírus RNA como os que causam leucemia e aids.",
+    "pt-PT": "Família de vírus ARN como os que causam leucemia e sida.",
+    "se": "En familj av RNA-virus som orsakar bland annat leukemi och aids.",
+    "zh-Hans": "一个核糖核酸病毒家族，如引起白血病和艾滋病的病毒"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07001009",
+    "https://www.wikidata.org/entity/Q189308"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "فيروس ارتجاعي",
+    "de": "Retrovirus",
+    "dk": "retrovirus",
+    "en-GB": "retrovirus",
+    "en-US": "retrovirus",
+    "es": "Retrovirus",
+    "fr": "Retrovirus",
+    "no": "retrovirus",
+    "pt-BR": "retrovírus",
+    "pt-PT": "retrovírus",
+    "se": "Retrovirus",
+    "zh-Hans": "逆转录酶病毒"
+  },
+  "qcode": "medtop:20000453",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000453",
+  "aid": "iptc_20000453"
+}

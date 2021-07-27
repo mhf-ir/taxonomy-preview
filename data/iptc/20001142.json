@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000560"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Sportliche Aktivität in den Bergen, schließt das Klettern und Wandern ein",
+    "dk": "Sportsaktiviteter i bjergene.",
+    "en-GB": "Sportive activities in the mountains including climbing and hiking",
+    "en-US": "Sportive activities in the mountains including climbing and hiking",
+    "pt-BR": "Atividades esportivas em montanhas, incluindo escalada e caminhada.",
+    "pt-PT": "Atividades desportivas em montanhas, incluindo escalada e caminhada.",
+    "se": "Sportsliga aktiviteter i bergen.",
+    "zh-Hans": "在山区进行的体育活动，包括登山和徒步旅行"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3505012"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2012-10-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تسلق جبال",
+    "de": "Alpinismus",
+    "dk": "bjergklatring og -vandring",
+    "en-GB": "recreational mountaineering",
+    "en-US": "recreational mountaineering",
+    "es": "Montañismo recreativo",
+    "fr": "Alpinisme (loisir)",
+    "no": "fjellklatring",
+    "pt-BR": "montanhismo",
+    "pt-PT": "montanhismo",
+    "se": "Klättring och vandring",
+    "zh-Hans": "登山"
+  },
+  "qcode": "medtop:20001142",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001142",
+  "aid": "iptc_20001142"
+}

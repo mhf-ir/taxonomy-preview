@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000979"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein geschlossenes Boot, worin vier Wettkämpfer in festen Sitzen sitzen und Doppelpaddel benutzen",
+    "dk": "Sejlads i kajak til fire person, hvor deltageren sidder med ben og fødder fremad og bruger en padle med blade i begge ender.",
+    "en-GB": "An enclosed boat with the competitor sitting on a fixed seat for four people using double bladed paddles",
+    "en-US": "An enclosed boat with the competitor sitting on a fixed seat for four people using double bladed paddles",
+    "pt-BR": "Caiaque de 4 lugares (embarcação fechada para quatro pessoas sentadas em assento fixo que remam com remo de duas pás).",
+    "pt-PT": "Caiaque de 4 lugares (embarcação fechada para quatro pessoas sentadas em assento fixo que remam com pagaia dupla).",
+    "zh-Hans": "四个选手坐在皮艇固定的座位上。使用双叶浆"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15015007"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "رباعي",
+    "de": "K4 (Kajak)",
+    "dk": "K4 (kajak)",
+    "en-GB": "K4 (kayaking)",
+    "en-US": "K4 (kayaking)",
+    "es": "K4 (kayak)",
+    "fr": "K4 (kayak)",
+    "no": "K4 (padling)",
+    "pt-BR": "K4",
+    "pt-PT": "K4",
+    "se": "K4",
+    "zh-Hans": "四人皮艇"
+  },
+  "qcode": "medtop:20000982",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000982",
+  "aid": "iptc_20000982"
+}

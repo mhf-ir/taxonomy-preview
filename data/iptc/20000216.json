@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000210"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Herstellung von Weinen von der Weinrebe bis zum Endprodukt",
+    "dk": "Produktionen af vin, fra druer til det færdige produkt.",
+    "en-GB": "Production of wines from the vines to the finished products",
+    "en-US": "Production of wines from the vines to the finished products",
+    "pt-BR": "Produção de vinhos, desde as vinhas até ao produto final.",
+    "pt-PT": "Produção de vinhos, desde as vinhas até ao produto final.",
+    "se": "Framställandet av vin, från vinrankan till den färdiga produkten.",
+    "zh-Hans": "从葡萄栽培到葡萄酒酿造的全过程"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04001005",
+    "https://www.wikidata.org/entity/Q3560277"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "زراعة كروم",
+    "de": "Weinbau",
+    "dk": "vinavl",
+    "en-GB": "viniculture",
+    "en-US": "viniculture",
+    "es": "Vinicultura",
+    "fr": "Viticulture",
+    "no": "vindyrking",
+    "pt-BR": "vinicultura",
+    "pt-PT": "vinicultura",
+    "se": "Vinodling",
+    "zh-Hans": "葡萄栽培"
+  },
+  "qcode": "medtop:20000216",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000216",
+  "aid": "iptc_20000216"
+}

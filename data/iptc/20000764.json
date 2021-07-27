@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000756"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Untersuchung der Zusammensetzung, Struktur und Eigenschaften von Werkstoffen für den Einsatz in Industrie und Fertigung",
+    "dk": "Videnskaben om grundlæggende principper for konstruktion af materialer.",
+    "en-GB": "The study of the composition, structure and properties of materials for their use in industry and manufacturing",
+    "en-US": "The study of the composition, structure and properties of materials for their use in industry and manufacturing",
+    "es": "El estudio de la composición, estructura y propiedades de los materiales para su uso en la industria y la fabricación",
+    "fr": "Etude de la composition, de la structure et des propriétés des matériaux pour leur utilisation dans l'industrie et la construction",
+    "pt-BR": "Estudo da composição, estrutura e propriedades dos materiais para seu uso na indústria e na manufatura.",
+    "pt-PT": "Estudo da composição, estrutura e propriedades dos materiais para o seu uso na indústria e na manufatura.",
+    "se": "Vetenskapen om grundläggande principer om materialens uppbyggnad.",
+    "zh-Hans": "研究用于工业和制造业的材料的组成、结构和性能的学科"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13002001",
+    "https://www.wikidata.org/entity/Q228736"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علوم مادية",
+    "de": "Materialwissenschaft",
+    "dk": "materialevidenskab",
+    "en-GB": "materials science",
+    "en-US": "materials science",
+    "es": "Ciencia de los materiales",
+    "fr": "Science des matériaux",
+    "no": "materialvitenskap",
+    "pt-BR": "ciência dos materiais",
+    "pt-PT": "ciência dos materiais",
+    "se": "Materialvetenskap",
+    "zh-Hans": "材料科学"
+  },
+  "qcode": "medtop:20000764",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000764",
+  "aid": "iptc_20000764"
+}

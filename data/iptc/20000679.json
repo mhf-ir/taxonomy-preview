@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Gruppe, die an einen Gott glaubt, deren Glauben auf den geschriebene heiligen Schriften und dem Talmud beruht, die das erste Erscheinen des Messias beinhalten.",
+    "dk": "Monoteistisk religion baseret på Det Gamle Testamente.",
+    "en-GB": "A group believing in one god, basing their beliefs on written scriptures and the Talmud, including the first coming of the Messiah",
+    "en-US": "A group believing in one god, basing their beliefs on written scriptures and the Talmud, including the first coming of the Messiah",
+    "pt-BR": "Grupo que acredita em um só deus, baseando suas crenças nas escrituras e no Talmude, incluindo a primeira vinda do Messias.",
+    "pt-PT": "Grupo que acredita em um só deus, baseando as suas crenças nas escrituras e no Talmude, incluindo a primeira vinda do Messias.",
+    "se": "Monoteistisk religion baserad på Gamla testamentet.",
+    "zh-Hans": "信仰一个神的团体，他们的信仰建立在书面经文和犹太法典上，包括弥赛亚的第一次降临"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12011000",
+    "https://www.wikidata.org/entity/Q9268"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "يهودية",
+    "de": "Judentum",
+    "dk": "jødedom",
+    "en-GB": "Judaism",
+    "en-US": "Judaism",
+    "es": "Judaísmo",
+    "fr": "Judaïsme",
+    "no": "jødedom",
+    "pt-BR": "judaísmo",
+    "pt-PT": "judaísmo",
+    "se": "Judendom",
+    "zh-Hans": "犹太教"
+  },
+  "qcode": "medtop:20000679",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000679",
+  "aid": "iptc_20000679"
+}

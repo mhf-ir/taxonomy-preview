@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000087"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Handel mit Aktien durch Personen, die Zugang zu internen und zu dem Zeitpunkt unveröffentlichten Informationen haben",
+    "dk": "Handel med aktier eller andre værdipapirer af personer, som har adgang til fortolige oplysninger.",
+    "en-GB": "Trading of stocks by persons having access to internal information not made public at the time",
+    "en-US": "Trading of stocks by persons having access to internal information not made public at the time",
+    "pt-BR": "Compra ou venda de ações por pessoas com acesso a informação interna não divulgada ao público na altura da transação.",
+    "pt-PT": "Compra ou venda de ações por pessoas com acesso a informação interna não divulgada ao público na altura da transação.",
+    "se": "Handel med aktier eller andra värdepapper av personer som har tillgång till information som inte är allmänt känd.",
+    "zh-Hans": "利用未公开的内部信息进行股票交易"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016022",
+    "https://www.wikidata.org/entity/Q854623"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تعامل داخلي",
+    "de": "Insiderhandel",
+    "dk": "insiderhandel",
+    "en-GB": "insider trading",
+    "en-US": "insider trading",
+    "es": "Tráfico de influencias",
+    "fr": "Délit d'initié",
+    "no": "innsidehandel",
+    "pt-BR": "abuso de informação privilegiada",
+    "pt-PT": "abuso de informação privilegiada",
+    "se": "Insiderhandel",
+    "zh-Hans": "内幕交易"
+  },
+  "qcode": "medtop:20000091",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000091",
+  "aid": "iptc_20000091"
+}

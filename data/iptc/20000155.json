@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03015002"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000151"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Plötzliches Verrutschen von großen Schnee- oder Erdmassen",
+    "dk": "Store mængder jord og/eller grus, der falder sammen.",
+    "en-GB": "Sudden dislodging of massive amounts of snow or soil",
+    "en-US": "Sudden dislodging of massive amounts of snow or soil",
+    "pt-BR": "A deslocação repentina de quantidades massivas de neve e terra.",
+    "pt-PT": "A deslocação repentina de quantidades massivas de neve e terra.",
+    "se": "När större mängder jord och/eller grus släpper och rasar ned.",
+    "zh-Hans": "积雪或土壤大规模滑落"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q167903"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000156"
+  ],
+  "prefLabel": {
+    "ar": "انزلاق",
+    "de": "Erdrutsch",
+    "dk": "jordskred",
+    "en-GB": "landslide",
+    "en-US": "landslide",
+    "es": "Deslizamiento de terreno",
+    "fr": "Glissement de terrain",
+    "no": "ras",
+    "pt-BR": "deslizamento de terra",
+    "pt-PT": "deslizamento de terra",
+    "se": "Jordskred",
+    "zh-Hans": "滑坡"
+  },
+  "qcode": "medtop:20000155",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000155",
+  "aid": "iptc_20000155"
+}

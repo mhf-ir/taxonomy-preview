@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001157"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Stand-up-Kampfsportart, die auf Tritten und Schlägen gegen einen Gegner basiert",
+    "dk": "En kampsport, der foregår i en boksering, hvor man både må slå og sparke.",
+    "en-GB": "Stand-up combat sport based on kicking and punching an opponent",
+    "en-US": "Stand-up combat sport based on kicking and punching an opponent",
+    "pt-BR": "Esporte de combate em pé baseado em chutes e socos no adversário.",
+    "pt-PT": "Desporto de combate em pé baseado em chutos e socos no adversário.",
+    "se": "Upprättstående kontaktsport där de tävlande både för slå och sparka varandra.",
+    "zh-Hans": "站立的以脚为主踢打对手的格斗运动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q178678"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كيك بوكسينغ",
+    "de": "Kickboxen",
+    "dk": "kickboksning",
+    "en-GB": "kickboxing",
+    "en-US": "kickboxing",
+    "es": "Kickboxing",
+    "fr": "Kick-boxing",
+    "no": "kickboksing",
+    "pt-BR": "kickboxing",
+    "pt-PT": "kickboxing",
+    "se": "Kickboxning",
+    "zh-Hans": "跆拳道"
+  },
+  "qcode": "medtop:20001310",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001310",
+  "aid": "iptc_20001310"
+}

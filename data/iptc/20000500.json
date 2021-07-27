@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "https://www.wikidata.org/entity/Q729"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/08000000"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/08001000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Tiere mit Blick auf emotionale Aspekte",
+    "dk": "Nyheder om dyr.",
+    "en-GB": "Human interest and cultural stories related to animals, including pets",
+    "en-US": "Human interest and cultural stories related to animals, including pets",
+    "pt-BR": "Itens sobre animais, com foco em facetas emocionais.",
+    "pt-PT": "Itens sobre animais, com foco em facetas emocionais.",
+    "se": "Nyheter om djur där fokus ligger på känslomässiga saker.",
+    "zh-Hans": "关注情感层面的动物条目"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حيوان",
+    "de": "Tier",
+    "dk": "dyr",
+    "en-GB": "animal",
+    "en-US": "animal",
+    "es": "Animales",
+    "fr": "Animaux",
+    "no": "dyr",
+    "pt-BR": "animais",
+    "pt-PT": "animais",
+    "se": "Djur",
+    "zh-Hans": "动物"
+  },
+  "qcode": "medtop:20000500",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000500",
+  "aid": "iptc_20000500"
+}

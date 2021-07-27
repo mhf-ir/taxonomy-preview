@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000991"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Saison von Ausdauerrennen über geschlossene Pisten auf dreckigen Straßen und auch unter Schneebedingungen, mit Hilfe von speziellen Straßenfahrzeugens mit einem Fahrer und einem Co-Pilot",
+    "dk": "Rally køres af biler, der har chauffører og kortlæsere i bilen, på offentlige, men lukkede veje. Hver konkurrence har flere etaper, og grundlaget varierer afhængigt af placering og sæson.",
+    "en-GB": "A season of endurance races over closed circuits including dirt tracks, roads and even snowy conditions featuring specials using adapted road cars with a driver and co-pilot.",
+    "en-US": "A season of endurance races over closed circuits including dirt tracks, roads and even snowy conditions featuring specials using adapted road cars with a driver and co-pilot.",
+    "pt-BR": "Corridas de resistência, disputadas em circuitos delimitados que incluem caminhos de terra e estradas, usando carros especialmente adaptados com piloto e copiloto.",
+    "pt-PT": "Corridas de resistência, disputadas em circuitos delimitados que incluem caminhos de terra e estradas, usando carros especialmente adaptados com piloto e copiloto.",
+    "se": "Rally körs med bilar som har förare och kartläsare, på allmäna men avstängda vägar. Varje tävling har flera etapper och underlaget varierar beroende på plats och årstid. Deltävlingarna räknas ihop till ett mästerskap.",
+    "zh-Hans": "全赛季耐力赛车比赛。场地包括封闭赛道的土路，公路，雪地路况的路段。使用专门改装过的汽车，主副驾驶"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15040000",
+    "https://www.wikidata.org/entity/Q7856"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic motor car racing + sports facet motorcarracingtype"
+  },
+  "prefLabel": {
+    "ar": "سباق سيارات",
+    "de": "Rallye",
+    "dk": "rally",
+    "en-GB": "motor car rallying",
+    "en-US": "motor car rallying",
+    "es": "Rally de autos",
+    "fr": "Rallye automobile",
+    "no": "rally",
+    "pt-BR": "rali",
+    "pt-PT": "rali",
+    "se": "Rally",
+    "zh-Hans": "汽车拉力赛"
+  },
+  "qcode": "medtop:20000997",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000997",
+  "aid": "iptc_20000997"
+}

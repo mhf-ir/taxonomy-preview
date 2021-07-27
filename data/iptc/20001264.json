@@ -1,0 +1,41 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000626"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Politik in Bezug auf die Entwicklung und Instandhaltung der grundlegenden Einrichtungen eines Landes, einer Stadt oder eines anderen Gebiets, die eine Geschäftstätigkeit ermöglichen, wie Kommunikations-, Transport- und Vertriebsnetze",
+    "dk": "Politik, der fastlægger retningen for nybyggeri og vedligeholdelse af grundlæggende faciliteter som veje og kommunikation.",
+    "en-GB": "Policies regarding the development and maintenance of the fundamental facilities of a country, city or other area that make business activity possible, such as communication, transportation and distribution networks",
+    "en-US": "Policies regarding the development and maintenance of the fundamental facilities of a country, city or other area that make business activity possible, such as communication, transportation and distribution networks",
+    "pt-BR": "Políticas relativas ao desenvolvimento e manutenção das instalações fundamentais de um país, cidade ou outra área que possibilitam a atividade comercial, como redes de comunicação, de transporte e de distribuição.",
+    "pt-PT": "Políticas relativas ao desenvolvimento e manutenção das instalações fundamentais de um país, cidade ou outra área que possibilitam a atividade comercial, como redes de comunicação, de transporte e de distribuição.",
+    "se": "Politiska planer och mål för att utveckla och underhålla infrastrukturen i ett område.",
+    "zh-Hans": "有关国家、城市或其他地区的基础设施的开发和维护的政策，这些基础设施使商业活动成为可能，例如通讯、交通运输和销售网络"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سياسة البنى التحتية",
+    "de": "Infrastrukturpolitik",
+    "dk": "infrastrukturpolitik",
+    "en-GB": "infrastructure policy",
+    "en-US": "infrastructure policy",
+    "es": "Política de infraestructura",
+    "fr": "Politique d'infrastructure",
+    "no": "infrastrukturpolitikk",
+    "pt-BR": "política de infraestruturas",
+    "pt-PT": "política de infraestruturas",
+    "se": "Infrastrukturpolitik",
+    "zh-Hans": "基础设施政策"
+  },
+  "qcode": "medtop:20001264",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001264",
+  "aid": "iptc_20001264"
+}

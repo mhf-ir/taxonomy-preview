@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verfügbarkeit oder Inhalte von Jahresabschlussberichten von Firmen",
+    "dk": "Udarbejdelse af et selskabs årsregnskab og information om dets ledelse i løbet af et regnskabsår.",
+    "en-GB": "Availability or contents of annual company reports.",
+    "en-US": "Availability or contents of annual company reports.",
+    "pt-BR": "Disponibilidade ou conteúdos de relatórios anuais de empresas.",
+    "pt-PT": "Disponibilidade ou conteúdos de relatórios anuais de empresas.",
+    "se": "Sammanställning av ett företags räkenskaper och information om dess förvaltning under ett räkenskapsår.",
+    "zh-Hans": "公司年报内容"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016003",
+    "https://www.wikidata.org/entity/Q699735"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تقرير سنوي",
+    "de": "Geschäftsbericht",
+    "dk": "årsrapport",
+    "en-GB": "annual report",
+    "en-US": "annual report",
+    "es": "Memorias anuales",
+    "fr": "Rapport annuel",
+    "no": "årsrapport",
+    "pt-BR": "relatório anual",
+    "pt-PT": "relatório anual",
+    "se": "Årsredovisning",
+    "zh-Hans": "公司年报"
+  },
+  "qcode": "medtop:20000194",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000194",
+  "aid": "iptc_20000194"
+}

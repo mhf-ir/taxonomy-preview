@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/04000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Information über einzelne Firmen, Konzerne und Wohltätigkeitsorganisationen",
+    "dk": "Oplysninger om individuelle virksomheder, fonde og mere.",
+    "en-GB": "Information about individual business entities, including companies, corporations, charities",
+    "en-US": "Information about individual business entities, including companies, corporations, charities",
+    "pt-BR": "Informação sobre empresas individuais ou companhias de negócios.",
+    "pt-PT": "Informação sobre empresas individuais ou companhias de negócios.",
+    "se": "Information om enskilda företag, stiftelser, ekonomiska föreningar med mera.",
+    "zh-Hans": "有关单个企业实体的信息，包括公司、慈善机构"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016000",
+    "https://www.wikidata.org/entity/Q1391314"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000171",
+    "medtop:20000188",
+    "medtop:20000192",
+    "medtop:20001230"
+  ],
+  "prefLabel": {
+    "ar": "معلومات تجارية",
+    "de": "Firmeninformation",
+    "dk": "virksomhedsinformation",
+    "en-GB": "business information",
+    "en-US": "business information",
+    "es": "Información sobre empresas",
+    "fr": "Microéconomie",
+    "no": "regnskap og resultater",
+    "pt-BR": "informação sobre empresas",
+    "pt-PT": "informação sobre empresas",
+    "se": "Företagsinformation",
+    "zh-Hans": "企业信息"
+  },
+  "qcode": "medtop:20000170",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000170",
+  "aid": "iptc_20000170"
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/08000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rituale nicht-religiöser Art wie Weihung, Kranzniederlegungen, Schiffstaufen etc.",
+    "dk": "Ikke-religiøse ritualer såsom kransenedlægning, dåb og lignende.",
+    "en-GB": "Rituals, such as dedications, wreath laying or celebrating the launching of a ship",
+    "en-US": "Rituals, such as dedications, wreath laying or celebrating the launching of a ship",
+    "pt-BR": "Rituais de natureza não religiosa, como cerimônias de consagração, deposição de coroa de flores, lançamento de barcos etc.",
+    "pt-PT": "Rituais de natureza não religiosa, como cerimónias de consagração, deposição de coroa de flores, lançamento de barcos, etc.",
+    "se": "Icke-religiösa ritualer såsom kransnedläggning, skeppsdop och liknande.",
+    "zh-Hans": "非宗教仪式。如献礼、献花、轮船下水等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/08005001",
+    "https://www.wikidata.org/entity/Q2627975"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001233",
+    "medtop:20001234",
+    "medtop:20001235",
+    "medtop:20001236"
+  ],
+  "prefLabel": {
+    "ar": "احتفال",
+    "de": "Zeremonie",
+    "dk": "ceremoni",
+    "en-GB": "ceremony",
+    "en-US": "ceremony",
+    "es": "Ceremonia",
+    "fr": "Cérémonie",
+    "no": "seremoni",
+    "pt-BR": "cerimônia",
+    "pt-PT": "cerimónia",
+    "se": "Ceremonier",
+    "zh-Hans": "仪式"
+  },
+  "qcode": "medtop:20000501",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000501",
+  "aid": "iptc_20000501"
+}

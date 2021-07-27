@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Firmen- oder Regierungspapier, das die Leihgabe von Geld zu einem festgelegten Preis und Zeitraum für diese Firma oder Regierung auszeichnet.",
+    "dk": "Virksomheds- eller statsdokument, der repræsenterer lånet af penge til en fast rente og i en fast tid til det pågældende firma eller stat.",
+    "en-GB": "Corporate or governmental paper representing the loan of money at a fixed rate and for a fixed time to that company or  government",
+    "en-US": "Corporate or governmental paper representing the loan of money at a fixed rate and for a fixed time to that company or government",
+    "pt-BR": "Documento empresarial ou governamental que representa o empréstimo de dinheiro, a uma taxa de juro fixa e por determinado período de tempo, a uma empresa ou governo.",
+    "pt-PT": "Documento empresarial ou governamental que representa o empréstimo de dinheiro, a uma taxa de juro fixa e por determinado período de tempo, a uma empresa ou governo.",
+    "se": "Köp- och säljbar skuldförbindelse som utgör del av större lån och som löses in till visst belopp då lånet förfaller.",
+    "zh-Hans": "包括政府和企业发行的债券，债券认购人以固定利率向发债公司或政府提供一定期限的贷款"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008027",
+    "https://www.wikidata.org/entity/Q11693"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سندات",
+    "de": "Anleihe",
+    "dk": "obligation",
+    "en-GB": "bonds",
+    "en-US": "bonds",
+    "es": "Bonos",
+    "fr": "Obligations",
+    "no": "obligasjon",
+    "pt-BR": "obrigações",
+    "pt-PT": "obrigações",
+    "se": "Obligationer",
+    "zh-Hans": "债券"
+  },
+  "qcode": "medtop:20000347",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000347",
+  "aid": "iptc_20000347"
+}

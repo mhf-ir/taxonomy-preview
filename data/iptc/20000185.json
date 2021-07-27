@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000171"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Inhaber einer oder mehrerer Aktien eines Unternehmens",
+    "dk": "Indehaver af en eller flere aktier i et selskab.",
+    "en-GB": "The owner of one or more shares of a company.",
+    "en-US": "The owner of one or more shares of a company.",
+    "pt-BR": "Todo titular de documento emitido por uma empresa, que tem valor variável e que lhe dá direito a dividendos consoante o desempenho da empresa.",
+    "pt-PT": "Qualquer titular de documento emitido por uma empresa, que tem valor variável e que lhe dá direito a dividendos consoante o desempenho da empresa.",
+    "se": "Innehavare av en eller flera aktier i ett företag.",
+    "zh-Hans": "一个公司的一个或多个股份所有者"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016047",
+    "https://www.wikidata.org/entity/Q381136"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مساهم",
+    "de": "Aktionär",
+    "dk": "aktionær",
+    "en-GB": "shareholder",
+    "en-US": "shareholder",
+    "es": "Accionista",
+    "fr": "Actionnaire",
+    "no": "aksjonær",
+    "pt-BR": "acionista",
+    "pt-PT": "acionista",
+    "se": "Aktieägare",
+    "zh-Hans": "股东"
+  },
+  "qcode": "medtop:20000185",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000185",
+  "aid": "iptc_20000185"
+}

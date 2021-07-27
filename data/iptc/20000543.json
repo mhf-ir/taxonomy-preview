@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10001000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000540"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Spiele, entwickelt für und benutzt von Kindern",
+    "dk": "Et spil designet til og oftest spillet af børn.",
+    "en-GB": "A game designed for and most often played by children",
+    "en-US": "A game designed for and most often played by children",
+    "pt-BR": "Jogo geralmente destinado a e maioritariamente praticado por crianças.",
+    "pt-PT": "Jogo geralmente destinado a e maioritariamente praticado por crianças.",
+    "se": "Spel som har utformats för, och oftast spelas av, barn.",
+    "zh-Hans": "为儿童设计并主要由儿童参与的游戏"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1509934"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "لعبة اطفال",
+    "de": "Kinderspiel",
+    "dk": "børnespil",
+    "en-GB": "children's game",
+    "en-US": "children's game",
+    "es": "Juego de niños",
+    "fr": "Jeux pour enfants",
+    "no": "barnespill",
+    "pt-BR": "jogo de crianças",
+    "pt-PT": "jogo de crianças",
+    "se": "Barnspel",
+    "zh-Hans": "儿童游戏"
+  },
+  "qcode": "medtop:20000543",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000543",
+  "aid": "iptc_20000543"
+}

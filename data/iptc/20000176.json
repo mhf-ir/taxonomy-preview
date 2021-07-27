@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000171"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Formelle Stellungnahmen von verschiedenen Agenturen, die Ratings durchführen über das Investitionsrisiko einer Firma oder eines Unternehmens",
+    "dk": "Gennemgang af en juridisk enhed for at vurdere dens økonomiske status og evne til at afvikle lån.",
+    "en-GB": "Formal statements by certain rating agencies on the investment risk of a company or enterprise",
+    "en-US": "Formal statements by certain rating agencies on the investment risk of a company or enterprise",
+    "pt-BR": "Declarações formais feitas por certas agências, como a Standard & Poor's, sobre o risco de investimento de uma companhia, país ou empresa.",
+    "pt-PT": "Declarações formais feitas por certas agências, como a Standard & Poor's, sobre o risco de investimento de uma companhia, país ou empresa.",
+    "se": "Granskning av en juridisk person för att bedöma dess ekonomiska status och förmåga att klara lån.",
+    "zh-Hans": "评级机构就公司或企业的投资风险作出的正式声明"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016050",
+    "https://www.wikidata.org/entity/Q372765"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تصنيف ائتماني",
+    "de": "Kreditrating",
+    "dk": "kreditvurdering",
+    "en-GB": "credit rating",
+    "en-US": "credit rating",
+    "es": "Clasificación financiera",
+    "fr": "Notation",
+    "no": "kredittvurdering",
+    "pt-BR": "notação de risco",
+    "pt-PT": "notação de risco",
+    "se": "Kreditvärdering",
+    "zh-Hans": "信用评级"
+  },
+  "qcode": "medtop:20000176",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000176",
+  "aid": "iptc_20000176"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03010003"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000162"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: This concept was merged into concept medtop:20000144 as their semantics were not sufficiently different"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Notfall mit Fahrzeugen im Luft- oder Weltraum",
+    "dk": "En hændelse, der involverer fartøjer i luft eller rum.",
+    "en-GB": "Incident involving craft in air or space.",
+    "en-US": "Incident involving craft in air or space.",
+    "pt-BR": "Um acidente que envolve uma nave aérea ou espacial.",
+    "pt-PT": "Um acidente que envolve uma nave aérea ou espacial.",
+    "zh-Hans": "涉及飞行器在空中或太空中的事件"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حادثة جوية او فضائية",
+    "de": "Flugnotfall",
+    "dk": "luft- og rumfartshændelse",
+    "en-GB": "air and space incident",
+    "en-US": "air and space incident",
+    "es": "Incidentes aéreos y espaciales",
+    "fr": "Incident aérien",
+    "no": "fly- og romfartsulykke",
+    "pt-BR": "acidente aéreo e espacial",
+    "pt-PT": "acidente aéreo ou espacial",
+    "zh-Hans": "航空和航天事件"
+  },
+  "qcode": "medtop:20000163",
+  "retired": "2015-08-27T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000163",
+  "aid": "iptc_20000163"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Abteilungen der Regierung, die ein spezielles Gebiet vertreten, wie z.B. Gesundheit, Soziales, Wirtschaft oder Verteidigung",
+    "dk": "Afdeling under statsforvaltningen som administrerer lovgivning etc. på et bestemt område, og som ledes af en minister.",
+    "en-GB": "Divisions of a government that concentrate on specific areas such as health, welfare, economy or war",
+    "en-US": "Divisions of a government that concentrate on specific areas such as health, welfare, economy or war",
+    "pt-BR": "Divisões de um governo que se concentram em áreas específicas, como a saúde, o bem-estar, a economia ou a guerra.",
+    "pt-PT": "Divisões de um governo que se concentram em áreas específicas, como a saúde, o bem-estar, a economia ou a guerra.",
+    "se": "Statsorgan som under regeringen ansvarar för viss gren av statsstyrelsen genom att bereda, handlägga och verkställa regeringens beslut, men utan befogenhet att ingripa i förvaltningens detaljer.",
+    "zh-Hans": "政府中专注于卫生、福利、经济或战争等特定领域的部门"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11006007",
+    "https://www.wikidata.org/entity/Q327333"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ادارة حكومية",
+    "de": "Ministerium",
+    "dk": "ministerium",
+    "en-GB": "government department",
+    "en-US": "government department",
+    "es": "Ministerio",
+    "fr": "Ministère",
+    "no": "departementer",
+    "pt-BR": "departamentos governamentais",
+    "pt-PT": "departamentos governamentais",
+    "se": "Departement",
+    "zh-Hans": "政府部门"
+  },
+  "qcode": "medtop:20000609",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000609",
+  "aid": "iptc_20000609"
+}

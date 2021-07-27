@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001056"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Abfahrtsschnelllauf auf schneebedeckten Pisten. Die Hänge haben verschiedene Tore, deren Abstand abhängig ist von der jeweiligen Disziplin",
+    "dk": "Skiløb i snedækket skrående bjergterræn ved hjælp af alpin teknik og udstyr. Pisterne har markerede porte, der er anbragt forskelligt afhængigt af typen skiløb.",
+    "en-GB": "Racing downhill on snow-covered slopes using alpine techniques and equipment.  The slopes contain intermediate gates which are spaced according to the discipline involved.",
+    "en-US": "Racing downhill on snow-covered slopes using alpine techniques and equipment. The slopes contain intermediate gates which are spaced according to the discipline involved.",
+    "pt-BR": "Esquiar por uma encosta abaixo, em pistas cobertas de neve, usando técnicas e equipamento alpinos. As pistas têm pórticos espaçados de acordo com a disciplina envolvida.",
+    "pt-PT": "Esquiar por uma encosta abaixo, em pistas cobertas de neve, usando técnicas e equipamento alpinos. As pistas têm pórticos espaçados de acordo com a disciplina envolvida.",
+    "se": "Tävling nedför snöklädda backar genom att använda alpin teknik och utrustning. Backarna har markerade portar som är utplacerade olika beroende på vilken sorts utförsåkning det gäller.",
+    "zh-Hans": "使用高山滑雪技术和设备从山坡雪道滑下。雪道上根据项目不同设置必须通过的门"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15002000",
+    "https://www.wikidata.org/entity/Q186222"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/alpineskiingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-11-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تزلج",
+    "de": "Ski alpin",
+    "dk": "alpint skiløb",
+    "en-GB": "alpine skiing",
+    "en-US": "alpine skiing",
+    "es": "Esquí alpino",
+    "fr": "Ski alpin",
+    "no": "alpint",
+    "pt-BR": "esqui alpino",
+    "pt-PT": "esqui alpino",
+    "se": "Alpint",
+    "zh-Hans": "高山滑雪"
+  },
+  "qcode": "medtop:20001057",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001057",
+  "aid": "iptc_20001057"
+}

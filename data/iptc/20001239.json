@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/10000000"
+  ],
+  "created": "2019-06-26T12:00:00+00:00",
+  "definition": {
+    "de": "Körperliche Aktivität mit dem Ziel, Gesundheit und Wohlbefinden zu erhalten und zu verbessern, Ausdauer zu gewinnen oder zum Vergnügen",
+    "dk": "Fysisk aktivitet, som har til formål at forbedre en persons fysiske tilstand, men også fungerer som adspredelse.",
+    "en-GB": "Physical activity with the purpose to maintain and improve health and wellness, gain stamina or for enjoyment",
+    "en-US": "Physical activity with the purpose to maintain and improve health and wellness, gain stamina or for enjoyment",
+    "pt-BR": "Atividade física com o objetivo de manter e melhorar a saúde e o bem-estar, ganhar resistência ou se divertir.",
+    "pt-PT": "Atividade física com o objetivo de manter e melhorar a saúde e o bem-estar, ganhar resistência ou divertir-se.",
+    "se": "Fysiska aktiviteter som mest utförs för personens egen skull och inte för att utveckla idrottsliga färdigheter",
+    "zh-Hans": "以保持和改善身体健康为目的的体育活动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q219067"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-06-26T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تمارين جسدية ولياقة",
+    "de": "Bewegung und Fitness",
+    "dk": "træning og fitness",
+    "en-GB": "exercise and fitness",
+    "en-US": "exercise and fitness",
+    "es": "Ejercicio físico y fitness",
+    "fr": "Activité physique et fitness",
+    "no": "fysisk trening",
+    "pt-BR": "exercício físico",
+    "pt-PT": "exercício físico",
+    "se": "Motion & hälsa",
+    "zh-Hans": "运动与健身"
+  },
+  "qcode": "medtop:20001239",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001239",
+  "aid": "iptc_20001239"
+}

@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000538"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Aktivität in der Freizeit",
+    "dk": "Aktiviteter, som man i fritiden engagerer sig i, ofte med elementer af kreativitet.",
+    "en-GB": "Recreational pursuit",
+    "en-US": "Recreational pursuit",
+    "pt-BR": "Atividades para entretenimento.",
+    "pt-PT": "Atividades para entretenimento.",
+    "se": "Aktiv verksamhet som man regelbundet och av renodlat intresse ägnar sig åt på fritiden, ofta med inslag av skapande.",
+    "zh-Hans": "具有浓厚兴趣并在业余时间积极参加的活动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10004000",
+    "https://www.wikidata.org/entity/Q47728"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000566",
+    "medtop:20000567",
+    "medtop:20000568",
+    "medtop:20000571",
+    "medtop:20001247"
+  ],
+  "prefLabel": {
+    "ar": "هواية",
+    "de": "Hobby",
+    "dk": "hobby",
+    "en-GB": "hobby",
+    "en-US": "hobby",
+    "es": "Pasatiempos",
+    "fr": "Passe-temps",
+    "no": "hobby",
+    "pt-BR": "passatempo",
+    "pt-PT": "passatempo",
+    "se": "Hobby",
+    "zh-Hans": "爱好"
+  },
+  "qcode": "medtop:20000550",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000550",
+  "aid": "iptc_20000550"
+}

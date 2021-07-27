@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000615"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Obere Kammer der Legislative.",
+    "dk": "Den indirekte valgte del af et parlament.",
+    "en-GB": "Senior chamber of a legislative body, such as the US Senate or UK House of Lords",
+    "en-US": "Senior chamber of a legislative body, such as the US Senate or UK House of Lords",
+    "pt-BR": "Câmara superior de um órgão legislativo, como o Senado Federal do Brasil, o Senado dos EUA ou a Câmara dos Lordes do Reino Unido.",
+    "pt-PT": "Câmara superior de um órgão legislativo, como o Senado Federal do Brasil, o Senado dos EUA ou a Câmara dos Lordes do Reino Unido.",
+    "se": "Den indirekt valda delen av ett parlament.",
+    "zh-Hans": "立法机构的高级议院"
+  },
+  "editorialNote": {
+    "en-GB": "Note to translators: the examples in the English definition should be converted to relevant examples in countries which speak the target language."
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11009001",
+    "https://www.wikidata.org/entity/Q637846"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مجلس الشيوخ",
+    "de": "Oberhaus",
+    "dk": "øverste hus (parlament)",
+    "en-GB": "upper house (legislature)",
+    "en-US": "upper house (legislature)",
+    "es": "Cámara alta",
+    "fr": "Chambre haute",
+    "no": "overhus",
+    "pt-BR": "câmara alta (legislatura)",
+    "pt-PT": "câmara alta (legislatura)",
+    "se": "Första kammaren",
+    "zh-Hans": "上议院（议会）"
+  },
+  "qcode": "medtop:20000617",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000617",
+  "aid": "iptc_20000617"
+}

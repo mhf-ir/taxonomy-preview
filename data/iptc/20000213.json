@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000210"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Züchten und Fangen von Fisch",
+    "dk": "Opdræt eller fangst af fisk.",
+    "en-GB": "Raising or gathering of fish",
+    "en-US": "Raising or gathering of fish",
+    "pt-BR": "Criação ou recolha de peixe.",
+    "pt-PT": "Criação ou recolha de peixe.",
+    "se": "Uppfödning eller insamlande av fisk.",
+    "zh-Hans": "鱼类养殖和捕捞"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04001002",
+    "https://www.wikidata.org/entity/Q635139"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صناعة سمكية",
+    "de": "Fischindustrie",
+    "dk": "fiskeindustri",
+    "en-GB": "fishing industry",
+    "en-US": "fishing industry",
+    "es": "Industria pesquera",
+    "fr": "Pêche",
+    "no": "fiskeri og havbruk",
+    "pt-BR": "pesca",
+    "pt-PT": "pesca",
+    "se": "Fiskerinäring",
+    "zh-Hans": "渔业"
+  },
+  "qcode": "medtop:20000213",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000213",
+  "aid": "iptc_20000213"
+}

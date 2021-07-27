@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000304"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Methoden Waren und Dienstleistungen dem Kunden anzupreisen mit Hilfe von Videos, Grafiken, Text etc.",
+    "dk": "Metoder til markedsføring af varer og tjenester ved hjælp af video, grafik eller tekst.",
+    "en-GB": "Methods of promoting goods and service to consumers through video, graphics, print text etc",
+    "en-US": "Methods of promoting goods and service to consumers through video, graphics, print text etc",
+    "pt-BR": "Métodos de promoção de bens e serviços junto do consumidor, através de vídeos, imagens, textos etc.",
+    "pt-PT": "Métodos de promoção de bens e serviços junto do consumidor, através de vídeos, imagens, textos, etc.",
+    "se": "Metoder för att marknadsföra varor och tjänster med hjälp av video, grafik eller text.",
+    "zh-Hans": "通过视频、图形、印刷文本等方式向消费者推销商品和服务的方式"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04010001",
+    "https://www.wikidata.org/entity/Q23700481"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اعلان",
+    "de": "Werbung",
+    "dk": "reklame",
+    "en-GB": "advertising",
+    "en-US": "advertising",
+    "es": "Publicidad",
+    "fr": "Publicité",
+    "no": "reklamebransjen",
+    "pt-BR": "publicidade",
+    "pt-PT": "publicidade",
+    "se": "Reklam",
+    "zh-Hans": "广告"
+  },
+  "qcode": "medtop:20000305",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000305",
+  "aid": "iptc_20000305"
+}

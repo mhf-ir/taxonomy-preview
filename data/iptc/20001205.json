@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000031"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Die Formgebung von Metall mit Hilfe von lokalisierten Druckkräften, wie Erwärmung und Hämmern",
+    "dk": "Håndværk, hvor man arbejder med opvarmet metal med værktøjer til fremstilling af redskaber eller dekorative genstande.",
+    "en-GB": "The shaping of metal using localized compressive forces, such as heating and hammering",
+    "en-US": "The shaping of metal using localized compressive forces, such as heating and hammering",
+    "pt-BR": "Modelagem de metal usando forças de compressão localizadas, como aquecimento e martelamento.",
+    "pt-PT": "Modelagem de metal usando forças de compressão localizadas, como aquecimento e martelamento.",
+    "se": "Hantverk där man bearbetar upphettad metall med verktyg för att tillverka nyttoföremål eller prydnadsföremål.",
+    "zh-Hans": "利用局部压缩力，如加热和锤击金属制成艺术品"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q193057"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تطريق",
+    "de": "Schmieden",
+    "dk": "smedning",
+    "en-GB": "forging",
+    "en-US": "forging",
+    "es": "Forja",
+    "fr": "Forgeage",
+    "no": "smiing",
+    "pt-BR": "forjamento",
+    "pt-PT": "forjamento",
+    "se": "Smide",
+    "zh-Hans": "锻造（艺术）"
+  },
+  "qcode": "medtop:20001205",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001205",
+  "aid": "iptc_20001205"
+}

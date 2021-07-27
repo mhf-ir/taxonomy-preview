@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000565"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Interesse für die Entwicklung von Stil, Mode und Design",
+    "dk": "Interesse for udvikling af stil, mode og design.",
+    "en-GB": "Interest in what is considered hip or popular at a certain point in time",
+    "en-US": "Interest in what is considered hip or popular at a certain point in time",
+    "pt-BR": "Interesse pelo que se considera popular ou na moda em determinado momento.",
+    "pt-PT": "Interesse pelo que se considera popular ou na moda em determinado momento.",
+    "se": "Intresse för utvecklingen av stil, mode och design.",
+    "zh-Hans": "对时尚潮流的爱好"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q28972120"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001250"
+  ],
+  "prefLabel": {
+    "ar": "تقليعة",
+    "de": "Trend",
+    "dk": "trends",
+    "en-GB": "trend",
+    "en-US": "trend",
+    "es": "Tendencia",
+    "fr": "Tendance",
+    "no": "moter",
+    "pt-BR": "tendências",
+    "pt-PT": "tendências",
+    "se": "Trender",
+    "zh-Hans": "时尚潮流"
+  },
+  "qcode": "medtop:20000572",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000572",
+  "aid": "iptc_20000572"
+}

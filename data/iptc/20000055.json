@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000053"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Geplanter Einsatz von Sprengkörpern gegen Menschen, Gebäude oder andere Objekte",
+    "dk": "Forsætlig brug af eksplosionsanordninger mod mennesker, bygninger eller andre strukturer.",
+    "en-GB": "Intentional use of explosive devices on people, buildings or other structures",
+    "en-US": "Intentional use of explosive devices on people, buildings or other structures",
+    "es": "Uso intencional de dispositivos explosivos en personas, edificios u otras estructuras",
+    "fr": "Utilisation intentionnelle d'engins explosifs sur des personnes, des bâtiments ou d'autres structures",
+    "pt-BR": "Uso de dispositivos explosivos contras pessoas, edifícios ou estruturas.",
+    "pt-PT": "Uso de dispositivos explosivos contras pessoas, edifícios ou estruturas.",
+    "se": "Avsiktligt användande av sprängmedel med personer eller byggnader som mål.",
+    "zh-Hans": "有意地在人、大厦或其他建筑物上使用爆炸装置的行为"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16005002",
+    "https://www.wikidata.org/entity/Q891854"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عمليات قصف",
+    "de": "Bombenattentat",
+    "dk": "bombning",
+    "en-GB": "bombings",
+    "en-US": "bombings",
+    "es": "Atentado con bomba",
+    "fr": "Attentat à la bombe",
+    "no": "bombeangrep",
+    "pt-BR": "atentados à bomba",
+    "pt-PT": "atentados à bomba",
+    "se": "Bombdåd",
+    "zh-Hans": "爆炸袭击"
+  },
+  "qcode": "medtop:20000055",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000055",
+  "aid": "iptc_20000055"
+}

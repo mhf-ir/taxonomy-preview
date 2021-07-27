@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000802"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gewohnheitsmäßiges und meist unkontrolliertes Konsumieren von gefährlichen Stoffen, wie Alkohol, Tabak, Medikamente oder Drogen",
+    "dk": "Den sædvanlige og ofte ukontrollerbare anvendelse af skadelige stoffer som alkohol, tobak og farmaceutiske stoffer eller stoffer.",
+    "en-GB": "The habitual and compulsive use of substances such as alcohol or drugs, or behaviour such as gambling, gaming or sex, often causing detrimental effects on the body, brain, and relationships with others",
+    "en-US": "The habitual and compulsive use of substances such as alcohol or drugs, or behavior such as gambling, gaming or sex, often causing detrimental effects on the body, brain, and relationships with others",
+    "pt-BR": "Consumo habitual e normalmente incontrolável de substâncias nocivas, como álcool, tabaco, medicamentos ou drogas.",
+    "pt-PT": "Consumo habitual e normalmente incontrolável de substâncias nocivas, como álcool, tabaco, medicamentos ou drogas.",
+    "se": "Vanemässigt och oftast okontrollerbart användande av skadliga substanser såsom alkohol, tobak och droger.",
+    "zh-Hans": "习惯性的、经常无法控制的滥用酒精、烟草、药品或毒品等有害物质"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14001000",
+    "https://www.wikidata.org/entity/Q12029"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ادمان",
+    "de": "Sucht",
+    "dk": "afhængighed og misbrug",
+    "en-GB": "addiction",
+    "en-US": "addiction",
+    "es": "Adicciones",
+    "fr": "Toxicomanie",
+    "no": "avhengighet",
+    "pt-BR": "adição",
+    "pt-PT": "dependência",
+    "se": "Beroenden",
+    "zh-Hans": "上瘾"
+  },
+  "qcode": "medtop:20000804",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000804",
+  "aid": "iptc_20000804"
+}

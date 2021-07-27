@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000717"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Untersuchung der physikalischen Prozesse, der materiellen Strukturen und der Eigenschaften der Erde",
+    "dk": "Undersøgelsen af Jordens fysiske processer, materielle strukturer og dens egenskaber.",
+    "en-GB": "The study of Earth's physical processes, material structures and its properties",
+    "en-US": "The study of Earth's physical processes, material structures and its properties",
+    "es": "El estudio de los procesos físicos, estructuras materiales y propiedades de la Tierra",
+    "fr": "Etude des processus physiques, des structures matérielles et des propriétés de la Terre",
+    "pt-BR": "Estudo dos processos físicos da Terra, das estruturas de materiais e das suas propriedades.",
+    "pt-PT": "Estudo dos processos físicos da Terra, das estruturas de materiais e  das suas propriedades.",
+    "se": "Vetenskapen om jorden.",
+    "zh-Hans": "研究地球物理过程、物质结构及其性质的学科"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13004001",
+    "https://www.wikidata.org/entity/Q1069"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علم طبقات الارض",
+    "de": "Geologie",
+    "dk": "geologi",
+    "en-GB": "geology",
+    "en-US": "geology",
+    "es": "Geología",
+    "fr": "Géologie",
+    "no": "geologi",
+    "pt-BR": "geologia",
+    "pt-PT": "geologia",
+    "se": "Geologi",
+    "zh-Hans": "地质学"
+  },
+  "qcode": "medtop:20000727",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000727",
+  "aid": "iptc_20000727"
+}

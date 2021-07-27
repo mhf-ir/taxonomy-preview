@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05010004"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000411"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Messung und Bewertung der Fertigkeiten von Schülern.",
+    "dk": "Formel høring for at bestemme den studerendes vidensniveau.",
+    "en-GB": "A measurement of student accomplishment",
+    "en-US": "A measurement of student accomplishment",
+    "pt-BR": "Medição do desempenho do estudante.",
+    "pt-PT": "Medição do desempenho do estudante.",
+    "se": "Formell utfrågning för fastställande av en elevs kunskapsnivå.",
+    "zh-Hans": "检查学生的成绩"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q27318"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000414"
+  ],
+  "prefLabel": {
+    "ar": "فحص",
+    "de": "Prüfung",
+    "dk": "eksamen",
+    "en-GB": "examination",
+    "en-US": "examination",
+    "es": "Exámen",
+    "fr": "Examen",
+    "no": "eksamen",
+    "pt-BR": "prova",
+    "pt-PT": "exame",
+    "se": "Prov",
+    "zh-Hans": "考试"
+  },
+  "qcode": "medtop:20000413",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000413",
+  "aid": "iptc_20000413"
+}

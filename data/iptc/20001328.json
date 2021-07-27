@@ -1,0 +1,28 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000788"
+  ],
+  "created": "2021-05-05T12:00:00+00:00",
+  "definition": {
+    "en-GB": "People who identify as male, focusing on the group as a demographic, and masculinity",
+    "en-US": "People who identify as male, focusing on the group as a demographic, and masculinity"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q8441"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "en-GB": "men",
+    "en-US": "men"
+  },
+  "qcode": "medtop:20001328",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001328",
+  "aid": "iptc_20001328"
+}

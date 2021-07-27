@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der aktuelle Wert einer Währung im Verhältnis zu einer anderen",
+    "dk": "Værdiforhold mellem to valutaer.",
+    "en-GB": "the system of money used by a country, including the value of one currency as measured against another",
+    "en-US": "the system of money used by a country, including the value of one currency as measured against another",
+    "pt-BR": "Valor de uma moeda em comparação com outra.",
+    "pt-PT": "Valor de uma moeda em comparação com outra.",
+    "se": "Värdeförhållande mellan två valutor.",
+    "zh-Hans": "一种货币相对于另一种货币的价值"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008018",
+    "https://www.wikidata.org/entity/Q66100"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20001279"
+  ],
+  "prefLabel": {
+    "ar": "قيمة عملة",
+    "de": "Währung",
+    "dk": "valutakurs",
+    "en-GB": "currency",
+    "en-US": "currency",
+    "es": "Tipo de cambio",
+    "fr": "Cours des devises",
+    "no": "valuta",
+    "pt-BR": "valor cambial",
+    "pt-PT": "valor cambial",
+    "se": "Valutor",
+    "zh-Hans": "汇率"
+  },
+  "qcode": "medtop:20000355",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000355",
+  "aid": "iptc_20000355"
+}

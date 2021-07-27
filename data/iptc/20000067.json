@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000065"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Organisierte Aktionen zum Widerspruch gegen eine Regierung oder regierende Partei durch die Bewohner eines Landes, oft gewalttätig und mit dem Ziel eines Regierungsumsturzes",
+    "dk": "Organiseret angreb på statsmagten af en gruppe i det samme land, ofte voldeligt og med det formål at vælte regeringen og ændre det politiske system.",
+    "en-GB": "Organized actions of opposition to a government or ruling party by a country's residents, often violent and with the aim of overthrowing the government",
+    "en-US": "Organized actions of opposition to a government or ruling party by a country's residents, often violent and with the aim of overthrowing the government",
+    "es": "Acciones de oposición a un gobierno o partido gobernante, frecuentamente violentas, organizadas por los residentes de una nación con el objetivo de derrocar al gobierno",
+    "fr": "Actions d'opposition à un gouvernement ou à un parti au pouvoir, souvent violentes, organisées par les résidents d'une nation dans le but de renverser le gouvernement",
+    "pt-BR": "Ações organizadas de oposição a um governo ou partido governante pelos cidadãos de um país, muitas vezes com violência e com a intenção de derrubar o governo.",
+    "pt-PT": "Ações organizadas de oposição a um governo ou partido governante pelos cidadãos de um país, muitas vezes com violência e com a intenção de derrubar o governo.",
+    "se": "Organiserat angrepp mot statsmakten av någon grupp i samma land med syfte att störta regeringen och ändra det politiska systemet.",
+    "zh-Hans": "由一个国家的居民组织起来的反对政府或执政党的行动，通常是暴力的，目的是推翻政府"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16003002",
+    "https://www.wikidata.org/entity/Q124734"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تمرد",
+    "de": "Rebellion",
+    "dk": "oprør",
+    "en-GB": "rebellion",
+    "en-US": "rebellion",
+    "es": "Rebelión",
+    "fr": "Rébellion",
+    "no": "opprør",
+    "pt-BR": "rebeliões",
+    "pt-PT": "rebeliões",
+    "se": "Uppror",
+    "zh-Hans": "叛乱"
+  },
+  "qcode": "medtop:20000067",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000067",
+  "aid": "iptc_20000067"
+}

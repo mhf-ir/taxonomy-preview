@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zwei Spieler oder Teams mit zwei Spielern, die einen Federball mit dem ungefähren Gewicht von 5 Gramm über ein hohes Netz schlagen. Das Ziel für jeden Spieler/Team ist es, die Landung des Federballs auf ihrer Seite des Feldes zu verhindern",
+    "dk": "To spillere eller to hold af to, konkurrerer ved at slå en fjerbold, der vejer cirka fem gram over et højt net. Målet for hver spiller/hold er at forhindre, at fjerbolden lander på deres side af den afgrænsede bane.",
+    "en-GB": "Two players or two teams of two compete by hitting a shuttlecock weighing approximately five grams over a high net. The aim for each player/team is to prevent the shuttlecock landing on their side of the court.",
+    "en-US": "Two players or two teams of two compete by hitting a shuttlecock weighing approximately five grams over a high net. The aim for each player/team is to prevent the shuttlecock landing on their side of the court.",
+    "pt-BR": "Dois jogadores ou duas duplas competem batendo uma peteca com uma raquete, sobre uma rede alta. O objetivo de cada jogador/dupla é impedir a peteca de tocar o chão em seu lado da quadra.",
+    "pt-PT": "Dois jogadores ou duas duplas competem batendo um volante com uma raquete, sobre uma rede alta. O objetivo de cada jogador/dupla é impedir o volante de tocar o chão no seu lado do campo.",
+    "se": "En idrott som spelas mellan två eller fyra spelare på en avgränsad bana med ett högt nät mellan. Spelarna slår på en fjäderboll och försöker få den att landa på marken i motståndarnas planhalva.",
+    "zh-Hans": "两名运动员或两个双人组的队伍通过击打一个重约5克的羽毛球越过一个高网进行比赛。 每个运动员/球队的目标是防止羽毛球落在他们这边的球场上"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15006000",
+    "https://www.wikidata.org/entity/Q7291"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بادمنتون",
+    "de": "Badminton",
+    "dk": "badminton",
+    "en-GB": "badminton",
+    "en-US": "badminton",
+    "es": "Bádminton",
+    "fr": "Badminton",
+    "no": "badminton",
+    "pt-BR": "badminton",
+    "pt-PT": "badminton",
+    "se": "Badminton",
+    "zh-Hans": "羽毛球"
+  },
+  "qcode": "medtop:20000847",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000847",
+  "aid": "iptc_20000847"
+}

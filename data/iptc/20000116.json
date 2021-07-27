@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000106"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Legale Absprachen außerhalb des Gerichts",
+    "dk": "To parters tvistbilæggelse med neutral mægler uden om retten.",
+    "en-GB": "Legal issues which are settled outside of court",
+    "en-US": "Legal issues which are settled outside of court",
+    "pt-BR": "Questões legais que são resolvidas fora do tribunal.",
+    "pt-PT": "Questões legais que são resolvidas fora do tribunal.",
+    "se": "När ett tvistemål avgörs genom att parterna kommer överens vid sidan av själva domstolen.",
+    "zh-Hans": "庭外解决的法律问题"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q167412"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000117"
+  ],
+  "prefLabel": {
+    "ar": "خارج اطار القضاء",
+    "de": "Außergerichtliche Einigung",
+    "dk": "udenretslig procedure",
+    "en-GB": "out of court procedures",
+    "en-US": "out of court procedures",
+    "es": "Procedimientos judiciales fuera del tribunal",
+    "fr": "Procédures hors tribunal",
+    "no": "forlik",
+    "pt-BR": "procedimentos judiciais fora do tribunal",
+    "pt-PT": "procedimentos judiciais fora do tribunal",
+    "se": "Förlikningar",
+    "zh-Hans": "庭外程序"
+  },
+  "qcode": "medtop:20000116",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000116",
+  "aid": "iptc_20000116"
+}

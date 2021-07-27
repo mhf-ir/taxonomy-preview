@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001152"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Turner zeigt Figuren mit Balance und Kraft an den schwingenden Ringen",
+    "dk": "Gymnast udfører balance og styrke fra to ophængte ringe.",
+    "en-GB": "Gymnasts perform feats of balance and strength from two suspended rings.",
+    "en-US": "Gymnasts perform feats of balance and strength from two suspended rings.",
+    "pt-BR": "Prova masculina em que os ginastas demonstram sua capacidade de força e equilíbrio executando movimentos e acrobacias suspensos de duas argolas paralelas.",
+    "pt-PT": "Prova masculina em que os ginastas demonstram a sua capacidade de força e equilíbrio executando movimentos e acrobacias suspensos de duas argolas paralelas.",
+    "zh-Hans": "运动员在两个悬挂的环上展示平衡和力量技巧"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028007",
+    "https://www.wikidata.org/entity/Q89582128"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الحلق",
+    "de": "Ringe (Kunstturnen)",
+    "dk": "ringe",
+    "en-GB": "rings (artistic gymnastics)",
+    "en-US": "rings (artistic gymnastics)",
+    "es": "Anillas (gimnasia artística)",
+    "fr": "Anneaux",
+    "no": "ringer (turn)",
+    "pt-BR": "argolas",
+    "pt-PT": "argolas",
+    "se": "Ringar",
+    "zh-Hans": "吊环（竞技体操）"
+  },
+  "qcode": "medtop:20000953",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000953",
+  "aid": "iptc_20000953"
+}

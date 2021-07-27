@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000639"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Vertrag (wie es durch die Wiener Vertragsrechtskonvention definiert ist) ist eine schriftliche Vereinbarung zwischen internationalen Gremien, die dem internationalen Recht unterliegt",
+    "dk": "En skriftlig aftale mellem internationale enheder, der er bindende i henhold til folkeretten.",
+    "en-GB": "A treaty (as defined by the Vienna Convention on the Law of Treaties) is a written agreement between international entities that is binding under international law.",
+    "en-US": "A treaty (as defined by the Vienna Convention on the Law of Treaties) is a written agreement between international entities that is binding under international law.",
+    "pt-BR": "Um tratado (de acordo com a Convenção de Viena sobre o Direito dos Tratados) é um acordo escrito entre entidades internacionais vinculativo à luz do direito internacional.",
+    "pt-PT": "Um tratado (de acordo com a Convenção de Viena sobre o Direito dos Tratados) é um acordo escrito entre entidades internacionais vinculativo à luz do direito internacional.",
+    "se": "En skriftlig överenskommelse mellan internationella enititeter som är bindande enligt internationell lag.",
+    "zh-Hans": "条约（按照《维也纳条约法公约》的定义）是国际实体之间根据国际法具有约束力的书面协定"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11027000",
+    "https://www.wikidata.org/entity/Q131569"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "معاهدات ومنظمات دولية",
+    "de": "Internationaler Vertrag",
+    "dk": "traktat",
+    "en-GB": "treaty",
+    "en-US": "treaty",
+    "es": "Tratado",
+    "fr": "Traité",
+    "no": "traktat",
+    "pt-BR": "tratado",
+    "pt-PT": "tratado",
+    "se": "Fördrag",
+    "zh-Hans": "条约"
+  },
+  "qcode": "medtop:20000641",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000641",
+  "aid": "iptc_20000641"
+}

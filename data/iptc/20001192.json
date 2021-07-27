@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001182"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Personen, die Inhalte in Internetforen und sozialen Medien verbreiten und von vielen Menschen verfolgt werden, wodurch sie zum Kauf und zur Nutzung von Produkten beeinflusst werden",
+    "dk": "Personer, der udgiver noget online, får mange tilhængere og dermed påvirker dem.",
+    "en-GB": "Persons who distribute content on internet forums and social media and are followed by many people thereby influencing them to buy and use products",
+    "en-US": "Persons who distribute content on internet forums and social media and are followed by many people thereby influencing them to buy and use products",
+    "pt-BR": "Pessoas que distribuem conteúdo em fóruns da Internet e mídias sociais e são seguidas por muitas pessoas, influenciando-as para comprar e usar produtos.",
+    "pt-PT": "Pessoas que distribuem conteúdo em fóruns da Internet e redes sociais e são seguidas por muitas pessoas, influenciando-as para comprar e usar produtos.",
+    "se": "Personer som lägger ut saker på nätet, får många följare och därmed influerar dem.",
+    "zh-Hans": "也称网红，在互联网论坛和社交媒体上发布内容的人，被很多人关注，并影响受众购买和使用产品"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2906862"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "المؤثرون",
+    "de": "Influencer",
+    "dk": "influencer",
+    "en-GB": "influencers",
+    "en-US": "influencers",
+    "es": "Influencers",
+    "fr": "Influenceurs",
+    "no": "influencere",
+    "pt-BR": "influenciadores",
+    "pt-PT": "influenciadores",
+    "se": "Influencers",
+    "zh-Hans": "网络名人"
+  },
+  "qcode": "medtop:20001192",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001192",
+  "aid": "iptc_20001192"
+}

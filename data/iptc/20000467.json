@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000464"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Chemische Substanzen, die für die Diagnose, Behandlung oder Prävention von physischen und psychischen Krankheiten genutzt werden",
+    "dk": "Lægemiddel mod fysiske eller mentale lidelser, godkendt af lægevidenskaben.",
+    "en-GB": "Chemical substances used in the diagnosis, treatment or prevention of physical and mental disease",
+    "en-US": "Chemical substances used in the diagnosis, treatment or prevention of physical and mental disease",
+    "pt-BR": "Substâncias químicas usadas no diagnóstico, tratamento ou prevenção de doenças físicas e mentais.",
+    "pt-PT": "Substâncias químicas usadas no diagnóstico, tratamento ou prevenção de doenças físicas e mentais.",
+    "se": "Medel mot kroppsliga eller psykiska besvär, auktoriserade av läkarvetenskapen.",
+    "zh-Hans": "用于诊断、治疗或预防身心疾病的化学物质"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q12140"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000468"
+  ],
+  "prefLabel": {
+    "ar": "ادوية طبية",
+    "de": "Medizinische Droge",
+    "dk": "medicinsk lægemiddel",
+    "en-GB": "medical drugs",
+    "en-US": "medical drugs",
+    "es": "Medicamentos",
+    "fr": "Médicaments",
+    "no": "legemiddel",
+    "pt-BR": "fármacos",
+    "pt-PT": "fármacos",
+    "se": "Mediciner",
+    "zh-Hans": "药物"
+  },
+  "qcode": "medtop:20000467",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000467",
+  "aid": "iptc_20000467"
+}

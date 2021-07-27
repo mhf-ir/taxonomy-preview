@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001152"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine gymnastische Bodenübung auf einer 12 m Matte",
+    "dk": "En gymnastikgulvøvelse på en defineret firkantet bane.",
+    "en-GB": "A gymnastics floor exercise on a 12m/sq matt.",
+    "en-US": "A gymnastics floor exercise on a 12m/sq matt.",
+    "pt-BR": "Exercício de ginástica no solo, em estrado de 12m x 12m.",
+    "pt-PT": "Exercício de ginástica no solo, em tapete de 12m x 12m.",
+    "zh-Hans": "运动员在12米见方的垫上表演体操动作"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028001",
+    "https://www.wikidata.org/entity/Q89580727"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حركات ارضية",
+    "de": "Bodenturnen (Kunstturnen)",
+    "dk": "gulvøvelse",
+    "en-GB": "floor exercise (artistic gymnastics)",
+    "en-US": "floor exercise (artistic gymnastics)",
+    "es": "Ejercicios en el suelo (gimnasia artística)",
+    "fr": "Sol",
+    "no": "frittstående (turn)",
+    "pt-BR": "solo",
+    "pt-PT": "solo",
+    "se": "Fristående",
+    "zh-Hans": "自由体操（竞技体操）"
+  },
+  "qcode": "medtop:20000946",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000946",
+  "aid": "iptc_20000946"
+}

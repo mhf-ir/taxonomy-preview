@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000235"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Landwirtschaftliche Areale zur Nahrungsmittelproduktion wie Milch, Obst und Tierbestand wie Vieh und Fisch",
+    "dk": "Landbrugsområder til fødevareproduktion, herunder mejeriprodukter, frugt, husdyr og fisk.",
+    "en-GB": "Agricultural areas for the production of foodstuffs, including dairy products, fruits and livestock, such as cattle and fish",
+    "en-US": "Agricultural areas for the production of foodstuffs, including dairy products, fruits and livestock, such as cattle and fish",
+    "pt-BR": "Áreas agrícolas para a produção alimentar, incluindo laticínios, frutos, gado e peixe.",
+    "pt-PT": "Áreas agrícolas para a produção alimentar, incluindo laticínios, frutos, gado e peixe.",
+    "se": "Jordbruksområden för produktion av livsmedel, inklusive mjölkprodukter, frukt, boskap och fisk.",
+    "zh-Hans": "用于生产食品的农业区，包括乳制品、水果和牲畜，如牛和鱼"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04004004",
+    "https://www.wikidata.org/entity/Q131596"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مزارع",
+    "de": "Landwirtschaftsbau",
+    "dk": "landbrugsejendom",
+    "en-GB": "farms",
+    "en-US": "farms",
+    "es": "Granjas",
+    "fr": "Terres agricoles",
+    "no": "gårdsbruk",
+    "pt-BR": "propriedade agrícola",
+    "pt-PT": "propriedade agrícola",
+    "se": "Jordbruksfastigheter",
+    "zh-Hans": "农场"
+  },
+  "qcode": "medtop:20000237",
+  "retired": "2019-10-07T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000237",
+  "aid": "iptc_20000237"
+}

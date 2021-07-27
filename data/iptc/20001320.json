@@ -1,0 +1,28 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2021-05-05T12:00:00+00:00",
+  "definition": {
+    "en-GB": "Intentionally inflicting severe physical or psychological pain in order to punish the victim or get the victim to take an action or give information",
+    "en-US": "Intentionally inflicting severe physical or psychological pain in order to punish the victim or get the victim to take an action or give information"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q132781"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "en-GB": "torture",
+    "en-US": "torture"
+  },
+  "qcode": "medtop:20001320",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001320",
+  "aid": "iptc_20001320"
+}

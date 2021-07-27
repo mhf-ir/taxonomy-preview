@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Dienstleistung, die nicht ganz greifbar ist, z.B. Kosmetik und Haarpflege",
+    "dk": "Tjenester til at tage sig af den enkeltes krop, såsom frisør, massage og neglepleje.",
+    "en-GB": "Consumer service that is intangible e.g. beauty care such as hairdressing",
+    "en-US": "Consumer service that is intangible e.g. beauty care such as hairdressing",
+    "pt-BR": "Serviço ao consumidor que é intangível, como cuidados de beleza ou cabeleireiro.",
+    "pt-PT": "Serviço ao consumidor que é intangível, como cuidados de beleza ou cabeleireiro.",
+    "se": "Tjänster för att ta hand om en individs kropp, såsom hårfrisering, massage och nagelvård.",
+    "zh-Hans": "如美容护理等无形消费服务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006013"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خدمة شخصية",
+    "de": "Körperpflegeservice",
+    "dk": "skønhedspleje",
+    "en-GB": "personal service",
+    "en-US": "personal service",
+    "es": "Servicios personales",
+    "fr": "Soins de beauté",
+    "no": "personlig pleie",
+    "pt-BR": "serviços pessoais",
+    "pt-PT": "serviços pessoais",
+    "se": "Skönhetsindustri",
+    "zh-Hans": "个人服务"
+  },
+  "qcode": "medtop:20000288",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000288",
+  "aid": "iptc_20000288"
+}

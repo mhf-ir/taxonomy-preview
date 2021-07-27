@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/15000000"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Wechsel eine Teammitglieds von einem Team zu einem anderen",
+    "dk": "Markedet, hvor spillerne skifter fra et hold til et andet.",
+    "en-GB": "The transfer of an athlete from one team to another, the hiring or drafting of an athlete onto a team or the change in professional status of a player on a team",
+    "en-US": "The transfer of an athlete from one team to another, the hiring or drafting of an athlete onto a team or the change in professional status of a player on a team",
+    "pt-BR": "Mudança de um membro de uma equipe para outra.",
+    "pt-PT": "Mudança de um membro de uma equipa para outra.",
+    "se": "Marknaden där spelare byter från ett lag till ett annat.",
+    "zh-Hans": "队员改变归属运动队"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/wiki/Q18515440"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2012-10-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "انتقال (رياضة)",
+    "de": "Transfer",
+    "dk": "transfermarked",
+    "en-GB": "sports transaction",
+    "en-US": "sports transaction",
+    "es": "Transferencia (deporte)",
+    "fr": "Transfert (sport)",
+    "no": "overgang",
+    "pt-BR": "transferência",
+    "pt-PT": "transferência",
+    "se": "Transfermarknad",
+    "zh-Hans": "运动员转会"
+  },
+  "qcode": "medtop:20001148",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001148",
+  "aid": "iptc_20001148"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000031"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Die Tätigkeit oder Fähigkeit, Gegenstände wie Möbel oder Schränke aus Holz herzustellen",
+    "dk": "Håndværk, hvor man anvender træ og forskellige værktøjer til fremstilling af genstande eller detaljer til genstande.",
+    "en-GB": "The activity or skill of making items, such as furniture or cabinets, from wood",
+    "en-US": "The activity or skill of making items, such as furniture or cabinets, from wood",
+    "pt-BR": "A atividade ou a arte de fazer objetos de madeira, como móveis ou armários.",
+    "pt-PT": "A atividade ou a arte de fazer objetos de madeira, como móveis ou armários.",
+    "se": "Hantverk där man använder trä och olika verktyg för att producera föremål eller detaljer till föremål. För nytta eller prydnad.",
+    "zh-Hans": "用木头制作物品的活动或技巧，如家具或橱柜"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q816871"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مشغولات خشبية",
+    "de": "Schreinern",
+    "dk": "træbearbejdning",
+    "en-GB": "woodworking",
+    "en-US": "woodworking",
+    "es": "Carpintería",
+    "fr": "Travail du bois",
+    "no": "trearbeider",
+    "pt-BR": "marcenaria",
+    "pt-PT": "marcenaria",
+    "se": "Träsnide",
+    "zh-Hans": "木工"
+  },
+  "qcode": "medtop:20001204",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001204",
+  "aid": "iptc_20001204"
+}

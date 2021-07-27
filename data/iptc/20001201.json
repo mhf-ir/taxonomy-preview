@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000147"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Verkehrsunfälle mit Wildtieren",
+    "dk": "Trafikulykke med vilde dyr.",
+    "en-GB": "Traffic accidents involving wild animals",
+    "en-US": "Traffic accidents involving wild animals",
+    "pt-BR": "Acidentes de trânsito envolvendo animais selvagens.",
+    "pt-PT": "Acidentes de trânsito envolvendo animais selvagens.",
+    "se": "Trafikolycka där vilda djur är inblandade.",
+    "zh-Hans": "涉及野生动物引发的交通事故"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1324130"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حادث لحيوانات برية",
+    "de": "Wildtierunfall",
+    "dk": "påkørt dyr",
+    "en-GB": "wildlife traffic accident",
+    "en-US": "wildlife traffic accident",
+    "es": "Accidente de tráfico de vida silvestre",
+    "fr": "Accident de la circulation de la faune",
+    "no": "viltpåkjørsel",
+    "pt-BR": "atropelamento de animais selvagens",
+    "pt-PT": "atropelamento de animais selvagens",
+    "se": "Viltolycka",
+    "zh-Hans": "野生动物交通事故"
+  },
+  "qcode": "medtop:20001201",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001201",
+  "aid": "iptc_20001201"
+}

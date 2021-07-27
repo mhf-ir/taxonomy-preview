@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000487"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Spezialität des Alterns und altersbedingte Themen wie altersbedingte Krankheiten, medizinische Forschung, und Entwicklungen.",
+    "dk": "Specialitet i aldring og aldersrelaterede problemer, inklusive aldersrelaterede sygdomme, medicinsk forskning og tendenser.",
+    "en-GB": "Specialty focusing on ageing and age-related issues including age-related illnesses, medical research, and trends.",
+    "en-US": "Speciality into ageing and age-related issues including age-related illnesses, medical research, and trends.",
+    "pt-BR": "Especialidade que trata de questões de idade e de envelhecimento, incluindo doenças relacionadas com a idade, investigação médica e tendências.",
+    "pt-PT": "Especialidade que trata de questões de idade e de envelhecimento, incluindo doenças relacionadas com a idade, investigação médica e tendências.",
+    "se": "Medicinskt kunskapsområde som omfattar sjukdomar hos äldre, vanligen med en nedre åldersgräns vid 65 år.",
+    "zh-Hans": "专门研究老龄化和与老龄相关问题的医学专业，包括与老年相关的疾病、医学研究和趋势"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07014001",
+    "https://www.wikidata.org/entity/Q10384"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "طب المسنين",
+    "de": "Geriatrie",
+    "dk": "geriatrisk medicin",
+    "en-GB": "geriatric medicine",
+    "en-US": "geriatric medicine",
+    "es": "Geriatría",
+    "fr": "Gériatrie",
+    "no": "geriatri",
+    "pt-BR": "geriatria",
+    "pt-PT": "geriatria",
+    "se": "Geriatrik",
+    "zh-Hans": "老年医学"
+  },
+  "qcode": "medtop:20000488",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000488",
+  "aid": "iptc_20000488"
+}

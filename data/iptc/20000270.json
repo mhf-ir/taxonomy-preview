@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001244"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Angelegenheiten des Gebrauchs-und Trinkwasserschutzes",
+    "dk": "Den kommercielle aktivitet, der forsyner folk med rent vand.",
+    "en-GB": "The business of providing water for human use",
+    "en-US": "The business of providing water for human use",
+    "pt-BR": "O negócio do fornecimento de água para uso humano.",
+    "pt-PT": "O negócio do fornecimento de água para uso humano.",
+    "se": "Den kommersiella verksamhet som förser människor med rent vatten.",
+    "zh-Hans": "提供人使用水的业务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005008",
+    "https://www.wikidata.org/entity/Q1061108"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "امدادات المياه",
+    "de": "Wasser",
+    "dk": "vandforsyning",
+    "en-GB": "water supply",
+    "en-US": "water supply",
+    "es": "Suministro de agua",
+    "fr": "Alimentation en eau",
+    "no": "vannforsyning",
+    "pt-BR": "abastecimento de água",
+    "pt-PT": "abastecimento de água",
+    "se": "Färskvattenförsörjning",
+    "zh-Hans": "供水"
+  },
+  "qcode": "medtop:20000270",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000270",
+  "aid": "iptc_20000270"
+}

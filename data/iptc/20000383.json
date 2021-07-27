@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Abfall des BIP/GDP über zwei Quartale",
+    "dk": "Defineres som en nedgang i et lands brutonationalprodukt over to på hinanden følgende kvartaler. Bruges også om økonomisk tilbagegang generelt.",
+    "en-GB": "A decrease in the GDP over a period of 2 quarters in a row.",
+    "en-US": "A decrease in the GDP over a period of 2 quarters in a row.",
+    "pt-BR": "Descida do PIB em um período de dois trimestres contínuos.",
+    "pt-PT": "Descida do PIB num período de dois trimestres contínuos.",
+    "se": "En mild form av lågkonjunktur och den vanligaste benämningen på en tillfällig nedgång i konjunkturen.",
+    "zh-Hans": "国内生产总值连续两个季度下降"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q176494"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انكماش",
+    "de": "Rezession",
+    "dk": "recession",
+    "en-GB": "recession",
+    "en-US": "recession",
+    "es": "Recesión",
+    "fr": "Récession",
+    "no": "resesjon",
+    "pt-BR": "recessão",
+    "pt-PT": "recessão",
+    "se": "Recession",
+    "zh-Hans": "经济衰退"
+  },
+  "qcode": "medtop:20000383",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000383",
+  "aid": "iptc_20000383"
+}

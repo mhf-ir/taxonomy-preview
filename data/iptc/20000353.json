@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000351"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Preise, Inflation/Deflation, Warenqualität auf der Einzelhandelsebene",
+    "dk": "Spørgsmål om forbrugeres rettigheder.",
+    "en-GB": "Issues, such as prices, inflation/deflation, quality of goods, at the retail sales level",
+    "en-US": "Issues, such as prices, inflation/deflation, quality of goods, at the retail sales level",
+    "pt-BR": "Assuntos como preços, inflação/deflação, qualidade dos bens, a nível da venda no varejo.",
+    "pt-PT": "Assuntos como preços, inflação/deflação, qualidade dos bens, a nível da venda a retalho.",
+    "se": "Frågor kring priser, inflation/deflation och kvalitet på återförsäljarnivån.",
+    "zh-Hans": "消费者在零售层面反映的问题，如价格，通胀/通缩，商品质量等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008002",
+    "https://www.wikidata.org/entity/Q664183"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "قضية مستهلك",
+    "de": "Verbraucher",
+    "dk": "forbrugerrettigheder",
+    "en-GB": "consumer issue",
+    "en-US": "consumer issue",
+    "es": "Problemas del consumidor",
+    "fr": "Questions de consommation",
+    "no": "forbrukervern",
+    "pt-BR": "questão de consumo",
+    "pt-PT": "questão de consumo",
+    "se": "Konsumentfrågor",
+    "zh-Hans": "消费者问题"
+  },
+  "qcode": "medtop:20000353",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000353",
+  "aid": "iptc_20000353"
+}

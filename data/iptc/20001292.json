@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000345"
+  ],
+  "created": "2020-08-05T12:00:00+00:00",
+  "definition": {
+    "de": "Finanzierung, finanzielle Anreizprogramme und Subventionen zur Stimulierung von Unternehmen und Teilen der Wirtschaft",
+    "dk": "Statslige finansielle programmer der skal stimulere erhvervsliv og andre dele af økonomien",
+    "en-GB": "funding, financial incentive programmes and subsidies to stimulate businesses and parts of the economy",
+    "en-US": "funding, financial incentive programs and subsidies to stimulate businesses and parts of the economy",
+    "pt-BR": "Financiamento, programas de incentivos financeiros e subsídios para estimular empresas e partes da economia.",
+    "pt-PT": "Financiamento, programas de incentivos financeiros e subsídios para estimular empresas e partes da economia.",
+    "se": "Olika program och ekonomiskt stöd för att stimulera ekonomi och företagsamhet inom olika områden.",
+    "zh-Hans": "用于刺激商业和部分经济的资金、金融刺激项目或补贴"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q5333369"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حوافز التنمية الاقتصادية",
+    "de": "Anreiz zur wirtschaftlichen Entwicklung",
+    "dk": "statsstøtte",
+    "en-GB": "economic development incentive",
+    "en-US": "economic development incentive",
+    "es": "Incentivo de desarrollo económico",
+    "fr": "Aide publique",
+    "no": "økonomiske insentiver",
+    "pt-BR": "incentivo ao desenvolvimento econômico",
+    "pt-PT": "incentivo ao desenvolvimento económico",
+    "se": "Utvecklingsstöd",
+    "zh-Hans": "经济发展刺激"
+  },
+  "qcode": "medtop:20001292",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001292",
+  "aid": "iptc_20001292"
+}

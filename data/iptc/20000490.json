@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000487"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Forschung und Medizin speziell für die Jüngeren, umfasst Neugeborene, Kleinkindversorgung, Kinderkrankheiten und ihre Behandlung, sowie Gesundheitsfragen von Jugendlichen und ihre Verhaltensprobleme.",
+    "dk": "Medicinsk vidensområde, der inkluderer sygdomme og sundhedsmæssige forhold hos børn og unge, og i nogle henseender også hos fostre i perioden umiddelbart før fødslen.",
+    "en-GB": "Speciality of medicine for the young - includes premature babies, infant care, childhood disease and treatment - also teen-related health and behaviour problems.",
+    "en-US": "Speciality of medicine for the young - includes premature babies, infant care, childhood disease and treatment - also teen-related health and behavior problems.",
+    "pt-BR": "Especialidade médica para os jovens - inclui bebês prematuros, cuidados infantis, doenças de crianças e seu tratamento – e ainda problemas de saúde e de comportamento de adolescentes.",
+    "pt-PT": "Especialidade médica para os jovens - inclui bebés prematuros, cuidados infantis, doenças de crianças e seu tratamento – e ainda problemas de saúde e de comportamento de adolescentes.",
+    "se": "Medicinskt kunskapsområde som omfattar sjukdomar och hälsobetingelser hos barn och under adolescensen, samt i vissa avseenden även hos foster under tiden närmast före födelsen.",
+    "zh-Hans": "针对婴幼儿及少年儿童的医学专科——包括早产儿、婴儿护理、儿童疾病和治疗——也包括与少年儿童有关的健康和行为问题。"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07014002",
+    "https://www.wikidata.org/entity/Q123028"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "طب الاطفال",
+    "de": "Pädiatrie",
+    "dk": "pædiatri",
+    "en-GB": "paediatrics",
+    "en-US": "pediatrics",
+    "es": "Pediatría",
+    "fr": "Pédiatrie",
+    "no": "pediatri",
+    "pt-BR": "pediatria",
+    "pt-PT": "pediatria",
+    "se": "Pediatrik",
+    "zh-Hans": "儿科"
+  },
+  "qcode": "medtop:20000490",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000490",
+  "aid": "iptc_20000490"
+}

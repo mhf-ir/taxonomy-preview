@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000031"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Kunsthandwerk, bei dem pflanzliche, tierische oder synthetische Fasern zur Herstellung praktischer oder dekorativer Gegenstände verwendet werden",
+    "dk": "Håndværk, hvor forskellige former for fiber bruges til at fremstille praktiske og/eller dekorative genstande.",
+    "en-GB": "Arts and crafts that use plant, animal, or synthetic fibres to construct practical or decorative object",
+    "en-US": "Arts and crafts that use plant, animal, or synthetic fibres to construct practical or decorative object",
+    "pt-BR": "Artes e ofícios que usam fibras vegetais, animais ou sintéticas para construir objetos práticos ou decorativos.",
+    "pt-PT": "Artes e ofícios que usam fibras vegetais, animais ou sintéticas para construir objetos práticos ou decorativos.",
+    "se": "Hantverk där olika former av fiber används för att producera praktiska och/eller dekorativa objekt.",
+    "zh-Hans": "用植物、动物或合成纤维制作实用或装饰性物品的工艺美术"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q10988986"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "فنون النسيج",
+    "de": "Textilkunst",
+    "dk": "tekstilkunst",
+    "en-GB": "textile arts",
+    "en-US": "textile arts",
+    "es": "Artes textiles",
+    "fr": "Arts textiles",
+    "no": "tekstilkunst",
+    "pt-BR": "artes têxteis",
+    "pt-PT": "artes têxteis",
+    "se": "Textil",
+    "zh-Hans": "纺织艺术"
+  },
+  "qcode": "medtop:20001203",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001203",
+  "aid": "iptc_20001203"
+}

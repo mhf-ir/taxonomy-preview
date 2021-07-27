@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000461"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Medizinische Einrichtung zur Behandlung von Krankheiten und Verletzungen.",
+    "dk": "Medicinske faciliteter til behandling af sygdomme og skader.",
+    "en-GB": "Medical facilities for the treatment of illnesses and injury",
+    "en-US": "Medical facilities for the treatment of illnesses and injury",
+    "pt-BR": "Instalações médicas para o tratamento de doenças e feridas.",
+    "pt-PT": "Instalações médicas para o tratamento de doenças e feridas.",
+    "se": "Medicinska inrättningar för behandling av sjuka och skadade.",
+    "zh-Hans": "治疗疾病和损伤的医疗场所"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07010000",
+    "https://www.wikidata.org/entity/Q16917"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مستشفيات وعيادات",
+    "de": "Krankenhaus",
+    "dk": "hospital",
+    "en-GB": "hospital",
+    "en-US": "hospital",
+    "es": "Hospitales y clínicas",
+    "fr": "Hôpitaux et cliniques",
+    "no": "sykehus",
+    "pt-BR": "hospitais",
+    "pt-PT": "hospitais",
+    "se": "Sjukhus och kliniker",
+    "zh-Hans": "医院"
+  },
+  "qcode": "medtop:20000462",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000462",
+  "aid": "iptc_20000462"
+}

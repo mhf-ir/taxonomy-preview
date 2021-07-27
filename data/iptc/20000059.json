@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000058"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Militärstreitkräfte eines Landes oder mehrerer Länder, deren Aufgabe es ist, sich für den Frieden in einem Gebiet einzusetzen",
+    "dk": "Militære tropper fra forskellige lande, der under en samlet international organisation eller samarbejde opretholder fred i konfliktområder.",
+    "en-GB": "The military forces of a nation, or of several nations working together, whose mission is to maintain peace in areas of conflict",
+    "en-US": "The military forces of a nation, or of several nations working together, whose mission is to maintain peace in areas of conflict",
+    "es": "Fuerzas militares de una nación, o de naciones colaborando juntas, cuya misión es mantener la paz en áreas de conflicto",
+    "fr": "Forces militaires d'une nation, ou de plusieurs nations travaillant ensemble, dont la mission est de maintenir la paix dans des zones de conflit",
+    "pt-BR": "Forças militares de diferentes nacionalidades agrupadas sob comando internacional para manter a ordem em áreas de conflito.",
+    "pt-PT": "Forças militares de diferentes nacionalidades agrupadas sob comando internacional para manter a ordem em áreas de conflito.",
+    "se": "Militära trupper från olika länder som under ett samlande internationellt styre upprätthåller freden i konfliktområden.",
+    "zh-Hans": "由一个国家或几个国家的军事力量组成，其任务是在冲突地区维持和平"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16010001",
+    "https://www.wikidata.org/entity/Q1456930"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "قوة حفظ السلام",
+    "de": "Friedenstruppe",
+    "dk": "fredsbevarende styrke",
+    "en-GB": "peacekeeping force",
+    "en-US": "peacekeeping force",
+    "es": "Fuerza de paz",
+    "fr": "Forces de maintien de la paix",
+    "no": "fredsoperasjoner",
+    "pt-BR": "força de paz",
+    "pt-PT": "força de paz",
+    "se": "Fredsbevarande styrkor",
+    "zh-Hans": "维和部队"
+  },
+  "qcode": "medtop:20000059",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000059",
+  "aid": "iptc_20000059"
+}

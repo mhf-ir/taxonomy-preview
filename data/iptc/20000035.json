@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000031"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Form der bildenden Künste die sich auf die Verwendung von Ölfarbe, Wasserfarbe, Pastelkreide und anderen Farbstoffen konzentriert",
+    "dk": "En form for visuel kunst, der bruger pensel og forskellige farver.",
+    "en-GB": "A form of visual arts using mediums such as oil paint, watercolour, pastel, crayon",
+    "en-US": "A form of visual arts using mediums such as oil paint, watercolor, pastel, crayon",
+    "es": "Forma de arte visual que utiliza medios tales como pintura al óleo, acuarela, pastel o cera",
+    "fr": "Forme d'art visuel réalisé avec des matériaux tels que la peinture à l'huile, l'aquarelle, le pastel, le crayon",
+    "pt-BR": "Arte visual que expressa emoções ou mensagens através do uso de óleos, aguarelas, pastéis, lápis, carvão etc., em diversas bases.",
+    "pt-PT": "Arte visual que expressa emoções ou mensagens através do uso de óleos, aguarelas, pastéis, lápis, carvão, etc., em diversas bases.",
+    "se": "En form av visuell konst där pensel och olika färger används.",
+    "zh-Hans": "一种使用油彩、水彩、蜡笔等媒介创作的视觉艺术形式"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01012000",
+    "https://www.wikidata.org/entity/Q11629"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تصوير",
+    "de": "Malerei",
+    "dk": "maleri",
+    "en-GB": "painting",
+    "en-US": "painting",
+    "es": "Pintura",
+    "fr": "Peinture",
+    "no": "malekunst",
+    "pt-BR": "pintura",
+    "pt-PT": "pintura",
+    "se": "Måleri",
+    "zh-Hans": "绘画"
+  },
+  "qcode": "medtop:20000035",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000035",
+  "aid": "iptc_20000035"
+}

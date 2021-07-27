@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000358"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Messlatte für die Produktion von Gütern oder Dienstleistungen",
+    "dk": "Forholdet mellem det opnåede resultat og de ressourcer, der er investeret i industriel produktion.",
+    "en-GB": "A measure of output from production or service",
+    "en-US": "A measure of output from production or service",
+    "pt-BR": "Custo de produção de um item de valor, geralmente medido como o rendimento por hora e por pessoa.",
+    "pt-PT": "Custo de produção de um item de valor, geralmente medido como o rendimento por hora e por pessoa.",
+    "se": "Förhållandet mellan erhållet resultat och insatta resurser vid industriell produktion.",
+    "zh-Hans": "度量生产和服务产出"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016043",
+    "https://www.wikidata.org/entity/Q2111958"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انتاجية",
+    "de": "Produktivität",
+    "dk": "produktivitet",
+    "en-GB": "productivity",
+    "en-US": "productivity",
+    "es": "Productividad",
+    "fr": "Productivité",
+    "no": "produktivitet",
+    "pt-BR": "produtividade",
+    "pt-PT": "produtividade",
+    "se": "Produktivitet",
+    "zh-Hans": "生产能力"
+  },
+  "qcode": "medtop:20000362",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000362",
+  "aid": "iptc_20000362"
+}

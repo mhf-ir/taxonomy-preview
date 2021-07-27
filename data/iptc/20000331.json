@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Tourismus und Freizeitindustrie",
+    "dk": "Industrien for turisme og fritid.",
+    "en-GB": "Commercial organisations and operations dealing with vacations and visits to places of interest and the pursuit of recreational activities",
+    "en-US": "Commercial organizations and operations dealing with vacations and visits to places of interest and the pursuit of recreational activities",
+    "pt-BR": "Organizações e operações comerciais que lidam com férias, visitas a locais de interesse e atividades recreativas.",
+    "pt-PT": "Organizações e operações comerciais que lidam com férias, visitas a locais de interesse e atividades recreativas.",
+    "se": "Industrin kring turism och fritidssysselsättningar.",
+    "zh-Hans": "为人们度假、游览名胜古迹及休闲娱乐提供服务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04014000",
+    "https://www.wikidata.org/entity/Q11630521"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-22T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000332",
+    "medtop:20000333",
+    "medtop:20000334",
+    "medtop:20000335",
+    "medtop:20000336"
+  ],
+  "prefLabel": {
+    "ar": "سياحة وترفيه",
+    "de": "Tourismus und Freizeit",
+    "dk": "turisme og fritid",
+    "en-GB": "tourism and leisure industry",
+    "en-US": "tourism and leisure industry",
+    "es": "Turismo y tiempo libre",
+    "fr": "Tourisme et loisirs",
+    "no": "turisme",
+    "pt-BR": "indústria do turismo e lazer",
+    "pt-PT": "indústria do turismo e lazer",
+    "se": "Turistindustri",
+    "zh-Hans": "旅游和休闲娱乐业"
+  },
+  "qcode": "medtop:20000331",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000331",
+  "aid": "iptc_20000331"
+}

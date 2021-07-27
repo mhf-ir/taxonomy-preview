@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ähnlich dem Baseball aber mit größeren und weicheren Bällen, dünneren Schlägern, kürzeren Lücken zwischen den Stationen und weniger Innenfelder",
+    "dk": "Ligner baseball, men spilles med en større og blødere bold, et tyndere bat, kortere mellemrum mellem baserne og mindrere omgange.",
+    "en-GB": "Similar to baseball but with a larger and softer ball, a thinner bat, shorter gaps between bases and less innings",
+    "en-US": "Similar to baseball but with a larger and softer ball, a thinner bat, shorter gaps between bases and less innings",
+    "pt-BR": "Jogo semelhante ao beisebol mas com uma bola maior e mais leve, um bastão mais fino, espaços mais curtos entre as bases e menos entradas.",
+    "pt-PT": "Jogo semelhante ao beisebol mas com uma bola maior e mais leve, um bastão mais fino, espaços mais curtos entre as bases e menos entradas.",
+    "se": "Påminner om baseboll men spelas med en mjukare boll, lättare slagträ och kortare avstånd mellan rundningsmärkena.",
+    "zh-Hans": "类似垒球。使用大一点软一点的球。球拍薄些，垒间距短些，局数少些"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15055000",
+    "https://www.wikidata.org/entity/Q171038"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سوفتبول",
+    "de": "Softball",
+    "dk": "softball",
+    "en-GB": "softball",
+    "en-US": "softball",
+    "es": "Sóftbol",
+    "fr": "Softball",
+    "no": "softball",
+    "pt-BR": "softball",
+    "pt-PT": "softball",
+    "se": "Softboll",
+    "zh-Hans": "软式垒球"
+  },
+  "qcode": "medtop:20001066",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001066",
+  "aid": "iptc_20001066"
+}

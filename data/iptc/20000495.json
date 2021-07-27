@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000493"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Krankheit, die Pflanzen befällt, verursacht durch Parasiten oder durch Umwelteinflüsse",
+    "dk": "Sygdomme, der påvirker planter, forårsaget af parasitter eller miljøproblemer.",
+    "en-GB": "Disorders affecting plants caused either by parasites or environmental factors",
+    "en-US": "Disorders affecting plants caused either by parasites or environmental factors",
+    "pt-BR": "Doenças que afetam as plantas, causadas por parasitas ou fatores ambientais.",
+    "pt-PT": "Doenças que afetam as plantas, causadas por parasitas ou fatores ambientais.",
+    "se": "Sjukdomar som drabbar växter, orsakade av parasiter eller miljöproblem.",
+    "zh-Hans": "由寄生虫或环境因素引起的影响植物的疾病"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07001008",
+    "https://www.wikidata.org/entity/Q2662845"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مرض نباتي",
+    "de": "Pflanzenkrankheit",
+    "dk": "plantesygdom",
+    "en-GB": "plant disease",
+    "en-US": "plant disease",
+    "es": "Enfermedades de plantas",
+    "fr": "Maladie végétale",
+    "no": "plantesykdommer",
+    "pt-BR": "doenças das plantas",
+    "pt-PT": "doenças das plantas",
+    "se": "Växtsjukdomar",
+    "zh-Hans": "植物疾病"
+  },
+  "qcode": "medtop:20000495",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000495",
+  "aid": "iptc_20000495"
+}

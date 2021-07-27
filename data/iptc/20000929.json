@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kampfsport mit Schwert oder Florett",
+    "dk": "Kamp mellem to konkurrenter, der er udstyret med sabel, fleuret eller kårde. Træf på modstanderen registreres elektrisk.",
+    "en-GB": "Combat sport using a sword or foil.",
+    "en-US": "Combat sport using a sword or foil.",
+    "pt-BR": "Esporte de combate que usa espada, florete ou sabre.",
+    "pt-PT": "Desporto de combate que usa espada, florete ou sabre.",
+    "se": "Match mellan två tävlande som är utrustade med sabel, florett eller värja. Träffar på motståndaren registreras elektriskt.",
+    "zh-Hans": "使用剑或花剑的一种格斗比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15023000",
+    "https://www.wikidata.org/entity/Q12100"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/fencingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000930",
+    "medtop:20000931",
+    "medtop:20000932"
+  ],
+  "prefLabel": {
+    "ar": "مبارزة",
+    "de": "Fechten",
+    "dk": "fægtning",
+    "en-GB": "fencing",
+    "en-US": "fencing",
+    "es": "Esgrima",
+    "fr": "Escrime",
+    "no": "fekting",
+    "pt-BR": "esgrima",
+    "pt-PT": "esgrima",
+    "se": "Fäktning",
+    "zh-Hans": "击剑"
+  },
+  "qcode": "medtop:20000929",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000929",
+  "aid": "iptc_20000929"
+}

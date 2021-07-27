@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000501"
+  ],
+  "created": "2019-06-26T12:00:00+00:00",
+  "definition": {
+    "de": "Veranstaltung, bei der einem Säugling, Jugendlichen oder Erwachsenen ein Name gegeben wird",
+    "dk": "Ceremoni, hvor et barn eller en voksen får tildelt et navn.",
+    "en-GB": "Event at which an infant, youth, or adult is given a name",
+    "en-US": "Event at which an infant, youth, or adult is given a name",
+    "pt-BR": "Evento em que um bebê, jovem ou adulto recebe um nome.",
+    "pt-PT": "Evento em que um bebé, jovem ou adulto recebe um nome.",
+    "se": "Nyheter om namngivning/dop",
+    "zh-Hans": "给婴儿、青年或成人起名字的公开活动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3534263"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-06-26T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حفل تعيين",
+    "de": "Namenstag",
+    "dk": "navngivningsceremoni",
+    "en-GB": "name ceremony",
+    "en-US": "name ceremony",
+    "es": "Ceremonia de bautizo civil",
+    "fr": "Baptême civil",
+    "no": "navneseremoni",
+    "pt-BR": "cerimônia de batismo",
+    "pt-PT": "cerimónia de batismo",
+    "se": "Namngivning",
+    "zh-Hans": "命名仪式"
+  },
+  "qcode": "medtop:20001233",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001233",
+  "aid": "iptc_20001233"
+}

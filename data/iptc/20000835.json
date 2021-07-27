@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer versuchen in einer speziell markierten Wurfzone einen Speer so weit zu werfen wie möglich. Der Speer wiegt 800 Gramm für Männer und 600 Gramm für Frauen",
+    "dk": "Deltagerne kaster et spyd så langt som muligt.",
+    "en-GB": "Competitors in a specially-designated throwing area attempt to fling a spear-like javelin as far as possible. The javelin weighs 800 grams for men and 600 grams for women.",
+    "en-US": "Competitors in a specially-designated throwing area attempt to fling a spear-like javelin as far as possible. The javelin weighs 800 grams for men and 600 grams for women.",
+    "pt-BR": "Prova em que os atletas, a partir de uma área de lançamento própria, arremessam o mais longe possível um dardo que pesa 800 gramas para os homens e 600 gramas para as mulheres. Ganha quem fizer o lançamento mais longo.",
+    "pt-PT": "Prova em que os atletas, a partir de uma área de lançamento própria, arremessam o mais longe possível um dardo que pesa 800 gramas para os homens e 600 gramas para as mulheres. Ganha quem fizer o lançamento mais longo.",
+    "se": "De tävlande kastar ett spjut så långt som möjligt.",
+    "zh-Hans": "在一个特别指定的投掷区，选手们尽可能远地投掷长矛状标枪。 男子标枪重800克，女子标枪重600克"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005026",
+    "https://www.wikidata.org/entity/Q178108"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رمي الرمح",
+    "de": "Speerwurf",
+    "dk": "spydkast",
+    "en-GB": "javelin throw",
+    "en-US": "javelin throw",
+    "es": "Lanzamiento de jabalina",
+    "fr": "Lancer de javelot",
+    "no": "spydkast",
+    "pt-BR": "lançamento de dardo",
+    "pt-PT": "lançamento do dardo",
+    "se": "Spjutkastning",
+    "zh-Hans": "标枪"
+  },
+  "qcode": "medtop:20000835",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000835",
+  "aid": "iptc_20000835"
+}

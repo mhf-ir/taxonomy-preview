@@ -1,0 +1,55 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Aspekte des menschlichen Lebens, die die zwischenmenschlichen Beziehungen beeinflussen",
+    "dk": "Aspekter af menneskers liv, der påvirker dets forhold.",
+    "en-GB": "The concerns, issues, affairs and institutions relevant to human social interactions, problems and welfare, such as poverty, human rights and family planning",
+    "en-US": "The concerns, issues, affairs and institutions relevant to human social interactions, problems and welfare, such as poverty, human rights and family planning",
+    "pt-BR": "Questões que afetam os indivíduos em suas vidas diárias, como habitação, comida, educação, relações pessoais.",
+    "pt-PT": "Questões que afetam os indivíduos nas suas vidas diárias, como habitação, comida, educação, relações pessoais.",
+    "se": "Mänskligt uppträdande som rör eller påverkar den allmänna livskvaliteten. Missbruk, filantropi, demografi, handikappfrågor, eutanasi, familj, socialförsäkringar, hemlöshet, minoriteter, fattigdom, socialbidrag, pornografi, prostitution, rasism.",
+    "zh-Hans": "影响人际关系的人类生活的各个方面"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q8425",
+    "http://cv.iptc.org/newscodes/subjectcode/14025000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000768",
+    "medtop:20000770",
+    "medtop:20000771",
+    "medtop:20000772",
+    "medtop:20000775",
+    "medtop:20000780",
+    "medtop:20000788",
+    "medtop:20000799",
+    "medtop:20000802",
+    "medtop:20000808",
+    "medtop:20000817"
+  ],
+  "prefLabel": {
+    "ar": "قضايا اجتماعية",
+    "de": "Gesellschaft, Bevölkerung",
+    "dk": "samfund",
+    "en-GB": "society",
+    "en-US": "society",
+    "es": "Sociedad",
+    "fr": "Société",
+    "no": "sosiale forhold",
+    "pt-BR": "sociedade",
+    "pt-PT": "sociedade",
+    "se": "Samhälle",
+    "zh-Hans": "社会"
+  },
+  "qcode": "medtop:14000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/14000000",
+  "aid": "iptc_14000000"
+}

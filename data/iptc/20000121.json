@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/02000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die systematische Aufzeichnung von Verhaltensvorschriften",
+    "dk": "Regler fastlagt af et lands lovgivende myndigheder.",
+    "en-GB": "The codification of rules of behaviour",
+    "en-US": "The codification of rules of behavior",
+    "pt-BR": "Codificação de regras de conduta em sociedade.",
+    "pt-PT": "Codificação de regras de conduta em sociedade.",
+    "se": "Regler som bestämts av ett lands lagstadgande instans.",
+    "zh-Hans": "行为规则"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q7748",
+    "http://cv.iptc.org/newscodes/subjectcode/02006000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000122",
+    "medtop:20000125",
+    "medtop:20000126",
+    "medtop:20001197"
+  ],
+  "prefLabel": {
+    "ar": "قانون",
+    "de": "Gesetz",
+    "dk": "lov",
+    "en-GB": "law",
+    "en-US": "law",
+    "es": "Legislación",
+    "fr": "Lois",
+    "no": "lovverk",
+    "pt-BR": "leis",
+    "pt-PT": "leis",
+    "se": "Lag",
+    "zh-Hans": "法律"
+  },
+  "qcode": "medtop:20000121",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000121",
+  "aid": "iptc_20000121"
+}

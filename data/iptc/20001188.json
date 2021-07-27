@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000021"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Ein Musikgenre, das elektronische Instrumente einsetzt und hauptsächlich für Nachtclubs, Raves und Festivals gemacht ist.",
+    "dk": "En bred genre af elektronisk baseret dansemusik.",
+    "en-GB": "A genre of music that employs electronic instruments and is primarily made for nightclubs, raves, and festivals",
+    "en-US": "A genre of music that employs electronic instruments and is primarily made for nightclubs, raves, and festivals",
+    "pt-BR": "Gênero musical que usa instrumentos eletrônicos e que é feito principalmente para boates, raves e festivais.",
+    "pt-PT": "Género musical que usa instrumentos eletrónicos e que é feito principalmente para discotecas, raves e festivais.",
+    "se": "En bred genre av elektroniskt baserad dans-musik.",
+    "zh-Hans": "一种使用电子乐器的音乐类型，主要为夜总会、狂欢会和节日而创作"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q851213"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "موسيقى الرقص الإلكترونية",
+    "de": "Elektronische Tanzmusik",
+    "dk": "elektronisk musik",
+    "en-GB": "electronic dance music",
+    "en-US": "electronic dance music",
+    "es": "Música dance",
+    "fr": "Electronic dance music",
+    "no": "elektronisk dansemusikk",
+    "pt-BR": "música de dança eletrônica",
+    "pt-PT": "música de dança eletrónica",
+    "se": "Elektronisk dansmusik (EDM)",
+    "zh-Hans": "电子舞曲"
+  },
+  "qcode": "medtop:20001188",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001188",
+  "aid": "iptc_20001188"
+}

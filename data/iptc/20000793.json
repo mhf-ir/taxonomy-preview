@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14024000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000788"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Einteilung von Individuen in weiblich und männlich",
+    "dk": "Den sociale klassificering af, hvad der betragtes som mand og kvinde.",
+    "en-GB": "The classification of individuals as male, female, or a non-binary designation",
+    "en-US": "The classification of individuals as male, female, or a non-binary designation",
+    "pt-BR": "Classificação de indivíduos como masculinos ou femininos.",
+    "pt-PT": "Classificação de indivíduos como masculino ou feminino.",
+    "se": "Den sociala klassificeringen av vad som ansetts manligt och kvinnligt.",
+    "zh-Hans": "男性或女性个体的分类"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q48277"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الجنس",
+    "de": "Geschlecht",
+    "dk": "køn",
+    "en-GB": "gender",
+    "en-US": "gender",
+    "es": "Identidad sexual",
+    "fr": "Identité sexuelle",
+    "no": "sosialt kjønn",
+    "pt-BR": "gênero",
+    "pt-PT": "género",
+    "se": "Kön",
+    "zh-Hans": "性别"
+  },
+  "qcode": "medtop:20000793",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000793",
+  "aid": "iptc_20000793"
+}

@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Untaten von Unternehmen oder Geschäftsführungen",
+    "dk": "En forbrydelse, der er begået af en virksomhed eller personer, der repræsenterer virksomheden.",
+    "en-GB": "Crimes committed by a corporation or by individuals acting on behalf of a corporation",
+    "en-US": "Crimes committed by a corporation or by individuals acting on behalf of a corporation",
+    "pt-BR": "Delitos cometidos por empresas e por seus responsáveis.",
+    "pt-PT": "Delitos cometidos por empresas e pelos seus responsáveis.",
+    "se": "När ett företag, eller personer som representerar ett företag, begår ett brott.",
+    "zh-Hans": "公司或代表公司行事的个人所犯的罪行"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02012000",
+    "https://www.wikidata.org/entity/Q5172452"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000088",
+    "medtop:20000089",
+    "medtop:20000090",
+    "medtop:20000091",
+    "medtop:20000092",
+    "medtop:20001194"
+  ],
+  "prefLabel": {
+    "ar": "جريمة منظمة",
+    "de": "Firmenkriminalität",
+    "dk": "økonomisk kriminalitet",
+    "en-GB": "corporate crime",
+    "en-US": "corporate crime",
+    "es": "Delitos corporativos",
+    "fr": "Délinquance financière",
+    "no": "økonomisk kriminalitet",
+    "pt-BR": "crime econômico",
+    "pt-PT": "crime económico",
+    "se": "Ekobrott",
+    "zh-Hans": "法人犯罪"
+  },
+  "qcode": "medtop:20000087",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000087",
+  "aid": "iptc_20000087"
+}

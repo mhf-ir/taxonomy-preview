@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000011"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Dekorative Objekte, die als Ausdruck von Persönlichkeit und zur Verschönerung getragen werden, zum Beispiel Ringe, Halsketten oder Ohrringe",
+    "dk": "Tilbehør til tøj, såsom ringe, halskæder og øreringe.",
+    "en-GB": "Decorative items worn for personal expression and adornment, such as rings, necklaces, earrings",
+    "en-US": "Decorative items worn for personal expression and adornment, such as rings, necklaces, earrings",
+    "es": "Artículos decorativos usados para la expresión personal y el adorno, como anillos, collares o pendientes",
+    "fr": "Objets décoratifs et parures corporelles, tels que bagues, colliers, boucles d'oreilles",
+    "pt-BR": "Objetos decorativos usados para expressão pessoal e adorno, como anéis, colares, brincos.",
+    "pt-PT": "Objetos decorativos usados para expressão pessoal e adorno, como anéis, colares, brincos.",
+    "se": "Accessoarer till kläder, såsom ringar, halsband och örhängen.",
+    "zh-Hans": "用于个人表达和装饰的物品，如戒指、项链、耳环"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01007001",
+    "https://www.wikidata.org/entity/Q161439"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مجوهرات",
+    "de": "Schmuck",
+    "dk": "smykke",
+    "en-GB": "jewellery",
+    "en-US": "jewelry",
+    "es": "Joyas",
+    "fr": "Bijoux",
+    "no": "smykker",
+    "pt-BR": "joias",
+    "pt-PT": "joias",
+    "se": "Accessoarer och smycken",
+    "zh-Hans": "珠宝首饰"
+  },
+  "qcode": "medtop:20000012",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000012",
+  "aid": "iptc_20000012"
+}

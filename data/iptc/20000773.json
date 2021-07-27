@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000771"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bewegung von Individuen von einem Land in ein anderes auf illegalem Weg",
+    "dk": "Bevægelse af enkeltpersoner fra det ene land til det andet med ulovlige midler.",
+    "en-GB": "The movement of individuals or groups of people from one country to another without legal authorisation from the destination country",
+    "en-US": "The movement of individuals or groups of people from one country to another without legal authorization from the destination country",
+    "pt-BR": "Movimentação de indivíduos de um país a outro por meios ilícitos.",
+    "pt-PT": "Movimentação de indivíduos de um país a outro por meios ilícitos.",
+    "se": "Personers rörelse från ett land till ett annat med olagliga medel.",
+    "zh-Hans": "通过非法手段将个人从一个国家转移到另一个国家"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14003003",
+    "https://www.wikidata.org/entity/Q2368859"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "متسللون",
+    "de": "Illegale Einwanderung",
+    "dk": "illegal indvandrer",
+    "en-GB": "illegal immigration",
+    "en-US": "illegal immigration",
+    "es": "Inmigrantes ilegales",
+    "fr": "Immigration clandestine",
+    "no": "ulovlig innvandrer",
+    "pt-BR": "imigrantes ilegais",
+    "pt-PT": "imigrantes ilegais",
+    "se": "Illegala immigranter",
+    "zh-Hans": "非法移民"
+  },
+  "qcode": "medtop:20000773",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000773",
+  "aid": "iptc_20000773"
+}

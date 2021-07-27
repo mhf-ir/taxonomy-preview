@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01006000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000007"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine klassische Tanzform auf der Grundlage vorgegebener Bewegungen, Schrittfolgen und Körperhaltungen",
+    "dk": "Klassisk dansestil med trin, positioner og bevægelser.",
+    "en-GB": "A classical dance form based on formal gestures, steps and postures",
+    "en-US": "A classical dance form based on formal gestures, steps and postures",
+    "pt-BR": "Uma forma de dança clássica, baseada em gestos, passos e posturas formais.",
+    "pt-PT": "Uma forma de dança clássica, baseada em gestos, passos e posturas formais.",
+    "se": "Klassisk dansstil med steg, positioner och gester.",
+    "zh-Hans": "一种基于特定动作程式、舞步和姿势的古典舞蹈形式"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q41425"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "باليه",
+    "de": "Ballett",
+    "dk": "ballet",
+    "en-GB": "ballet",
+    "en-US": "ballet",
+    "es": "Ballet",
+    "fr": "Danse classique",
+    "no": "ballett",
+    "pt-BR": "ballet",
+    "pt-PT": "ballet",
+    "se": "Balett",
+    "zh-Hans": "芭蕾舞"
+  },
+  "qcode": "medtop:20000008",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000008",
+  "aid": "iptc_20000008"
+}

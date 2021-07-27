@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000171"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Änderungen der Regeln im Rechnungswesen und der Rechnungsprüfung",
+    "dk": "Registrering af en virksomheds eller organisations indtægter, udgifter, forpligtelser og aktiver og kontrol heraf.",
+    "en-GB": "Changes regarding applicable accounting rules and the audit of accounting",
+    "en-US": "Changes regarding applicable accounting rules and the audit of accounting",
+    "pt-BR": "Alterações relativas aos princípios contábeis geralmente aceites e à auditoria de contabilidade.",
+    "pt-PT": "Alterações relativas aos princípios contabilísticos geralmente aceites e à auditoria de contabilidade.",
+    "se": "Registrering av ett företags eller en organisations inkomster, utgifter, skulder och tillgångar samt kontroll av detta.",
+    "zh-Hans": "适用会计准则和会计审计的变更"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016001"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "محاسبة ومراجعة حسابات",
+    "de": "Buchführung",
+    "dk": "virksomhedsrevision",
+    "en-GB": "accounting and audit",
+    "en-US": "accounting and audit",
+    "es": "Contabilidad y auditoría",
+    "fr": "Comptabilité et audit",
+    "no": "regnskap og revisjon",
+    "pt-BR": "contabilidade e auditoria",
+    "pt-PT": "contabilidade e auditoria",
+    "se": "Redovisning och revision",
+    "zh-Hans": "会计和审计"
+  },
+  "qcode": "medtop:20000172",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000172",
+  "aid": "iptc_20000172"
+}

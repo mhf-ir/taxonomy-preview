@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000877"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zweisitzer Kanu (offenes Boot) mit Wettkämpfern die ein Einzelpaddel benutzen",
+    "dk": "Tosædet kano.",
+    "en-GB": "Two-seater canoe (open boat) - competitors use a single bladed paddle",
+    "en-US": "Two-seater canoe (open boat) - competitors use a single bladed paddle",
+    "pt-BR": "Canoa de 2 lugares (embarcação aberta para duas pessoas que remam com remo simples).",
+    "pt-PT": "Canoa de 2 lugares (embarcação aberta para duas pessoas que remam com pagaia simples).",
+    "zh-Hans": "双座赛艇。开放式的赛艇，参赛者使用单叶桨"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15015009"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كانو زوجي",
+    "de": "C2 (Kanu)",
+    "dk": "C2 (kano)",
+    "en-GB": "C2 (canoeing)",
+    "en-US": "C2 (canoeing)",
+    "es": "C2 (canotaje)",
+    "fr": "C2 (canoë)",
+    "no": "C2 (kanopadling)",
+    "pt-BR": "C2",
+    "pt-PT": "C2",
+    "se": "C2",
+    "zh-Hans": "双人划艇"
+  },
+  "qcode": "medtop:20000879",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000879",
+  "aid": "iptc_20000879"
+}

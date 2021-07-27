@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008016"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Senkung der Preise",
+    "dk": "Priserne på varer og tjenester falder eller handelen falder.",
+    "en-GB": "A fall in prices",
+    "en-US": "A fall in prices",
+    "pt-BR": "Queda dos preços.",
+    "pt-PT": "Queda dos preços.",
+    "se": "Priserna på varor och tjänster sjunker eller handeln minskar.",
+    "zh-Hans": "价格下跌"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q161081"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انكماش",
+    "de": "Deflation",
+    "dk": "deflation",
+    "en-GB": "deflation",
+    "en-US": "deflation",
+    "es": "Deflación",
+    "fr": "Déflation",
+    "no": "deflasjon",
+    "pt-BR": "deflação",
+    "pt-PT": "deflação",
+    "se": "Deflation",
+    "zh-Hans": "通货紧缩"
+  },
+  "qcode": "medtop:20000356",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000356",
+  "aid": "iptc_20000356"
+}

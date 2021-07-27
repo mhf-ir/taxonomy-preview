@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Diebstahl oder zerstörerisches Verhalten mithilfe eines Computers",
+    "dk": "Kriminel aktivitet, der primært udføres ved hjælp af computere og/eller internettet, for eksempel hacking, phishing og identitetstyveri.",
+    "en-GB": "Criminal activities carried out by means of computers or the Internet, such as hacking, phishing scams and identity theft",
+    "en-US": "Criminal activities carried out by means of computers or the Internet, such as hacking, phishing scams and identity theft",
+    "pt-BR": "Atividades criminosas cometidas através de computadores ou através da Internet, como hacking, roubo de entidade ou phishing.",
+    "pt-PT": "Atividades criminosas cometidas através de computadores ou através da Internet, como hacking, roubo de entidade ou phishing.",
+    "se": "Brottslig aktivitet som främst utförs genom att använda datorer och/eller internet, t ex hacking, phising och identitetsstölder.",
+    "zh-Hans": "利用计算机或互联网进行的犯罪活动，如黑客、网络钓鱼欺诈和身份盗窃"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02001002",
+    "https://www.wikidata.org/entity/Q29137"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T20:00:00+00:00",
+  "prefLabel": {
+    "ar": "جريمة معلوماتية",
+    "de": "Computerkriminalität",
+    "dk": "cyberkriminalitet",
+    "en-GB": "cyber crime",
+    "en-US": "cyber crime",
+    "es": "Delitos informáticos",
+    "fr": "Piratage informatique",
+    "no": "nettkriminalitet",
+    "pt-BR": "cibercrime",
+    "pt-PT": "cibercrime",
+    "se": "IT-brott",
+    "zh-Hans": "网络犯罪"
+  },
+  "qcode": "medtop:20000086",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000086",
+  "aid": "iptc_20000086"
+}

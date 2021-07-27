@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer werfen einen Hammer aus einem vernetzten Kreis mit 2.13 Meter Durchmesser, der aus einer Metallkugel, einer Kette und einem Griff besteht, so weit sie können. Der Hammer wiegt 7.26 kg bei Männern und 4 kg bei Frauen",
+    "dk": "Konkurrenterne kaster en hammer bestående af en metalkugle, kæde og håndtag så langt de kan fra en cirkel med net rundt om.",
+    "en-GB": "Competitors throw a hammer consisting of a metal ball, chain and handle as far as they can from a netted circle which is 2.13 metres in diameter. The hammer weighs 7.26kg for men and 4kg for women",
+    "en-US": "Competitors throw a hammer consisting of a metal ball, chain and handle as far as they can from a netted circle which is 2.13 meters in diameter. The hammer weighs 7.26kg for men and 4kg for women",
+    "pt-BR": "Prova em que os atletas, dentro de um círculo com 2.13 metros de diâmetro, lançam o mais longe possível um martelo (bola de metal, com cabo e pega) que pesa 7.26 kg para os homens e 4 kg para as mulheres. Ganha quem fizer o lançamento mais longo.",
+    "pt-PT": "Prova em que os atletas, dentro de um círculo com 2.13 metros de diâmetro, lançam o mais longe possível um martelo (bola de metal, com cabo e pega) que pesa 7.26 kg para os homens e 4 kg para as mulheres. Ganha quem fizer o lançamento mais longo.",
+    "se": "De tävlande kastar ett redskap som består av ett handtag, en kedja och en kula så långt som möjligt.",
+    "zh-Hans": "参赛者从直径为2.13米的网圈中尽可能地投掷由金属球，链条和手柄组成的金属球。 男选手球重7.26公斤，女选手球重4公斤"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005025",
+    "https://www.wikidata.org/entity/Q184865"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رمي المطرقة",
+    "de": "Hammerwerfen",
+    "dk": "hammerkast",
+    "en-GB": "hammer throw",
+    "en-US": "hammer throw",
+    "es": "Lanzamiento de martillo",
+    "fr": "Lancer de marteau",
+    "no": "sleggekast",
+    "pt-BR": "lançamento de martelo",
+    "pt-PT": "lançamento do martelo",
+    "se": "Slägga",
+    "zh-Hans": "链球"
+  },
+  "qcode": "medtop:20000831",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000831",
+  "aid": "iptc_20000831"
+}

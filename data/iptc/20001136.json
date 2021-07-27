@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Marktplatz zum Ausstellen und Verkaufen von Waren oder Diensten",
+    "dk": "Større udstilling med bestemt type varer fra flere forskellige leverandører, normalt beregnet til detailhandlere.",
+    "en-GB": "Market place to display and trade goods or services",
+    "en-US": "Market place to display and trade goods or services",
+    "pt-BR": "Exposição organizada para exibir e comercializar bens ou serviços de determinado setor profissional.",
+    "pt-PT": "Exposição organizada para exibir e comercializar bens ou serviços de determinado setor profissional.",
+    "se": "Större utställning med viss typ av varor från flera olika försäljare, vanligtvis avsedd för återförsäljare.",
+    "zh-Hans": "展示和交易商品或服务的市场"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q57305"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "معرض تجاري",
+    "de": "Messe",
+    "dk": "messe",
+    "en-GB": "trade show or expo",
+    "en-US": "trade show or expo",
+    "es": "Ferias comerciales",
+    "fr": "Foires et salons",
+    "no": "varemesse",
+    "pt-BR": "feira profissional",
+    "pt-PT": "feira profissional",
+    "se": "Mässor",
+    "zh-Hans": "贸易展览会"
+  },
+  "qcode": "medtop:20001136",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001136",
+  "aid": "iptc_20001136"
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000143"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: Concept medtop:20000166 was merged into this one as their semantics were not sufficiently different"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unfälle im Straßenverkehr",
+    "dk": "Ulykke eller hændelse, der involverer køretøjer på veje.",
+    "en-GB": "An accident or incident involving road vehicles.",
+    "en-US": "An accident or incident involving road vehicles.",
+    "pt-BR": "Acidente envolvendo veículos terrestres.",
+    "pt-PT": "Acidente envolvendo veículos terrestres.",
+    "se": "Oönskade händelser mellan fordon på vägar.",
+    "zh-Hans": "涉及道路车辆的意外事故"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03010001",
+    "https://www.wikidata.org/entity/Q9687"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "narrower": [
+    "medtop:20001201"
+  ],
+  "prefLabel": {
+    "ar": "حادث سير",
+    "de": "Verkehrsunglück",
+    "dk": "trafikulykke",
+    "en-GB": "road accident and incident",
+    "en-US": "road accident and incident",
+    "es": "Accidente de carretera",
+    "fr": "Accident routier",
+    "no": "trafikkulykker",
+    "pt-BR": "acidente rodoviário",
+    "pt-PT": "acidente rodoviário",
+    "se": "Trafikolyckor",
+    "zh-Hans": "道路事故"
+  },
+  "qcode": "medtop:20000147",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000147",
+  "aid": "iptc_20000147"
+}

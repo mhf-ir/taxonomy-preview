@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000550"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Interesse für alte und moderne Motorräder",
+    "dk": "Interesse for nye og gamle motorkøretøjer med to eller tre hjul.",
+    "en-GB": "Interest in new and classic motor-powered cycles",
+    "en-US": "Interest in new and classic motor-powered cycles",
+    "pt-BR": "Interesse por motas novas e clássicas.",
+    "pt-PT": "Interesse por motas novas e clássicas.",
+    "se": "Intresse för nya och gamla motorfordon med två eller tre hjul.",
+    "zh-Hans": "对新型和经典摩托车的兴趣"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شغف بالدراجات النارية",
+    "de": "Motorrad",
+    "dk": "motorcykelentusiasme",
+    "en-GB": "motorcycle enthusiasm",
+    "en-US": "motorcycle enthusiasm",
+    "es": "Afición por la moto",
+    "fr": "Amateur de moto",
+    "no": "motorsykkelinteresse",
+    "pt-BR": "interesse por motas",
+    "pt-PT": "interesse por motas",
+    "se": "Motorcyklar",
+    "zh-Hans": "摩托车爱好"
+  },
+  "qcode": "medtop:20000571",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000571",
+  "aid": "iptc_20000571"
+}

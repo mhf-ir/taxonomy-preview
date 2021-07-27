@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/08000000"
+  ],
+  "created": "2019-06-26T12:00:00+00:00",
+  "definition": {
+    "de": "Ein besonderer Jahrestag eines Ereignisses oder die Feier einer bedeutenden Anzahl von Jahren seit der Geburt einer bemerkenswerten Person",
+    "dk": "En fejring af, at der er gået et bestemt antal år siden en bestemt begivenhed fandt sted. Kan både være en rund fødselsdag, en særlig bryllupsdag eller en længere ansættelse.",
+    "en-GB": "The celebration or commemoration of a significant amount of years since an event or a notable person's birth or death",
+    "en-US": "The celebration or commemoration of a significant amount of years since an event or a notable person's birth or death",
+    "pt-BR": "Data de aniversário especial de um evento ou celebração de uma quantidade significativa de anos desde o nascimento de uma pessoa notável.",
+    "pt-PT": "Data de aniversário especial de um evento ou celebração de uma quantidade significativa de anos desde o nascimento de uma pessoa notável.",
+    "se": "Årsdag av en persons födelse, eller åminnelse av en händelse vid något intervall, typ 50 år sedan eller 75 år sedan",
+    "zh-Hans": "纪念活动或庆祝名人出生若干年的特别纪念日"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1062856"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-06-26T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ذكرى",
+    "de": "Jahrestag",
+    "dk": "jubilæum",
+    "en-GB": "anniversary",
+    "en-US": "anniversary",
+    "es": "Aniversario",
+    "fr": "Anniversaire",
+    "no": "jubileum",
+    "pt-BR": "efeméride",
+    "pt-PT": "efeméride",
+    "se": "Jubileum",
+    "zh-Hans": "周年纪念日"
+  },
+  "qcode": "medtop:20001237",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001237",
+  "aid": "iptc_20001237"
+}

@@ -1,0 +1,28 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000139"
+  ],
+  "created": "2021-05-05T12:00:00+00:00",
+  "definition": {
+    "en-GB": "When a person's airpipe and lungs become filled with water causing death or injury, most often caused by falling into or bathing in rivers, lakes or the ocean",
+    "en-US": "When a person's airpipe and lungs become filled with water causing death or injury, most often caused by falling into or bathing in rivers, lakes or the ocean"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q506616"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "en-GB": "drowning",
+    "en-US": "drowning"
+  },
+  "qcode": "medtop:20001321",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001321",
+  "aid": "iptc_20001321"
+}

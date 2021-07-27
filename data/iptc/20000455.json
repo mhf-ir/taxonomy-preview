@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000446"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unspezifische Krankheiten wie Magenschmerzen, Kopfschmerzen, Plattfüße, Hexenschuss.",
+    "dk": "Ikke-specifikke sygdomme såsom mavepine, hovedpine, flade fødder og lumbago.",
+    "en-GB": "Non-specific maladies such as stomach aches, headaches, flat feet, lumbago",
+    "en-US": "Non-specific maladies such as stomach aches, headaches, flat feet, lumbago",
+    "pt-BR": "Doenças não específicas como dores de estômago, dores de cabeça, pé plano, lumbago.",
+    "pt-PT": "Doenças não específicas como dores de estômago, dores de cabeça, pé chato, lumbago.",
+    "se": "Ospecificerade sjukdomar, såsom magknip, huvudvärk, ryggskott och liknande.",
+    "zh-Hans": "非特定疾病，如胃痛、头痛、平脚、腰痛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07017000",
+    "https://www.wikidata.org/entity/Q814207"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مرض",
+    "de": "Leiden",
+    "dk": "øvrig sygdom",
+    "en-GB": "illness",
+    "en-US": "illness",
+    "es": "Enfermedades",
+    "fr": "Maladie",
+    "no": "sykdom",
+    "pt-BR": "outras doenças",
+    "pt-PT": "doenças",
+    "se": "Åkommor",
+    "zh-Hans": "疾病"
+  },
+  "qcode": "medtop:20000455",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000455",
+  "aid": "iptc_20000455"
+}

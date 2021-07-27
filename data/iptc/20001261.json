@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Der höchste Beamte in der Exekutive eines souveränen Staates, eines föderierten Staates oder einer selbstverwalteten Kolonie",
+    "dk": "Den øverste politiske ansvarlige i en stat eller et selvstyreområde.",
+    "en-GB": "The highest official in the executive branch of a sovereign state, a federated state, or a self-governing colony",
+    "en-US": "The highest official in the executive branch of a sovereign state, a federated state, or a self-governing colony",
+    "pt-BR": "Funcionário mais elevado do ramo executivo de um estado soberano, de um estado federado ou de uma colônia autônoma.",
+    "pt-PT": "Funcionário mais elevado do ramo executivo de um estado soberano, de um estado federado ou de uma colónia autónoma.",
+    "se": "Högsta ansvarig i den verkställande makten i ett land, delstat eller liknande.",
+    "zh-Hans": "主权国家、联邦国家或自治殖民地行政部门中的最高官员"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2285706"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "رؤساء حكومات",
+    "de": "Regierungschefs",
+    "dk": "regeringschef",
+    "en-GB": "heads of government",
+    "en-US": "heads of government",
+    "es": "Jefes de gobierno",
+    "fr": "Chef du gouvernement",
+    "no": "regjeringssjef",
+    "pt-BR": "chefe de governo",
+    "pt-PT": "chefe de governo",
+    "se": "Regeringschefer",
+    "zh-Hans": "政治首脑"
+  },
+  "qcode": "medtop:20001261",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001261",
+  "aid": "iptc_20001261"
+}

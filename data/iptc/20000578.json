@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000574"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wahl einzelner Regierungsvertreter auf der unteren Ebene, wie Stadt, Kreis oder Bezirk",
+    "dk": "Valg af repræsentanter for en lokal regering, f.eks. en kommune.",
+    "en-GB": "Choosing individuals for government at the basic level, whether city, village or county",
+    "en-US": "Choosing individuals for government at the basic level, whether city, village or county",
+    "pt-BR": "Escolha de pessoas para o governo a nível básico, seja cidade, vila ou município.",
+    "pt-PT": "Escolha de pessoas para o governo a nível básico, seja cidade, vila ou município.",
+    "se": "Att välja representanter till ett lokalt styre, t ex en kommun.",
+    "zh-Hans": "为市、村、县基层政府选拔工作人员"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11003006",
+    "https://www.wikidata.org/entity/Q15966540"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انتخابات محلية",
+    "de": "Kommunalwahl",
+    "dk": "lokalvalg",
+    "en-GB": "local elections",
+    "en-US": "local elections",
+    "es": "Elecciones locales",
+    "fr": "Élections locales",
+    "no": "lokalvalg",
+    "pt-BR": "eleições locais",
+    "pt-PT": "eleições locais",
+    "se": "Lokalval",
+    "zh-Hans": "地方选举"
+  },
+  "qcode": "medtop:20000578",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000578",
+  "aid": "iptc_20000578"
+}

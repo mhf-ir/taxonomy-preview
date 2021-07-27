@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/08000000"
+  ],
+  "created": "2019-06-26T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Feier am jährlichen Geburtsdatum einer Person.",
+    "dk": "Årsdagen for, hvornår en person blev født.",
+    "en-GB": "A celebration on the anniversary of a person's birth.",
+    "en-US": "A celebration on the anniversary of a person's birth.",
+    "pt-BR": "Celebração realizada na data anual do nascimento de uma pessoa.",
+    "pt-PT": "Celebração realizada na data anual do nascimento de uma pessoa.",
+    "se": "Årsdag av en persons födelse.",
+    "zh-Hans": "庆祝一个人每年生日的活动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q47223"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عيد ميلاد",
+    "de": "Geburtstag",
+    "dk": "fødselsdag",
+    "en-GB": "birthday",
+    "en-US": "birthday",
+    "es": "Cumpleaños",
+    "fr": "Anniversaire (jour de naissance)",
+    "no": "fødselsdag",
+    "pt-BR": "aniversário",
+    "pt-PT": "aniversário",
+    "se": "Födelsedag",
+    "zh-Hans": "生日"
+  },
+  "qcode": "medtop:20001238",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001238",
+  "aid": "iptc_20001238"
+}

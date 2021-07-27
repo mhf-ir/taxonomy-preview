@@ -1,0 +1,60 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rennen mit 2,3 oder 4 rädrigen Fahrzeugen mit Sattel und Lenkstangen",
+    "dk": "Fællesbetegnelse til konkurrencer med motorkøretøjer. Normalt tohjulede, men der er også trehjulede og firehjulede varianter.",
+    "en-GB": "Races with 2, 3 or 4 wheels vehicles with a saddle and handlebars",
+    "en-US": "Races with 2, 3 or 4 wheels vehicles with a saddle and handlebars",
+    "pt-BR": "Corridas com veículos de 2, 3 ou 4 rodas com selim e guidão.",
+    "pt-PT": "Corridas com veículos de 2, 3 ou 4 rodas com selim e guiador.",
+    "se": "Samlingsbegrepp för tävlingar med motorfordon där föraren sitter på en sadel och styr med styre. Normalt tvåhjuliga, men det finns trehjuliga och fyrhjuliga varianter också.",
+    "zh-Hans": "带座椅和车把的2轮，3轮或4轮摩托车比赛。"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15041000",
+    "https://www.wikidata.org/entity/Q608003"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/motorcyclingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000999",
+    "medtop:20001000",
+    "medtop:20001001",
+    "medtop:20001002",
+    "medtop:20001003",
+    "medtop:20001004",
+    "medtop:20001005",
+    "medtop:20001006",
+    "medtop:20001007",
+    "medtop:20001008"
+  ],
+  "prefLabel": {
+    "ar": "سباق دراجات نارية",
+    "de": "Motorradrennen",
+    "dk": "motorcykelsport",
+    "en-GB": "motorcycling",
+    "en-US": "motorcycling",
+    "es": "Motociclismo",
+    "fr": "Moto",
+    "no": "motorsykkelsport",
+    "pt-BR": "motociclismo",
+    "pt-PT": "motociclismo",
+    "se": "MC-sport",
+    "zh-Hans": "摩托车赛"
+  },
+  "qcode": "medtop:20000998",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000998",
+  "aid": "iptc_20000998"
+}

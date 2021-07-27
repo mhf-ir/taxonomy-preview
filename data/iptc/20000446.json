@@ -1,0 +1,58 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07001000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/07000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jeder gesundheitsgefährdende oder zerstörerische Zustand",
+    "dk": "Enhver skadelig eller destruktiv helbredstilstand, der påvirker mennesker.",
+    "en-GB": "Any harmful or destructive health condition affecting humans.",
+    "en-US": "Any harmful or destructive health condition affecting humans.",
+    "pt-BR": "Qualquer condição de saúde lesiva ou destrutiva que afete seres humanos.",
+    "pt-PT": "Qualquer condição de saúde lesiva ou destrutiva que afete seres humanos.",
+    "se": "Alla skadliga eller destruktiva hälsotillstånd som påverkar människor.",
+    "zh-Hans": "影响人类的所有有害或破坏性的健康状况"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q12136"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000447",
+    "medtop:20000448",
+    "medtop:20000454",
+    "medtop:20000455",
+    "medtop:20000456",
+    "medtop:20000457",
+    "medtop:20000458",
+    "medtop:20000460",
+    "medtop:20001322"
+  ],
+  "prefLabel": {
+    "ar": "امراض وظروف",
+    "de": "Krankheit",
+    "dk": "sygdom og sygdomstilstand",
+    "en-GB": "diseases and conditions",
+    "en-US": "diseases and conditions",
+    "es": "Enfermedades",
+    "fr": "Maladies et état de santé",
+    "no": "sykdom",
+    "pt-BR": "doenças e condições",
+    "pt-PT": "doenças e condições",
+    "se": "Sjukdomar och sjukdomstillstånd",
+    "zh-Hans": "疾病和病况"
+  },
+  "qcode": "medtop:20000446",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000446",
+  "aid": "iptc_20000446"
+}

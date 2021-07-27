@@ -1,0 +1,58 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verschiedene Mittel für die Verbreitung von Informationen und Nachrichten in der Öffentlichkeit",
+    "dk": "Forskellige måder at distribuere og præsentere nyheder til offentligheden.",
+    "en-GB": "The various means of disseminating news and information to the public",
+    "en-US": "The various means of disseminating news and information to the public",
+    "pt-BR": "Os vários meios que transmitem notícias e informações ao público.",
+    "pt-PT": "Os vários meios que transmitem notícias e informações ao público.",
+    "se": "Olika sätt att distribuera och presentera nyheter för allmänheten.",
+    "zh-Hans": "向公众传播新闻和信息的各种方式"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04010000",
+    "https://www.wikidata.org/entity/Q56611639"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000305",
+    "medtop:20000306",
+    "medtop:20000307",
+    "medtop:20000308",
+    "medtop:20000309",
+    "medtop:20000310",
+    "medtop:20000311",
+    "medtop:20000312",
+    "medtop:20000313",
+    "medtop:20000314",
+    "medtop:20000315"
+  ],
+  "prefLabel": {
+    "ar": "اعلام",
+    "de": "Medien",
+    "dk": "medie",
+    "en-GB": "media",
+    "en-US": "media",
+    "es": "Medios de comunicación",
+    "fr": "Médias",
+    "no": "medier",
+    "pt-BR": "mídia",
+    "pt-PT": "média",
+    "se": "Medier",
+    "zh-Hans": "媒体"
+  },
+  "qcode": "medtop:20000304",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000304",
+  "aid": "iptc_20000304"
+}

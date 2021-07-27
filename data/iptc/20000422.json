@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000420"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06002000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Areale die für den Naturschutz geschaffen werden",
+    "dk": "Områder med værdifulde naturlige miljøer, der er beskyttet af love mod udnyttelse.",
+    "en-GB": "Areas set aside for preservation",
+    "en-US": "Areas set aside for preservation",
+    "pt-BR": "Áreas reservadas para preservação.",
+    "pt-PT": "Áreas reservadas para preservação.",
+    "se": "Områden med värdefulla naturmiljöer som med lagar skyddas från exploatering.",
+    "zh-Hans": "为保护环境而留出的区域"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q22698"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حدائق",
+    "de": "Naturschutzgebiet",
+    "dk": "naturpark og reservat",
+    "en-GB": "parks",
+    "en-US": "parks",
+    "es": "Parques",
+    "fr": "Parcs naturels",
+    "no": "parker",
+    "pt-BR": "parques",
+    "pt-PT": "parques",
+    "se": "Nationalparker och naturreservat",
+    "zh-Hans": "公园"
+  },
+  "qcode": "medtop:20000422",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000422",
+  "aid": "iptc_20000422"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/09000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Jahre nach der Berufstätigkeit.",
+    "dk": "Årene efter arbejdslivet.",
+    "en-GB": "The years after work",
+    "en-US": "The years after work",
+    "pt-BR": "Os anos após o período ativo de trabalho.",
+    "pt-PT": "Os anos após o período ativo de trabalho.",
+    "se": "Åren efter arbetslivet.",
+    "zh-Hans": "工作后的那些年"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09006000",
+    "https://www.wikidata.org/entity/Q946865"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000532"
+  ],
+  "prefLabel": {
+    "ar": "تقاعد",
+    "de": "Ruhestand",
+    "dk": "pensionering",
+    "en-GB": "retirement",
+    "en-US": "retirement",
+    "es": "Jubilación",
+    "fr": "Retraite",
+    "no": "pensjon",
+    "pt-BR": "aposentadoria",
+    "pt-PT": "reforma",
+    "se": "Pensionstiden",
+    "zh-Hans": "退休"
+  },
+  "qcode": "medtop:20000531",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000531",
+  "aid": "iptc_20000531"
+}

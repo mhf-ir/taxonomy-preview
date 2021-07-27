@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000424"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Prozess bei dem verseuchte Gebiete von schädlichem Material gereinigt werden, sodass diese wieder bewohnbar sind für Menschen und Tiere.",
+    "dk": "Foranstaltninger, der sigter mod at befri et sted fra noget skadeligt og gøre det beboeligt igen, enten for mennesker eller dyr.",
+    "en-GB": "Processes whereby contaminated areas are cleaned of hazardous materials so they can be inhabited again by either people or animals.",
+    "en-US": "Processes whereby contaminated areas are cleaned of hazardous materials so they can be inhabited again by either people or animals.",
+    "pt-BR": "Processos através dos quais áreas contaminadas são limpas de materiais perigosos, para que possam ser novamente habitadas por pessoas ou animais.",
+    "pt-PT": "Processos através dos quais áreas contaminadas são limpas de materiais perigosos, para que possam ser novamente habitadas por pessoas ou animais.",
+    "se": "Åtgärder som syftar till att befria en plats från något skadligt och göra den beboelig igen, antingen för människor eller djur.",
+    "zh-Hans": "对受污染区域的有害物质进行清理，以便人们或动物再次居住的过程"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06013000",
+    "https://www.wikidata.org/entity/Q2019586"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تنظيف البيئة",
+    "de": "Umweltsäuberung",
+    "dk": "miljøoprensning",
+    "en-GB": "environmental clean-up",
+    "en-US": "environmental clean-up",
+    "es": "Descontaminación",
+    "fr": "Dépollution",
+    "no": "miljøopprydding",
+    "pt-BR": "limpeza ambiental",
+    "pt-PT": "limpeza ambiental",
+    "se": "Miljösanering",
+    "zh-Hans": "环境清理"
+  },
+  "qcode": "medtop:20000426",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000426",
+  "aid": "iptc_20000426"
+}

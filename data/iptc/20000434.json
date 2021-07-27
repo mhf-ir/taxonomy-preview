@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000432"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Erhöhte Landmassen, die sich über die Jahre durch Erosion, Vulkanausbrüche, oder aus der Bewegung massiver geografischer Formationen, Platten genannt, gebildet haben.",
+    "dk": "Forhøjede landmasser dannet gennem tiderne enten ved erosion, vulkanudbrud eller bevægelse af massive geografiske formationer kaldet plader.",
+    "en-GB": "Elevated land masses formed over the ages either by erosion, volcanic eruption, or movement of massive geographical formations called plates",
+    "en-US": "Elevated land masses formed over the ages either by erosion, volcanic eruption, or movement of massive geographical formations called plates",
+    "pt-BR": "Elevações de terreno, formadas ao longo dos tempos por erosão, erupção vulcânica ou movimento de grandes formações geográficas chamadas placas.",
+    "pt-PT": "Elevações de terreno, formadas ao longo dos tempos por erosão, erupção vulcânica ou movimento de grandes formações geográficas chamadas placas.",
+    "se": "Större upphöjning av jordytan, vanligtvis bestående av sten, helst med jämförelsevis branta sidor eller med avsevärd höjd över omgivningen.",
+    "zh-Hans": "由侵蚀、火山爆发或称为板块的大规模地理构造运动而形成的隆起的陆地"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06006005",
+    "https://www.wikidata.org/entity/Q8502"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "جبال",
+    "de": "Berg",
+    "dk": "bjerg",
+    "en-GB": "mountains",
+    "en-US": "mountains",
+    "es": "Montañas",
+    "fr": "Montagnes",
+    "no": "fjell",
+    "pt-BR": "montanhas",
+    "pt-PT": "montanhas",
+    "se": "Berg",
+    "zh-Hans": "山脉"
+  },
+  "qcode": "medtop:20000434",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000434",
+  "aid": "iptc_20000434"
+}

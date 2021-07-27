@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10001000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000540"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Spiel, was auf einem Brett gespielt wird",
+    "dk": "Et spil spillet på et bræt.",
+    "en-GB": "A game played on a board",
+    "en-US": "A game played on a board",
+    "pt-BR": "Jogo praticado num tabuleiro.",
+    "pt-PT": "Jogo praticado num tabuleiro.",
+    "se": "Ett tärningsspel med brickor som ska flyttas runt ett bräde.",
+    "zh-Hans": "在棋盘上玩的游戏"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q131436"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "لوح اللعبة",
+    "de": "Brettspiel",
+    "dk": "brætspil",
+    "en-GB": "board game",
+    "en-US": "board game",
+    "es": "Juego de mesa",
+    "fr": "Jeu de société",
+    "no": "brettspill",
+    "pt-BR": "jogo de tabuleiro",
+    "pt-PT": "jogo de tabuleiro",
+    "se": "Brädspel",
+    "zh-Hans": "棋盘游戏"
+  },
+  "qcode": "medtop:20000541",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000541",
+  "aid": "iptc_20000541"
+}

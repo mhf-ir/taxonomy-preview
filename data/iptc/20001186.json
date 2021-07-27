@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000021"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Ein Genre der lauten, aggressiven Rockmusik, das in den späten 1960er und frühen 1970er Jahren entwickelt wurde.",
+    "dk": "En tung musikstil, der hovedsageligt blev udviklet i England i slutningen af 60'erne og begyndelsen af 70'erne.",
+    "en-GB": "A genre of loud, aggressive rock music that was developed in the late 1960s and early 1970s",
+    "en-US": "A genre of loud, aggressive rock music that was developed in the late 1960s and early 1970s",
+    "pt-BR": "Gênero de música rock pesada e agressiva surgida no final dos anos 1960 e início dos anos 1970.",
+    "pt-PT": "Género de música rock pesada e agressiva surgida no final dos anos 1960 e início dos anos 1970.",
+    "se": "En musikstil som utvecklades främst i Storbritannien under sena 60-talet och tidiga 70-talet. Med rötter i blues och rock blev ljudbilden tyngre och snabbare.",
+    "zh-Hans": "20世纪60年代末和70年代初发展起来的一种喧闹、激进的摇滚音乐类型"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q38848"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "موسيقى الميتال",
+    "de": "Heavy Metal",
+    "dk": "heavy metal",
+    "en-GB": "heavy metal",
+    "en-US": "heavy metal",
+    "es": "Heavy metal",
+    "fr": "Heavy metal",
+    "no": "heavy metal",
+    "pt-BR": "heavy metal",
+    "pt-PT": "heavy metal",
+    "se": "Metal",
+    "zh-Hans": "重金属"
+  },
+  "qcode": "medtop:20001186",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001186",
+  "aid": "iptc_20001186"
+}

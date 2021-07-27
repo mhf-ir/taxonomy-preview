@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000509"
+  ],
+  "created": "2019-10-07T12:00:00+00:00",
+  "definition": {
+    "de": "Freistellung von der Arbeit, um ein Kind zu gebären oder zu betreuen",
+    "dk": "Arbejdsorlov, som tildeles med det formål af føde eller passe et barn.",
+    "en-GB": "Time off work to give birth or care for a child",
+    "en-US": "Time off work to give birth or care for a child",
+    "pt-BR": "Licença para se ausentar do trabalho para poder dar à luz ou cuidar de uma criança.",
+    "pt-PT": "Licença para se ausentar do trabalho para poder dar à luz ou cuidar de uma criança.",
+    "se": "Rätt till ledighet för att föda barn eller ta hand om ett litet barn.",
+    "zh-Hans": "为分娩或照顾新生儿进行的休假"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q328566"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "إجازة الأبوة",
+    "de": "Erziehungsurlaub",
+    "dk": "barsels- og forældreorlov",
+    "en-GB": "parental leave",
+    "en-US": "parental leave",
+    "es": "Permiso por paternidad",
+    "fr": "Congé parental",
+    "no": "foreldrepermisjon",
+    "pt-BR": "licença parental",
+    "pt-PT": "licença parental",
+    "se": "Föräldraledighet",
+    "zh-Hans": "产假与育婴假"
+  },
+  "qcode": "medtop:20001276",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001276",
+  "aid": "iptc_20001276"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000373"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die finanzielle Differenz zwischen Import und Export in Bezug auf den Warenwert",
+    "dk": "Forskellen mellem værdien af et lands eksport og værdien af dets import af varer.",
+    "en-GB": "The difference between the financial value of imports and exports",
+    "en-US": "The difference between the financial value of imports and exports",
+    "pt-BR": "Diferença entre o valor financeiro de importações e exportações.",
+    "pt-PT": "Diferença entre o valor financeiro de importações e exportações.",
+    "se": "Skillnaden mellan värdet av ett lands export och värdet av dess import av varor.",
+    "zh-Hans": "进出口价值的差异"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008036",
+    "https://www.wikidata.org/entity/Q192796"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ميزان تجاري",
+    "de": "Handelsbilanz",
+    "dk": "handelsbalance",
+    "en-GB": "trade balance",
+    "en-US": "trade balance",
+    "es": "Balanza comercial",
+    "fr": "Balance commerciale",
+    "no": "handelsbalanse",
+    "pt-BR": "balança comercial",
+    "pt-PT": "balança comercial",
+    "se": "Handelsbalans",
+    "zh-Hans": "贸易平衡"
+  },
+  "qcode": "medtop:20000375",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000375",
+  "aid": "iptc_20000375"
+}

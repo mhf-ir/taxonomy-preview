@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Menge des Geldes, die jemand für geliehenes Geld zahlen muss",
+    "dk": "Den aftalte pris på kredit optaget af långiveren, udtrykt i procent af lånebeløbet.",
+    "en-GB": "The amount of money one must pay to borrow money",
+    "en-US": "The amount of money one must pay to borrow money",
+    "pt-BR": "Montante de dinheiro que alguém deve pagar quando pede dinheiro emprestado.",
+    "pt-PT": "Montante de dinheiro que alguém deve pagar quando pede dinheiro emprestado.",
+    "se": "Överenskommet pris på kredit som tas ut av långivaren, angivet i procent av lånesumman.",
+    "zh-Hans": "指一个人为借钱必须支付的金钱的数额"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008009",
+    "https://www.wikidata.org/entity/Q179179"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "معدل الفائدة",
+    "de": "Zinsen",
+    "dk": "rentesats",
+    "en-GB": "interest rate",
+    "en-US": "interest rate",
+    "es": "Tasas de interés",
+    "fr": "Taux d'intérêts",
+    "no": "rente",
+    "pt-BR": "juros",
+    "pt-PT": "juros",
+    "se": "Ränta",
+    "zh-Hans": "利率"
+  },
+  "qcode": "medtop:20000371",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000371",
+  "aid": "iptc_20000371"
+}

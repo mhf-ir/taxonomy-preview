@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001157"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Ein Vollkontakt-Kampfsport mit Techniken aus verschiedenen Kampfsportarten und Kampfsportarten",
+    "dk": "En fuld kontaktkampsport ved hjælp af teknikker fra forskellige kampsportsdiscipliner, hvor stort set alt er tilladt. Foregår i et ottekantet bur.",
+    "en-GB": "A full-contact combat sport using techniques from various combat sports and martial arts",
+    "en-US": "A full-contact combat sport using techniques from various combat sports and martial arts",
+    "pt-BR": "Esporte de combate de contato total que usa técnicas de vários esportes de combate e artes marciais.",
+    "pt-PT": "Desporto de combate de contacto total que usa técnicas de vários desportos de combate e artes marciais.",
+    "se": "(Mixed martial arts) Fullkontaktsport där utövarna får använda slag, kast, sparkar mm. Det är mer reglerat vad man inte får göra.",
+    "zh-Hans": "全身体接触的技击运动，可以使用各种格斗技术"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q114466"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "فنون القتال المختلطة",
+    "de": "gemischte Kampfkünste",
+    "dk": "mixed martial arts (MMA)",
+    "en-GB": "mixed martial arts",
+    "en-US": "mixed martial arts",
+    "es": "Artes marciales mixtas",
+    "fr": "Arts martiaux mixtes",
+    "no": "mixed martial arts",
+    "pt-BR": "artes marciais mistas",
+    "pt-PT": "artes marciais mistas",
+    "se": "MMA",
+    "zh-Hans": "散打"
+  },
+  "qcode": "medtop:20001231",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001231",
+  "aid": "iptc_20001231"
+}

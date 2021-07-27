@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2019-07-23T12:00:00+00:00",
+  "definition": {
+    "de": "Hindernisrennen in der Leichtathletik einschließlich Barrieren und Wassersprünge",
+    "dk": "Atletikdisciplin, hvor forhindringer som bomme og vandgrave skal forceres.",
+    "en-GB": "Obstacle race in athletics including barriers and water jumps",
+    "en-US": "Obstacle race in athletics including barriers and water jumps",
+    "pt-BR": "Corrida de obstáculos no atletismo, que inclui barreiras e saltos de água.",
+    "pt-PT": "Corrida de obstáculos no atletismo, que inclui barreiras e saltos de água.",
+    "se": "Löptävlingar på bana med olika hinder som bockar och vattengrav.",
+    "zh-Hans": "包括障碍物和水池跨越的有障碍赛跑"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q223836"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-23T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سباق الموانع",
+    "de": "Hindernislauf (Leichtathletik)",
+    "dk": "forhindringsløb",
+    "en-GB": "steeplechase (athletics)",
+    "en-US": "steeplechase (athletics)",
+    "es": "Carrera con obstáculos",
+    "fr": "Steeple",
+    "no": "hinderløp",
+    "pt-BR": "corrida de obstáculos (atletismo)",
+    "pt-PT": "corrida de obstáculos (atletismo)",
+    "se": "Hinderlöpning",
+    "zh-Hans": "障碍跑"
+  },
+  "qcode": "medtop:20001242",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001242",
+  "aid": "iptc_20001242"
+}

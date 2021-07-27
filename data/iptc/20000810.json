@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000808"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14023000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Soziale Aspekte von Tod und Sterben",
+    "dk": "Sociale spørgsmål vedrørende død og døende.",
+    "en-GB": "Social, medical and mental health issues relating to people at the end of their lives",
+    "en-US": "Social, medical and mental health issues relating to people at the end of their lives",
+    "pt-BR": "Questões sociais relacionadas com a morte.",
+    "pt-PT": "Questões sociais relacionadas com a morte.",
+    "se": "Saker relaterade till döden och döende.",
+    "zh-Hans": "与死亡和临终有关的社会问题。"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q4"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000811",
+    "medtop:20000813"
+  ],
+  "prefLabel": {
+    "ar": "موت ووفاة",
+    "de": "Tod und Sterben",
+    "dk": "død og døende",
+    "en-GB": "death and dying",
+    "en-US": "death and dying",
+    "es": "Muerte y fin de vida",
+    "fr": "Fin de vie et mort",
+    "no": "død",
+    "pt-BR": "morte",
+    "pt-PT": "morte",
+    "se": "Livets slutskede",
+    "zh-Hans": "死亡"
+  },
+  "qcode": "medtop:20000810",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000810",
+  "aid": "iptc_20000810"
+}

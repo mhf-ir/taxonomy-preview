@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000998"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rennen, was auf Gras ausgetragen wird",
+    "dk": "Minder om speedway men finder sted på græsbaner.",
+    "en-GB": "A race competed on turf",
+    "en-US": "A race competed on turf",
+    "pt-BR": "Corrida de motos em pista de grama.",
+    "pt-PT": "Corrida de motos em pista relvada.",
+    "se": "Påminner om speedway men sker på gräsbanor.",
+    "zh-Hans": "草地比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15041003",
+    "https://www.wikidata.org/entity/Q1474094"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topicmotorcycling+ sports facet motorcyclingtype"
+  },
+  "prefLabel": {
+    "ar": "مضمار عشبي",
+    "de": "Grasbahn",
+    "dk": "græsbane",
+    "en-GB": "grass-track",
+    "en-US": "grass-track",
+    "es": "Carrera de motos sobre césped",
+    "fr": "Course sur herbe",
+    "no": "grasstrack",
+    "pt-BR": "grass-track",
+    "pt-PT": "grass-track",
+    "se": "Grasstrack",
+    "zh-Hans": "草地赛"
+  },
+  "qcode": "medtop:20001001",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001001",
+  "aid": "iptc_20001001"
+}

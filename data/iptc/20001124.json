@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/15000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kommerzielle Aspekte im Sport",
+    "dk": "Sport som forretning.",
+    "en-GB": "Commercial issues related to sport",
+    "en-US": "Commercial issues related to sport",
+    "pt-BR": "Questões comerciais relacionadas ao esporte.",
+    "pt-PT": "Questões comerciais relacionadas com o desporto.",
+    "se": "Kommersiella händelser relaterade till sport.",
+    "zh-Hans": "体育相关的商业事务"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q4438117"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "صناعة الرياضة",
+    "de": "Sportindustrie",
+    "dk": "sportindustri",
+    "en-GB": "sport industry",
+    "en-US": "sport industry",
+    "es": "Industria del deporte",
+    "fr": "Industrie du sport",
+    "no": "sportsindustri",
+    "pt-BR": "indústria do esporte",
+    "pt-PT": "indústria do desporto",
+    "se": "Sportindustri",
+    "zh-Hans": "体育产业"
+  },
+  "qcode": "medtop:20001124",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001124",
+  "aid": "iptc_20001124"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000965"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ähnlich wie Eishockey, aber auf kleinen Schlitten. Die Wettkämpfer bewegen sich mit Hilfe der Arme fort",
+    "dk": "Holdsport, der ligner ishockey, men spillerne sidder på en lille slæde og bevæger sig fremad med kraft fra armene.",
+    "en-GB": "Like ice hockey but instead of skates small sledges are used. Competitors move by pushing with the arms",
+    "en-US": "Like ice hockey but instead of skates small sledges are used. Competitors move by pushing with the arms",
+    "pt-BR": "Modalidade semelhante ao hóquei no gelo mas praticada com pequenos trenós que os patinadores empurram com os braços.",
+    "pt-PT": "Modalidade semelhante ao hóquei no gelo mas praticada com pequenos trenós que os patinadores empurram com os braços.",
+    "se": "Lagidrott som liknar ishockey, men spelarna sitter på en liten kälke och tar sig fram med kraft från armarna.",
+    "zh-Hans": "类似冰球。但不穿冰鞋而是用小雪橇。队员靠手推动雪橇移动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15031002",
+    "https://www.wikidata.org/entity/Q963312"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "هوكي ذوي الاحتياجات الخاصة",
+    "de": "Eisschlittenhockey",
+    "dk": "slædehockey",
+    "en-GB": "sledge hockey",
+    "en-US": "sledge hockey",
+    "es": "Hockey en trineo",
+    "fr": "Hockey sur luge",
+    "no": "kjelkehockey",
+    "pt-BR": "hóquei em trenó",
+    "pt-PT": "hóquei em trenó",
+    "se": "Kälkhockey",
+    "zh-Hans": "雪橇冰球"
+  },
+  "qcode": "medtop:20000966",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000966",
+  "aid": "iptc_20000966"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Schriftliche Verträge zwischen Unternehmen und öffentlichen Behörden über die Ausführung von Arbeiten, die Lieferung von Produkten oder die Erbringung von Dienstleistungen",
+    "dk": "En aftale, der blev indgået efter en formaliseret procedure, om erhvervelse af varer eller varer, hvor offentligheden (stat, regionsråd, kommune eller anden offentlig myndighed) står som klient.",
+    "en-GB": "Written contracts between companies and public authorities for the execution of works, the supply of products or the provision of services.",
+    "en-US": "Written contracts between companies and public authorities for the execution of works, the supply of products or the provision of services.",
+    "pt-BR": "Contratos escritos feitos entre empresas e autoridades públicas para a execução de obras, o fornecimento de produtos ou a prestação de serviços.",
+    "pt-PT": "Contratos escritos feitos entre empresas e autoridades públicas para a execução de obras, o fornecimento de produtos ou a prestação de serviços.",
+    "se": "Ett avtal, ingått efter ett formaliserat förfarande, om förvärv av varor eller nyttigheter där det allmänna (stat, landsting, kommun eller annan offentlig myndighet) står som beställare.",
+    "zh-Hans": "企业与公共机构之间为执行工程、提供产品或提供服务而签订的书面合同"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q529458"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عقود عامة",
+    "de": "öffentlicher Auftrag",
+    "dk": "offentlig kontrakt",
+    "en-GB": "public contract",
+    "en-US": "public contract",
+    "es": "Mercados públicos",
+    "fr": "Marchés publics",
+    "no": "offentlig kontrakt / offentlig anbud",
+    "pt-BR": "contrato público",
+    "pt-PT": "contrato público",
+    "se": "Offentlig upphandling",
+    "zh-Hans": "公共合同"
+  },
+  "qcode": "medtop:20001159",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001159",
+  "aid": "iptc_20001159"
+}

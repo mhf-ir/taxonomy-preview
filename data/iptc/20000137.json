@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000134"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ort, für die Inhaftierung aus Menschen aus unterschiedlichen Gründen",
+    "dk": "En institution, hvor kriminelle efter dom er frihedsberøvet.",
+    "en-GB": "Facility where people are held as a punishment for a crime they have committed or while awaiting trial",
+    "en-US": "Facility where people are held as a punishment for a crime they have committed or while awaiting trial",
+    "pt-BR": "Prisão, casa de detenção, presídio onde são encarcerados os infratores condenados pela justiça.",
+    "pt-PT": "Edificação onde são encarcerados os infratores condenados pela justiça.",
+    "se": "En påföljd som innebär att den som fällts blir inspärrad för en avgränsad tid, eller tills vidare.",
+    "zh-Hans": "惩罚人们所犯的罪行或在等待审判时被关押的场所"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02005000",
+    "https://www.wikidata.org/entity/Q40357"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سجن",
+    "de": "Strafvollzug",
+    "dk": "fængsel",
+    "en-GB": "prison",
+    "en-US": "prison",
+    "es": "Cárcel",
+    "fr": "Prison",
+    "no": "fengsel",
+    "pt-BR": "prisão",
+    "pt-PT": "prisão",
+    "se": "Fängelse",
+    "zh-Hans": "监狱"
+  },
+  "qcode": "medtop:20000137",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000137",
+  "aid": "iptc_20000137"
+}

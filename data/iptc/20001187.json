@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000021"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Eine schwedische Musikgattung, die sich durch eine von Swing, Schlager, Country, Jazz und Rock inspirierte Musik auszeichnet, zu der oft paarweise getanzt wird",
+    "dk": "En svensk inspireret musikgenre, der er karakteriseret ved swing, schlager, country, jazz og rock og som ofte er dansevenligt til pardans.",
+    "en-GB": "A Swedish genre of music characterized by music inspired by swing, schlager, country, jazz and rock that is often danced to in pairs",
+    "en-US": "A Swedish genre of music characterized by music inspired by swing, schlager, country, jazz and rock that is often danced to in pairs",
+    "pt-BR": "Gênero musical de origem sueca, caracterizado por música inspirada em swing, schlager, country, jazz e rock, que frequentemente se dança em pares.",
+    "pt-PT": "Género musical de origem sueca, caracterizado por música inspirada em swing, schlager, country, jazz e rock, que frequentemente se dança em pares.",
+    "se": "Svensk term för lättlyssnad musik som passar bra att dansa par-dans till.",
+    "zh-Hans": "一种瑞典音乐类型，以摇摆、施拉格、乡村、爵士乐和摇滚乐为灵感，通常成对跳舞"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1164847"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "موسيقى الرقص",
+    "de": "Tanzbandmusik (Schweden)",
+    "dk": "dansktop",
+    "en-GB": "dance band music",
+    "en-US": "dance band music",
+    "es": "Música de baile",
+    "fr": "Musique de danse",
+    "no": "danseband",
+    "pt-BR": "música de banda de dança",
+    "pt-PT": "música de banda de dança",
+    "se": "Dansband",
+    "zh-Hans": "舞蹈乐队音乐"
+  },
+  "qcode": "medtop:20001187",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001187",
+  "aid": "iptc_20001187"
+}

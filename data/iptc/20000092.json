@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000087"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eingreifen in den freien Wettbewerb in Markttätigkeit und Handel",
+    "dk": "Aftaler eller partnerskaber mellem virksomheder eller personer, der sigter mod at begrænse konkurrencen.",
+    "en-GB": "Interference in free competition in business and trade",
+    "en-US": "Interference in free competition in business and trade",
+    "pt-BR": "Entrave à livre concorrência nos negócios e no comércio.",
+    "pt-PT": "Entrave à livre concorrência nos negócios e no comércio.",
+    "se": "Avtal eller samarbeten mellan företag eller personer som syftar till att begränsa konkurrensen.",
+    "zh-Hans": "对商业和贸易自由竞争的干涉"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02012003",
+    "https://www.wikidata.org/entity/Q7316269"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تقييد التجارة",
+    "de": "Wettbewerbsverstoß",
+    "dk": "konkurrencebegrænsning",
+    "en-GB": "restraint of trade",
+    "en-US": "restraint of trade",
+    "es": "Infracción comercial",
+    "fr": "Infraction commerciale",
+    "no": "konkurranselovbrudd",
+    "pt-BR": "restrição ao comércio",
+    "pt-PT": "restrição ao comércio",
+    "se": "Konkurrensbegränsningar",
+    "zh-Hans": "贸易管制"
+  },
+  "qcode": "medtop:20000092",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000092",
+  "aid": "iptc_20000092"
+}

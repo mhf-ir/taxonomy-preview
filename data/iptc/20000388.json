@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000386"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Märkte um Metalle wie Kupfer, Aluminium, Stahl und Zink etc. zu handeln",
+    "dk": "Handelssted for metaller som kobber, stål, aluminium, zink og mere.",
+    "en-GB": "Markets for trading base metals such as copper, aluminium, steel, zinc etc",
+    "en-US": "Markets for trading base metals such as copper, aluminum, steel, zinc etc",
+    "pt-BR": "Mercados para comercializar metais básicos como cobre, alumínio, aço, zinco etc.",
+    "pt-PT": "Mercados para comercializar metais básicos como cobre, alumínio, aço, zinco, etc.",
+    "se": "Handelsplats för metaller såsom koppar, stål, aluminium, zink med mera.",
+    "zh-Hans": "铜、铝、钢铁、锌等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04009002",
+    "https://www.wikidata.org/entity/Q56557589"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "معادن",
+    "de": "Metall",
+    "dk": "metalbørs",
+    "en-GB": "metal",
+    "en-US": "metal",
+    "es": "Metales",
+    "fr": "Marché des métaux",
+    "no": "metallmarked",
+    "pt-BR": "metal",
+    "pt-PT": "metal",
+    "se": "Metallmarknad",
+    "zh-Hans": "金属"
+  },
+  "qcode": "medtop:20000388",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000388",
+  "aid": "iptc_20000388"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Absprachen oder Wechsel in der Geschäftsführung eines Unternehmens",
+    "dk": "Valg af eller ændringer i bestyrelsen for et selskab.",
+    "en-GB": "Appointments to or changes in the board of directors for a company.",
+    "en-US": "Appointments to or changes in the board of directors for a company.",
+    "pt-BR": "Nomeações ou mudanças no conselho de administração de uma companhia.",
+    "pt-PT": "Nomeações ou mudanças no conselho de administração de uma companhia.",
+    "se": "Utnämningar till eller förändringar i den grupp som tar de övergripande besluten i ett företag.",
+    "zh-Hans": "公司董事会成员的任命或变动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016008",
+    "https://www.wikidata.org/entity/Q188628"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مجلس مدراء",
+    "de": "Geschäftsführung",
+    "dk": "bestyrelse",
+    "en-GB": "board of directors",
+    "en-US": "board of directors",
+    "es": "Junta directiva",
+    "fr": "Conseil d'administration",
+    "no": "styre",
+    "pt-BR": "conselho de administração",
+    "pt-PT": "conselho de administração",
+    "se": "Bolagsstyrelse",
+    "zh-Hans": "董事会"
+  },
+  "qcode": "medtop:20000195",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000195",
+  "aid": "iptc_20000195"
+}

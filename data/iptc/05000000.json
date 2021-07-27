@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alle Aspekte der Förderung von Wissen für den Menschen von der Geburt bis zum Tod.",
+    "dk": "Alt, hvad angår menneskelig læring fra fødsel til død. Voksenundervisning, videreuddannelse, forældreorganisationer, børnehaver, skoler, lærerforeninger, universiteter osv.",
+    "en-GB": "All aspects of furthering knowledge of human individuals from birth to death.",
+    "en-US": "All aspects of furthering knowledge of human individuals from birth to death.",
+    "pt-BR": "Tudo o que contribui para o alargamento do conhecimento dos indivíduos, desde o nascimento até a morte.",
+    "pt-PT": "Tudo o que contribui para o alargamento do conhecimento dos indivíduos, desde o nascimento até à morte.",
+    "se": "Allt som rör mänskligt lärande från födsel till död. Vuxenutbildning, vidareutbildning, föräldraorganisationer, förskolor, skolor, lärarfack, universitet, etc.",
+    "zh-Hans": "从生到死，增进人类个体知识的各个方面"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q8434",
+    "http://cv.iptc.org/newscodes/subjectcode/05000000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000398",
+    "medtop:20000399",
+    "medtop:20000400",
+    "medtop:20000410",
+    "medtop:20000411",
+    "medtop:20001216"
+  ],
+  "prefLabel": {
+    "ar": "تربية",
+    "de": "Erziehung, Ausbildung",
+    "dk": "uddannelse",
+    "en-GB": "education",
+    "en-US": "education",
+    "es": "Educación",
+    "fr": "Éducation",
+    "no": "utdanning",
+    "pt-BR": "educação",
+    "pt-PT": "educação",
+    "se": "Utbildning",
+    "zh-Hans": "教育"
+  },
+  "qcode": "medtop:05000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/05000000",
+  "aid": "iptc_05000000"
+}

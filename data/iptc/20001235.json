@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000501"
+  ],
+  "created": "2019-06-26T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Zeremonie zum Gedenken an eine verstorbene Person und/oder die Bestattung der sterblichen Überreste dieser Person.",
+    "dk": "En ceremoni, hvor man mindes en afdød og begraver eller tager afsked med vedkommendes jordiske rester.",
+    "en-GB": "A ceremony to memorialise a deceased person",
+    "en-US": "A ceremony to memorialise a deceased person",
+    "pt-BR": "Cerimônia para fazer homenagem a uma pessoa falecida e / ou o enterro dos restos mortais dessa pessoa.",
+    "pt-PT": "Cerimónia para fazer homenagem a uma pessoa falecida e / ou o enterro dos restos mortais dessa pessoa.",
+    "se": "Nyheter om jordfästning av en person",
+    "zh-Hans": "纪念死者和/或埋葬死者遗体的仪式"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q201676"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-06-26T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "جنازة ومراسم تأبين",
+    "de": "Beerdigung und Gedenkfeier",
+    "dk": "begravelse og bisættelse",
+    "en-GB": "funeral and memorial service",
+    "en-US": "funeral and memorial service",
+    "es": "Servicio funerario y memorial",
+    "fr": "Service funèbre et commémoratif",
+    "no": "begravelse og bisettelse",
+    "pt-BR": "funeral e serviço fúnebre",
+    "pt-PT": "funeral e serviço fúnebre",
+    "se": "Begravning",
+    "zh-Hans": "葬礼及追悼会"
+  },
+  "qcode": "medtop:20001235",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001235",
+  "aid": "iptc_20001235"
+}

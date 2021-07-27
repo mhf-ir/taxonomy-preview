@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000465"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Nährstoffe, die der Nahrung beigefügt werden zur Förderung der Gesundheit",
+    "dk": "Fødevarer, der er beregnet til at supplere en normal diæt.",
+    "en-GB": "Nutrients taken in addition to food to bolster health",
+    "en-US": "Nutrients taken in addition to food to bolster health",
+    "pt-BR": "Nutrientes que se acrescentam à alimentação para fortalecer a saúde.",
+    "pt-PT": "Nutrientes que se acrescentam à alimentação para fortalecer a saúde.",
+    "se": "Livsmedel som är avsedda att komplettera en normal kost.",
+    "zh-Hans": "为增进健康而在食物之外摄入的营养素"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07003002",
+    "https://www.wikidata.org/entity/Q645858"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نظام غذائي تكميلي",
+    "de": "Diätische Ergänzung",
+    "dk": "kosttilskud",
+    "en-GB": "dietary supplements",
+    "en-US": "dietary supplements",
+    "es": "Suplementos alimenticios",
+    "fr": "Complèments nutritifs",
+    "no": "kosttilskudd",
+    "pt-BR": "suplementos alimentares",
+    "pt-PT": "suplementos alimentares",
+    "se": "Kosttillskott",
+    "zh-Hans": "膳食补充剂"
+  },
+  "qcode": "medtop:20000466",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000466",
+  "aid": "iptc_20000466"
+}

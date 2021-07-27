@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15062000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001071"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schwimmen einer Langstrecke im offenen Wasser",
+    "dk": "Langdistancesvømning i åbent vand.",
+    "en-GB": "A long distance open water swimming",
+    "en-US": "A long distance open water swimming",
+    "pt-BR": "Prova de natação de grandes distâncias em águas abertas.",
+    "pt-PT": "Prova de natação de grandes distâncias em águas abertas.",
+    "se": "Simtävling i öppet vatten.",
+    "zh-Hans": "在开放水面上的长距离游泳比赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q17143662"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-07-12T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired in 2017 in favour of sports facet, but then un-retired in 2021 so all top-level Olympics sports have a valid Media Topics term."
+  },
+  "prefLabel": {
+    "ar": "ماراثون سباحة",
+    "de": "Langstrecke",
+    "dk": "åbent vand",
+    "en-GB": "marathon swimming",
+    "en-US": "marathon swimming",
+    "es": "Maratón de natación",
+    "fr": "Marathon de natation",
+    "no": "maratonsvømming",
+    "pt-BR": "maratona aquática",
+    "pt-PT": "maratona aquática",
+    "se": "Öppet vatten",
+    "zh-Hans": "马拉松游泳"
+  },
+  "qcode": "medtop:20001077",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001077",
+  "aid": "iptc_20001077"
+}

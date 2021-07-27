@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer benutzen einen flexiblen Stab, mit dem sie sich selbst in die Luft befördern und eine Latte überspringen, die in jeder Runde höher gehängt wird",
+    "dk": "Ved hjælp af en stang skal deltagerne nå en så høj højde som muligt.",
+    "en-GB": "Competitors use a flexible pole to propel themselves feet-first into the air and clear a bar which is raised higher at each round of jumps.",
+    "en-US": "Competitors use a flexible pole to propel themselves feet-first into the air and clear a bar which is raised higher at each round of jumps.",
+    "pt-BR": "Prova em que os atletas usam uma vara flexível para se projetarem com os pés para o ar e transpor uma barra horizontal que é subida a cada ronda de saltos. Ganha quem atingir a marca mais alta.",
+    "pt-PT": "Prova em que os atletas usam uma vara flexível para se projetarem com os pés para o ar e transpor uma barra horizontal que é subida a cada ronda de saltos. Ganha quem atingir a marca mais alta.",
+    "se": "Med hjälp av en stav ska de tävlande ta sig över så hög höjd som möjligt.",
+    "zh-Hans": "参赛者使用一根柔韧的杆子将自己的脚朝上地升到空中并越过横杆，在每轮跳跃横杆都会升高高度"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005020",
+    "https://www.wikidata.org/entity/Q185027"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "القفز بالزانة",
+    "de": "Stabhochsprung",
+    "dk": "stangspring",
+    "en-GB": "pole vault",
+    "en-US": "pole vault",
+    "es": "Salto con pértiga",
+    "fr": "Saut à la perche",
+    "no": "stavsprang",
+    "pt-BR": "salto com vara",
+    "pt-PT": "salto à vara",
+    "se": "Stavhopp",
+    "zh-Hans": "撑杆跳"
+  },
+  "qcode": "medtop:20000840",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000840",
+  "aid": "iptc_20000840"
+}

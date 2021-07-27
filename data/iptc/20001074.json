@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15062000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001071"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schwimmstil in Bauchlage, bei dem beide Schultern parallel zum Wasser bleiben und die Arme sich simultan in Schmetterlingsform bewegen. Die Beine werden zusammengehalten und flossenartig bewegt. Der kraftaufwendigste aller Schwimmstile",
+    "dk": "Svømmedisciplin, på maven hvor skuldrene forbliver parallelle med vandet og begge arme bevæger sig samtidigt over hovedet som en vindmølle. Benene forbliver sammen og bevæges i en klappende bevægelse op og ned. Den mest fysiske af alle stilarter.",
+    "en-GB": "Swimming style , swum on the front with the shoulders remaining parallel to the water both arms moving in simultaneous windmill fashion, the legs remain together and are moved in a flapping motion. The most physical of all styles.",
+    "en-US": "Swimming style , swum on the front with the shoulders remaining parallel to the water both arms moving in simultaneous windmill fashion, the legs remain together and are moved in a flapping motion. The most physical of all styles.",
+    "pt-BR": "Estilo de nado em que o nadador mantém os ombros paralelos à água e projeta os braços para fora, como um moinho, com batimentos simultâneos das pernas, que permanecem juntas. É a prova de natação mais exigente.",
+    "pt-PT": "Estilo de natação em que o nadador mantém os ombros paralelos à água e projeta os braços para fora, como um moinho, com batimentos simultâneos das pernas, que permanecem juntas. É a prova de natação mais exigente.",
+    "zh-Hans": "一种泳姿。肩部出水与水面平行。双臂像风车一样同时划出水面，两腿并拢上下摆动。最耗体力的一种泳姿"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q245249"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "فراشة",
+    "de": "Schmetterling",
+    "dk": "butterfly",
+    "en-GB": "butterfly swimming",
+    "en-US": "butterfly swimming",
+    "es": "Mariposa (natación)",
+    "fr": "Papillon",
+    "no": "butterfly",
+    "pt-BR": "borboleta",
+    "pt-PT": "mariposa",
+    "se": "Fjärilssim",
+    "zh-Hans": "蝶泳"
+  },
+  "qcode": "medtop:20001074",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001074",
+  "aid": "iptc_20001074"
+}

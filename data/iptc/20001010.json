@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sportart für Frauen, ähnlich dem Basketball, aber ohne Brett hinter dem Korb",
+    "dk": "Meget som basketball, men kurven har ingen plade bag på, men sidder på en stolpe. Hovedsageligt spillet af kvinder.",
+    "en-GB": "A woman's sport similar to basketball though without a board behind the basket",
+    "en-US": "A woman's sport similar to basketball though without a board behind the basket",
+    "pt-BR": "Esporte feminino, semelhante ao basquetebol, mas sem a tabela que segura o cesto.",
+    "pt-PT": "Desporto feminino, semelhante ao basquetebol, mas sem a tabela que segura o cesto.",
+    "se": "Påminner mycket om basket, men korgarna har inga plattor bakom utan sitter på en stolpe. Spelas främst av kvinnor.",
+    "zh-Hans": "一种类似篮球的女子体育运动，但篮筐后面没有篮板"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15042000",
+    "https://www.wikidata.org/entity/Q231200"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كرة الشبكة",
+    "de": "Netzball",
+    "dk": "netbold",
+    "en-GB": "netball",
+    "en-US": "netball",
+    "es": "Netbol",
+    "fr": "Netball",
+    "no": "nettball",
+    "pt-BR": "netball",
+    "pt-PT": "netball",
+    "se": "Nätboll",
+    "zh-Hans": "篮网球"
+  },
+  "qcode": "medtop:20001010",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001010",
+  "aid": "iptc_20001010"
+}

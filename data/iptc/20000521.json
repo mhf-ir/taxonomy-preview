@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09005000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/09000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gesetze, die Beschäftigung und Arbeit regeln.",
+    "dk": "Juridiske regler, der påvirker forholdet mellem ansatte og arbejdsgivere.",
+    "en-GB": "Laws governing employment",
+    "en-US": "Laws governing employment",
+    "pt-BR": "Leis que regem o trabalho.",
+    "pt-PT": "Leis que regem o trabalho.",
+    "se": "Rättsregler som berör förhållandet mellan arbetstagare och arbetsgivare.",
+    "zh-Hans": "就业法"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q7498399"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000522"
+  ],
+  "prefLabel": {
+    "ar": "قانون التوظيف",
+    "de": "Arbeitsrecht",
+    "dk": "ansættelseslovgivning",
+    "en-GB": "employment legislation",
+    "en-US": "employment legislation",
+    "es": "Legislación laboral",
+    "fr": "Législation du travail",
+    "no": "arbeidsrett",
+    "pt-BR": "legislação trabalhista",
+    "pt-PT": "legislação laboral",
+    "se": "Arbetsrätt",
+    "zh-Hans": "就业法案"
+  },
+  "qcode": "medtop:20000521",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000521",
+  "aid": "iptc_20000521"
+}

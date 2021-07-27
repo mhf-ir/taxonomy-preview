@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000322"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Herstellung nicht-alkoholischer Getränke",
+    "dk": "Fremstilling af ikke-alkoholholdige drikkevarer.",
+    "en-GB": "Production of non-alcoholic drinks",
+    "en-US": "Production of non-alcoholic drinks",
+    "pt-BR": "Fabrico de bebidas não alcoólicas.",
+    "pt-PT": "Fabrico de bebidas não alcoólicas.",
+    "se": "Tillverkning av alkoholfria drycker.",
+    "zh-Hans": "指不含酒精的饮料"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04013006",
+    "https://www.wikidata.org/entity/Q56882638"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مشروبات غير كحولية",
+    "de": "Nicht-alkoholische Getränke",
+    "dk": "læskedrik",
+    "en-GB": "soft drinks",
+    "en-US": "soft drinks",
+    "es": "Bebidas no alcohólicas",
+    "fr": "Boissons non-alcoolisées",
+    "no": "mineralvannindustri",
+    "pt-BR": "refrigerantes",
+    "pt-PT": "refrigerantes",
+    "se": "Ej alkoholhaltig dryck",
+    "zh-Hans": "软饮料"
+  },
+  "qcode": "medtop:20000328",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000328",
+  "aid": "iptc_20000328"
+}

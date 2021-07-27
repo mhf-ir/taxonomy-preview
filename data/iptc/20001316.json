@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000638"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Diplomatische Angelegenheiten zwischen zwei Ländern im Grenzbereich, manchmal mit militärischen Auseinandersetzungen",
+    "dk": "Diplomatiske uengheder mellem to lande, der grænser op til hinanden. Kan udvikle sig til kamphandlinger.",
+    "en-GB": "Diplomatic issues between two countries surrounding the border, sometimes involving military conflict",
+    "en-US": "Diplomatic issues between two countries surrounding the border, sometimes involving military conflict",
+    "pt-BR": "Litígios diplomáticos entre países por causa de uma fronteira, por vezes envolvendo conflitos militares.",
+    "pt-PT": "Litígios diplomáticos entre países por causa de uma fronteira, por vezes envolvendo conflitos militares.",
+    "se": "Diplomatiska konflikter mellan två länder kring gränsdragningsfrågor mm",
+    "zh-Hans": "两国围绕边界的外交问题，有时涉及军事冲突"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1078001"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "نزاع حدودي",
+    "de": "Grenzstreitigkeit",
+    "dk": "grænsestridigheder",
+    "en-GB": "border disputes",
+    "en-US": "border disputes",
+    "es": "Disputas fronterizas",
+    "fr": "Conflit frontalier",
+    "no": "grensekonflikt",
+    "pt-BR": "conflitos fronteiriços",
+    "pt-PT": "conflitos fronteiriços",
+    "se": "Gränskonflikter",
+    "zh-Hans": "边界争端"
+  },
+  "qcode": "medtop:20001316",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001316",
+  "aid": "iptc_20001316"
+}

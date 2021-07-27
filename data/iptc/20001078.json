@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15062000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001071"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Staffelteam Wettbewerb in einem frei gewählten Schwimmstil",
+    "dk": "Hold af svømmere, som svømmer en stafet i en svømmestil efter eget valg.",
+    "en-GB": "Team of swimmers swim a relay in the swimming style of their choice",
+    "en-US": "Team of swimmers swim a relay in the swimming style of their choice",
+    "pt-BR": "Uma equipe de nadadores faz uma prova de estafeta no estilo de nado à escolha de cada nadador.",
+    "pt-PT": "Uma equipa de nadadores faz uma prova de estafeta no estilo de natação à escolha de cada nadador.",
+    "zh-Hans": "泳者按选择的泳姿进行游泳的接力赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q10855252"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سباحة حرة تتابع",
+    "de": "Staffel Freistil",
+    "dk": "freestyle stafet",
+    "en-GB": "relay freestyle swimming",
+    "en-US": "relay freestyle swimming",
+    "es": "Relevo libre (natación)",
+    "fr": "Relais nage libre",
+    "no": "stafett frisvømming",
+    "pt-BR": "revezamento livre",
+    "pt-PT": "livres estafetas",
+    "se": "Kappsim, fritt",
+    "zh-Hans": "自由泳接力赛"
+  },
+  "qcode": "medtop:20001078",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001078",
+  "aid": "iptc_20001078"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000087"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verletzung von Gesetzen gegen Monopole",
+    "dk": "Overtrædelse af love, der er rettet mod virksomheder for at fremme fair konkurrence til fordel for forbrugerne.",
+    "en-GB": "Violations of laws aimed at corporations to promote fair competition for the benefit of consumers",
+    "en-US": "Violations of laws aimed at corporations to promote fair competition for the benefit of consumers",
+    "pt-BR": "Violação das leis contra monopólios.",
+    "pt-PT": "Violação das leis contra monopólios.",
+    "se": "Åtgärder som bryter mot regler och lagar kring fri konkurrens.",
+    "zh-Hans": "违反旨在保护消费者利益、促进公平竞争的法律条款的行为"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02012005",
+    "https://www.wikidata.org/entity/Q326498"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "جريمة احتكار",
+    "de": "Kartellverstoß",
+    "dk": "konkurrencekriminalitet",
+    "en-GB": "anti-trust crime",
+    "en-US": "anti-trust crime",
+    "es": "Delitos antimonopolio",
+    "fr": "Infraction à la concurrence",
+    "no": "konkurranselovbrudd",
+    "pt-BR": "crime antitruste",
+    "pt-PT": "crime antitrust",
+    "se": "Konkurrensbrott",
+    "zh-Hans": "垄断犯罪"
+  },
+  "qcode": "medtop:20000088",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000088",
+  "aid": "iptc_20000088"
+}

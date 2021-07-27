@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000116"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Lösung von Streitigkeiten durch eine neutrale Instanz",
+    "dk": "En afgørelse af et retstvist, hvor parterne benytter en neutral mægler i stedet for en domstol.",
+    "en-GB": "Resolution of disputed issues by a neutral panel",
+    "en-US": "Resolution of disputed issues by a neutral panel",
+    "pt-BR": "Resolução de disputas por meio de tribunal arbitral.",
+    "pt-PT": "Resolução de disputas por meio de tribunal arbitral.",
+    "se": "När någon utomstående försöker få två tvistande parter att komma överens.",
+    "zh-Hans": "由中立的委员会解决有争议的问题"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02008002",
+    "https://www.wikidata.org/entity/Q207946"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تحكيم",
+    "de": "Schiedsgericht",
+    "dk": "voldgift",
+    "en-GB": "arbitration and mediation",
+    "en-US": "arbitration and mediation",
+    "es": "Arbitraje",
+    "fr": "Arbitrage",
+    "no": "voldgift",
+    "pt-BR": "arbitragem",
+    "pt-PT": "arbitragem",
+    "se": "Medling",
+    "zh-Hans": "仲裁与调解"
+  },
+  "qcode": "medtop:20000117",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000117",
+  "aid": "iptc_20000117"
+}

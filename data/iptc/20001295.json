@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2020-08-05T12:00:00+00:00",
+  "definition": {
+    "de": "Geschäftspraxis, bei der Dienstleistungen oder Arbeitsfunktionen an Dritte ausgelagert werde",
+    "dk": "En forretningsstrategi hvor tjenester eller arbejdspladser flyttes ud til en tredjepart",
+    "en-GB": "Business practice in which services or job functions are farmed out to a third party",
+    "en-US": "Business practice in which services or job functions are farmed out to a third party",
+    "pt-BR": "Prática de negócios que consiste na transferência de serviços ou funções a terceiros.",
+    "pt-PT": "Prática de negócios que consiste na transferência de serviços ou funções a terceiros.",
+    "se": "Metod där företag eller organisationer anlitar ett annat företag för att sköta vissa delar av den egna verksamheten.",
+    "zh-Hans": "将服务或工作职能分包给第三方的商业实践"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q61515"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اسناد خارجي",
+    "de": "Outsourcing",
+    "dk": "outsourcing",
+    "en-GB": "outsourcing",
+    "en-US": "outsourcing",
+    "es": "Subcontratación",
+    "fr": "Externalisation",
+    "no": "outsourcing",
+    "pt-BR": "terceirização",
+    "pt-PT": "outsourcing",
+    "se": "Outsourcing",
+    "zh-Hans": "外包"
+  },
+  "qcode": "medtop:20001295",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001295",
+  "aid": "iptc_20001295"
+}

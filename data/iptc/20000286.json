@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verdienst einer Person und was ihm/ihr davon zur Verfügung steht",
+    "dk": "Penge, som en person tjener, og som han er fri til at bruge.",
+    "en-GB": "Money that a person earns and is his/hers to keep or spend",
+    "en-US": "Money that a person earns and is his/hers to keep or spend",
+    "pt-BR": "Dinheiro que uma pessoa ganha.",
+    "pt-PT": "Dinheiro que uma pessoa ganha.",
+    "se": "Pengar som en person tjänar och som står denne fritt att använda.",
+    "zh-Hans": "一个人挣来的钱，可以留着或花掉"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006019",
+    "https://www.wikidata.org/entity/Q7170591"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "دخل فردي",
+    "de": "Nettoeinkommen",
+    "dk": "personlig indkomst",
+    "en-GB": "personal income",
+    "en-US": "personal income",
+    "es": "Ingresos",
+    "fr": "Revenus personnels",
+    "no": "inntekt",
+    "pt-BR": "rendimento individual",
+    "pt-PT": "rendimento individual",
+    "se": "Privatinkomster",
+    "zh-Hans": "个人收入"
+  },
+  "qcode": "medtop:20000286",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000286",
+  "aid": "iptc_20000286"
+}

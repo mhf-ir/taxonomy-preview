@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000601"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die gesamte Waffensammlung eines Landes",
+    "dk": "Et lands samling af våben.",
+    "en-GB": "A country's collection of armaments",
+    "en-US": "A country's collection of armaments",
+    "pt-BR": "Conjunto do armamento militar de um país.",
+    "pt-PT": "Conjunto do armamento militar de um país.",
+    "se": "Ett lands samlade uppsättning vapen.",
+    "zh-Hans": "一个国家的武器储备"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16012000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اسلحة",
+    "de": "Waffen",
+    "dk": "våben",
+    "en-GB": "military weaponry",
+    "en-US": "military weaponry",
+    "es": "Armas",
+    "fr": "Armement",
+    "no": "våpenarsenal",
+    "pt-BR": "armamento militar",
+    "pt-PT": "armamento militar",
+    "se": "Vapenarsenal",
+    "zh-Hans": "军事武器"
+  },
+  "qcode": "medtop:20000602",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000602",
+  "aid": "iptc_20000602"
+}

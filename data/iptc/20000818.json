@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000817"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Menschenfreundliche Gabe",
+    "dk": "Uselvisk hjælp til mennesker i nød eller til at hjælpe de mindre heldige.",
+    "en-GB": "The voluntary giving of money, food or other necessities to those in need",
+    "en-US": "The voluntary giving of money, food or other necessities to those in need",
+    "pt-BR": "Doação filantrópica.",
+    "pt-PT": "Doação filantrópica.",
+    "se": "Osjälvisk hjälp till människor som är i nöd eller att hjälpa sämre lottade.",
+    "zh-Hans": "慈善捐赠"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14002000",
+    "https://www.wikidata.org/wiki/Q1077064"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عمل خيري",
+    "de": "Wohltätigkeit",
+    "dk": "velgørenhed",
+    "en-GB": "charity",
+    "en-US": "charity",
+    "es": "Beneficencia",
+    "fr": "Activités caritatives",
+    "no": "veldedighet",
+    "pt-BR": "filantropia",
+    "pt-PT": "caridade",
+    "se": "Välgörenhet",
+    "zh-Hans": "慈善机构"
+  },
+  "qcode": "medtop:20000818",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000818",
+  "aid": "iptc_20000818"
+}

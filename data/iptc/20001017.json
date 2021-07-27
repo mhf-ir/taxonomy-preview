@@ -1,0 +1,54 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Disziplin bei der wilde Pferde und Bullen beritten und gezähmt werden",
+    "dk": "En sport, hvor deltagerne skal håndtere vilde heste, tyre, kalve eller geder.",
+    "en-GB": "A discipline where wild horses or bulls must be mounted and mastered",
+    "en-US": "A discipline where wild horses or bulls must be mounted and mastered",
+    "pt-BR": "Disciplina em que cavalos ou bois selvagens podem ser montados e domados.",
+    "pt-PT": "Disciplina em que cavalos ou touros selvagens podem ser montados e domados.",
+    "se": "En sport där de tävlande ska hantera vilda hästar, tjurar, kalvar eller getter.",
+    "zh-Hans": "骑上并控制野马，野牛的比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15074000",
+    "https://www.wikidata.org/entity/Q207703"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001018",
+    "medtop:20001019",
+    "medtop:20001020",
+    "medtop:20001021",
+    "medtop:20001022",
+    "medtop:20001023",
+    "medtop:20001024"
+  ],
+  "prefLabel": {
+    "ar": "روديو",
+    "de": "Rodeo",
+    "dk": "rodeo",
+    "en-GB": "rodeo",
+    "en-US": "rodeo",
+    "es": "Rodeo",
+    "fr": "Rodéo",
+    "no": "rodeo",
+    "pt-BR": "rodeio",
+    "pt-PT": "rodeio",
+    "se": "Rodeo",
+    "zh-Hans": "牛仔竞技"
+  },
+  "qcode": "medtop:20001017",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001017",
+  "aid": "iptc_20001017"
+}

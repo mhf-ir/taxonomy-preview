@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15050000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001038"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Segel Ereignis",
+    "dk": "En enkelt eller en række sejlads-konkurrencer.",
+    "en-GB": "Sailing event",
+    "en-US": "Sailing event",
+    "pt-BR": "Evento com embarcação dotada de vela.",
+    "pt-PT": "Evento com embarcação dotada de vela.",
+    "se": "En enstaka eller en serie segeltävlingar.",
+    "zh-Hans": "帆船赛事"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q126701"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic sailing + sports facet sailingtype."
+  },
+  "prefLabel": {
+    "ar": "سباق زوارق",
+    "de": "Regatta",
+    "dk": "regattasejlads",
+    "en-GB": "sailing regatta",
+    "en-US": "sailing regatta",
+    "es": "Regata",
+    "fr": "Régate",
+    "no": "regatta",
+    "pt-BR": "regata a vela",
+    "pt-PT": "regata à vela",
+    "se": "Regatta",
+    "zh-Hans": "帆船赛"
+  },
+  "qcode": "medtop:20001042",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001042",
+  "aid": "iptc_20001042"
+}

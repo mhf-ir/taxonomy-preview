@@ -1,0 +1,67 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016029"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000170"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Planung der Ausrichtung eines Unternehmens und der Marketingstrategie für Produkte und Dienstleistungen um diese zu erreichen",
+    "dk": "Planlægning af en virksomheds mål og salg af sine varer og tjenester for at nå disse mål.",
+    "en-GB": "Planning the direction of a company and selling its products and services to achieve the strategy",
+    "en-US": "Planning the direction of a company and selling its products and services to achieve the strategy",
+    "pt-BR": "Planejamento da direção de uma empresa e venda dos seus produtos e serviços para cumprir a estratégia.",
+    "pt-PT": "Planeamento da direção de uma empresa e venda dos seus produtos e serviços para cumprir a estratégia.",
+    "se": "Planering av ett företags mål och försäljning av dess varor och tjänster för att uppnå målen.",
+    "zh-Hans": "规划经营方向、产品和服务来实现公司战略的行为"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q39809"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000193",
+    "medtop:20000194",
+    "medtop:20000195",
+    "medtop:20000196",
+    "medtop:20000197",
+    "medtop:20000198",
+    "medtop:20000199",
+    "medtop:20000200",
+    "medtop:20000201",
+    "medtop:20000202",
+    "medtop:20000203",
+    "medtop:20000204",
+    "medtop:20000205",
+    "medtop:20000206",
+    "medtop:20000207",
+    "medtop:20000208",
+    "medtop:20001159",
+    "medtop:20001295"
+  ],
+  "prefLabel": {
+    "ar": "استراتيجية وتسويق",
+    "de": "Marketing",
+    "dk": "strategi og markedsføring",
+    "en-GB": "strategy and marketing",
+    "en-US": "strategy and marketing",
+    "es": "Estrategia y marketing",
+    "fr": "Stratégie et marketing",
+    "no": "markedsføring",
+    "pt-BR": "estratégia e marketing",
+    "pt-PT": "estratégia e marketing",
+    "se": "Marknadsföringsstrategi",
+    "zh-Hans": "经营战略和市场营销"
+  },
+  "qcode": "medtop:20000192",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000192",
+  "aid": "iptc_20000192"
+}

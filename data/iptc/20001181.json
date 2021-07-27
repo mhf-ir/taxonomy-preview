@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000002"
+  ],
+  "created": "2018-04-09T12:00:00+00:00",
+  "definition": {
+    "de": "Veranstaltungen bei der künstlerische Werke präsentiert werden, wie Tanz-, Musik-, Theater- oder Literaturfestivals. Sie finden meist regelmäßig statt.",
+    "dk": "Begivenheder, der viser kunstneriske bestræbelser, ofte regelmæssigt forekommende, såsom dans, musik, teater, poesi eller komik.",
+    "en-GB": "Events showcasing artistic endeavours, often regularly occurring, such as dance, music, theatre, poetry or comedy festivals",
+    "en-US": "Events showcasing artistic endeavors, often regularly occurring, such as dance, music, theater, poetry or comedy festivals",
+    "es": "Cojunto de representaciones dedicadas a un arte, como festivales de danza, música, teatro, poesía o de humoristas",
+    "fr": "Événement organisé autour d'un secteur artistique comme la danse, la musique, le théâtre, la poésie ou l'humour",
+    "pt-BR": "Eventos que exibem atividades artísticas e que ocorrem com regularidade, como festivais de dança, música, teatro, poesia ou comédia.",
+    "pt-PT": "Eventos que exibem atividades artísticas e que ocorrem com regularidade, como festivais de dança, música, teatro, poesia ou comédia.",
+    "se": "Tillställningar där flera framträdanden inom en eller flera konstformer samlas på samma ställe. Tillställningarna är ofta återkommande på samma plats år efter år.",
+    "zh-Hans": "展示艺术成就的活动，通常定期举行，例如舞蹈、音乐、戏剧、诗歌或喜剧节"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q4801521"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2018-04-09T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000006"
+  ],
+  "prefLabel": {
+    "ar": "مهرجان",
+    "de": "Festival",
+    "dk": "festival",
+    "en-GB": "festival",
+    "en-US": "festival",
+    "es": "Festival",
+    "fr": "Festival",
+    "no": "festival",
+    "pt-BR": "festival",
+    "pt-PT": "festival",
+    "se": "Festivaler",
+    "zh-Hans": "艺术节"
+  },
+  "qcode": "medtop:20001181",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001181",
+  "aid": "iptc_20001181"
+}

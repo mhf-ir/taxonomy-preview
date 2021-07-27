@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/12000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die rechtliche und soziale Trennung von Kirche und Staat",
+    "dk": "Den juridiske og sociale fordeling mellem religiøse institutioner og statsanliggender.",
+    "en-GB": "The legal and social division between religious institutions and the affairs of state",
+    "en-US": "The legal and social division between religious institutions and the affairs of state",
+    "pt-BR": "Separação legal e social entre instituições religiosas e assuntos de estado.",
+    "pt-PT": "Separação legal e social entre instituições religiosas e assuntos de estado.",
+    "se": "Den lagliga och sociala fördelningen mellan religiösa institutioner och statsangelägenheter.",
+    "zh-Hans": "宗教机构和国家事务之间的法律和社会分工"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12007000",
+    "https://www.wikidata.org/entity/Q753623"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مؤسسات دينية وعلاقات دولة",
+    "de": "Beziehung Religion und Staat",
+    "dk": "stat og religion",
+    "en-GB": "religious institutions and state relations",
+    "en-US": "religious institutions and state relations",
+    "es": "Relaciones entre las instituciones religiosas y el Estado",
+    "fr": "Relations entre les institutions religieuses et l'Etat",
+    "no": "forholdet mellom religiøse institusjoner og stat",
+    "pt-BR": "instituições religiosas e relações com o estado",
+    "pt-PT": "instituições religiosas e relações com o estado",
+    "se": "Religiösa institutioner",
+    "zh-Hans": "宗教机构和国家的关系"
+  },
+  "qcode": "medtop:20000702",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000702",
+  "aid": "iptc_20000702"
+}

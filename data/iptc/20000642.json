@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000638"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Strafende Handlungen eines Staates gegen einen anderen, Handelseinschränkungen, Embargos etc. beinhaltend",
+    "dk": "En stats eller international organisations afbrydelse af økonomiske forbindelser med en anden stat for at nå politiske mål eller håndhæve regler.",
+    "en-GB": "Punitive actions taken by one country against another including trade restrictions, embargoes etc.",
+    "en-US": "Punitive actions taken by one country against another including trade restrictions, embargoes etc.",
+    "pt-BR": "Ações punitivas tomadas por um país contra outro, incluindo restrições comerciais, embargos etc.",
+    "pt-PT": "Ações punitivas tomadas por um país contra outro, incluindo restrições comerciais, embargos, etc.",
+    "se": "En stats eller internationell organisations avbrytande av ekonomiska förbindelser med annan stat för att uppnå politiska mål eller upprätthålla regler.",
+    "zh-Hans": "一国对另一国采取的惩罚性行动，包括贸易限制、禁运等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11005001",
+    "https://www.wikidata.org/entity/Q1248258"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عقوبات اقتصادية",
+    "de": "Wirtschaftliche Sanktion",
+    "dk": "økonomisk sanktion",
+    "en-GB": "economic sanction",
+    "en-US": "economic sanction",
+    "es": "Sanción económica",
+    "fr": "Sanction économique",
+    "no": "økonomiske sanksjoner",
+    "pt-BR": "sanções econômicas",
+    "pt-PT": "sanções económicas",
+    "se": "Ekonomiska sanktioner",
+    "zh-Hans": "经济制裁"
+  },
+  "qcode": "medtop:20000642",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000642",
+  "aid": "iptc_20000642"
+}

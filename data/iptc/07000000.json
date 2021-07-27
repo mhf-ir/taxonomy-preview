@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alle Aspekte des körperlichen und geistigen Wohlbefindens von Menschen.",
+    "dk": "Alle aspekter vedrørende levende væseners fysiske og mentale velfærd.",
+    "en-GB": "All aspects pertaining to the physical and mental welfare of living beings",
+    "en-US": "All aspects pertaining to the physical and mental welfare of living beings",
+    "pt-BR": "Todos os aspectos relativos ao bem-estar físico e mental dos seres humanos.",
+    "pt-PT": "Todos os aspetos relativos ao bem-estar físico e mental dos seres humanos.",
+    "se": "Ämnen som rör människors fysiska och mentala hälsa.",
+    "zh-Hans": "与人类的身体和精神福利相关的方方面面"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07000000",
+    "https://www.wikidata.org/entity/Q12147"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000446",
+    "medtop:20000461",
+    "medtop:20000463",
+    "medtop:20000464",
+    "medtop:20000479",
+    "medtop:20000485",
+    "medtop:20000493"
+  ],
+  "prefLabel": {
+    "ar": "صحة",
+    "de": "Medizin, Gesundheit",
+    "dk": "sundhed",
+    "en-GB": "health",
+    "en-US": "health",
+    "es": "Salud",
+    "fr": "Santé",
+    "no": "medisin og helse",
+    "pt-BR": "saúde",
+    "pt-PT": "saúde",
+    "se": "Medicin och hälsa",
+    "zh-Hans": "卫生"
+  },
+  "qcode": "medtop:07000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/07000000",
+  "aid": "iptc_07000000"
+}

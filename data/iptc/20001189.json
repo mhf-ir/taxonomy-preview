@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000021"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Ein Musikgenre mit Liedern, die für Kinder komponiert und aufgeführt werden.",
+    "dk": "En musikgenre med sange komponeret og udført for børn.",
+    "en-GB": "A genre of music featuring songs composed and performed for children",
+    "en-US": "A genre of music featuring songs composed and performed for children",
+    "pt-BR": "Gênero musical com músicas compostas e executadas para crianças.",
+    "pt-PT": "Género musical com músicas compostas e executadas para crianças.",
+    "se": "Musik som är gjord speciellt för barn. Lätta melodier och texter som är enkla att följa med i. Ofta med rörelser till.",
+    "zh-Hans": "一种专为儿童创作和表演的音乐类型"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q493169"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "موسيقى للاطفال",
+    "de": "Kinderlieder",
+    "dk": "børnemusik",
+    "en-GB": "children's music",
+    "en-US": "children's music",
+    "es": "Música infantil",
+    "fr": "Musique pour enfants",
+    "no": "barnemusikk",
+    "pt-BR": "música para crianças",
+    "pt-PT": "música para crianças",
+    "se": "Barnmusik",
+    "zh-Hans": "儿童音乐"
+  },
+  "qcode": "medtop:20001189",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001189",
+  "aid": "iptc_20001189"
+}

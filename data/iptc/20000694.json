@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000690"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Heiliger Fastenmonat des Islam.",
+    "dk": "Den muslimske fastemåned.",
+    "en-GB": "Holy month of fasting in Islam",
+    "en-US": "Holy month of fasting in Islam",
+    "pt-BR": "Mês sagrado de jejum no Islã.",
+    "pt-PT": "Mês sagrado de jejum no Islão.",
+    "se": "Den muslimska fastemånaden.",
+    "zh-Hans": "伊斯兰教斋月"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12014004",
+    "https://www.wikidata.org/entity/Q41662"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رمضان",
+    "de": "Ramadan",
+    "dk": "ramadan",
+    "en-GB": "Ramadan",
+    "en-US": "Ramadan",
+    "es": "Ramadán",
+    "fr": "Ramadan",
+    "no": "ramadan",
+    "pt-BR": "ramadã",
+    "pt-PT": "ramadão",
+    "se": "Ramadan",
+    "zh-Hans": "斋月"
+  },
+  "qcode": "medtop:20000694",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000694",
+  "aid": "iptc_20000694"
+}

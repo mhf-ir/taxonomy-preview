@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wird in der Halle gespielt auf einem Spielfeld in der Größe eines Basketballfeldes. Ein Team besteht aus fünf Feldspielern und einem Torwart. Der Torwart spielt auf Knien, aber nicht mit einem Torwartschläger wie im Eishockey. Die Spieler benutzen Kunststöcke und leichte Plastikbälle um Pässe und Tore zu schießen",
+    "dk": "Floorball er en holdsport i hockeyfamilien med 5 markspillere og en målmand på hvert hold. Man spiller med stave og plastikbold med huller på en indendørsbane med 50 cm høje bander.",
+    "en-GB": "Played indoors in a court the size of a basketball court. 6 players per team, of which one is a goalkeeper. He/she operates kneeling but there is no goal-stick like in ice hockey. The players use plastic clubs and a light plastic ball to pass and shot goal",
+    "en-US": "Played indoors in a court the size of a basketball court. 6 players per team, of which one is a goalkeeper. He/she operates kneeling but there is no goal-stick like in ice hockey. The players use plastic clubs and a light plastic ball to pass and shot goal",
+    "pt-BR": "Jogo de futebol em recinto fechado do tamanho de um campo de basquetebol, disputado por duas equipes de 6 jogadores, que usam bastões plásticos para bater uma bola de plástico leve.",
+    "pt-PT": "Jogo de futebol em recinto fechado do tamanho de um campo de basquetebol, disputado por duas equipas de 6 jogadores, que usam tacos plásticos para bater uma bola de plástico leve.",
+    "se": "Spelas mellan sexmannalag, varav en är målvakt. Spelas inomhus på samma planstorlek som basket och handboll. Målvakten står på knä och använder händerna. Utespelarna har plastklubbor och spelar på en ihålig boll av plast.",
+    "zh-Hans": "又译地板球。室内球赛。球场和篮球场大小相当。每队6人，其中一人守门。守门员可以下蹲挡球。但与冰球守门员不同的是，守门员没有专门的球棍。球员使用塑料球棍和轻质塑料球传球和射门"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15078000",
+    "https://www.wikidata.org/entity/Q206763"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "هوكي",
+    "de": "Unihockey",
+    "dk": "floorball",
+    "en-GB": "floorball",
+    "en-US": "floorball",
+    "es": "Floorball",
+    "fr": "Floorball",
+    "no": "innebandy",
+    "pt-BR": "floorball",
+    "pt-PT": "floorball",
+    "se": "Innebandy",
+    "zh-Hans": "旱地冰球"
+  },
+  "qcode": "medtop:20000937",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000937",
+  "aid": "iptc_20000937"
+}

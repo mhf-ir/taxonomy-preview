@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000998"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mannschaftssport bei dem die Fahrer mit einem Ball spielen",
+    "dk": "Ligner fodbold, hvor de spillerne kører på en motorcykel udendørs. Målmanden har ingen motorcykel.",
+    "en-GB": "Team sport where drivers play a ball",
+    "en-US": "Team sport where drivers play a ball",
+    "pt-BR": "Esporte de equipe em que os pilotos jogam bola.",
+    "pt-PT": "Desporto de equipa em que os pilotos jogam bola.",
+    "se": "Liknande fotboll, men utespelarna åker motorcykel. Målvakterna har ingen motorcykel.",
+    "zh-Hans": "球员骑在摩托车上进行集体球类运动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15041004",
+    "https://www.wikidata.org/entity/Q1826965"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic motorcycling+ sports facet racetype."
+  },
+  "prefLabel": {
+    "ar": "كرة الدراجات النارية",
+    "de": "Motoball",
+    "dk": "motorbold",
+    "en-GB": "moto-ball",
+    "en-US": "moto-ball",
+    "es": "Moto-ball",
+    "fr": "Moto-ball",
+    "no": "motoball",
+    "pt-BR": "motoball",
+    "pt-PT": "motoball",
+    "se": "Motorcykelpolo",
+    "zh-Hans": "摩托足球赛"
+  },
+  "qcode": "medtop:20001002",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001002",
+  "aid": "iptc_20001002"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001104"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gebrauch von Drogen aus medizinischen Gründen durch Sport Regulatoren gestattet",
+    "dk": "Brug af godkendte lægemidler.",
+    "en-GB": "Use of drugs for medical reasons as permitted by sport regulators",
+    "en-US": "Use of drugs for medical reasons as permitted by sport regulators",
+    "pt-BR": "Uso de medicamentos no esporte por razões médicas, de acordo com o estipulado pelos reguladores esportivos.",
+    "pt-PT": "Uso de medicamentos no desporto por razões médicas, de acordo com o estipulado pelos reguladores desportivos.",
+    "se": "Användning av tillåtna läkemedel.",
+    "zh-Hans": "体育规则允许的医用药物"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عقار طبي مستخدم في الرياضة",
+    "de": "Medizinisches Doping",
+    "dk": "medicinsk stofbrug i sport",
+    "en-GB": "medical drug use in sport",
+    "en-US": "medical drug use in sport",
+    "es": "Medicamentos autorizados en el deporte",
+    "fr": "Traitements médicaux dans le sport",
+    "no": "tillatte legemiddel",
+    "pt-BR": "uso de medicamentos no esporte",
+    "pt-PT": "uso de medicamentos no desporto",
+    "se": "Tillåtna läkemedel",
+    "zh-Hans": "医用药物"
+  },
+  "qcode": "medtop:20001107",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001107",
+  "aid": "iptc_20001107"
+}

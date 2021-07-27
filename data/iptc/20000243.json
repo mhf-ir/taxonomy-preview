@@ -1,0 +1,56 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Waren, die für Individuen produziert und an sie verkauft werden",
+    "dk": "Varer, der er produceret til og solgt til enkeltpersoner.",
+    "en-GB": "Items produced for and sold to individuals",
+    "en-US": "Items produced for and sold to individuals",
+    "pt-BR": "Artigos produzidos para serem vendidos.",
+    "pt-PT": "Artigos produzidos para serem vendidos.",
+    "se": "Varor som produceras för och säljs till individer.",
+    "zh-Hans": "生产和销售给个人的物品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04007000",
+    "https://www.wikidata.org/entity/Q868404"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000244",
+    "medtop:20000245",
+    "medtop:20000248",
+    "medtop:20000249",
+    "medtop:20000251",
+    "medtop:20000254",
+    "medtop:20000255",
+    "medtop:20001258",
+    "medtop:20001289"
+  ],
+  "prefLabel": {
+    "ar": "سلع استهلاكية",
+    "de": "Konsumgüter",
+    "dk": "forbrugsvare",
+    "en-GB": "consumer goods",
+    "en-US": "consumer goods",
+    "es": "Bienes de consumo",
+    "fr": "Distribution",
+    "no": "forbruksvare",
+    "pt-BR": "bens de consumo",
+    "pt-PT": "bens de consumo",
+    "se": "Konsumentvaror",
+    "zh-Hans": "消费品"
+  },
+  "qcode": "medtop:20000243",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000243",
+  "aid": "iptc_20000243"
+}

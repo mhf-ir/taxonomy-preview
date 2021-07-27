@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000111"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Person, die etwas bezeugt",
+    "dk": "En person, der optræder i retten og fortæller om sine oplevelser af sagen.",
+    "en-GB": "A person who testifies",
+    "en-US": "A person who testifies",
+    "pt-BR": "Indivíduo que testemunha.",
+    "pt-PT": "Indivíduo que testemunha.",
+    "se": "En person som framträder i domstolen och berättar om sina iaktagelser kring fallet som avgörs.",
+    "zh-Hans": "作证的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02009002",
+    "https://www.wikidata.org/entity/Q196939"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "شهود",
+    "de": "Zeuge",
+    "dk": "vidne",
+    "en-GB": "witness",
+    "en-US": "witness",
+    "es": "Testigo",
+    "fr": "Témoin",
+    "no": "vitne",
+    "pt-BR": "testemunha",
+    "pt-PT": "testemunha",
+    "se": "Vittne",
+    "zh-Hans": "证人"
+  },
+  "qcode": "medtop:20000115",
+  "retired": "2019-10-07T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000115",
+  "aid": "iptc_20000115"
+}

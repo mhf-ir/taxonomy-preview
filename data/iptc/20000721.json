@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000719"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Erforschung von Genen in lebenden Organismen und ihrer Rolle bei Vererbung, Entwicklung oder genetischer Anpassung",
+    "dk": "Undersøgelse af gener i levende organismer og af deres rolle i arvelighed, udvikling eller genetisk tilpasning.",
+    "en-GB": "The study of genes in living organisms, and of their role in heredity, development or genetic adaptation",
+    "en-US": "The study of genes in living organisms, and of their role in heredity, development or genetic adaptation",
+    "es": "El estudio de los genes en organismos vivos y su papel en la herencia, el desarrollo o la adaptación genética",
+    "fr": "Etude des gènes dans les organismes vivants et leur rôle dans l'hérédité, le développement ou l'adaptation génétique",
+    "pt-BR": "Estudo de genes em organismos vivos e de seu papel na hereditariedade, no desenvolvimento ou na adaptação genética.",
+    "pt-PT": "Estudo de genes em organismos vivos e do seu papel na hereditariedade, no desenvolvimento ou na adaptação genética.",
+    "se": "Vetenskap som omfattar studiet av arvsmassans uppbyggnad och funktion, uppkomst av förändringar av arvsanlagen samt biologisk variation.",
+    "zh-Hans": "研究生物体中的基因及其在遗传、发育或遗传适应中作用的科学"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07014004",
+    "https://www.wikidata.org/entity/Q7162"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علم الوراثة",
+    "de": "Genetik",
+    "dk": "genetik",
+    "en-GB": "genetics",
+    "en-US": "genetics",
+    "es": "Genética",
+    "fr": "Génétique",
+    "no": "genetikk",
+    "pt-BR": "genética",
+    "pt-PT": "genética",
+    "se": "Genetik",
+    "zh-Hans": "遗传学"
+  },
+  "qcode": "medtop:20000721",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000721",
+  "aid": "iptc_20000721"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der moderne Fünfkampf umfasst 5 Ereignisse an einem Tag in der folgenden Reihenfolge: Schießen, Fechten, Schwimmen, Reiten und Laufen",
+    "dk": "Moderne femkamp blev introduceret ved OL i Stockholm i 1912 som en moderne version af antik femkamp. I moderne pentathlon konkurrerer du i skydning, fægtning, svømning, ridning og løb.",
+    "en-GB": "The Modern Pentathlon comprises five events run over a single day in the following order: shooting, fencing, swimming, horse riding and running.",
+    "en-US": "The Modern Pentathlon comprises five events run over a single day in the following order: shooting, fencing, swimming, horse riding and running.",
+    "pt-BR": "O pentatlo moderno inclui 5 provas diferentes realizadas no mesmo dia pela seguinte ordem: tiro, esgrima, natação, hipismo e corrida.",
+    "pt-PT": "O pentatlo moderno inclui 5 provas diferentes realizadas no mesmo dia pela seguinte ordem: tiro, esgrima, natação, hipismo e corrida.",
+    "se": "Modern femkamp infördes vid OS i Stockholm 1912 som en modern version av antikens femkamp. I modern femkamp tävlar man i skytte, fäktning, simning, ridning och löpning.",
+    "zh-Hans": "现代五项由一天内按以下顺序完成的五项运动组成，射击，击剑，游泳，马术和赛跑"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15038000",
+    "https://www.wikidata.org/entity/Q32485"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بينتاثلون حديث",
+    "de": "Moderner Fünfkampf",
+    "dk": "moderne femkamp",
+    "en-GB": "modern pentathlon",
+    "en-US": "modern pentathlon",
+    "es": "Pentatlón moderno",
+    "fr": "Pentathlon moderne",
+    "no": "moderne femkamp",
+    "pt-BR": "pentatlo moderno",
+    "pt-PT": "pentatlo moderno",
+    "se": "Modern femkamp",
+    "zh-Hans": "现代五项"
+  },
+  "qcode": "medtop:20000989",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000989",
+  "aid": "iptc_20000989"
+}

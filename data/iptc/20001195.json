@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000097"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Die illegale Hinterziehung von Steuern durch Einzelpersonen, Unternehmen und Stiftungen.",
+    "dk": "Når nogen forsøger at undgå at betale skat.",
+    "en-GB": "The illegal evasion of taxes by individuals, corporations, and trusts",
+    "en-US": "The illegal evasion of taxes by individuals, corporations, and trusts",
+    "pt-BR": "Evasão ilegal de impostos por indivíduos, corporações e fundos.",
+    "pt-PT": "Evasão ilegal de impostos por indivíduos, corporações e fundos.",
+    "se": "Brottslighet som innehåller olika åtgärder från enskilda individer, företag eller organisationer för att undvika att betala skatt.",
+    "zh-Hans": "个人、公司和信托公司的非法逃税行为"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q6502151"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تهرب ضريبي",
+    "de": "Steuerhinterziehung",
+    "dk": "skatteunddragelse",
+    "en-GB": "tax evasion",
+    "en-US": "tax evasion",
+    "es": "Evasión fiscal",
+    "fr": "Fraude fiscale",
+    "no": "skatteunndragelse",
+    "pt-BR": "sonegação fiscal",
+    "pt-PT": "evasão fiscal",
+    "se": "Skattebrott",
+    "zh-Hans": "逃税"
+  },
+  "qcode": "medtop:20001195",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001195",
+  "aid": "iptc_20001195"
+}

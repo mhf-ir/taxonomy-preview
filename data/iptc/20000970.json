@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000969"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15033007"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bis zu 60 kg bei Männern und 48 kg bei Frauen",
+    "dk": "Op til 60 kg for mænd og 48 kg for kvinder.",
+    "en-GB": "Up to 60kg for men and 48kg for women.",
+    "en-US": "Up to 60kg for men and 48kg for women.",
+    "pt-BR": "Categoria até 60kg para homens e até 48kg para mulheres.",
+    "pt-PT": "Categoria até 60kg para homens e até 48kg para mulheres.",
+    "zh-Hans": "选手体重分别最高不超过60公斤（男子）和48公斤（女子）"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q77217208"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الوزن الخفيف (جودو)",
+    "de": "Extra Leichtgewicht (Judo)",
+    "dk": "ekstra-letvægt",
+    "en-GB": "extra lightweight (judo)",
+    "en-US": "extra lightweight (judo)",
+    "es": "Peso extra liviano (judo)",
+    "fr": "Super-légers (judo)",
+    "no": "lett fjærvekt",
+    "pt-BR": "peso-extraleve (judô)",
+    "pt-PT": "peso-extraleve (judo)",
+    "se": "Extra lättvikt, (Judo)",
+    "zh-Hans": "轻量级柔道"
+  },
+  "qcode": "medtop:20000970",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000970",
+  "aid": "iptc_20000970"
+}

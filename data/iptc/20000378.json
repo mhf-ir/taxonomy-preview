@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Spekulative Käufe von kollektiven Maschinen, Rohstoffen, Währungen oder Teilen davon",
+    "dk": "Investering i økonomisk værdi med håb om fremtidig afkast, normalt i produktiv brug, og således at pengene er bundet sammen i en længere periode.",
+    "en-GB": "Speculative purchases of corporate instruments, of commodities, currencies, or parts thereof",
+    "en-US": "Speculative purchases of corporate instruments, of commodities, currencies, or parts thereof",
+    "pt-BR": "Compra especulativa de instrumentos corporativos, matérias-primas, divisas etc.",
+    "pt-PT": "Compra especulativa de instrumentos corporativos, matérias-primas, divisas, etc.",
+    "se": "Satsning av ekonomiskt värde med grundad förhoppning om framtida avkastning, vanligtvis i produktiv nyttighet och så att pengarna binds en längre tid.",
+    "zh-Hans": "投机或部分投机购买公司票据、商品、货币"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008025",
+    "https://www.wikidata.org/entity/Q4290"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "استثمارات",
+    "de": "Investition",
+    "dk": "investering",
+    "en-GB": "investments",
+    "en-US": "investments",
+    "es": "Inversiones",
+    "fr": "Investissements",
+    "no": "investering",
+    "pt-BR": "investimentos",
+    "pt-PT": "investimentos",
+    "se": "Investeringar",
+    "zh-Hans": "投资"
+  },
+  "qcode": "medtop:20000378",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000378",
+  "aid": "iptc_20000378"
+}

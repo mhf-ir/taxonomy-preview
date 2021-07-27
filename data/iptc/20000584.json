@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000574"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Politische Vorschläge, Gesetze und Taten, die von Nicht-Regierungsangehörigen vorgebracht werden und zur Abstimmung durch die Abstimmungsberechtigten vorliegen",
+    "dk": "Afstemning om et bestemt emne, hvor alle berettigede vælgere kan deltage.",
+    "en-GB": "Political proposals, laws and actions suggested by non-government officials to be voted on by the entire voting body",
+    "en-US": "Political proposals, laws and actions suggested by non-government officials to be voted on by the entire voting body",
+    "pt-BR": "Propostas políticas, leis e ações sugeridas por membros ou organismos não governamentais para serem votados pela comunidade.",
+    "pt-PT": "Propostas políticas, leis e ações sugeridas por membros ou organismos não governamentais para serem votados pela comunidade.",
+    "se": "Omröstning i en viss fråga, där alla röstberättigade kan delta.",
+    "zh-Hans": "非政府官员提出的由整个投票机构投票表决的政治建议、法律和行动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11019000",
+    "https://www.wikidata.org/entity/Q43109"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "استفتاء",
+    "de": "Referendum",
+    "dk": "folkeafstemning",
+    "en-GB": "referenda",
+    "en-US": "referenda",
+    "es": "Referendos",
+    "fr": "Référendum",
+    "no": "folkeavstemning",
+    "pt-BR": "referendo",
+    "pt-PT": "referendo",
+    "se": "Folkomröstning",
+    "zh-Hans": "普通投票"
+  },
+  "qcode": "medtop:20000584",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000584",
+  "aid": "iptc_20000584"
+}

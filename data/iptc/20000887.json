@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sportklettern als Spezialdisziplin: Einzelwettbewerb mit Zeitmessung an einer künstlichen Kletterwand",
+    "dk": "Konkurrencer i klatring i kunstige miljøer med forskellige vanskeligheder.",
+    "en-GB": "Sport climbing as a special category: individual competition, on an artificial wall with time measurement",
+    "en-US": "Sport climbing as a special category: individual competition, on an artificial wall with time measurement",
+    "pt-BR": "Escalada esportiva como categoria especial: competição individual, em parede artificial com limite de tempo.",
+    "pt-PT": "Escalada desportiva como categoria especial: competição individual, em parede artificial com limite de tempo.",
+    "se": "Tävlingar i att klättra i konstgjorda miljöer med olika svårighetsgrader.",
+    "zh-Hans": "又译攀石，是一个特殊的运动分类：只有个人赛，在人造岩壁上进行的计时比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15016002",
+    "https://www.wikidata.org/entity/Q1541373"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-07-12T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "رياضة التسلق",
+    "de": "Sportklettern",
+    "dk": "sportsklatring",
+    "en-GB": "sport climbing",
+    "en-US": "sport climbing",
+    "es": "Escalada libre",
+    "fr": "Escalade",
+    "no": "sportsklatring",
+    "pt-BR": "escalada",
+    "pt-PT": "escalada",
+    "se": "Sportklättring",
+    "zh-Hans": "运动攀登"
+  },
+  "qcode": "medtop:20000887",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000887",
+  "aid": "iptc_20000887"
+}

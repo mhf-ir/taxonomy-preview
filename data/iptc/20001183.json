@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2018-04-19T12:00:00+00:00",
+  "definition": {
+    "de": "Wettbewerbe mit Videospielen, die von professionellen Spielern gespielt werden",
+    "dk": "Konkurrencer, der involverer computer- eller videospil, der spilles af professionelle spillere.",
+    "en-GB": "Competitions involving video games played by professional gamers",
+    "en-US": "Competitions involving video games played by professional gamers",
+    "pt-BR": "Competições de jogos de vídeo disputadas por jogadores profissionais.",
+    "pt-PT": "Competições de jogos de vídeo disputadas por jogadores profissionais.",
+    "se": "Tävlingar mellan deltagare som spelar spel på datorer eller speciella spelmaskiner. Kan vara både sportbaserade spel och militärt inriktade spel.",
+    "zh-Hans": "职业游戏玩家参加的视频游戏比赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q300920"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2018-04-19T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "رياضة إلكترونية",
+    "de": "E-Sport",
+    "dk": "E-sport",
+    "en-GB": "eSports",
+    "en-US": "eSports",
+    "es": "eSports",
+    "fr": "eSports",
+    "no": "esport",
+    "pt-BR": "esporte eletrônico",
+    "pt-PT": "desporto eletrónico",
+    "se": "Esport",
+    "zh-Hans": "电子竞技"
+  },
+  "qcode": "medtop:20001183",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001183",
+  "aid": "iptc_20001183"
+}

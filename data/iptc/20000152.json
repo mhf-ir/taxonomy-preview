@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000151"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein schwerer Mangel an Wasser über einen bestimmten Zeitraum",
+    "dk": "Alvorlig mangel på vand over en periode.",
+    "en-GB": "A severe lack of water over a period of time",
+    "en-US": "A severe lack of water over a period of time",
+    "pt-BR": "Grave falta de água durante determinado período de tempo.",
+    "pt-PT": "Grave falta de água durante determinado período de tempo.",
+    "se": "När vattnet tar slut i ett område och det går så långt att mark och växter tar skada.",
+    "zh-Hans": "一段时间内严重缺水"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03001000",
+    "https://www.wikidata.org/entity/Q43059"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "جفاف",
+    "de": "Dürre",
+    "dk": "tørke",
+    "en-GB": "drought",
+    "en-US": "drought",
+    "es": "Sequía",
+    "fr": "Sécheresse",
+    "no": "tørke",
+    "pt-BR": "seca",
+    "pt-PT": "seca",
+    "se": "Torka",
+    "zh-Hans": "旱灾"
+  },
+  "qcode": "medtop:20000152",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000152",
+  "aid": "iptc_20000152"
+}

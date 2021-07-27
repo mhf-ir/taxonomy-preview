@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000217"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Chemikalien, die genutzt werden um Plastik und andere künstliche Stoffe für die Industrie zu produzieren",
+    "dk": "Naturlige eller fremstillede stoffer, der bruges til fremstilling af plast og andre kunstige stoffer, der bruges i fremstillingsindustrien.",
+    "en-GB": "Chemicals used to produce plastics and other artificial substances to be used in manufacturing",
+    "en-US": "Chemicals used to produce plastics and other artificial substances to be used in manufacturing",
+    "pt-BR": "Químicos usados para produzir plásticos e outras substâncias artificiais.",
+    "pt-PT": "Químicos usados para produzir plásticos e outras substâncias artificiais.",
+    "se": "Naturliga eller skapade ämnen som används för att framställa plast och andra konstgjorda substanser som används inom tillverkningsindustrin.",
+    "zh-Hans": "用于生产塑料和其他人造物质的化学品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04002007"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "بلاستيك ومواد صناعية",
+    "de": "Kunststoff",
+    "dk": "plast og syntetisk kemikalie",
+    "en-GB": "synthetic and plastic chemicals",
+    "en-US": "synthetic and plastic chemicals",
+    "es": "Productos sintéticos y plásticos",
+    "fr": "Plastiques et matières synthétiques",
+    "no": "plast- og komposittmaterialer",
+    "pt-BR": "químicos sintéticos e plásticos",
+    "pt-PT": "químicos sintéticos e plásticos",
+    "se": "Plaster och syntetiska kemikalier",
+    "zh-Hans": "合成和塑料化学品"
+  },
+  "qcode": "medtop:20000224",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000224",
+  "aid": "iptc_20000224"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000638"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Beinhaltet Organisationen mit Mitgliedern und Aufgaben, die internationale Grenzen überschreiten, können auch zwischenstaatliche Organisationen und Organisationen von unabhängigen Staaten beinhalten",
+    "dk": "Organisationer med medlemmer og funktioner, der krydser internationale grænser, kan omfatte mellemstatslige organisationer.",
+    "en-GB": "Includes organisations with members and functions that cross international borders, and may include intergovernmental organisations of sovereign nations.",
+    "en-US": "Includes organizations with members and functions that cross international borders, and may include intergovernmental organizations of sovereign nations.",
+    "pt-BR": "Inclui organizações com membros e funções que atravessam fronteiras internacionais e pode incluir organizações intergovernamentais de nações soberanas.",
+    "pt-PT": "Inclui organizações com membros e funções que atravessam fronteiras internacionais e pode incluir organizações intergovernamentais de nações soberanas.",
+    "se": "Organisationer med medlemmar och funktioner som går över internationella gränser, kan inkludera mellanstatliga organisationer.",
+    "zh-Hans": "包括成员和职能跨越国际边界的组织，也可能包括主权国家的政府间组织"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11028000",
+    "https://www.wikidata.org/entity/Q484652"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "معاهدات ومنظمات دولية",
+    "de": "Internationale Organisation",
+    "dk": "international organisation",
+    "en-GB": "international organisation",
+    "en-US": "international organization",
+    "es": "Organización internacional",
+    "fr": "Organisation internationale",
+    "no": "internasjonal organisasjon",
+    "pt-BR": "organizações internacionais",
+    "pt-PT": "organizações internacionais",
+    "se": "Internationella organisationer",
+    "zh-Hans": "国际组织"
+  },
+  "qcode": "medtop:20000644",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000644",
+  "aid": "iptc_20000644"
+}

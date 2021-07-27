@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2019-11-25T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Form des Ringkampfes, bei der zwei Teilnehmer Arm an Arm kämpfen",
+    "dk": "En sport, hvor det gælder om at lægge den andens arm ned.",
+    "en-GB": "A form of wrestling in which two participants grapple arm-to-arm",
+    "en-US": "A form of wrestling in which two participants grapple arm-to-arm",
+    "pt-BR": "Tipo de luta em que dois participantes lutam braço a braço.",
+    "pt-PT": "Tipo de luta em que dois participantes lutam braço a braço.",
+    "se": "Kallas och armsport. Två tävlande vilar armbågen på ett bord och försöker tvinga ner den andres hand på bordet.",
+    "zh-Hans": "两名选手较量臂力的比赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q282772"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-11-25T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "خدمات رعاية الاطفال",
+    "de": "Armdrücken",
+    "dk": "armlægning",
+    "en-GB": "arm wrestling",
+    "en-US": "arm wrestling",
+    "es": "Pulsear",
+    "fr": "Bras de fer",
+    "no": "håndbak",
+    "pt-BR": "braço de ferro",
+    "pt-PT": "braço de ferro",
+    "se": "Armbrytning",
+    "zh-Hans": "掰手腕"
+  },
+  "qcode": "medtop:20001286",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001286",
+  "aid": "iptc_20001286"
+}

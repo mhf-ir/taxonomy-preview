@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000256"
+  ],
+  "created": "2019-07-25T12:00:00+00:00",
+  "definition": {
+    "de": "Exploration, Gewinnung, Raffinierung, Transport und Vermarktung von Erdölprodukten und Erdgas",
+    "dk": "Virksomhed, der opsporer, udvinder, raffinerer, transporterer og sælger  petrokemiske  produkter.",
+    "en-GB": "The exploration, extraction, refining, transporting and marketing of petroleum products and natural gas",
+    "en-US": "The exploration, extraction, refining, transporting and marketing of petroleum products and natural gas",
+    "pt-BR": "Exploração, extração, refino, transporte e comercialização de derivados de petróleo e de gás natural.",
+    "pt-PT": "Exploração, extração, refinação, transporte e comercialização de derivados de petróleo e de gás natural.",
+    "se": "Allt som rör olja och gas från prospektering till leverans och försäljning.",
+    "zh-Hans": "石油和天然气的勘探、开采、精炼、运输和销售等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005004",
+    "https://www.wikidata.org/entity/Q862571"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-25T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000259",
+    "medtop:20000262",
+    "medtop:20000263",
+    "medtop:20000268"
+  ],
+  "prefLabel": {
+    "ar": "صناعة النفط والغاز",
+    "de": "Öl- und Gasindustrie",
+    "dk": "olie- og gasindustrien",
+    "en-GB": "oil and gas industry",
+    "en-US": "oil and gas industry",
+    "es": "Industria de petróleo y gas",
+    "fr": "Industrie du gaz et du pétrole",
+    "no": "olje- og gassindustri",
+    "pt-BR": "indústria do petróleo e do gás",
+    "pt-PT": "indústria do petróleo e do gás",
+    "se": "Olja och gas",
+    "zh-Hans": "油气工业"
+  },
+  "qcode": "medtop:20001243",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001243",
+  "aid": "iptc_20001243"
+}

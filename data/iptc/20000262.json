@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001243"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein leichtes Petroleumdestillat als Kochbrennstoff genutzt, Flugzeugmotoren, Lampen, Heizung und zur Reinigung.",
+    "dk": "Et olieprodukt, der ofte bruges som motorbrændstof i alt fra både til jetfly, men også som brændstof i lamper.",
+    "en-GB": "A light petroleum distillate used for cooking fuel, aircraft jet engines, lamps, heating and cleaning",
+    "en-US": "A light petroleum distillate used for cooking fuel, aircraft jet engines, lamps, heating and cleaning",
+    "pt-BR": "Produto derivado do petróleo, usado como combustível para cozinhas, motores de aviões, candeeiros, calefação e limpeza.",
+    "pt-PT": "Produto derivado do petróleo, usado como combustível para cozinhas, motores de aviões, candeeiros, calefação e limpeza.",
+    "se": "En petroleumprodukt som ofta används som motorbränsle i allt från båtar till jetplan, men också som bränsle i lampor.",
+    "zh-Hans": "一种轻质石油馏分油，用于烹饪燃料、飞机喷气发动机、灯、加热和清洗等用途"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005014",
+    "https://www.wikidata.org/entity/Q76904"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كيروسين، بارافين",
+    "de": "Kerosin/Parafin",
+    "dk": "petroleum og paraffin",
+    "en-GB": "kerosene/paraffin",
+    "en-US": "kerosene/paraffin",
+    "es": "Kerosene",
+    "fr": "Kérosène",
+    "no": "parafin",
+    "pt-BR": "querosene/parafina",
+    "pt-PT": "querosene / parafina",
+    "se": "Fotogen",
+    "zh-Hans": "煤油和石蜡"
+  },
+  "qcode": "medtop:20000262",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000262",
+  "aid": "iptc_20000262"
+}

@@ -1,0 +1,55 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03010000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000160"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: This concept was merged into concept medtop:20000143 as their semantics were not sufficiently different"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Notfall bei dem ein oder mehrere Fahrzeuge verwickelt sind",
+    "dk": "En hændelse, der involverer et eller flere køretøjer.",
+    "en-GB": "An incident involving one or more vehicles",
+    "en-US": "An incident involving one or more vehicles",
+    "pt-BR": "Um acidente que envolve um ou mais veículos.",
+    "pt-PT": "Um acidente que envolve um ou mais veículos.",
+    "zh-Hans": "涉及一辆或多辆汽车的意外事件"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q11822042"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000163",
+    "medtop:20000164",
+    "medtop:20000165",
+    "medtop:20000166"
+  ],
+  "prefLabel": {
+    "ar": "حادثة نقل",
+    "de": "Transportnotfall",
+    "dk": "transporthændelse",
+    "en-GB": "transport incident",
+    "en-US": "transport incident",
+    "es": "Incidente de transporte",
+    "fr": "Incident de transport",
+    "no": "transportulykke",
+    "pt-BR": "acidente de transporte",
+    "pt-PT": "acidente de transporte",
+    "zh-Hans": "交通运输事件"
+  },
+  "qcode": "medtop:20000162",
+  "retired": "2015-08-27T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000162",
+  "aid": "iptc_20000162"
+}

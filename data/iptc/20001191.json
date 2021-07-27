@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000030"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Form der theatralischen Unterhaltung mit Musik, Gesang, Tanz, Rezitation oder Drama, die in einem Nachtclub oder Restaurant aufgeführt wird, während das Publikum an Tischen isst oder trinkt.",
+    "dk": "En kunstform med musik, sang, dialog og dans, der ofte opføres i et severingslokale.",
+    "en-GB": "A form of theatrical entertainment featuring music, song, dance, recitation, or drama that is performed in a nightclub or restaurant while the audience eats or drinks at tables",
+    "en-US": "A form of theatrical entertainment featuring music, song, dance, recitation, or drama that is performed in a nightclub or restaurant while the audience eats or drinks at tables",
+    "pt-BR": "Tipo de entretenimento teatral com música, canções, dança, récita ou representação, que é apresentado em clubes noturnos ou em restaurantes enquanto o público come ou bebe à mesa.",
+    "pt-PT": "Tipo de entretenimento teatral com música, canções, dança, récita ou representação, que é apresentado em clubes noturnos ou em restaurantes enquanto o público come ou bebe à mesa.",
+    "se": "Dramaföreställningar som är en satir över något som hänt under det gångna året",
+    "zh-Hans": "一种戏剧娱乐形式，以音乐、歌曲、舞蹈、朗诵或戏剧为特色，在夜总会或餐馆表演，通常餐桌上摆放吃或喝的供给观众食用"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q27976507"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كباريه",
+    "de": "Cabaret",
+    "dk": "kabaret",
+    "en-GB": "cabaret",
+    "en-US": "cabaret",
+    "es": "Cabaret",
+    "fr": "Cabaret",
+    "no": "kabaret",
+    "pt-BR": "cabaré",
+    "pt-PT": "cabaré",
+    "se": "Revy",
+    "zh-Hans": "歌舞表演"
+  },
+  "qcode": "medtop:20001191",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001191",
+  "aid": "iptc_20001191"
+}

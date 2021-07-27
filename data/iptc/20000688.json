@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/12000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Konflikte, die religiöse Unterschiede miteinbeziehen",
+    "dk": "Konflikter, der involverer religiøse forskelle.",
+    "en-GB": "Conflicts involving religious differences",
+    "en-US": "Conflicts involving religious differences",
+    "pt-BR": "Conflitos envolvendo diferenças religiosas.",
+    "pt-PT": "Conflitos envolvendo diferenças religiosas.",
+    "se": "Konflikter som blandar in religiösa meningsskiljaktigheter.",
+    "zh-Hans": "涉及宗教分歧的冲突"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16003004",
+    "https://www.wikidata.org/entity/Q7311342"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نزاع ديني",
+    "de": "Religionskonfliktl",
+    "dk": "religiøs konflikt",
+    "en-GB": "religious conflict",
+    "en-US": "religious conflict",
+    "es": "Conflicto religioso",
+    "fr": "Conflit religieux",
+    "no": "religiøs konflikt/uenighet",
+    "pt-BR": "conflito religioso",
+    "pt-PT": "conflito religioso",
+    "se": "Religiösa konflikter",
+    "zh-Hans": "宗教冲突"
+  },
+  "qcode": "medtop:20000688",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000688",
+  "aid": "iptc_20000688"
+}

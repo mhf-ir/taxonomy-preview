@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000045"
+  ],
+  "created": "2018-04-09T12:00:00+00:00",
+  "definition": {
+    "de": "Inhalte, die geschaffen wurden um über soziale Netze des Internets verbreitet zu werden",
+    "dk": "Indhold, der stilles til rådighed af både virksomheder og enkeltpersoner via fora på internettet.",
+    "en-GB": "Content created to be shared within online social networks",
+    "en-US": "Content created to be shared within online social networks",
+    "es": "Contenido creado para ser compartido en las redes sociales",
+    "fr": "Contenu créé pour être partagé sur les réseaux sociaux en ligne",
+    "pt-BR": "Tecnologia que permite a criação e partilha de informação online.",
+    "pt-PT": "Tecnologia que permite a criação e partilha de informação online.",
+    "se": "Innehåll som görs tillgängligt av både företag och enskilda via forum på internet.",
+    "zh-Hans": "为在线社交网络共享而创建的内容"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q202833"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2018-04-09T12:00:00+00:00",
+  "narrower": [
+    "medtop:20001192"
+  ],
+  "prefLabel": {
+    "ar": "شبكات تواصل اجتماعي",
+    "de": "Soziale Medien",
+    "dk": "socialt medie",
+    "en-GB": "social media",
+    "en-US": "social media",
+    "es": "Redes sociales",
+    "fr": "Réseaux sociaux",
+    "no": "sosiale medier",
+    "pt-BR": "mídias sociais",
+    "pt-PT": "média sociais",
+    "se": "Sociala medier",
+    "zh-Hans": "社交媒体"
+  },
+  "qcode": "medtop:20001182",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001182",
+  "aid": "iptc_20001182"
+}

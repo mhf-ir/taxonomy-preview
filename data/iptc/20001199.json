@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000134"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Rechtliche Regelung für den Fall, dass ein Richter die Verbüßung einer Strafe durch eine Person, die eines Verbrechens für schuldig befunden wurde, hinauszögert, um ihr eine Bewährungsfrist zu geben",
+    "dk": "En dom, hvor den dømte kendes skyldig, men hvor vedkommende på bestemte vilkår ikke skal afsone straffen.",
+    "en-GB": "Legal arrangement where a judge delays the serving of a sentence by a person who has been found guilty of a crime in order to give them a probationary period",
+    "en-US": "Legal arrangement where a judge delays the serving of a sentence by a person who has been found guilty of a crime in order to give them a probationary period",
+    "pt-BR": "Disposição legal que permite que um juiz suspenda, mediante condições, o cumprimento de uma sentença por uma pessoa que tenha sido considerada culpada de um crime.",
+    "pt-PT": "Disposição legal que permite que um juiz suspenda, mediante condições, o cumprimento de uma sentença por uma pessoa que tenha sido considerada culpada de um crime.",
+    "se": "Brottspåföljd för ett brott där påföljden inte bedöms kunna stanna vid böter men den dömde inte behöver avtjäna straffet i fängelse.",
+    "zh-Hans": "法律上的一种安排，延缓刑期执行，以便给予犯罪人一个考验期"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q4737759"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حكم مع وقف التنفيذ",
+    "de": "Bewährungsstrafe",
+    "dk": "betinget dom",
+    "en-GB": "suspended sentence",
+    "en-US": "suspended sentence",
+    "es": "Suspensión de la pena",
+    "fr": "Sursis",
+    "no": "betinget dom",
+    "pt-BR": "suspensão da pena",
+    "pt-PT": "pena suspensa",
+    "se": "Villkorlig dom",
+    "zh-Hans": "缓刑"
+  },
+  "qcode": "medtop:20001199",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001199",
+  "aid": "iptc_20001199"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000430"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wachstum und Entwicklung der Menschen innerhalb einer natürlichen Umgebung.",
+    "dk": "Stigning i befolkningen i et givet område.",
+    "en-GB": "People and their growth and development within a natural setting",
+    "en-US": "People and their growth and development within a natural setting",
+    "pt-BR": "As pessoas, seu crescimento e desenvolvimento dentro de seu ambiente natural.",
+    "pt-PT": "As pessoas, o seu crescimento e desenvolvimento dentro do seu ambiente natural.",
+    "se": "Ökning av folkmängden i ett givet område.",
+    "zh-Hans": "人及其在自然环境中的成长和发展"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06008000",
+    "https://www.wikidata.org/entity/Q386191"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نمو سكاني",
+    "de": "Bevölkerungsentwicklung",
+    "dk": "befolkningstilvækst",
+    "en-GB": "population growth",
+    "en-US": "population growth",
+    "es": "Crecimiento demográfico",
+    "fr": "Croissance de la population",
+    "no": "befolkningsvekst",
+    "pt-BR": "crescimento demográfico",
+    "pt-PT": "crescimento demográfico",
+    "se": "Befolkningstillväxt",
+    "zh-Hans": "人口增长"
+  },
+  "qcode": "medtop:20000435",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000435",
+  "aid": "iptc_20000435"
+}

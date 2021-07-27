@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/16000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Meist tödliche Gewalttat, um Angst und Schrecken in der Bevölkerung auszulösen",
+    "dk": "Organiserede voldshandlinger, der fremkalder frygt og rædsel i befolkningen, ofte udført til politiske formål og af mindre grupper.",
+    "en-GB": "Act of violence, often resulting in casualties, designed to raise fear and anxiety in a population",
+    "en-US": "Act of violence, often resulting in casualties, designed to raise fear and anxiety in a population",
+    "es": "Acto de violencia que puede causar víctimas, con el propósito de generar miedo y ansiedad en una población",
+    "fr": "Acte de violence, entraînant souvent des victimes, destiné à susciter la peur et l'anxiété dans une population",
+    "pt-BR": "Ato de violência, por vezes mortal, para fazer crescer o medo e a ansiedade de uma população.",
+    "pt-PT": "Ato de violência, por vezes mortal, para fazer crescer o medo e a ansiedade de uma população.",
+    "se": "Organiserade våldshandlingar som väcker skräck och fasa, ofta utförda i politiskt syfte och av mindre grupper.",
+    "zh-Hans": "暴力行为，通常造成人员伤亡，旨在引起人群的恐惧和焦虑"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16001000",
+    "https://www.wikidata.org/entity/Q5710433"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000054",
+    "medtop:20000055"
+  ],
+  "prefLabel": {
+    "ar": "عمل ارهابي",
+    "de": "Terroranschlag",
+    "dk": "terrorhandling",
+    "en-GB": "act of terror",
+    "en-US": "act of terror",
+    "es": "Atentado",
+    "fr": "Acte de terrorisme",
+    "no": "terrorangrep",
+    "pt-BR": "terrorismo",
+    "pt-PT": "terrorismo",
+    "se": "Terrorhandling",
+    "zh-Hans": "恐怖活动"
+  },
+  "qcode": "medtop:20000053",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000053",
+  "aid": "iptc_20000053"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000217"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Herstellung von Medizin aus verschiedenen Chemikalien und natürlichen Stoffen",
+    "dk": "Fremstilling af medicin fra forskellige kemikalier og naturlige stoffer.",
+    "en-GB": "The production of medicines from various chemicals and natural substances",
+    "en-US": "The production of medicines from various chemicals and natural substances",
+    "pt-BR": "Produção de medicamentos a partir de substâncias químicas ou naturais.",
+    "pt-PT": "Produção de medicamentos a partir de substâncias químicas ou naturais.",
+    "se": "Framställandet av mediciner ur diverse kemikalier och naturliga substanser.",
+    "zh-Hans": "利用各种化学物质和天然物质生产药品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04002006",
+    "https://www.wikidata.org/entity/Q507443"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صيدلي",
+    "de": "Pharmaindustrie",
+    "dk": "medicinalvirksomhed",
+    "en-GB": "pharmaceutical",
+    "en-US": "pharmaceutical",
+    "es": "Productos farmacéuticos",
+    "fr": "Pharmacie",
+    "no": "farmasøytisk industri",
+    "pt-BR": "indústria farmacêutica",
+    "pt-PT": "indústria farmacêutica",
+    "se": "Läkemedelsproduktion",
+    "zh-Hans": "制药"
+  },
+  "qcode": "medtop:20000223",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000223",
+  "aid": "iptc_20000223"
+}

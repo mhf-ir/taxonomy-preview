@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000817"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Dienste und Einrichtungen, die Kinder betreuen, während ihre Eltern arbeiten oder abwesend sind, einschließlich Kindertagesstätten und -programme",
+    "dk": "Vuggestue, dagpleje eller børnehave, hvor børn bliver passet af andre voksne, mens deres forældre er på arbejde.",
+    "en-GB": "Services and facilities that look after children while their parents are working or away, including daycare centres and programmes",
+    "en-US": "Services and facilities that look after children while their parents are working or away, including daycare centers and programs",
+    "pt-BR": "Serviços e instalações para acolher crianças enquanto os pais estão trabalhando ou ausentes, como creches ou jardins de infância.",
+    "pt-PT": "Serviços e instalações para acolher crianças enquanto os pais estão a trabalhar ou ausentes, como creches ou jardins-de-infância.",
+    "se": "Förskolor och liknande som tar hand om och utvecklar barnen när föräldrarna arbetar.",
+    "zh-Hans": "在父母工作或外出期间照顾儿童的服务和设施，包括日托中心和活动安排"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1455871"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "",
+    "de": "Kinderbetreuung",
+    "dk": "børneinstitution",
+    "en-GB": "child care",
+    "en-US": "child care",
+    "es": "Cuidado infantil",
+    "fr": "Garde d'enfants",
+    "no": "barnepass",
+    "pt-BR": "assistência infantil",
+    "pt-PT": "assistência infantil",
+    "se": "Barnomsorg",
+    "zh-Hans": "儿童保育"
+  },
+  "qcode": "medtop:20001317",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001317",
+  "aid": "iptc_20001317"
+}

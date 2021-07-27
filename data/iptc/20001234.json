@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000501"
+  ],
+  "created": "2019-06-26T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Zeremonie, auch bekannt als Beginn, bei der eine Person ein Diplom oder einen akademischen Grad erhält",
+    "dk": "En ceremoni, hvor en person modtager bevis for at have bestået en uddannelse.",
+    "en-GB": "A ceremony, also known as commencement, at which a person receives a diploma or academic degree",
+    "en-US": "A ceremony, also known as commencement, at which a person receives a diploma or academic degree",
+    "pt-BR": "Cerimônia na qual uma pessoa recebe um diploma ou grau acadêmico.",
+    "pt-PT": "Cerimónia na qual uma pessoa recebe um diploma ou grau académico.",
+    "se": "Nyheter om studenter och andra former av examen",
+    "zh-Hans": "一个人获得文凭或学位的仪式，也称为毕业典礼"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1054021"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-06-26T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تخرج",
+    "de": "Abschlussfeier",
+    "dk": "dimission",
+    "en-GB": "graduation",
+    "en-US": "graduation",
+    "es": "Graduación",
+    "fr": "Remise de diplôme",
+    "no": "avgangseksamen",
+    "pt-BR": "formatura",
+    "pt-PT": "cerimónia de graduação",
+    "se": "Examen & student",
+    "zh-Hans": "毕业"
+  },
+  "qcode": "medtop:20001234",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001234",
+  "aid": "iptc_20001234"
+}

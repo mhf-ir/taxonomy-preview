@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Lizenzvereinbarungen zwischen Unternehmen",
+    "dk": "En kontrakt, der definerer betingelserne for brug af andres ejendom.",
+    "en-GB": "The document defining the terms for licensing intellectual property",
+    "en-US": "The document defining the terms for licensing intellectual property",
+    "pt-BR": "O documento que define os termos para licenciar propriedade intelectual.",
+    "pt-PT": "O documento que define os termos para licenciar propriedade intelectual.",
+    "se": "Ett kontrakt som definierar villkoren för användning av någon annans immateriella egendom.",
+    "zh-Hans": "定义知识产权许可条款的文件"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016026",
+    "https://www.wikidata.org/entity/Q79719"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اتفاق ترخيص",
+    "de": "Lizenz",
+    "dk": "licensaftale",
+    "en-GB": "licensing agreement",
+    "en-US": "licensing agreement",
+    "es": "Contratos de concesión de licencia",
+    "fr": "Accords de licence",
+    "no": "lisensavtale",
+    "pt-BR": "contrato de licença",
+    "pt-PT": "contrato de licença",
+    "se": "Licensavtal",
+    "zh-Hans": "许可协议"
+  },
+  "qcode": "medtop:20000202",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000202",
+  "aid": "iptc_20000202"
+}

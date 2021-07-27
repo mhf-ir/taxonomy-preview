@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11022000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000636"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Regierungspolitik bezogen auf Lebensmittel und Getränke",
+    "dk": "Politik, der påvirker mad og drikke.",
+    "en-GB": "Government policies relating to food and drink",
+    "en-US": "Government policies relating to food and drink",
+    "pt-BR": "Políticas governamentais relativas a alimentos e bebidas.",
+    "pt-PT": "Políticas governamentais relativas a alimentos e bebidas.",
+    "se": "Politik som påverkar mat och dryck.",
+    "zh-Hans": "与食品和饮料有关的政府政策"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "قوانين الغذاء والمشروبات",
+    "de": "Lebensmittelkontrolle",
+    "dk": "fødevarepolitik",
+    "en-GB": "food and drink regulations",
+    "en-US": "food and drink regulations",
+    "es": "Reglamento sobre alimentos y bebidas",
+    "fr": "Règlement sur les aliments et les boissons",
+    "no": "matvarepolitikk",
+    "pt-BR": "regulamentação sobre alimentos e bebidas",
+    "pt-PT": "regulamentação sobre alimentos e bebidas",
+    "se": "Livsmedelspolitik",
+    "zh-Hans": "食品和饮料法规"
+  },
+  "qcode": "medtop:20000637",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000637",
+  "aid": "iptc_20000637"
+}

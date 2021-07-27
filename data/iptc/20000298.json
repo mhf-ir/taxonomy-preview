@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000294"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Hersteller von großen und kleinen Elektrowaren für den privaten und geschäftlichen Gebrauch",
+    "dk": "Produktion af store og små elektroniske varer til brug i hjemmet eller virksomheden.",
+    "en-GB": "Makers of large and small electrical goods for use in homes or  business",
+    "en-US": "Makers of large and small electrical goods for use in homes or business",
+    "pt-BR": "Fabricantes de produtos elétricos para uso doméstico ou industrial.",
+    "pt-PT": "Fabricantes de produtos elétricos para uso doméstico ou industrial.",
+    "se": "Produktion av stora och små elektroniska varor för användning i hemmet eller affärsverksamheten.",
+    "zh-Hans": "家用或专业用的小型和大型电器"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04011004",
+    "https://www.wikidata.org/entity/Q56604188"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اجهزة كهربائية",
+    "de": "Elektroindustrie",
+    "dk": "elektrisk udstyr",
+    "en-GB": "electrical appliance",
+    "en-US": "electrical appliance",
+    "es": "Artefactos eléctricos",
+    "fr": "Appareils électriques et électroménager",
+    "no": "elektronikkindustri",
+    "pt-BR": "material elétrico",
+    "pt-PT": "material elétrico",
+    "se": "Elutrustningar",
+    "zh-Hans": "电器"
+  },
+  "qcode": "medtop:20000298",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000298",
+  "aid": "iptc_20000298"
+}

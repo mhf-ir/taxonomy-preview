@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000331"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Herstellung von Waren für sportliche Freizeitaktivitäten",
+    "dk": "Fremstilling af varer, der bruges til fritidsaktiviteter.",
+    "en-GB": "Manufacture of goods for leisure activities",
+    "en-US": "Manufacture of goods for leisure activities",
+    "pt-BR": "Fabrico de bens para atividades de lazer.",
+    "pt-PT": "Fabrico de bens para atividades de lazer.",
+    "se": "Tillverkning av varor som används till fritidssysselsättningar.",
+    "zh-Hans": "休闲用品制造"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04014003",
+    "https://www.wikidata.org/entity/Q57264543"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سلع ترفيهية ورياضية",
+    "de": "Sport- und Freizeitartikel",
+    "dk": "sports- og fritidsprodukt",
+    "en-GB": "recreational and sporting goods",
+    "en-US": "recreational and sporting goods",
+    "es": "Artículos deportivos y de recreación",
+    "fr": "Articles de sport et plein air",
+    "no": "sports- og fritidsutstyr",
+    "pt-BR": "produtos para esporte e lazer",
+    "pt-PT": "produtos para desporto e lazer",
+    "se": "Sport- och fritidsprodukter",
+    "zh-Hans": "娱乐和体育用品"
+  },
+  "qcode": "medtop:20000334",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000334",
+  "aid": "iptc_20000334"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001056"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alpiner Skirennsport mit Rollskiern auf Graspisten",
+    "dk": "Alpint skiløb med rulleski på græs.",
+    "en-GB": "Alpine skiing on roller skis and grass",
+    "en-US": "Alpine skiing on roller skis and grass",
+    "pt-BR": "Esqui alpino em patins com rodas sobre grama.",
+    "pt-PT": "Esqui alpino em patins com rodas sobre relva.",
+    "se": "Alpin skidåkning med rullskidor på gräs.",
+    "zh-Hans": "使用轮滑从高处草地上下滑"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15090000",
+    "https://www.wikidata.org/entity/Q637186"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تزلج على العشب",
+    "de": "Grasski",
+    "dk": "skiløb på græs",
+    "en-GB": "grass skiing",
+    "en-US": "grass skiing",
+    "es": "Esquí sobre césped",
+    "fr": "Ski sur herbe",
+    "no": "gresski",
+    "pt-BR": "esqui na grama",
+    "pt-PT": "esqui na relva",
+    "se": "Grässkidåkning",
+    "zh-Hans": "滑草"
+  },
+  "qcode": "medtop:20001059",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001059",
+  "aid": "iptc_20001059"
+}

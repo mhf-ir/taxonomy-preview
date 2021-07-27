@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/09000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Etablierte Gruppen, um die Arbeiterschaft zu vertreten.",
+    "dk": "Sammenslutning af arbejdere med henblik på at beskytte deres interesser og udgøre en modpart til arbejdsgivere på lokalt eller nationalt niveau.",
+    "en-GB": "Groups established to represent bodies of workers in order to obtain better workplace conditions through collective bargaining",
+    "en-US": "Groups established to represent bodies of workers in order to obtain better workplace conditions through collective bargaining",
+    "pt-BR": "Grupos estabelecidos para representar classes de trabalhadores.",
+    "pt-PT": "Grupos estabelecidos para representar classes de trabalhadores.",
+    "se": "Sammanslutning av löntagare i syfte att tillvarata deras intressen och därmed utgöra motpart till arbetsgivare, på lokal eller riksomfattande nivå",
+    "zh-Hans": "为代表工人团体而成立的组织"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09010000",
+    "https://www.wikidata.org/entity/Q178790"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "نقابات",
+    "de": "Gewerkschaft",
+    "dk": "fagforening",
+    "en-GB": "unions",
+    "en-US": "unions",
+    "es": "Sindicatos",
+    "fr": "Syndicats",
+    "no": "fagforening",
+    "pt-BR": "sindicatos",
+    "pt-PT": "sindicatos",
+    "se": "Fackföreningar",
+    "zh-Hans": "工会"
+  },
+  "qcode": "medtop:20000536",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000536",
+  "aid": "iptc_20000536"
+}

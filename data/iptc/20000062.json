@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000056"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine formale Feindschaftserklärung des einen Landes gegen ein anderes",
+    "dk": "Tilstand med væbnet kamp i stor skala mellem nationer eller andre geopolitiske enheder.",
+    "en-GB": "Armed hostilities by one group or geopolitical entity against another",
+    "en-US": "Armed hostilities by one group or geopolitical entity against another",
+    "es": "Hostilidades armadas de un grupo o entidad geopolítica contra otro",
+    "fr": "Hostilités armées d'un groupe ou d'une entité géopolitique contre une autre",
+    "pt-BR": "Declaração formal de hostilidades de um país a outro.",
+    "pt-PT": "Declaração formal de hostilidades de um país a outro.",
+    "se": "Tillstånd av väpnad kamp i stor skala mellan nationer eller andra geopolitiska entiteter.",
+    "zh-Hans": "一集团或地缘政治实体对另一集团或地缘政治实体的武装敌对行动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16009000",
+    "https://www.wikidata.org/entity/Q198"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000063",
+    "medtop:20000064"
+  ],
+  "prefLabel": {
+    "ar": "حرب",
+    "de": "Krieg",
+    "dk": "krig",
+    "en-GB": "war",
+    "en-US": "war",
+    "es": "Guerra",
+    "fr": "Guerre",
+    "no": "krig",
+    "pt-BR": "guerra",
+    "pt-PT": "guerra",
+    "se": "Krig",
+    "zh-Hans": "战争"
+  },
+  "qcode": "medtop:20000062",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000062",
+  "aid": "iptc_20000062"
+}

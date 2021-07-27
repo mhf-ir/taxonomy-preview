@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unternehmen die Bilanzen erstellen, Haushalte konsolidieren und die Richtigkeit von Geschäftsberichten prüfen",
+    "dk": "Tjenester, der hjælper med systematisk at rapportere økonomiske forhold og gennemgå, at regnskaberne er pålidelige.",
+    "en-GB": "Services provide balance sheet, budget reconciliation and examine accuracy of financial statements",
+    "en-US": "Services provide balance sheet, budget reconciliation and examine accuracy of financial statements",
+    "pt-BR": "Serviços que fornecem balancetes, conciliações orçamentais e verificam a exatidão de relatórios financeiros.",
+    "pt-PT": "Serviços que fornecem balancetes, conciliações orçamentais e verificam a exatidão de relatórios financeiros.",
+    "se": "Tjänster som hjälper till att systematiskt redovisa ekonomiska förhållanden och granskning att redovisningen är tillförlitlig.",
+    "zh-Hans": "提供资产负债表、预算调和及财务报表审查的服务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006001",
+    "https://www.wikidata.org/entity/Q4116214"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "محاسبة وتدقيق حسابات",
+    "de": "Wirtschaftsprüfer",
+    "dk": "bogføring og revision",
+    "en-GB": "accountancy and auditing",
+    "en-US": "accountancy and auditing",
+    "es": "Contabilidad y auditoría",
+    "fr": "Comptabilité et Audit",
+    "no": "regnskap",
+    "pt-BR": "serviços de contabilidade e auditoria",
+    "pt-PT": "serviços de contabilidade e auditoria",
+    "se": "Bokföring och revision",
+    "zh-Hans": "会计和审计"
+  },
+  "qcode": "medtop:20000272",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000272",
+  "aid": "iptc_20000272"
+}

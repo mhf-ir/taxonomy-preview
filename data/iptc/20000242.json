@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000235"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wiederherstellung von Eigentum/Bauwerken in einen ehemaligen Zustand durch Reinigung, Reparatur oder Wiederaufbau",
+    "dk": "Renovering af en bygning svarende til ny tilstand.",
+    "en-GB": "Restoring properties/structures to a former better state by cleaning, repairing or rebuilding.",
+    "en-US": "Restoring properties/structures to a former better state by cleaning, repairing or rebuilding.",
+    "pt-BR": "Recuperação de propriedades ou estruturas, mediante limpeza, reparação ou reconstrução.",
+    "pt-PT": "Recuperação de propriedades ou estruturas, mediante limpeza, reparação ou reconstrução.",
+    "se": "Återställande av en byggnad i ett tekniskt skick som motsvarar nyskick.",
+    "zh-Hans": "通过清洁、修理或重建使性质或结构恢复到以前的较好状态"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04004006",
+    "https://www.wikidata.org/entity/Q2144402"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ترميم",
+    "de": "Sanierung",
+    "dk": "renovering",
+    "en-GB": "renovation",
+    "en-US": "renovation",
+    "es": "Renovación",
+    "fr": "Rénovation",
+    "no": "oppussing",
+    "pt-BR": "obras de renovação",
+    "pt-PT": "obras de renovação",
+    "se": "Renovering",
+    "zh-Hans": "翻修"
+  },
+  "qcode": "medtop:20000242",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000242",
+  "aid": "iptc_20000242"
+}

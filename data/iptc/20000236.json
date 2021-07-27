@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000235"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Design und Planung durch Ingenieure, Architekten etc. von Straßen, Büros, Fabriken, Dämmen, Bauwerken in Gewässern",
+    "dk": "Undersøgelse foretaget af ingeniører og arkitekter, der beskriver, hvor og hvordan noget skal bygges.",
+    "en-GB": "Design and planning by engineers, architects etc.  of  roads, offices, factories, dams , offshore structures.",
+    "en-US": "Design and planning by engineers, architects etc. of roads, offices, factories, dams , offshore structures.",
+    "pt-BR": "Concepção e planejamento, por engenheiros, arquitetos, de estradas, escritórios, fábricas, represas etc.",
+    "pt-PT": "Conceção e planeamento, por engenheiros e arquitetos, de estradas, escritórios, fábricas, barragens, etc.",
+    "se": "Utredning genomförd av ingenjörer och arkitekter som beskriver var och hur något ska byggas, t ex vägar, kontorsbyggnader och fabriker.",
+    "zh-Hans": "由工程师、建筑师等设计和规划道路、办公室、工厂、大坝、海上构筑物"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04004007",
+    "https://www.wikidata.org/entity/Q11023"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تصميم وهندسة",
+    "de": "Design und Technik",
+    "dk": "bygningskonstruktion",
+    "en-GB": "design and engineering",
+    "en-US": "design and engineering",
+    "es": "Deseño e ingeniería",
+    "fr": "Architecture et ingénierie industrielles",
+    "no": "prosjektering",
+    "pt-BR": "design e engenharia",
+    "pt-PT": "design e engenharia",
+    "se": "Stadsbyggnad",
+    "zh-Hans": "设计与工程"
+  },
+  "qcode": "medtop:20000236",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000236",
+  "aid": "iptc_20000236"
+}

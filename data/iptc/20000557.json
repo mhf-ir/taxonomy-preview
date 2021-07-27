@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000553"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kommerzielle Einrichtung für ausgewähltes Klientel, die Musik oder andere Unterhaltung anbietet, begleitet mit Essen und Trinken",
+    "dk": "Bar eller restaurant der holder åbent om natten, og hvor underholdning kan forekomme i form af dans eller musik.",
+    "en-GB": "A commercial establishment providing music, or other entertainment along with food and drink to selected clientele",
+    "en-US": "A commercial establishment providing music, or other entertainment along with food and drink to selected clientele",
+    "pt-BR": "Estabelecimento comercial que fornece música e outras formas de entretenimento, assim como comida e bebida, a uma clientela seleta.",
+    "pt-PT": "Estabelecimento comercial que fornece música e outras formas de entretenimento, assim como comida e bebida, a uma clientela seleta.",
+    "se": "Lokal med musik och dans, ibland med artistuppträdanden, som har öppet på natten efter vanliga restaurangers stängningstid.",
+    "zh-Hans": "为特定的顾客提供音乐或其他娱乐以及食物和饮料的商业机构"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01023000",
+    "https://www.wikidata.org/entity/Q622425"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مرقص",
+    "de": "Nachtclub",
+    "dk": "natklub",
+    "en-GB": "nightclub",
+    "en-US": "nightclub",
+    "es": "Clubes nocturnos",
+    "fr": "Discothèque",
+    "no": "nattklubb",
+    "pt-BR": "casa noturna",
+    "pt-PT": "clube noturno",
+    "se": "Nattklubb",
+    "zh-Hans": "夜总会"
+  },
+  "qcode": "medtop:20000557",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000557",
+  "aid": "iptc_20000557"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001152"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Turner bringt sich selbst in die Luft durch Abspringen von einem Brett nach einem schellen Lauf von 25 Metern",
+    "dk": "Deltageren løber hen mod *hesten*, hvor han eller hun med hjælp fra en springplade sætter af med fødderne, slår an mod hesten og derefter lander på den anden side af hesten efter at have udført en eller flere akrobatiske vendinger i luften.",
+    "en-GB": "Gymnasts propel themselves by jumping on a trampoline after running quickly down a 25m lane",
+    "en-US": "Gymnasts propel themselves by jumping on a trampoline after running quickly down a 25m lane",
+    "pt-BR": "Os ginastas ganham impulso saltando sobre um trampolim e uma espécie de mesa após corrida acelerada em pista de 25m.",
+    "pt-PT": "Os ginastas ganham impulso saltando sobre um trampolim e uma espécie de mesa após corrida acelerada em pista de 25m.",
+    "zh-Hans": "运动员通过25米长的跑道助跑后再踏上跳板腾空跳跃"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028002",
+    "https://www.wikidata.org/entity/Q598168"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "منصة القفز",
+    "de": "Pferdsprung (Kunstturnen)",
+    "dk": "spring over hest",
+    "en-GB": "vault (artistic gymnastics)",
+    "en-US": "vault (artistic gymnastics)",
+    "es": "Salto con apoyo (gimnasia artística)",
+    "fr": "Saut de cheval",
+    "no": "hopp",
+    "pt-BR": "salto",
+    "pt-PT": "salto de cavalo",
+    "se": "Hopp",
+    "zh-Hans": "跳马（竞技体操）"
+  },
+  "qcode": "medtop:20000957",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000957",
+  "aid": "iptc_20000957"
+}

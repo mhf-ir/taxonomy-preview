@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000441"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein System von Pflanzen, Tieren und Bakterien zusammenhängend in physikalischer und chemischer Umgebung",
+    "dk": "Enhed, der inkluderer alle organismer og deres miljø i et område såsom en sø eller en skov.",
+    "en-GB": "A system of plants, animals and bacteria interrelated in its physical/chemical environment",
+    "en-US": "A system of plants, animals and bacteria interrelated in its physical/chemical environment",
+    "pt-BR": "Sistema de plantas, animais e bactérias inter-relacionados em seu ambiente físico e químico.",
+    "pt-PT": "Sistema de plantas, animais e bactérias inter-relacionados no seu ambiente físico e químico.",
+    "se": "Enhet som innefattar alla organismer och deras omgivning inom ett område t ex en sjö eller en skog.",
+    "zh-Hans": "植物、动物和细菌在其物理/化学环境中相互关联的系统"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06002002",
+    "https://www.wikidata.org/entity/Q37813"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نظام بيئي",
+    "de": "Ökosystem",
+    "dk": "økosystem",
+    "en-GB": "ecosystem",
+    "en-US": "ecosystem",
+    "es": "Ecosistema",
+    "fr": "Écosystème",
+    "no": "økosystem",
+    "pt-BR": "ecossistema",
+    "pt-PT": "ecossistema",
+    "se": "Ekosystem",
+    "zh-Hans": "生态系统"
+  },
+  "qcode": "medtop:20000442",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000442",
+  "aid": "iptc_20000442"
+}

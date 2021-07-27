@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/11000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Kunst oder Wissenschaft an Regierungsangelegenheiten teilzuhaben, der Zustand einer politischen Partei.",
+    "dk": "Deltagelse i driften af en regering, stat eller politisk parti.",
+    "en-GB": "The art or science of participating in the affairs of government, a state of political party",
+    "en-US": "The art or science of participating in the affairs of government, a state of political party",
+    "pt-BR": "Arte ou ciência de participar nos assuntos de um governo, de um estado ou de um partido político.",
+    "pt-PT": "Arte ou ciência de participar nos assuntos de um governo, de um estado ou de um partido político.",
+    "se": "Deltagande i driften av en regering, en stat eller ett politiskt parti.",
+    "zh-Hans": "参与政府事务的艺术或科学，政党的状态"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11024000",
+    "https://www.wikidata.org/entity/Q11827330"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000650",
+    "medtop:20000651",
+    "medtop:20000652",
+    "medtop:20000653"
+  ],
+  "prefLabel": {
+    "ar": "عملية سياسية",
+    "de": "Politik (allgemein)",
+    "dk": "politisk proces",
+    "en-GB": "political process",
+    "en-US": "political process",
+    "es": "Política",
+    "fr": "Participation politique",
+    "no": "politisk prosess",
+    "pt-BR": "processo político",
+    "pt-PT": "processo político",
+    "se": "Politiska processer",
+    "zh-Hans": "政治进程"
+  },
+  "qcode": "medtop:20000649",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000649",
+  "aid": "iptc_20000649"
+}

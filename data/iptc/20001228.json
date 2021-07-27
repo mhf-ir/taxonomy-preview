@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000464"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Die Verwendung von Einschnitten durch medizinische Instrumente zur Untersuchung oder Behandlung einer Erkrankung oder Verletzung",
+    "dk": "Brug af snit lavet af medicinske instrumenter til at undersøge eller behandle en medicinsk tilstand eller skade.",
+    "en-GB": "The use of incisions made by medical instruments to investigate or treat a medical condition or injury",
+    "en-US": "The use of incisions made by medical instruments to investigate or treat a medical condition or injury",
+    "pt-BR": "Uso de incisões feitas por instrumentos médicos para investigar ou tratar uma condição médica ou lesão.",
+    "pt-PT": "Uso de incisões feitas por instrumentos médicos para investigar ou tratar uma condição médica ou lesão.",
+    "se": "Metoder för att bota sjukdomar eller laga skador genom ingrepp i patientens kropp med hjälp av medicinska instrument.",
+    "zh-Hans": "利用医疗器械的切口来检查或治疗疾病或损伤"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q40821"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عملية جراحية",
+    "de": "Chirurgie",
+    "dk": "kirurgi",
+    "en-GB": "surgery",
+    "en-US": "surgery",
+    "es": "Operación de cirugía",
+    "fr": "Opération de chirurgie",
+    "no": "kirurgi",
+    "pt-BR": "cirurgia",
+    "pt-PT": "cirurgia",
+    "se": "Kirurgi (ingrepp)",
+    "zh-Hans": "外科手术"
+  },
+  "qcode": "medtop:20001228",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001228",
+  "aid": "iptc_20001228"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Erlangung von Kontrolle über ein Unternehmen durch den Kauf von Anteilen durch das Management",
+    "dk": "At ledelsen tager kontrol over et selskab ved at købe aktierne i virksomheden.",
+    "en-GB": "Acquiring control over a company by the management buying its shares.",
+    "en-US": "Acquiring control over a company by the management buying its shares.",
+    "pt-BR": "Adquirir controle sobre uma empresa através da compra das suas ações.",
+    "pt-PT": "Adquirir controlo sobre uma empresa através da compra das suas ações.",
+    "se": "Att företagsledningen tar kontrollen över ett företag genom att köpa aktierna i företaget.",
+    "zh-Hans": "管理层购通过购买本公司股份以获得对公司的控制权"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1501578"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ادارة شراء",
+    "de": "Übernahme des Management",
+    "dk": "ledelsesopkøb",
+    "en-GB": "management buyout",
+    "en-US": "management buyout",
+    "es": "MBO - Compra de una empresa por sus propios directivos",
+    "fr": "Rachat par la direction",
+    "no": "ledelsesoppkjøp",
+    "pt-BR": "operação de compra",
+    "pt-PT": "operação de compra",
+    "se": "Företagsuppköp av ledningen",
+    "zh-Hans": "管理层收购"
+  },
+  "qcode": "medtop:20000203",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000203",
+  "aid": "iptc_20000203"
+}

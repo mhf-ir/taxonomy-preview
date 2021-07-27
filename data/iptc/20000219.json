@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000217"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Natürliche oder künstliche Stoffe, um das Wachstum von Pflanzen zu fördern",
+    "dk": "Naturligt eller fremstillet materiale, der tilføres jorden for at øge udbyttet.",
+    "en-GB": "Natural or manmade materials used to encourage the growth of plants",
+    "en-US": "Natural or manmade materials used to encourage the growth of plants",
+    "pt-BR": "Materiais naturais ou feitos pelo homem para estimular o crescimento de plantas.",
+    "pt-PT": "Materiais naturais ou feitos pelo homem para estimular o crescimento de plantas.",
+    "se": "Naturligt eller tillverkat material som på olika sätt och i olika former tillförs jorden för att öka dess avkastning.",
+    "zh-Hans": "用于促进植物生长的天然或人造材料"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04002002",
+    "https://www.wikidata.org/entity/Q83323"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اسمدة",
+    "de": "Düngemitel",
+    "dk": "gødning",
+    "en-GB": "fertiliser",
+    "en-US": "fertilizer",
+    "es": "Fertilizantes",
+    "fr": "Engrais",
+    "no": "gjødsel",
+    "pt-BR": "fertilizantes",
+    "pt-PT": "fertilizantes",
+    "se": "Gödningsmedel",
+    "zh-Hans": "化肥"
+  },
+  "qcode": "medtop:20000219",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000219",
+  "aid": "iptc_20000219"
+}

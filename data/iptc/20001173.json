@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Behörde, die für die Regulierung oder Überwachung eines Wirtschaftssektors zuständig ist.",
+    "dk": "Myndigheder, der er ansvarlige for at regulere og føre tilsyn med en branche.",
+    "en-GB": "Authority responsible for the regulation or supervision of a business sector.",
+    "en-US": "Authority responsible for the regulation or supervision of a business sector.",
+    "pt-BR": "Autoridade responsável pela regulamentação ou supervisão de um setor empresarial.",
+    "pt-PT": "Autoridade responsável pela regulamentação ou supervisão de um setor empresarial.",
+    "se": "Myndigheter som är ansvariga för att reglera och övervaka en bransch.",
+    "zh-Hans": "负责管理或监督商业部门的机构。"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q55875130"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "هيئة منظمة",
+    "de": "Regulierungsbehörde",
+    "dk": "styrelse og tilsyn",
+    "en-GB": "regulatory authority",
+    "en-US": "regulatory authority",
+    "es": "Autoridad de regulación",
+    "fr": "Autorité de régulation",
+    "no": "tilsynsorgan",
+    "pt-BR": "agência reguladora",
+    "pt-PT": "entidade reguladora",
+    "se": "Tillsynsmyndigheter",
+    "zh-Hans": "监管机构"
+  },
+  "qcode": "medtop:20001173",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001173",
+  "aid": "iptc_20001173"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000671"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Völkerrechtlich verbindlicher Vertrag zwischen dem Heiligen Stuhl und einem anderen Land.",
+    "dk": "Aftale mellem en stat og den romersk-katolske kirke.",
+    "en-GB": "Treaty between the Holy See and another country for the regulation of ecclesiastical affairs in the territory of the latter",
+    "en-US": "Treaty between the Holy See and another country for the regulation of ecclesiastical affairs in the territory of the latter",
+    "pt-BR": "Tratado entre a Santa Sé e um país para a regulação de assuntos eclesiásticos nesse país.",
+    "pt-PT": "Tratado entre a Santa Sé e um país para a regulação de assuntos eclesiásticos nesse país.",
+    "se": "Avtal mellan en stat och den romersk-katolska kyrkan.",
+    "zh-Hans": "罗马教廷与另一个国家之间关于管理后者领土内教会事务的条约"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12026000",
+    "https://www.wikidata.org/entity/Q213541"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "معاهدة بابوية",
+    "de": "Konkordat",
+    "dk": "konkordat",
+    "en-GB": "concordat",
+    "en-US": "concordat",
+    "es": "Concordato",
+    "fr": "Concordat",
+    "no": "konkordat",
+    "pt-BR": "concordata",
+    "pt-PT": "concordata",
+    "se": "Konkordat",
+    "zh-Hans": "协定"
+  },
+  "qcode": "medtop:20000672",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000672",
+  "aid": "iptc_20000672"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15050012"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001038"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rennen gegen oder im Uhrzeigersinn einmal um die Welt ohne Stopp zwischen Start und Ziel des Rennens",
+    "dk": "Sejlkonkurrence rundt om jorden, hvor sejleren skal være alene og ikke have tilladelse til at lægge til i nogen havn på vejen.",
+    "en-GB": "Races either clockwise or anti clockwise around the globe without stopping at any ports between start and finish of race.",
+    "en-US": "Races either clockwise or anti clockwise around the globe without stopping at any ports between start and finish of race.",
+    "pt-BR": "Corrida à volta do mundo feita no sentido horário ou anti-horário e sem parar em qualquer porto entre o início e o fim da corrida.",
+    "pt-PT": "Corrida à volta do mundo feita no sentido dos ponteiros do relógio ou no sentido contrário e sem parar em qualquer porto entre o início e o fim da corrida.",
+    "se": "Segeltävlingar runt jorden där seglaren måste vara ensam och inte får lägga till i någon hamn på vägen.",
+    "zh-Hans": "顺时针或逆时针绕地球环海航行，不在起航站和终航站之间的任何港口停留"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic sailing + sports facet sailingtype."
+  },
+  "prefLabel": {
+    "ar": "سباق قوارب منفرد",
+    "de": "Non-Stop Solo",
+    "dk": "non-stop solo løb",
+    "en-GB": "non-stop solo race",
+    "en-US": "non-stop solo race",
+    "es": "Vuelta al mundo en solitario sin escalas",
+    "fr": "Course autour du monde sans escale en solitaire",
+    "no": "non-stop solo-regatta",
+    "pt-BR": "non-stop em solitário",
+    "pt-PT": "non-stop em solitário",
+    "se": "Ensamsegling jorden runt",
+    "zh-Hans": "单人不间断环球航海"
+  },
+  "qcode": "medtop:20001046",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001046",
+  "aid": "iptc_20001046"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001152"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Turner zeigt Sprünge und Drehungen auf dem meist gefürchteten Schwebebalken mit 10 cm Breite",
+    "dk": "Gymnaster udfører spring og rotation fra en balancebom, der kun er 10 centimeter bred.",
+    "en-GB": "Gymnasts perform leaps and flips from the much feared balance beam just 10 cm wide.",
+    "en-US": "Gymnasts perform leaps and flips from the much feared balance beam just 10 cm wide.",
+    "pt-BR": "Prova feminina em que as ginastas executam uma série de movimentos e saltos em  cima de uma trave fixa de 10 cm de largura a 1.20m do chão.",
+    "pt-PT": "Prova feminina em que as ginastas executam uma série de movimentos e saltos em  cima de uma trave fixa de 10 cm de largura a 1.20m do chão.",
+    "zh-Hans": "体操运动员在一个仅仅只有10厘米宽的平衡木上跳跃和翻转"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028008",
+    "https://www.wikidata.org/entity/Q89579780"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عارضة",
+    "de": "Schwebebalken (Kunstturnen)",
+    "dk": "bom",
+    "en-GB": "beam (artistic gymnastics)",
+    "en-US": "beam (artistic gymnastics)",
+    "es": "Barra de equilibrio fija (gimnasia artística)",
+    "fr": "Poutre",
+    "no": "bom (turn)",
+    "pt-BR": "trave",
+    "pt-PT": "trave",
+    "se": "Bom",
+    "zh-Hans": "平衡木（竞技体操）"
+  },
+  "qcode": "medtop:20000944",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000944",
+  "aid": "iptc_20000944"
+}

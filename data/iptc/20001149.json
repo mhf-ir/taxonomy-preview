@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001056"
+  ],
+  "created": "2014-01-17T12:00:00+00:00",
+  "definition": {
+    "de": "Wettrennen Ski nordisch im eher flachen, schneebedeckten Gelände auf schmalen Skis",
+    "dk": "Nordisk skiløb hvor der konkurreres i relativt fladt, snedækket landskab på smalle ski.",
+    "en-GB": "Nordic ski race competed in relatively-flat, snowy countryside on narrow skis.",
+    "en-US": "Nordic ski race competed in relatively-flat, snowy countryside on narrow skis.",
+    "pt-BR": "Modalidade de esqui praticada na natureza, em terreno relativamente plano e coberto de neve, com esquis estreitos.",
+    "pt-PT": "Modalidade de esqui praticada na natureza, em terreno relativamente plano e coberto de neve, com esquis estreitos.",
+    "se": "Tävlingar med relativt smala skidor med eller utan valla. Loppen är av olika längd och i olika banprofiler, ibland som klassisk stil och ibland i fri stil. Finns även en sprintvariant med kval och sedan utslagsheat. Vissa lopp kan gå som stafett.",
+    "zh-Hans": "使用比较窄的滑雪板在比较平整的野外场所的滑雪比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15043001",
+    "https://www.wikidata.org/entity/Q179687"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Was retired but reinstated in August 2019"
+  },
+  "prefLabel": {
+    "ar": "تزلج ريفي",
+    "de": "Skilanglauf",
+    "dk": "langrend",
+    "en-GB": "cross-country skiing",
+    "en-US": "cross-country skiing",
+    "es": "Esquí de fondo",
+    "fr": "Ski de fond",
+    "no": "langrenn",
+    "pt-BR": "esqui de fundo",
+    "pt-PT": "esqui de fundo",
+    "se": "Längdåkning",
+    "zh-Hans": "越野滑雪"
+  },
+  "qcode": "medtop:20001149",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001149",
+  "aid": "iptc_20001149"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000322"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Hygieneprodukte, Pflege und Ernährung für Haustiere.",
+    "dk": "Hygiejneprodukter samt pleje og ernæring til dyr, der lever under menneskelig pleje og kontrol.",
+    "en-GB": "Hygiene products, care and nutrition for pets.",
+    "en-US": "Hygiene products, care and nutrition for pets.",
+    "pt-BR": "Produtos de higiene, cuidados e alimentação para animais de estimação.",
+    "pt-PT": "Produtos de higiene, cuidados e alimentação para animais de estimação.",
+    "se": "Hygienprodukter samt omvårdnad och näring till djur som lever under människans vård och kontroll.",
+    "zh-Hans": "宠物卫生用品，护理和营养"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q85792903"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "خدمات ومنتجات للحيوانات الاليفة",
+    "de": "Heimtierprodukte und- Dienstleistungen",
+    "dk": "kæledyrsprodukter og pleje",
+    "en-GB": "pet product and service",
+    "en-US": "pet product and service",
+    "es": "Servicios y productos para animales domésticos",
+    "fr": "Services et produits pour animaux domestiques",
+    "no": "kjæledyrprodukter og tjenester",
+    "pt-BR": "produtos e serviços para animais de estimação",
+    "pt-PT": "produtos e serviços para animais de estimação",
+    "se": "Husdjursprodukter och -tjänster",
+    "zh-Hans": "宠物产品和服务"
+  },
+  "qcode": "medtop:20001168",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001168",
+  "aid": "iptc_20001168"
+}

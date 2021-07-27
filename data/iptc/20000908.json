@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15019000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000892"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bahnrundenrennen, bei der zwei Mannschaften aus der Mitte aus nach unten gegenüber Geraden setzen und versuchen, die Lücke zwischen ihnen zu verringern",
+    "dk": "Konkurrenterne starter på den modsatte side af den runde bane. Hvis nogen den ene  modstanderen, er løbet forbi, ellers vinder den bedste tid.",
+    "en-GB": "Track cycle event where two teams set off from midway down opposite straights and try to make up the gap between them",
+    "en-US": "Track cycle event where two teams set off from midway down opposite straights and try to make up the gap between them",
+    "pt-BR": "Duas equipes partem de pontos médios opostos de uma pista e tentam recuperar a distância entre elas.",
+    "pt-PT": "Duas equipas partem de pontos médios opostos de uma pista e tentam recuperar a distância entre elas.",
+    "se": "Tävlande lag startar på motsatt sida av rundbanan. Om något lag hinner ikapp motståndarlaget är loppet slut, annars vinner bästa tid.",
+    "zh-Hans": "两队选手在赛道对面直道的中间位置出发，努力缩短与对方间距的自行车追逐比赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1820070"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic cycling + sports facets racetype + teamsize."
+  },
+  "prefLabel": {
+    "ar": "سباق المتابعة للفرق",
+    "de": "Mannschaftsverfolgung",
+    "dk": "holdforfølgelsesløb",
+    "en-GB": "road cycling team pursuit",
+    "en-US": "road cycling team pursuit",
+    "es": "Persecución por equipos",
+    "fr": "Poursuite par équipes",
+    "no": "forfølgesesritt sykkel, lag",
+    "pt-BR": "perseguição por equipes",
+    "pt-PT": "perseguição por equipas",
+    "se": "Förföljelselopp, lag",
+    "zh-Hans": "团体追逐赛"
+  },
+  "qcode": "medtop:20000908",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000908",
+  "aid": "iptc_20000908"
+}

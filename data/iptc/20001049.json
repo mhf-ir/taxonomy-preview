@@ -1,0 +1,55 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Präzisionssport unter Benutzung einer Handfeuerwaffe, Gewehr oder Pistole",
+    "dk": "Præcisionsport ved hjælp af en håndpistol, rifle eller haglgevær.",
+    "en-GB": "Precision sport using a hand gun, rifle or shotgun",
+    "en-US": "Precision sport using a hand gun, rifle or shotgun",
+    "pt-BR": "Esporte de precisão que usa revólver, carabina ou espingarda.",
+    "pt-PT": "Desporto de precisão que usa revólver, carabina ou espingarda.",
+    "se": "Samlingsbegrepp för olika tävlingar med prickskytte med vapen som pistol, gevär och hagelgevär.",
+    "zh-Hans": "用手枪、步枪或者猎枪进行的比赛精准度的射击运动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15051000",
+    "https://www.wikidata.org/entity/Q206989"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/shootingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "narrower": [
+    "medtop:20001050",
+    "medtop:20001051",
+    "medtop:20001052",
+    "medtop:20001053",
+    "medtop:20001054"
+  ],
+  "prefLabel": {
+    "ar": "رماية",
+    "de": "Schießen",
+    "dk": "skydning",
+    "en-GB": "sport shooting",
+    "en-US": "sport shooting",
+    "es": "Tiro",
+    "fr": "Tir",
+    "no": "skyting",
+    "pt-BR": "tiro",
+    "pt-PT": "tiro",
+    "se": "Sportskytte",
+    "zh-Hans": "射击"
+  },
+  "qcode": "medtop:20001049",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001049",
+  "aid": "iptc_20001049"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000400"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schulen für die Altersgruppe vom Kindergartenalter bis zu den 11 oder 12-jährigen.",
+    "dk": "Grundskolen på 10 år (børnehaveklasse efterfulgt af 1.-9. klasse), med 10. klasse som et frivilligt år.",
+    "en-GB": "Schools usually of a level from kindergarten through 11 or 12 years of age",
+    "en-US": "Schools usually of a level from kindergarten through 11 or 12 years of age",
+    "pt-BR": "Escola a partir dos 5-6 anos até os 10 anos.",
+    "pt-PT": "Escola a partir dos 5-6 anos até aos 10 anos.",
+    "se": "De två inledande, treåriga stadierna av grundskolan, årskurserna 1-6 samt F-klass.",
+    "zh-Hans": "从幼儿园到11岁或12岁的学校"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05005001",
+    "https://www.wikidata.org/entity/Q9842"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مدارس ابتدائية",
+    "de": "Grundschule",
+    "dk": "grundskole",
+    "en-GB": "elementary schools",
+    "en-US": "elementary schools",
+    "es": "Escuela primaria",
+    "fr": "École primaire",
+    "no": "grunnskole",
+    "pt-BR": "escolas de ensino fundamental, 1ª à 5ª série",
+    "pt-PT": "escolas de 1.º ciclo",
+    "se": "Låg- och mellanstadium",
+    "zh-Hans": "小学"
+  },
+  "qcode": "medtop:20000401",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000401",
+  "aid": "iptc_20000401"
+}

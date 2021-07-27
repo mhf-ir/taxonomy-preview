@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000587"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Versuch durch jede Art von Gemeinschaft, die Redefreiheit, Religion und Ideen, die gedruckt, gezeichnet, im Cyberspace oder auf anderem Wege verbreitet werden, zu kontrollieren. Umfasst nicht offizielle Reglementierungen wie Kino, Werbung oder Fernsehen",
+    "dk": "Gruppers forsøg på at kontrollere trykke- og religionsfriheden i skrift, billede, internet og så videre.",
+    "en-GB": "Attempts by any group to control freedoms of speech, religion,  and ideas distributed in print, graphics, cyberspace and other ways. Does not include official standards such as cinema ratings, advertising and  broadcast standards.",
+    "en-US": "Attempts by any group to control freedoms of speech, religion, and ideas distributed in print, graphics, cyberspace and other ways. Does not include official standards such as movie or television ratings, advertising and broadcast standards.",
+    "pt-BR": "Tentativas de um grupo controlar as liberdades de expressão, de religião ou de ideias difundidas de forma impressa, em gráficos, no ciberespaço ou por outros meios. Não inclui padrões oficiais como classificação de filmes, publicidade e padrões de transmissão.",
+    "pt-PT": "Tentativas de um grupo controlar as liberdades de expressão, de religião ou de ideias difundidas de forma impressa, em gráficos, no ciberespaço ou por outros meios. Não inclui padrões oficiais como classificação de filmes, publicidade e padrões de transmissão.",
+    "se": "Försök av grupperingar att kontrollera tryck- och religionsfriheten i skrift, bild, internet och så vidare.",
+    "zh-Hans": "指任何组织为了控制印刷品、图像、网络上的言论、宗教信仰和思想自由颁布的非官方的各种规范，如电影评级，广告和广播标准"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11023000",
+    "https://www.wikidata.org/entity/Q543"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رقابة",
+    "de": "Zensur",
+    "dk": "censur",
+    "en-GB": "censorship and freedom of speech",
+    "en-US": "censorship and freedom of speech",
+    "es": "Censura",
+    "fr": "Censure",
+    "no": "sensur",
+    "pt-BR": "censura e liberdade de expressão",
+    "pt-PT": "censura e liberdade de expressão",
+    "se": "Censur och yttrandefrihet",
+    "zh-Hans": "审查"
+  },
+  "qcode": "medtop:20000588",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000588",
+  "aid": "iptc_20000588"
+}

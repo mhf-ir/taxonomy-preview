@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000553"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Geschäft mit der Zubereitung und dem Verzehr von Getränken zum öffentlichen Konsum auf einem bestimmten Gelände",
+    "dk": "Et serveringssted, hvor drinks eller lette måltider tilberedes og serveres til offentligheden til indtagelse i lokalerne.",
+    "en-GB": "A business where drinks are prepared and served to the public for consumption on the premises",
+    "en-US": "A business where drinks are prepared and served to the public for consumption on the premises",
+    "pt-BR": "Estabelecimento comercial onde são preparadas e servidas ao público bebidas para consumo no local.",
+    "pt-PT": "Estabelecimento comercial onde são preparadas e servidas ao público bebidas para consumo no local.",
+    "se": "Lokal för öl-, vin- och spritservering vid disk ofta i anslutning till restaurang.",
+    "zh-Hans": "在营业场所为公众准备和提供饮料供消费的企业"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q187456"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حانة",
+    "de": "Bar",
+    "dk": "bar",
+    "en-GB": "bar",
+    "en-US": "bar",
+    "es": "Bar",
+    "fr": "Bar",
+    "no": "bar",
+    "pt-BR": "bar",
+    "pt-PT": "bar",
+    "se": "Bar",
+    "zh-Hans": "酒吧"
+  },
+  "qcode": "medtop:20000555",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000555",
+  "aid": "iptc_20000555"
+}

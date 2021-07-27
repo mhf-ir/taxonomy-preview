@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15073028"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001108"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkampf, an dem die besten Wettkämpfer oder Teams eines Kontinents teilnehmen. Meisterschaft genannt",
+    "dk": "Mesterskaber, hvor atleter eller hold fra forskellige lande på et bestemt kontinent kan deltage.",
+    "en-GB": "A competition where individuals or teams from countries from one continent may participate. Called a *Championship*",
+    "en-US": "A competition where individuals or teams from countries from one continent may participate. Called a *Championship*",
+    "pt-BR": "Competição em que podem participar indivíduos ou equipes de países de um continente. Designa-se por *Campeonato*.",
+    "pt-PT": "Competição em que podem participar indivíduos ou equipas de países de um continente. Designa-se por *Campeonato*.",
+    "se": "Mästerskap där atleter eller lag från olika länder på en viss kontinent kan delta.",
+    "zh-Hans": "州内国家之间的体育比赛，称为锦标赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q5165329"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بطولة قارية",
+    "de": "Kontinentale Meisterschaft",
+    "dk": "kontinentalt mesterskab (EM)",
+    "en-GB": "continental championship",
+    "en-US": "continental championship",
+    "es": "Campeonato continental",
+    "fr": "Championnat continental",
+    "no": "kontinentale mesterskap",
+    "pt-BR": "campeonato continental",
+    "pt-PT": "campeonato continental",
+    "se": "Kontinentala mästerskap",
+    "zh-Hans": "洲际锦标赛"
+  },
+  "qcode": "medtop:20001109",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001109",
+  "aid": "iptc_20001109"
+}

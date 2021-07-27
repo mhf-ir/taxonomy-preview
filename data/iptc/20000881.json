@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000877"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Rennen mit einem Kanu mit Segel",
+    "dk": "Et løb, der involverer en kano udstyret med et sejl.",
+    "en-GB": "A race involving a canoe equipped with a sail.",
+    "en-US": "A race involving a canoe equipped with a sail.",
+    "pt-BR": "Corrida de canoa com vela.",
+    "pt-PT": "Corrida de canoa com vela.",
+    "se": "Tävling med kanoter där kanoterna är utrustade med segel.",
+    "zh-Hans": "有帆的独木舟比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15015011",
+    "https://www.wikidata.org/entity/Q440985"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic canoeing + sports facet canoekayaktype"
+  },
+  "prefLabel": {
+    "ar": "كانو",
+    "de": "Kanusegeln",
+    "dk": "kanosejlads",
+    "en-GB": "canoe sailing",
+    "en-US": "canoe sailing",
+    "es": "Canoa a vela",
+    "fr": "Canoë à voile",
+    "no": "kanoseiling",
+    "pt-BR": "canoa a vela",
+    "pt-PT": "canoa à vela",
+    "se": "Kanotsegling",
+    "zh-Hans": "帆板"
+  },
+  "qcode": "medtop:20000881",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000881",
+  "aid": "iptc_20000881"
+}

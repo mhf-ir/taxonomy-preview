@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15062000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001071"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schwimmstil auf dem Rücken liegend, Beine bewegen sich in schlagender Bewegung, während die Arme den Schwimmer nach vorne treiben",
+    "dk": "Svømmedisciplin på ryggen, hvor benene bevæger sig i flappende bevægelse, mens armene driver svømmeren fremad.",
+    "en-GB": "Swimming style, on the back, legs move in flapping motion whilst arms propel the swimmer forward",
+    "en-US": "Swimming style, on the back, legs move in flapping motion while arms propel the swimmer forward",
+    "pt-BR": "Estilo de nado em que o nadador, de costas para o fundo, bate as pernas e gira os braços para trás para progredir.",
+    "pt-PT": "Estilo de natação em que o nadador, de costas para o fundo, bate as pernas e gira os braços para trás para progredir.",
+    "zh-Hans": "一种泳姿。仰躺在水上。泳者靠腿摆动和手击水推动向前游"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q275115"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سباحة الظهر",
+    "de": "Rückenschwimmen",
+    "dk": "rygcrawl",
+    "en-GB": "backstroke",
+    "en-US": "backstroke",
+    "es": "Espalda (natación)",
+    "fr": "Dos",
+    "no": "ryggsvømming",
+    "pt-BR": "costas",
+    "pt-PT": "costas",
+    "se": "Ryggsim",
+    "zh-Hans": "仰泳"
+  },
+  "qcode": "medtop:20001072",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001072",
+  "aid": "iptc_20001072"
+}

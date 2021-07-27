@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000969"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bis zu 73 kg bei Männern und 57 kg bei Frauen",
+    "dk": "Op til 73 kg for mænd og 57 kg for kvinder.",
+    "en-GB": "Up to 73kg for men and 57kg for women.",
+    "en-US": "Up to 73kg for men and 57kg for women.",
+    "pt-BR": "Categoria até 73kg para homens e até 57kg para mulheres.",
+    "pt-PT": "Categoria até 73kg para homens e até 57kg para mulheres.",
+    "zh-Hans": "选手体重分别最高不超过男子73公斤（男子）和57公斤（女子）"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15033005",
+    "https://www.wikidata.org/entity/Q77217224"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الوزن نصف الخفيف",
+    "de": "Halb-Leichtgewicht (Judo)",
+    "dk": "halv-letvægt",
+    "en-GB": "half-lightweight (judo)",
+    "en-US": "half-lightweight (judo)",
+    "es": "Peso medio liviano (judo)",
+    "fr": "Mi-légers (judo)",
+    "no": "fjærvekt",
+    "pt-BR": "peso-meio-leve (judô)",
+    "pt-PT": "peso-meio-leve (judo)",
+    "se": "Halv lättvikt, (Judo)",
+    "zh-Hans": "次轻量级柔道"
+  },
+  "qcode": "medtop:20000972",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000972",
+  "aid": "iptc_20000972"
+}

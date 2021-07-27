@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000808"
+  ],
+  "changeNote": {
+    "en-GB": "2019-10-07: Retired. Use corruption (20000093) instead."
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jedes Verhalten, was anderen schadet",
+    "dk": "Enhver handling, der er skadelig for andre.",
+    "en-GB": "Any action which is harmful to others",
+    "en-US": "Any action which is harmful to others",
+    "pt-BR": "Toda ação que seja nociva para os outros.",
+    "pt-PT": "Qualquer ação que seja nociva para os outros.",
+    "se": "Olagliga metoder för att nå egen vinning, till exempel att muta eller att utge sig för att vara någon annan.",
+    "zh-Hans": "任何对他人有害的行为"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12006002",
+    "https://www.wikidata.org/entity/Q5173053"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ممارسات فساد",
+    "de": "Korruptes Verhalten",
+    "dk": "korrupt praksis",
+    "en-GB": "corrupt practices",
+    "en-US": "corrupt practices",
+    "es": "Corrupción",
+    "fr": "Corruption",
+    "no": "korrupsjon",
+    "pt-BR": "práticas corruptas",
+    "pt-PT": "práticas corruptas",
+    "se": "Korrupta metoder",
+    "zh-Hans": "贪污舞弊"
+  },
+  "qcode": "medtop:20000809",
+  "retired": "2019-10-07T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000809",
+  "aid": "iptc_20000809"
+}

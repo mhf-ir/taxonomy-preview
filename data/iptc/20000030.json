@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000029"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Form der darstellenden Kunst, bei der Künstler eine Erzählung vor dem Publikum durch Lieder, Dialog und Aktivitäten vermitteln, wie etwa in Musicals und Operetten",
+    "dk": "En kunstform, der udtrykker følelser og budskaber gennem en historie formidlet via dialog, musik og handlinger, såsom musicals og operetter.",
+    "en-GB": "A form of performing art where live performers portray a narrative to an audience through song, dialogue and action, such as musicals and operettas",
+    "en-US": "A form of performing art where live performers portray a narrative to an audience through song, dialog and action, such as musicals and operettas",
+    "es": "Forma de arte escénico donde los artistas interpretan una obra frente a un público a través de canciones, diálogos y acciones, como musicales y operetas",
+    "fr": "Art du spectacle où les artistes interpètent une œuvre sur scène devant un public à travers la chanson, la danse, le dialogue et l'action",
+    "pt-BR": "Representação de uma história através de canções, diálogo e ação, como a ópera, a opereta, as revistas musicais, os music halls.",
+    "pt-PT": "Representação de uma história através de canções, diálogo e ação, como a ópera, a opereta, as revistas musicais, os music halls.",
+    "se": "Uttryck av känslor eller överförande av budskap via en historia som framförs genom dialog, musik eller fysiska uttryck, såsom musikaler och operetter.",
+    "zh-Hans": "一种表演艺术形式，表演者在现场通过歌曲、对白和动作向观众描绘一个故事，如轻歌剧等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01017001",
+    "https://www.wikidata.org/entity/Q2743"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000028",
+    "medtop:20001133",
+    "medtop:20001134",
+    "medtop:20001191"
+  ],
+  "prefLabel": {
+    "ar": "مسرح غنائي",
+    "de": "Musiktheater",
+    "dk": "musikteater",
+    "en-GB": "music theatre",
+    "en-US": "music theater",
+    "es": "Teatro musical",
+    "fr": "Théâtre musical",
+    "no": "musikal",
+    "pt-BR": "teatro musical",
+    "pt-PT": "teatro musical",
+    "se": "Musikteater",
+    "zh-Hans": "音乐剧"
+  },
+  "qcode": "medtop:20000030",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000030",
+  "aid": "iptc_20000030"
+}

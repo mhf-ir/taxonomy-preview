@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000884"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bergsteigen im Hochgebirge",
+    "dk": "Konkurrencer i klatring op ad bjerge. Forskellige sværhedsgrader.",
+    "en-GB": "Alpine climbing",
+    "en-US": "Alpine climbing",
+    "pt-BR": "Subir uma montanha com neve ou gelo.",
+    "pt-PT": "Subir uma montanha com neve ou gelo.",
+    "se": "Tävlingar i att klättra uppför berg. Olika leder och svårighetsgrader.",
+    "zh-Hans": "登阿尔卑斯山"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15016001",
+    "https://www.wikidata.org/entity/Q36908"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تسلق الجبال",
+    "de": "Alpinismus",
+    "dk": "bjergbestigning",
+    "en-GB": "mountaineering",
+    "en-US": "mountaineering",
+    "es": "Escalada alpina",
+    "fr": "Alpinisme",
+    "no": "fjellklatring",
+    "pt-BR": "montanhismo",
+    "pt-PT": "montanhismo",
+    "se": "Bergsklättring",
+    "zh-Hans": "高山攀登"
+  },
+  "qcode": "medtop:20000886",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000886",
+  "aid": "iptc_20000886"
+}

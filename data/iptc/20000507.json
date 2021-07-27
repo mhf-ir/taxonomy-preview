@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "https://www.wikidata.org/entity/Q756"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/08000000"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/08008000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Pflanzen mit Blick auf emotionale Aspekte",
+    "dk": "Nyheder om planter.",
+    "en-GB": "Human interest and cultural stories related to plants, flowers and trees",
+    "en-US": "Human interest and cultural stories related to plants, flowers and trees",
+    "pt-BR": "Itens sobre plantas, com foco em facetas emocionais.",
+    "pt-PT": "Itens sobre plantas, com foco em facetas emocionais.",
+    "se": "Nyheter om växter där fokus är på känslomässiga saker.",
+    "zh-Hans": "植物关于感情方面的条目"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "نبتة",
+    "de": "Pflanze",
+    "dk": "plante",
+    "en-GB": "flowers and plants",
+    "en-US": "flowers and plants",
+    "es": "Plantas",
+    "fr": "Plantes",
+    "no": "plante",
+    "pt-BR": "plantas",
+    "pt-PT": "plantas",
+    "se": "Växter",
+    "zh-Hans": "植物"
+  },
+  "qcode": "medtop:20000507",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000507",
+  "aid": "iptc_20000507"
+}

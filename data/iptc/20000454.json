@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000446"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine verbreitete und ernsthafte Krankheit, verursacht durch die Verengung der Gefäße, die das Herz versorgen.",
+    "dk": "En samlet betegnelse for sygdomme, der påvirker hjertet, blodkarrene eller begge dele.",
+    "en-GB": "A degenerative and serious disease caused by narrowing of the arteries feeding the heart",
+    "en-US": "A degenerative and serious disease caused by narrowing of the arteries feeding the heart",
+    "pt-BR": "Doença degenerativa grave causada pelo estreitamento das artérias que alimentam o coração.",
+    "pt-PT": "Doença degenerativa grave causada pelo estreitamento das artérias que alimentam o coração.",
+    "se": "Samlingsbenämning på sjukdomar som drabbar hjärtat, blodkärlen eller bådadera.",
+    "zh-Hans": "由于心脏供血的动脉狭窄引起的严重退化性疾病"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07001005",
+    "https://www.wikidata.org/entity/Q190805"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "امراض قلب",
+    "de": "Herzkrankheit",
+    "dk": "hjertekarsygdomme",
+    "en-GB": "heart disease",
+    "en-US": "heart disease",
+    "es": "Enfermedades cardíacas",
+    "fr": "Maladie cardiaque",
+    "no": "hjerte- og karsykdom",
+    "pt-BR": "doença cardíaca",
+    "pt-PT": "doença cardíaca",
+    "se": "Hjärt- och kärlsjukdomar",
+    "zh-Hans": "心脏病"
+  },
+  "qcode": "medtop:20000454",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000454",
+  "aid": "iptc_20000454"
+}

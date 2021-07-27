@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001152"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028004"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Turner zeigt eine routinierte Schwungfolge zwischen und um die ungleichen Barren herum",
+    "dk": "Forskudt barre er en øvelse i redskabsgymnastik for kvinder. Redskabet forskudt barre består af to stænger i et stativophæng med ståltrådsforankring.",
+    "en-GB": "Gymnasts run through an airborne routine swinging around and between the uneven bars.",
+    "en-US": "Gymnasts run through an airborne routine swinging around and between the uneven bars.",
+    "pt-BR": "Prova feminina em que as ginastas executam uma sequência de movimentos ao longo de e entre duas barras dispostas paralelamente a alturas diferentes.",
+    "pt-PT": "Prova feminina em que as ginastas executam uma sequência de movimentos ao longo de e entre duas barras dispostas paralelamente a alturas diferentes.",
+    "zh-Hans": "运动员在高低杠上或者高低杠之间腾空摆动翻转"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q89671012"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "متوازي مختلف الاضلاع",
+    "de": "Stufenbarren (Kunstturnen)",
+    "dk": "forskudt barre",
+    "en-GB": "uneven bars (artistic gymnastics)",
+    "en-US": "uneven bars (artistic gymnastics)",
+    "es": "Barras asimétricas (gimnasia artística)",
+    "fr": "Barres asymétriques",
+    "no": "skranke, kvinner (turn)",
+    "pt-BR": "barras assimétricas",
+    "pt-PT": "barras assimétricas",
+    "se": "Barr, damer",
+    "zh-Hans": "高低杠（竞技体操）"
+  },
+  "qcode": "medtop:20000956",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000956",
+  "aid": "iptc_20000956"
+}

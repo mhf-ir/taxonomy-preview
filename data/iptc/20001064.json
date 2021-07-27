@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ausgeübt auf einem Brett (anstatt zwei Ski)",
+    "dk": "Fællesbetegnelse af konkurrencer udført af rytteren med begge fødder på det samme bræt. I modsætning til skiløb, hvor du har fødderne på hver ski.",
+    "en-GB": "Practiced with a single board (rather than two skis)",
+    "en-US": "Practiced with a single board (rather than two skis)",
+    "pt-BR": "Esporte que consiste em manter o equilíbrio em cima de uma prancha que desliza por uma descida coberta de neve.",
+    "pt-PT": "Desporto que consiste em manter o equilíbrio em cima de uma prancha que desliza por uma descida coberta de neve.",
+    "se": "Samlingsbegrepp av tävlingar som utförs av åkaren stående med båda fötterna på samma bräda. Till skillnad mot skidåkning där man har fötterna på varsin skida.",
+    "zh-Hans": "使用单板而不是两个滑雪板"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15053000",
+    "https://www.wikidata.org/entity/Q178131"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/snowboardingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تزلج على الثليج",
+    "de": "Snowboard",
+    "dk": "snowboarding",
+    "en-GB": "snowboarding",
+    "en-US": "snowboarding",
+    "es": "Snowboard",
+    "fr": "Snowboard",
+    "no": "snowboard",
+    "pt-BR": "snowboard",
+    "pt-PT": "snowboard",
+    "se": "Snowboard",
+    "zh-Hans": "滑板滑雪"
+  },
+  "qcode": "medtop:20001064",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001064",
+  "aid": "iptc_20001064"
+}

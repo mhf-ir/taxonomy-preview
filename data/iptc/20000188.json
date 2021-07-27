@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000170"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Personal eines Unternehmens und wie sie geführt werden",
+    "dk": "Personer, der arbejder for et firma, og hvordan de styres.",
+    "en-GB": "People working for a business and how they are managed",
+    "en-US": "People working for a business and how they are managed",
+    "pt-BR": "As pessoas que trabalham para uma empresa e a maneira como são geridas.",
+    "pt-PT": "As pessoas que trabalham para uma empresa e a maneira como são geridas.",
+    "se": "Personer som jobbar för ett företag och hur de hanteras.",
+    "zh-Hans": "为企业工作的人以及他们是如何被管理的"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1920785"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000189",
+    "medtop:20000190",
+    "medtop:20000191"
+  ],
+  "prefLabel": {
+    "ar": "موارد بشرية",
+    "de": "Personal",
+    "dk": "HR (menneskelige ressourcer)",
+    "en-GB": "human resources",
+    "en-US": "human resources",
+    "es": "Recursos humanos",
+    "fr": "Ressources humaines",
+    "no": "menneskelige ressurser",
+    "pt-BR": "recursos humanos",
+    "pt-PT": "recursos humanos",
+    "se": "Personal",
+    "zh-Hans": "人力资源"
+  },
+  "qcode": "medtop:20000188",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000188",
+  "aid": "iptc_20000188"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14025003"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000775"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schädigendes Verhalten gegenüber einer anderen Gruppe auf der Grundlage der Religion oder des unterschiedlichen Glaubens",
+    "dk": "Skadelige holdninger til en anden gruppe baseret på religiøs overbevisning.",
+    "en-GB": "Unfair treatment of individuals or groups of people on the basis of their religious belief",
+    "en-US": "Unfair treatment of individuals or groups of people on the basis of their religious belief",
+    "pt-BR": "Atitudes hostis ou discriminatórias em relação a outro grupo com base em diferenças de crença ou fé.",
+    "pt-PT": "Atitudes hostis ou discriminatórias em relação a outro grupo com base em diferenças de crença ou fé.",
+    "se": "Särbehandling av individer eller grupper på grund av personernas religion.",
+    "zh-Hans": "基于信仰或信仰的不同，一个群体对另一个或多个群体的有害态度"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2029282"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تمييز ديني",
+    "de": "Religiöse Diskriminierung",
+    "dk": "religiøs diskrimination",
+    "en-GB": "religious discrimination",
+    "en-US": "religious discrimination",
+    "es": "Discriminación religiosa",
+    "fr": "Discrimination religieuse",
+    "no": "religiøs diskriminering",
+    "pt-BR": "discriminação religiosa",
+    "pt-PT": "discriminação religiosa",
+    "se": "Religiös diskriminering",
+    "zh-Hans": "宗教歧视"
+  },
+  "qcode": "medtop:20000778",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000778",
+  "aid": "iptc_20000778"
+}

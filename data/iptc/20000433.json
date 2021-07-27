@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000432"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Öffentliche Baumgebiete, die sowohl zur Erholung oder für kommerzielle Zwecke genutzt werden.",
+    "dk": "Åbne områder med træer, der enten er tilgængelige til offentlig fornøjelse eller til kommercielle formål.",
+    "en-GB": "Open areas of trees either available for public enjoyment, or for commercial purposes",
+    "en-US": "Open areas of trees either available for public enjoyment, or for commercial purposes",
+    "pt-BR": "Zonas abertas arborizadas para divertimento público ou fins comerciais.",
+    "pt-PT": "Zonas abertas arborizadas para divertimento público ou fins comerciais.",
+    "se": "Större område, som är tätt bevuxet med träd, vilt eller planterat.",
+    "zh-Hans": "可供公众享用或商业用途的树木开放区"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06006003",
+    "https://www.wikidata.org/entity/Q4421"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "غابات",
+    "de": "Wald",
+    "dk": "skov",
+    "en-GB": "forests",
+    "en-US": "forests",
+    "es": "Bosques",
+    "fr": "Forêts",
+    "no": "skog",
+    "pt-BR": "florestas",
+    "pt-PT": "florestas",
+    "se": "Skogar",
+    "zh-Hans": "森林"
+  },
+  "qcode": "medtop:20000433",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000433",
+  "aid": "iptc_20000433"
+}

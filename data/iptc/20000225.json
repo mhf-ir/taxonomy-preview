@@ -1,0 +1,57 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alles was die elektronische Verarbeitung und Übertragung von Information von einem Punkt zu einem anderen",
+    "dk": "Databehandling eller overførsel af information mellem computere.",
+    "en-GB": "Anything to do with computing and/or transmission of information from one point to another.",
+    "en-US": "Anything to do with computing and/or transmission of information from one point to another.",
+    "pt-BR": "Tudo o que diz respeito à computação e à transmissão de informação de um ponto para outro.",
+    "pt-PT": "Tudo o que diz respeito à computação e à transmissão de informação de um ponto para outro.",
+    "se": "Saker som handlar om databearbetning eller överföring av information mellan datorer.",
+    "zh-Hans": "有关信息的计算和传输"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04003000",
+    "https://www.wikidata.org/entity/Q179310"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000226",
+    "medtop:20000227",
+    "medtop:20000228",
+    "medtop:20000229",
+    "medtop:20000230",
+    "medtop:20000231",
+    "medtop:20000232",
+    "medtop:20000233",
+    "medtop:20000234",
+    "medtop:20001161"
+  ],
+  "prefLabel": {
+    "ar": "تكنولوجيا كمبيوتر ومعلوماتية",
+    "de": "Computer und Informationstechnologie",
+    "dk": "informationsteknologi",
+    "en-GB": "computing and information technology",
+    "en-US": "computing and information technology",
+    "es": "Computación e informática",
+    "fr": "Informatique et télécommunications",
+    "no": "databehandling",
+    "pt-BR": "informática e tecnologias de informação",
+    "pt-PT": "informática e tecnologias de informação",
+    "se": "Informationsteknologi",
+    "zh-Hans": "计算和信息技术"
+  },
+  "qcode": "medtop:20000225",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000225",
+  "aid": "iptc_20000225"
+}

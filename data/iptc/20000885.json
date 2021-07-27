@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15016000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000884"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Klettern auf Eisflächen, wie Eisfälle und gefrorene Klippen",
+    "dk": "Isklatring er aktiviteten at klatre på isformationer, hvilket også kaldes fossklatring efter det norske ord for vandfald.",
+    "en-GB": "Climbing of ice features such as icefalls and frozen cliffs",
+    "en-US": "Climbing of ice features such as icefalls and frozen cliffs",
+    "pt-BR": "Escalar estruturas geladas, como cascatas de gelo e penhascos congelados.",
+    "pt-PT": "Escalar estruturas geladas, como cascatas de gelo e penhascos congelados.",
+    "se": "Tävlingar i att ta sig uppför frusna vattenfall eller klippor där vattnet frusit.",
+    "zh-Hans": "攀爬冰瀑和被冰封冻的悬崖"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1148495"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تسلق الجليد",
+    "de": "Eisklettern",
+    "dk": "isklatring",
+    "en-GB": "ice climbing",
+    "en-US": "ice climbing",
+    "es": "Escalada en hielo",
+    "fr": "Escalade glaciaire",
+    "no": "isklatring",
+    "pt-BR": "escalada no gelo",
+    "pt-PT": "escalada no gelo",
+    "se": "Isklättring",
+    "zh-Hans": "攀冰"
+  },
+  "qcode": "medtop:20000885",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000885",
+  "aid": "iptc_20000885"
+}

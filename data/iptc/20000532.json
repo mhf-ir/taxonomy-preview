@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09006000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000531"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bezüge während des Ruhestands",
+    "dk": "Faste månedlige betalinger til en pensioneret person.",
+    "en-GB": "Payments, either government or private, to retired people",
+    "en-US": "Payments, either government or private, to retired people",
+    "pt-BR": "Pagamentos a uma pessoa aposentada.",
+    "pt-PT": "Pagamentos a uma pessoa reformada.",
+    "se": "Regelbundet utbetalat belopp till person som har lämnat förvärvslivet av ålders- eller hälsoskäl.",
+    "zh-Hans": "支付给退休人员的款项"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q156223"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "راتب تقاعد",
+    "de": "Rente",
+    "dk": "pension",
+    "en-GB": "pension",
+    "en-US": "pension",
+    "es": "Pensión",
+    "fr": "Pension de retraite",
+    "no": "alderspensjon",
+    "pt-BR": "reforma pensionária",
+    "pt-PT": "pensão",
+    "se": "Pensions",
+    "zh-Hans": "养老金"
+  },
+  "qcode": "medtop:20000532",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000532",
+  "aid": "iptc_20000532"
+}

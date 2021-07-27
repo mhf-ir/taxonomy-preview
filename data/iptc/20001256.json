@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000570"
+  ],
+  "created": "2019-07-30T12:00:00+00:00",
+  "definition": {
+    "de": "Interesse am Dekorieren des eigenen Heims",
+    "dk": "Interesse i at indrette en bolig.",
+    "en-GB": "Interest in decorating one's home",
+    "en-US": "Interest in decorating one's home",
+    "pt-BR": "Interesse pela decoração de um espaço interior.",
+    "pt-PT": "Interesse pela decoração de um espaço interior.",
+    "se": "Intresse i att dekorera ens eget hem.",
+    "zh-Hans": "装饰家居的爱好"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q179232"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-30T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "هندسة داخلية",
+    "de": "Inneneinrichtung",
+    "dk": "boligindretning",
+    "en-GB": "interior decoration",
+    "en-US": "interior decoration",
+    "es": "Decoración de interiores",
+    "fr": "Décoration intérieure",
+    "no": "interiørdesign",
+    "pt-BR": "decoração de interiores",
+    "pt-PT": "decoração de interiores",
+    "se": "Inredningsdesign",
+    "zh-Hans": "室内装饰"
+  },
+  "qcode": "medtop:20001256",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001256",
+  "aid": "iptc_20001256"
+}

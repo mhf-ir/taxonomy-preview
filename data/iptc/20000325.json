@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000322"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Fertigung von Möbeln, Tapete, Farben und Erzeugnisse zur Inneneinrichtung",
+    "dk": "Fremstilling af møbler, tapet, maling og andre materialer til indretning.",
+    "en-GB": "Manufacture of furniture, wallpaper, paints and fabrics for interior decoration",
+    "en-US": "Manufacture of furniture, wallpaper, paints and fabrics for interior decoration",
+    "pt-BR": "Fabrico de móveis, papéis de parede, tintas e tecidos para decoração interior.",
+    "pt-PT": "Fabrico de móveis, papéis de parede, tintas e tecidos para decoração interior.",
+    "se": "Tillverkning av möbler, tapeter, färg och annat material för inomhusdekorering.",
+    "zh-Hans": "家具、壁纸、油漆和室内装饰面料"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04013003",
+    "https://www.wikidata.org/entity/Q12122106"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اثاث ومفروشات",
+    "de": "Möbel",
+    "dk": "møbler og indretning",
+    "en-GB": "furnishings and furniture",
+    "en-US": "furnishings and furniture",
+    "es": "Muebles y decoración",
+    "fr": "Meubles et décoration",
+    "no": "møbelindustri",
+    "pt-BR": "mobiliário e decoração",
+    "pt-PT": "mobiliário e decoração",
+    "se": "Inredning och möbler",
+    "zh-Hans": "家具和家居饰品"
+  },
+  "qcode": "medtop:20000325",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000325",
+  "aid": "iptc_20000325"
+}

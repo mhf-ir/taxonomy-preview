@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000802"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Unerwünschtes Verhalten sexueller Natur, das weniger strafbar ist als schwere sexuelle Übergriffe, insbesondere wenn das Verhalten in einer normalerweise nicht-sexuellen Situation auftritt oder wenn ein Aspekt persönlicher Macht oder Autorität involviert ist",
+    "dk": "Uønsket adfærd af seksuel karakter, der er af mindre fornærmelse end seksualforbrydelse, især når adfærd forekommer i en normalt ikke-seksuel situation, eller hvor der er et aspekt af personlig magt eller autoritet involveret.",
+    "en-GB": "Unwanted behaviour of a sexual nature that is of lesser offense than felony sexual assault, particularly when behavior occurs in a normally non-sexual situation, or where there is some aspect of personal power or authority involved",
+    "en-US": "Unwanted behavior of a sexual nature that is of lesser offense than felony sexual assault, particularly when behavior occurs in a normally non-sexual situation, or where there is some aspect of personal power or authority involved",
+    "pt-BR": "Comportamento indesejado de natureza sexual que constitui uma ofensa menor do que a agressão sexual dolosa, particularmente quando o comportamento ocorre em contexto normalmente não sexual, ou quando há algum aspecto de poder ou autoridade pessoal envolvido.",
+    "pt-PT": "Comportamento indesejado de natureza sexual que constitui uma ofensa menor do que a agressão sexual dolosa, particularmente quando o comportamento ocorre em contexto normalmente não sexual, ou quando há algum aspeto de poder ou autoridade pessoal envolvido.",
+    "se": "Oönskade sexuella inviter, meddelanden, beröring, blottande osv.",
+    "zh-Hans": "一种不受欢迎的性行为，其罪行较重罪性侵犯轻，特别是当行为发生在正常的非性行为的情况下，或者涉及到个人权力或权威的某一方面时"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q7458798"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تحرش جنسي",
+    "de": "sexuelles Fehlverhalten",
+    "dk": "sexchikane",
+    "en-GB": "sexual misconduct",
+    "en-US": "sexual misconduct",
+    "es": "Acoso sexual",
+    "fr": "Harcèlement sexuel",
+    "no": "seksuell trakassering",
+    "pt-BR": "má conduta sexual",
+    "pt-PT": "má conduta sexual",
+    "se": "Sexuellt ofredande",
+    "zh-Hans": "性行为不端"
+  },
+  "qcode": "medtop:20001193",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001193",
+  "aid": "iptc_20001193"
+}

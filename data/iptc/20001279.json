@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000355"
+  ],
+  "created": "2019-10-07T12:00:00+00:00",
+  "definition": {
+    "de": "Ein internetbasiertes Tauschmittel, das Kryptographie zur Durchführung finanzieller Transaktionen verwendet",
+    "dk": "En internet-baseret valuta, som benytter krypteringsteknologi til at facilitere finansielle transaktioner.",
+    "en-GB": "An internet-based medium of exchange using cryptography to conduct financial transactions",
+    "en-US": "An internet-based medium of exchange using cryptography to conduct financial transactions",
+    "pt-BR": "Meio de troca baseado na Internet que usa criptografia para realizar transações financeiras.",
+    "pt-PT": "Meio de troca baseado na Internet que usa criptografia para realizar transações financeiras.",
+    "se": "Digitala valutor där kryptografi används för att säkerställa transaktionerna.",
+    "zh-Hans": "一种使用密码学并基于因特网进行金融交易的交易媒介"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q13479982"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عملة معماة",
+    "de": "Kryptowährung",
+    "dk": "kryptovaluta",
+    "en-GB": "cryptocurrency",
+    "en-US": "cryptocurrency",
+    "es": "Criptomoneda",
+    "fr": "Cryptomonnaie",
+    "no": "kryptovaluta",
+    "pt-BR": "criptomoeda",
+    "pt-PT": "criptomoeda",
+    "se": "Kryptovaluta",
+    "zh-Hans": "数字加密货币"
+  },
+  "qcode": "medtop:20001279",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001279",
+  "aid": "iptc_20001279"
+}

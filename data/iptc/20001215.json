@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000400"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Schulen, die mit Steuergeldern über die Regierung finanziert, aber von Unternehmen, Organisationen oder Genossenschaften betrieben werden",
+    "dk": "En skole, der ikke drives af den offentlige sektor, men som hovedsageligt finansieres af skattemidler.",
+    "en-GB": "Schools funded by money from taxes via government, but run by companies, organisations or cooperatives",
+    "en-US": "Schools funded by money from taxes via government, but run by companies, organizations or cooperatives",
+    "pt-BR": "Escolas financiadas por dinheiro de impostos através do governo, mas administradas por empresas, organizações ou cooperativas.",
+    "pt-PT": "Escolas financiadas por dinheiro de impostos através do governo, mas administradas por empresas, organizações ou cooperativas.",
+    "se": "En skola som inte drivs av offentliga sektorn, men som huvudsakligen finansieras av skattemedel",
+    "zh-Hans": "由政府税收资助，但由公司、组织或合作社经营的学校"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3238833"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مدارس مستقلة",
+    "de": "Freie Schulen",
+    "dk": "uafhængig skole/friskole",
+    "en-GB": "independent schools",
+    "en-US": "independent (charter) schools",
+    "es": "Escuelas independientes",
+    "fr": "Écoles indépendantes",
+    "no": "friskoler",
+    "pt-BR": "escolas independentes",
+    "pt-PT": "escolas independentes",
+    "se": "Friskola",
+    "zh-Hans": "独立学校"
+  },
+  "qcode": "medtop:20001215",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001215",
+  "aid": "iptc_20001215"
+}

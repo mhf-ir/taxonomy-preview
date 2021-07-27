@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04011001"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000756"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Studie, Design, Entwicklung und Bau von Flugzeugen, Raumfahrzeugen und Flugkörpersystemen",
+    "dk": "Videnskab, design, udvikling og konstruktion af fly, rumfartøjer og missilsystemer.",
+    "en-GB": "The study, design, development and construction of aircraft, spacecraft and missile systems",
+    "en-US": "The study, design, development and construction of aircraft, spacecraft and missile systems",
+    "es": "El estudio, diseño, desarrollo y construcción de aeronaves, naves espaciales y sistemas de misiles",
+    "fr": "Etude, conception, développement et construction d'avions, d'engins spatiaux et de systèmes de missiles",
+    "pt-BR": "Estudo, projeto, desenvolvimento e construção de aeronaves, espaçonaves e sistemas de mísseis.",
+    "pt-PT": "Estudo, projeto, desenvolvimento e construção de aeronaves, naves espaciais e sistemas de mísseis.",
+    "se": "Vetenskap, design, utveckling och konstruktion av flygplan, rymdfarkoster och missilsystem.",
+    "zh-Hans": "飞机、航天器和导弹系统的研究、设计、开发和建造"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3798668"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000758"
+  ],
+  "prefLabel": {
+    "ar": "هندسة فضاء",
+    "de": "Luft- und Raumfahrttechnik",
+    "dk": "luftfartsteknologi",
+    "en-GB": "aerospace engineering",
+    "en-US": "aerospace engineering",
+    "es": "Ingeniería aeroespacial",
+    "fr": "Ingénierie aérospatiale",
+    "no": "luft- og romfartsindustri",
+    "pt-BR": "engenharia aeroespacial",
+    "pt-PT": "engenharia aeroespacial",
+    "se": "Flyg- och rymdteknik",
+    "zh-Hans": "航空航天工程"
+  },
+  "qcode": "medtop:20000757",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000757",
+  "aid": "iptc_20000757"
+}

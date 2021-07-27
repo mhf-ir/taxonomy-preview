@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001152"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Turner schwingt und kreist mit Leichtigkeit und Grazie an den parallelen Barren",
+    "dk": "Gymnaster svinger, springer og udfører piruetter omkring de parallelle bjælker.",
+    "en-GB": "Gymnasts swing and turn with guile and grace around the parallel bars.",
+    "en-US": "Gymnasts swing and turn with guile and grace around the parallel bars.",
+    "pt-BR": "Prova masculina em que os ginastas executam uma sequência de movimentos ao longo de duas barras dispostas paralelamente à mesma altura.",
+    "pt-PT": "Prova masculina em que os ginastas executam uma sequência de movimentos ao longo de duas barras dispostas paralelamente à mesma altura.",
+    "zh-Hans": "运动员在双杆上巧妙而优雅地展示悬吊和翻转"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028005",
+    "https://www.wikidata.org/entity/Q692104"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "المتوازي",
+    "de": "Barren (Kunstturnen)",
+    "dk": "barre",
+    "en-GB": "parallel bars (artistic gymnastics)",
+    "en-US": "parallel bars (artistic gymnastics)",
+    "es": "Barras paralelas (gimnasia artística)",
+    "fr": "Barres parallèles",
+    "no": "skranke, herrer (turn)",
+    "pt-BR": "barras paralelas",
+    "pt-PT": "barras paralelas",
+    "se": "Barr, herrar",
+    "zh-Hans": "双杠（竞技体操）"
+  },
+  "qcode": "medtop:20000949",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000949",
+  "aid": "iptc_20000949"
+}

@@ -1,0 +1,58 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bootsrennen meist in flachen ruhigen Gewässern mit Booten für 1,2,4,oder 8 Ruderern",
+    "dk": "Konkurrence på markeret bane i naturlige farvande, hvor hver konkurrent har to årer. Roning er tilgængelig hver for sig eller i større både, for eksempel to, fire eller otte personer. Forskellige løb har forskellige længder.",
+    "en-GB": "Boat racing usually on flat calm waters with boats for 1, 2, 4 or 8 rowers",
+    "en-US": "Boat racing usually on flat calm waters with boats for 1, 2, 4 or 8 rowers",
+    "pt-BR": "Corrida de barcos em águas calmas com embarcações de 1, 2, 4 ou 8 remadores.",
+    "pt-PT": "Corrida de barcos em águas calmas com embarcações de 1, 2, 4 ou 8 remadores.",
+    "se": "Tävling på uppmärkt bana i naturliga vatten där varje tävlande har två åror. Rodd finns individuellt eller i större båtar för exempelvis två, fyra eller åtta personer. Olika lopp har olika längd.",
+    "zh-Hans": "在平静水域进行的赛艇比赛，可以有1，2，4或8名浆手"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15047000",
+    "https://www.wikidata.org/entity/Q159354"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/rowingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001027",
+    "medtop:20001028",
+    "medtop:20001029",
+    "medtop:20001030",
+    "medtop:20001031",
+    "medtop:20001032",
+    "medtop:20001033",
+    "medtop:20001034"
+  ],
+  "prefLabel": {
+    "ar": "تجديف",
+    "de": "Rudern",
+    "dk": "roning",
+    "en-GB": "rowing",
+    "en-US": "rowing",
+    "es": "Remo",
+    "fr": "Aviron",
+    "no": "roing",
+    "pt-BR": "remo",
+    "pt-PT": "remo",
+    "se": "Rodd",
+    "zh-Hans": "赛艇运动"
+  },
+  "qcode": "medtop:20001026",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001026",
+  "aid": "iptc_20001026"
+}

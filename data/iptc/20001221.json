@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000464"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Die Akutversorgung von Patienten, die mit einem medizinischen Notfall entweder mit ihren eigenen Mitteln oder mit denen eines Krankenwagens ankommen",
+    "dk": "Akut pleje af patienter, der ankommer til en medicinsk nødsituation, enten med egne midler eller med ambulance.",
+    "en-GB": "The acute care of patients who arrive with a medical emergency either by their own means or by that of an ambulance",
+    "en-US": "The acute care of patients who arrive with a medical emergency either by their own means or by that of an ambulance",
+    "pt-BR": "Atendimento de pacientes que chegam com uma emergência médica pelos próprios meios ou transportados por ambulância.",
+    "pt-PT": "Atendimento de pacientes que chegam com uma emergência médica pelos próprios meios ou transportados por ambulância.",
+    "se": "Sjukvård som tar hand om akuta fall som är oplanerade men allvarliga. Patienter kommer in utan föregående tidsbokning eller tom med ambulans.",
+    "zh-Hans": "对通过自己的方法或救护车到达医疗急救中心的病人的紧急护理"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q67323460"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "طب الطوارئ",
+    "de": "Notfallversorgung",
+    "dk": "akut behandling",
+    "en-GB": "emergency care",
+    "en-US": "emergency care",
+    "es": "Medicina de emergencia",
+    "fr": "Médecine d'urgence",
+    "no": "akuttmottak",
+    "pt-BR": "serviço de emergência",
+    "pt-PT": "serviço de urgência",
+    "se": "Akutsjukvård",
+    "zh-Hans": "紧急护理"
+  },
+  "qcode": "medtop:20001221",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001221",
+  "aid": "iptc_20001221"
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14024000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/14000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Gruppe von Einzelpersonen, die aktiv gemeinsame Werte oder Interessen teilen",
+    "dk": "En gruppe individer, der aktivt deler en fælles værdi eller interesse.",
+    "en-GB": "A group of individuals actively sharing a common value or interest",
+    "en-US": "A group of individuals actively sharing a common value or interest",
+    "pt-BR": "Grupo de indivíduos que partilha de forma ativa um valor ou interesse comum.",
+    "pt-PT": "Grupo de indivíduos que partilha de forma ativa um valor ou interesse comum.",
+    "se": "En grupp personer som delar ett gemensamt intresse eller gemensamma värderingar.",
+    "zh-Hans": "积极分享共同价值或兴趣的一群人"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q177634"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000769"
+  ],
+  "prefLabel": {
+    "ar": "مجتمعات",
+    "de": "Gesellschaft",
+    "dk": "fællesskab",
+    "en-GB": "communities",
+    "en-US": "communities",
+    "es": "Comunidades",
+    "fr": "Communauté",
+    "no": "fellesskap",
+    "pt-BR": "comunidades",
+    "pt-PT": "comunidades",
+    "se": "Gemenskaper",
+    "zh-Hans": "社区"
+  },
+  "qcode": "medtop:20000768",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000768",
+  "aid": "iptc_20000768"
+}

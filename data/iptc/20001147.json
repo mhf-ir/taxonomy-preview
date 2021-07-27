@@ -1,0 +1,41 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000621"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Politik einer Regierung sportliche Themen betreffend",
+    "dk": "Politik, der påvirker sport.",
+    "en-GB": "Government policies affecting sports",
+    "en-US": "Government policies affecting sports",
+    "pt-BR": "Políticas governamentais relativas ao esporte.",
+    "pt-PT": "Políticas governamentais relativas ao desporto.",
+    "se": "Politik som påverkar idrotten.",
+    "zh-Hans": "影响体育的政府政策"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سياسة رياضية",
+    "de": "Sportpolitik",
+    "dk": "Idrætspolitik",
+    "en-GB": "sports policies",
+    "en-US": "sports policies",
+    "es": "Política deportiva",
+    "fr": "Politique sportive",
+    "no": "idrettspolitikk",
+    "pt-BR": "políticas esportivas",
+    "pt-PT": "políticas desportivas",
+    "se": "Idrottspolitik",
+    "zh-Hans": "体育政策"
+  },
+  "qcode": "medtop:20001147",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001147",
+  "aid": "iptc_20001147"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2019-06-26T12:00:00+00:00",
+  "definition": {
+    "de": "Wettbewerbe, bei denen die Teilnehmer bestimmte Posen ausführen, um ihre Muskeln zu zeigen, die durch anstrengende Übungen gestärkt und vergrößert wurden. Die Wettkämpfer werden anhand von Kriterien wie Symmetrie, Muskelkraft und Kondition beurteilt.",
+    "dk": "Konkurrence, hvor deltagerne poserer for at vise deres muskler frem og bliver vurderet af et dommerpanel.",
+    "en-GB": "Competitions where participants perform specific poses to display their muscles that have been strengthened and enlarged through strenuous exercise. Competitors are judged based on criteria such as symmetry, muscularity and conditioning.",
+    "en-US": "Competitions where participants perform specific poses to display their muscles that have been strengthened and enlarged through strenuous exercise. Competitors are judged based on criteria such as symmetry, muscularity and conditioning.",
+    "pt-BR": "Competições em que os participantes realizam poses específicas para exibir os músculos fortalecidos e ampliados através de exercícios intensos. Os concorrentes são julgados com base em critérios como simetria, musculosidade e condição física.",
+    "pt-PT": "Competições em que os participantes realizam poses específicas para exibir os músculos fortalecidos e ampliados através de exercícios intensos. Os concorrentes são julgados com base em critérios como simetria, musculosidade e condição física.",
+    "se": "Fysiska aktiviteter som mest syftar till att öka en persons muskelstyrka.",
+    "zh-Hans": "在比赛中，参赛者要摆出特定的姿势来展示他们经过剧烈运动后得到强化和扩大的肌肉。参赛者的评判标准包括对称性、肌肉发达程度和条件反射等"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q124100"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "رياضة كمال الاجسام",
+    "de": "Bodybuilding",
+    "dk": "bodybuilding",
+    "en-GB": "bodybuilding",
+    "en-US": "bodybuilding",
+    "es": "Culturismo",
+    "fr": "Culturisme",
+    "no": "kroppsbygging",
+    "pt-BR": "culturismo",
+    "pt-PT": "culturismo",
+    "se": "Styrketräning",
+    "zh-Hans": "健美"
+  },
+  "qcode": "medtop:20001240",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001240",
+  "aid": "iptc_20001240"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000256"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Thermische Energie, die in der Erde erzeugt und gespeichert wird",
+    "dk": "Energi opnået fra geotermiske processer, hvor varme opbevares i jordskorpen.",
+    "en-GB": "Thermal energy that is generated and stored in the Earth",
+    "en-US": "Thermal energy that is generated and stored in the Earth",
+    "pt-BR": "Energia térmica que é gerada a partir do calor proveniente do interior da Terra.",
+    "pt-PT": "Energia térmica que é gerada a partir do calor proveniente do interior da Terra.",
+    "se": "Energi som hämtas från geoteremiska processer där värme lagras i jordskorpan.",
+    "zh-Hans": "在地下产生并储存的热能"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3215493"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كهرباء حرارية أرضية",
+    "de": "geothermische Energie",
+    "dk": "geotermisk energi",
+    "en-GB": "geothermal power",
+    "en-US": "geothermal power",
+    "es": "Energía geotérmica",
+    "fr": "Énergie géothermique",
+    "no": "jordenergi",
+    "pt-BR": "energia geotérmica",
+    "pt-PT": "energia geotérmica",
+    "se": "Geotermisk energi",
+    "zh-Hans": "地热能"
+  },
+  "qcode": "medtop:20001208",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001208",
+  "aid": "iptc_20001208"
+}

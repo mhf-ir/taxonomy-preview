@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/14000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Grundsätzliche Unterstützung von Menschen, die Nahrungsmittel, Unterkunft, Gesundheit und andere Dienstleistungen benötigen",
+    "dk": "Hjælp til dem, der har behov for mad, bolig, sundhed og andre tjenester.",
+    "en-GB": "Help for those in need of food, housing, health and other services",
+    "en-US": "Help for those in need of food, housing, health and other services",
+    "pt-BR": "Ajuda para quem precisa de comida, habitação, saúde e outros serviços.",
+    "pt-PT": "Ajuda para quem precisa de comida, habitação, saúde e outros serviços.",
+    "se": "Hjälp till personer i behov av mat, bostad, sjukvård och andra tjänster.",
+    "zh-Hans": "帮助那些需要食物、住房、保健和其他服务的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14015000",
+    "https://www.wikidata.org/entity/Q180043"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000818",
+    "medtop:20000819",
+    "medtop:20000820",
+    "medtop:20001232",
+    "medtop:20001290",
+    "medtop:20001317"
+  ],
+  "prefLabel": {
+    "ar": "رفاهية",
+    "de": "Sozialfürsorge",
+    "dk": "socialhjælp",
+    "en-GB": "welfare",
+    "en-US": "welfare",
+    "es": "Asistencia social",
+    "fr": "Protection sociale",
+    "no": "velferd",
+    "pt-BR": "assistência social",
+    "pt-PT": "assistência social",
+    "se": "Socialhjälp",
+    "zh-Hans": "福利"
+  },
+  "qcode": "medtop:20000817",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000817",
+  "aid": "iptc_20000817"
+}

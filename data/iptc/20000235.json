@@ -1,0 +1,55 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alle Inhalte, die den Erbau und Verkauf von baulichem Eigentum betreffen",
+    "dk": "Alt om bygninger og opførelse, vedligeholdelse, styring, leje og salg af dem.",
+    "en-GB": "All items pertaining to the construction and sale of property",
+    "en-US": "All items pertaining to the construction and sale of property",
+    "pt-BR": "Elementos relativos à construção e venda de propriedades.",
+    "pt-PT": "Elementos relativos à construção e venda de propriedades.",
+    "se": "Allt som handlar om byggnader samt bygge, underhåll, förvaltning, uthyrning och försäljning av dem.",
+    "zh-Hans": "与房地产建造和销售有关的所有内容"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04004000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000236",
+    "medtop:20000237",
+    "medtop:20000238",
+    "medtop:20000239",
+    "medtop:20000240",
+    "medtop:20000241",
+    "medtop:20000242",
+    "medtop:20001245",
+    "medtop:20001246"
+  ],
+  "prefLabel": {
+    "ar": "بناء وملكية",
+    "de": "Bau",
+    "dk": "byggeri og ejendom",
+    "en-GB": "construction and property",
+    "en-US": "construction and property",
+    "es": "Construcción e inmobiliaria",
+    "fr": "Construction et immobilier",
+    "no": "bygg og eiendom",
+    "pt-BR": "construção e propriedades",
+    "pt-PT": "construção e propriedades",
+    "se": "Fastighets- och byggnadsindustri",
+    "zh-Hans": "建筑和房地产"
+  },
+  "qcode": "medtop:20000235",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000235",
+  "aid": "iptc_20000235"
+}

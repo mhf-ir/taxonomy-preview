@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000331"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Angebot von Verpflegung und Unterkunft für Reisende",
+    "dk": "Virksomheden med at levere mad og husly til rejsende.",
+    "en-GB": "The business of providing food and shelter to travellers",
+    "en-US": "The business of providing food and shelter to travelers",
+    "pt-BR": "Negócio que fornece comida e alojamento a viajantes.",
+    "pt-PT": "Negócio que fornece comida e alojamento a viajantes.",
+    "se": "Affärsverksamhet som går ut på att erbjuda tak över huvudet och mat till resenärer.",
+    "zh-Hans": "为旅行者提供食物和住所的生意"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04014002",
+    "https://www.wikidata.org/entity/Q1495452"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "فنادق ومساكن",
+    "de": "Gastgewerbe",
+    "dk": "hotel og indkvartering",
+    "en-GB": "hotel and accommodation",
+    "en-US": "hotel and accommodation",
+    "es": "Hoteles y alojamiento",
+    "fr": "Hôtellerie",
+    "no": "reiselivsbransjen",
+    "pt-BR": "hotelaria e alojamentos",
+    "pt-PT": "hotelaria e alojamentos",
+    "se": "Hotell och logi",
+    "zh-Hans": "酒店和住宿"
+  },
+  "qcode": "medtop:20000333",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000333",
+  "aid": "iptc_20000333"
+}

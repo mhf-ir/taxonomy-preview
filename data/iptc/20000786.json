@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000780"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Gemeinschaft von zwei Individuen, die sich Treue, Respekt und gegenseitige Unterstützung versprechen",
+    "dk": "De ceremonier og festligheder, der finder sted, når to mennesker gifter sig.",
+    "en-GB": "The legal or socially recognised union of individuals, which establishes rights and obligations between them",
+    "en-US": "The legal or socially recognized union of individuals, which establishes rights and obligations between them",
+    "pt-BR": "União de duas pessoas que juram fidelidade, respeito e apoio mútuos.",
+    "pt-PT": "União de duas pessoas que juram fidelidade, respeito e apoio mútuos.",
+    "se": "En lagstadgad relation mellan två personer. Kan ske genom bröllop, borgerlig vigsel eller motsvarande procedur.",
+    "zh-Hans": "相互忠诚、尊重和支持的两个人的结合"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14006003",
+    "https://www.wikidata.org/entity/Q8445"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "زواج",
+    "de": "Heirat",
+    "dk": "ægteskab",
+    "en-GB": "marriage",
+    "en-US": "marriage",
+    "es": "Matrimonio",
+    "fr": "Mariage",
+    "no": "ekteskap",
+    "pt-BR": "casamento",
+    "pt-PT": "casamento",
+    "se": "Gifta",
+    "zh-Hans": "婚姻"
+  },
+  "qcode": "medtop:20000786",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000786",
+  "aid": "iptc_20000786"
+}

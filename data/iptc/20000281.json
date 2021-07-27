@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unternehmen, die für private und geschäftliche Kunden Reinigungsdienstleistungen anbieten",
+    "dk": "Virksomheder, der udfører rengøring af boliger eller forretningslokaler.",
+    "en-GB": "Companies that provide cleaning and similar services for homes and businesses.",
+    "en-US": "Companies that provide cleaning and similar services for homes and businesses.",
+    "pt-BR": "Empresas que fornecem serviços de limpeza e similares.",
+    "pt-PT": "Empresas que fornecem serviços de limpeza e similares.",
+    "se": "Företag som hjälper till med städning av bostäder eller affärslokaler.",
+    "zh-Hans": "为家庭和企业提供清洁和类似服务的公司"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006014",
+    "https://www.wikidata.org/entity/Q6735317"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خدمة صيانة مباني",
+    "de": "Reinigungsservice",
+    "dk": "rengøring",
+    "en-GB": "janitorial service",
+    "en-US": "janitorial service",
+    "es": "Servicios de conserjería",
+    "fr": "Société de nettoyage",
+    "no": "renhold",
+    "pt-BR": "serviços de limpeza",
+    "pt-PT": "serviços de limpeza",
+    "se": "Fastighetsskötsel",
+    "zh-Hans": "清洁服务"
+  },
+  "qcode": "medtop:20000281",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000281",
+  "aid": "iptc_20000281"
+}

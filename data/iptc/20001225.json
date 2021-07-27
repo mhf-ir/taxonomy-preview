@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000487"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Eine medizinische Spezialisierung, die sich auf Krankheiten und Störungen des Auges konzentrier",
+    "dk": "En medicinsk specialisering, der fokuserer på sygdomme og lidelser i øjet.",
+    "en-GB": "A medical specialisation that focuses on diseases and disorders of the eye",
+    "en-US": "A medical specialization that focuses on diseases and disorders of the eye",
+    "pt-BR": "Especialidade médica que se dedica ao estudo e tratamento de doenças e transtornos dos olhos.",
+    "pt-PT": "Especialidade médica que se dedica ao estudo e tratamento de doenças e transtornos dos olhos.",
+    "se": "Sjukvård som hanterar sjukdommar och andra problem i ögonen/synen.",
+    "zh-Hans": "研究眼睛疾病和失调的医学专业"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q161437"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "طب العيون",
+    "de": "Augenheilkunde",
+    "dk": "oftalmologi",
+    "en-GB": "ophthalmology",
+    "en-US": "ophthalmology",
+    "es": "Oftalmología",
+    "fr": "Ophtalmologie",
+    "no": "behandling av øyesykdommer",
+    "pt-BR": "oftalmologia",
+    "pt-PT": "oftalmologia",
+    "se": "Ögonvård",
+    "zh-Hans": "眼科"
+  },
+  "qcode": "medtop:20001225",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001225",
+  "aid": "iptc_20001225"
+}

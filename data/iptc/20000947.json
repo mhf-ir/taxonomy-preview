@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000951"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028011"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Reifen wird lange gerollt und geworfen in einer Tanzperformance",
+    "dk": "En ring rulles og kastes, mens gymnasten udfører en danserutine.",
+    "en-GB": "A hoop is rolled and thrown whilst performing a dance routine.",
+    "en-US": "A hoop is rolled and thrown while performing a dance routine.",
+    "pt-BR": "Exercício de ginástica rítmica em que as ginastas rolam e atiram um arco enquanto realizam uma coreografia.",
+    "pt-PT": "Exercício de ginástica rítmica em que as ginastas rolam e atiram um arco enquanto realizam uma coreografia.",
+    "zh-Hans": "边舞边展示对圈环的环绕和抛接等动作"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2553153"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اطار",
+    "de": "Reifen (Rhythmische Gymnastik)",
+    "dk": "tøndebånd",
+    "en-GB": "hoop (rhythmic gymnastics)",
+    "en-US": "hoop (rhythmic gymnastics)",
+    "es": "Aro (gimnasia rítmica)",
+    "fr": "Cerceau",
+    "no": "ringer (rytmisk gymnastikk)",
+    "pt-BR": "arco",
+    "pt-PT": "arco",
+    "se": "Tunnband",
+    "zh-Hans": "圈操（艺术体操）"
+  },
+  "qcode": "medtop:20000947",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000947",
+  "aid": "iptc_20000947"
+}

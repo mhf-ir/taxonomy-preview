@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000111"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Vorgerichtliches Vorgehen inklusive Verteidigung, Kaution, Anträge, Indizien, Aussagen",
+    "dk": "Forberedende retsbehandling, før de egentlige retsmøder",
+    "en-GB": "Actions that happen before the start of a trial, such as pleas, bail motions, discovery and depositions",
+    "en-US": "Actions that happen before the start of a trial, such as pleas, bail motions, discovery and depositions",
+    "pt-BR": "Eventos preliminares que incluem arguições, fianças, moções, descobertas, depoimentos.",
+    "pt-PT": "Procedimentos anteriores à fase de julgamento que incluem arguições, fianças, moções e depoimentos.",
+    "se": "Saker som sker som förberedelse innan rättsfallet tas upp i en domstol.",
+    "zh-Hans": "审判前事件包括抗辩、保释、声请、证据揭示、取口供证词"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02008003",
+    "https://www.wikidata.org/entity/Q4354932"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "جلسة تمهيدية",
+    "de": "Anhörung",
+    "dk": "Forberedende retsmøde",
+    "en-GB": "pre-trial",
+    "en-US": "pre-trial",
+    "es": "Audiencias preliminares",
+    "fr": "Audiences préliminaires",
+    "no": "varetekt",
+    "pt-BR": "processos preliminares",
+    "pt-PT": "processos preliminares",
+    "se": "Domstolsförberedelser",
+    "zh-Hans": "初审"
+  },
+  "qcode": "medtop:20000112",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000112",
+  "aid": "iptc_20000112"
+}

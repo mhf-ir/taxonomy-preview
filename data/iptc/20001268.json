@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000552"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Ein festgelegter Tag zur Feier einer Nation",
+    "dk": "En dato, hvor en nation fejrer sig selv. I Danmark sker det grundlovsdag (5. juni).",
+    "en-GB": "A designated day to celebrate a nation",
+    "en-US": "A designated day to celebrate a nation",
+    "pt-BR": "Dia determinado para celebrar uma nação.",
+    "pt-PT": "Dia determinado para celebrar uma nação.",
+    "se": "En dag för att fira en viss nation.",
+    "zh-Hans": "庆祝一个国家建国的指定日子"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q57598"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "العيد الوطني",
+    "de": "Nationalfeiertag",
+    "dk": "nationaldag",
+    "en-GB": "National day",
+    "en-US": "National day",
+    "es": "Día nacional",
+    "fr": "Fête nationale",
+    "no": "nasjonaldag",
+    "pt-BR": "feriado nacional",
+    "pt-PT": "feriado nacional",
+    "se": "Nationaldag",
+    "zh-Hans": "国庆节"
+  },
+  "qcode": "medtop:20001268",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001268",
+  "aid": "iptc_20001268"
+}

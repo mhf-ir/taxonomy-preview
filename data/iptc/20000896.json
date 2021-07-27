@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000892"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mannschaftswettbewerb auf Kunsträdern. Ein Radballteam spielt gegen ein anderes, bestehend aus jeweils zwei Spielern. Das Ziel der Wettkämpfer ist den Ball mit den Vorder- und Hinterrädern zu bewegen ohne mit den Füßen den Boden zu berühren",
+    "dk": "Boldsport, hvor konkurrenterne sidder på cykler og forsøger at bevæge bolden med cyklens hjul uden at sætte fødderne i jorden.",
+    "en-GB": "Competitive team sport using bicycles. One team against another with two persons per team. The aim is for competitors to move the ball using the front and rear wheels without letting their feet touch the ground.",
+    "en-US": "Competitive team sport using bicycles. One team against another with two persons per team. The aim is for competitors to move the ball using the front and rear wheels without letting their feet touch the ground.",
+    "pt-BR": "Esporte de equipe com bicicletas. O objetivo de cada equipe de dois jogadores é mover a bola usando a roda de trás e da frente sem deixar os pés tocar o chão.",
+    "pt-PT": "Desporto de equipa com bicicletas. O objetivo de cada equipa de dois jogadores é mover a bola usando a roda de trás e da frente sem deixar os pés tocar o chão.",
+    "se": "Bollsport där de tävlande sitter på cyklar och försöker flytta bollen med cykelns hjul utan att sätta ner fötterna i marken.",
+    "zh-Hans": "自行车团体竞技项目。 一只队伍和另一支队伍对抗，每队两人。比赛的目的是在不允许选手脚接触地面的情况下，用前轮和后轮移动球比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15019021",
+    "https://www.wikidata.org/entity/Q8099087"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كرة دراجات",
+    "de": "Radball",
+    "dk": "cykelbold",
+    "en-GB": "cycle ball",
+    "en-US": "cycle ball",
+    "es": "Bicibol (fútbol en bicicleta)",
+    "fr": "Cycle balle",
+    "no": "sykkelball",
+    "pt-BR": "ciclobol",
+    "pt-PT": "ciclobol",
+    "se": "Cykelboll",
+    "zh-Hans": "自行车足球赛"
+  },
+  "qcode": "medtop:20000896",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000896",
+  "aid": "iptc_20000896"
+}

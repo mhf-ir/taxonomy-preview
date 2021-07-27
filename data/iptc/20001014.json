@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mithilfe eines Schlägers versuchen zwei Teams mit je vier Reitern einen Bambusball in das gegnerische Tor zu schießen über ein Feld von 250 m Länge und 150 m Breite. Das Spiel ist unterteilt in 4,6 oder 8 Zeitperioden von 7 min 30 sec. 'chukkas' genannt",
+    "dk": "Ved hjælp af en kølle forsøger to hold på fire ryttere at banke en bambusbold ind i modstanderens mål over en bane, der er 250 meter lang og 150 meter bred. Spillet er opdelt i 4, 6 eller 8 tidsperioder på 7 min. 30 sek. kaldet chukkas.",
+    "en-GB": "With the aid of a mallet two teams of four horsemen try and knock a bamboo ball into the opponents goal over a pitch 250m long and 150m wide. The game is divided into 4, 6, or 8 time periods of 7min 30sec called chukkas.",
+    "en-US": "With the aid of a mallet two teams of four horsemen try and knock a bamboo ball into the opponents goal over a pitch 250m long and 150m wide. The game is divided into 4, 6, or 8 time periods of 7min 30sec called chukkas.",
+    "pt-BR": "Com ajuda de um taco, duas equipes de 4 cavaleiros tentam introduzir uma bola de bambu no gol adversário, em campo de 250m de comprimento e 150m de largura. O jogo é dividido em 4, 6 ou 8 períodos de 7min e 30s chamados *chukkas*.",
+    "pt-PT": "Com ajuda de um taco, duas equipas de 4 cavaleiros tentam introduzir uma bola de bambu na baliza adversária, num campo de 250m de comprimento e 150m de largura. O jogo é dividido em 4, 6 ou 8 períodos de 7min e 30s chamados *chukkas*.",
+    "se": "De tävlande rider och har en klubba med vilken de slår en boll med målsättningen att få den i motståndarnas mål.",
+    "zh-Hans": "两个队每队4名骑马运动员，使用球棍努力击打一个竹子制成的球，使球进入对方的球门。场地250米长150米宽。每场比赛可分4，6， 8节，每节7分半钟"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15045000",
+    "https://www.wikidata.org/entity/Q134211"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بولو",
+    "de": "Polo",
+    "dk": "polo",
+    "en-GB": "polo",
+    "en-US": "polo",
+    "es": "Polo",
+    "fr": "Polo",
+    "no": "polo",
+    "pt-BR": "polo",
+    "pt-PT": "polo",
+    "se": "Hästpolo",
+    "zh-Hans": "马球"
+  },
+  "qcode": "medtop:20001014",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001014",
+  "aid": "iptc_20001014"
+}

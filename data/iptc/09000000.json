@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Soziale Aspekte, Organisationen, Regeln und Bedingungen bezogen auf die bezahlte Arbeit von menschlicher Leistung, für eine Generation des Wohlstands oder Belohnung für Dienstleistungen und die wirtschaftliche Unterstützung bei Arbeitslosigkeit",
+    "dk": "Sociale aspekter, organisationer, regler og betingelser på arbejdsmarkedet.",
+    "en-GB": "Social aspects, organisations, rules and conditions affecting the employment of human effort for the generation of wealth or provision of services and the economic support of the unemployed.",
+    "en-US": "Social aspects, organizations, rules and conditions affecting the employment of human effort for the generation of wealth or provision of services and the economic support of the unemployed.",
+    "pt-BR": "Aspectos sociais, organizações, regras e condições que afetam o emprego e a geração de riqueza ou o fornecimento de serviços. Apoio econômico aos desempregados.",
+    "pt-PT": "Aspetos sociais, organizações, regras e condições que afetam o emprego e a produção de riqueza ou o fornecimento de serviços. Apoio económico aos desempregados.",
+    "se": "Sociala aspekter, organisationer, regler och förhållanden kring mänskliga ansträngningar för att generera inkomst, eller förse med service, samt ekonomisk ersättning till arbetslösa. Fackliga frågor, arbetslagstiftning, pensioner, arbetslöshet mm.",
+    "zh-Hans": "影响创造财富或提供服务的人力使用的社会因素、组织、规则和条件，以及提供失业者的经济支持"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09000000",
+    "https://www.wikidata.org/entity/Q268378"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000509",
+    "medtop:20000521",
+    "medtop:20000523",
+    "medtop:20000524",
+    "medtop:20000531",
+    "medtop:20000533",
+    "medtop:20000536"
+  ],
+  "prefLabel": {
+    "ar": "عمل",
+    "de": "Arbeit, Soziales",
+    "dk": "arbejde",
+    "en-GB": "labour",
+    "en-US": "labor",
+    "es": "Mano de obra",
+    "fr": "Social",
+    "no": "arbeidsliv",
+    "pt-BR": "trabalho",
+    "pt-PT": "trabalho",
+    "se": "Arbete",
+    "zh-Hans": "劳动"
+  },
+  "qcode": "medtop:09000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/09000000",
+  "aid": "iptc_09000000"
+}

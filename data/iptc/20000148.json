@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/03000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ernsthaftes und plötzliches Leid",
+    "dk": "Alvorlig eller pludselig ulykke.",
+    "en-GB": "A sudden, unplanned event that causes great damage or loss of life, such as an accident or a natural catastrophe",
+    "en-US": "A sudden, unplanned event that causes great damage or loss of life, such as an accident or a natural catastrophe",
+    "pt-BR": "Azar sério ou súbito.",
+    "pt-PT": "Desgraça imprevista e grave.",
+    "se": "Mer allvarliga akuta oönskade händelser.",
+    "zh-Hans": "严重的或突然发生的不幸"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3839081",
+    "http://cv.iptc.org/newscodes/subjectcode/03015000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000149",
+    "medtop:20000150",
+    "medtop:20000151"
+  ],
+  "prefLabel": {
+    "ar": "كارثة",
+    "de": "Katastrophe",
+    "dk": "katastrofe",
+    "en-GB": "disaster",
+    "en-US": "disaster",
+    "es": "Catástrofes",
+    "fr": "Désastres",
+    "no": "katastrofer",
+    "pt-BR": "desastre (geral)",
+    "pt-PT": "desastre (geral)",
+    "se": "Katastrofer",
+    "zh-Hans": "灾难"
+  },
+  "qcode": "medtop:20000148",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000148",
+  "aid": "iptc_20000148"
+}

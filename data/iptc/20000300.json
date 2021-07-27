@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000294"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Hersteller von mechanischen, elektrischen und elektronischen Produkten, die zur Herstellung anderer Produkte benötigt werden",
+    "dk": "Produktion af mekaniske, elektroniske eller elektriske produkter, der er nødvendige for at fremstille andre produkter.",
+    "en-GB": "Manufacturers of  mechanical, electrical, electronic items needed in the manufacture of other items",
+    "en-US": "Manufacturers of mechanical, electrical, electronic items needed in the manufacture of other items",
+    "pt-BR": "Fabricantes de artigos mecânicos, elétricos e eletrônicos, necessários na produção de outros equipamentos.",
+    "pt-PT": "Fabricantes de artigos mecânicos, elétricos e eletrónicos, necessários na produção de outros equipamentos.",
+    "se": "Produktion av mekansika, elektroniska eller elektriska produkter som behövs för att tillverka andra produkter.",
+    "zh-Hans": "机械，电气，电子产品生产所需的其他部件"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04011006"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مكونات صناعية",
+    "de": "Zulieferindustrie",
+    "dk": "industriel komponent",
+    "en-GB": "industrial component",
+    "en-US": "industrial component",
+    "es": "Componentes industriales",
+    "fr": "Composants industriels",
+    "no": "komponentindustri",
+    "pt-BR": "equipamentos metalomecânicos",
+    "pt-PT": "equipamentos metalomecânicos",
+    "se": "Komponenttillverkning",
+    "zh-Hans": "工业部件"
+  },
+  "qcode": "medtop:20000300",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000300",
+  "aid": "iptc_20000300"
+}

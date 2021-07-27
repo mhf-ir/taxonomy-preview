@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/13000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "National oder international etablierte Regeln für wissenschaftliche und technologische Studien und Entwicklungen, wie z.B. Kalibrierstandards für wissenschaftliche Werkzeuge oder Geräte",
+    "dk": "Nationale eller internationale regler for videnskabelige og tekniske undersøgelser og udvikling, såsom kalibreringsstandarder for videnskabelige instrumenter.",
+    "en-GB": "Nationally or internationally established rules governing scientific and technological study and development, such as calibration standards for scientific tools or equipment",
+    "en-US": "Nationally or internationally established rules governing scientific and technological study and development, such as calibration standards for scientific tools or equipment",
+    "es": "Normas establecidas nacional o internacionalmente que rigen el estudio y el desarrollo científico y tecnológico, como las normas de calibración para herramientas o equipos científicos",
+    "fr": "Règles établies au niveau national ou international régissant les études et le développement scientifiques et technologiques, telles que les normes d'étalonnage pour les outils ou les équipements scientifiques",
+    "pt-BR": "Regras, nacionais ou internacionais, que regulam o estudo e desenvolvimento científico e tecnológico, tais como padrões de calibração de ferramentas científicas ou equipamento.",
+    "pt-PT": "Regras, nacionais ou internacionais, que regulam o estudo e desenvolvimento científico e tecnológico, tais como padrões de calibração de ferramentas científicas ou equipamento.",
+    "se": "Nationella eller internationella regler som styr vetenskapliga och tekniska studier och utveckling, såsom kalibreringsstandarder för vetenskapliga instrument.",
+    "zh-Hans": "国家或国际上制定的管理科学和技术研究与开发的规则，如科学工具或设备的校准标准"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13011000",
+    "https://www.wikidata.org/entity/Q1334738"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "معايير",
+    "de": "Standards",
+    "dk": "videnskabelig standard",
+    "en-GB": "scientific standards",
+    "en-US": "scientific standards",
+    "es": "Normas",
+    "fr": "Standards",
+    "no": "internasjonale standarder",
+    "pt-BR": "normas científicas",
+    "pt-PT": "normas científicas",
+    "se": "Vetenskaplig standard",
+    "zh-Hans": "科学标准"
+  },
+  "qcode": "medtop:20000755",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000755",
+  "aid": "iptc_20000755"
+}

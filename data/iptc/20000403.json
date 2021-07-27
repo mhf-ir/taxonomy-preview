@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000402"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ausbildung für ältere Lernende außerhalb der gewöhnlichen Altersgruppe der 5-25-jährigen.",
+    "dk": "Samlingsnavn for en række voksenuddannelsesprogrammer.",
+    "en-GB": "Education provided for older students outside the usual age groups of 5-25",
+    "en-US": "Education provided for older students outside the usual age groups of 5-25",
+    "pt-BR": "Educação fornecida a estudantes mais velhos do que o grupo usual entre os 5 e os 25 anos.",
+    "pt-PT": "Educação fornecida a estudantes mais velhos do que o grupo usual entre os 5 e os 25 anos.",
+    "se": "Samlingsnamn för ett flertal former av utbildning för vuxna människor.",
+    "zh-Hans": "为超过25岁的年龄较大的群体提供的教育"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05001000",
+    "https://www.wikidata.org/entity/Q1319035"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تعليم الراشدين",
+    "de": "Erwachsenenbildung",
+    "dk": "voksenuddannelse",
+    "en-GB": "adult education",
+    "en-US": "adult education",
+    "es": "Educación de adultos",
+    "fr": "Formation",
+    "no": "voksenopplæring",
+    "pt-BR": "educação de adultos",
+    "pt-PT": "educação de adultos",
+    "se": "Vuxenutbildning",
+    "zh-Hans": "成人教育"
+  },
+  "qcode": "medtop:20000403",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000403",
+  "aid": "iptc_20000403"
+}

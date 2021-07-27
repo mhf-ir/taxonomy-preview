@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000424"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Feste und gasförmige Stoffe, die die Qualität der Luft, die wir atmen beeinflusst",
+    "dk": "Stoffer, der er til stede i atmosfæren i en så stor mængde, at det kan skade mennesker, dyr, planter eller genstande.",
+    "en-GB": "Solid or gaseous matter affecting the quality of air that we breathe",
+    "en-US": "Solid or gaseous matter affecting the quality of air that we breathe",
+    "pt-BR": "Matéria sólida ou gasosa que afeta a qualidade do ar que respiramos.",
+    "pt-PT": "Matéria sólida ou gasosa que afeta a qualidade do ar que respiramos.",
+    "se": "Ämnen som förekommer i atmosfären i så stor mängd att det kan skada människor, djur, växter eller föremål.",
+    "zh-Hans": "影响我们呼吸的空气质量的固态或气态物质"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06005001",
+    "https://www.wikidata.org/entity/Q131123"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تلوث جو",
+    "de": "Luftverschmutzung",
+    "dk": "luftforurening",
+    "en-GB": "air pollution",
+    "en-US": "air pollution",
+    "es": "Contaminación del aire",
+    "fr": "Pollution de l'air",
+    "no": "luftforurensning",
+    "pt-BR": "poluição atmosférica",
+    "pt-PT": "poluição atmosférica",
+    "se": "Luftföroreningar",
+    "zh-Hans": "空气污染"
+  },
+  "qcode": "medtop:20000425",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000425",
+  "aid": "iptc_20000425"
+}

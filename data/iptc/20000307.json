@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000304"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Artikel, die sich auf das Filmgeschäft beziehen",
+    "dk": "Kommercielle virksomheder, der er afsat til optagelse, forarbejdning, erhvervelse, distribution, visning, salg og leje af film.",
+    "en-GB": "The business of cinema",
+    "en-US": "The business of movies, film, and cinema",
+    "pt-BR": "Histórias relativas ao negócio do cinema.",
+    "pt-PT": "Histórias relativas ao negócio do cinema.",
+    "se": "Den kommersiella verksamhet som ägnas åt inspelning, bearbetning, förvärv, distribution, visning, försäljning och uthyrning av film.",
+    "zh-Hans": "电影业务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04010003",
+    "https://www.wikidata.org/entity/Q1415395"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صناعة السينما",
+    "de": "Filmindustrie",
+    "dk": "filmbranche",
+    "en-GB": "cinema industry",
+    "en-US": "motion picture industry",
+    "es": "Industria cinematográfica",
+    "fr": "Industrie du cinéma",
+    "no": "filmindustri",
+    "pt-BR": "indústria cinematográfica",
+    "pt-PT": "indústria cinematográfica",
+    "se": "Filmindustrin",
+    "zh-Hans": "电影业"
+  },
+  "qcode": "medtop:20000307",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000307",
+  "aid": "iptc_20000307"
+}

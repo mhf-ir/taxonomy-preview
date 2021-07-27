@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000345"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Übernahme von privaten Unternehmen oder Eigentum durch den Staat.",
+    "dk": "Statslig overtagelse af private virksomheder eller ejendomme.",
+    "en-GB": "State takeover of private companies or properties",
+    "en-US": "State takeover of private companies or properties",
+    "pt-BR": "Tomada de posse por parte do estado de empresas ou propriedades privadas.",
+    "pt-PT": "Tomada de posse por parte do estado de empresas ou propriedades privadas.",
+    "se": "Överföring av privat egendom till staten eller samhället.",
+    "zh-Hans": "国家接管私人公司或财产"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11006012",
+    "https://www.wikidata.org/entity/Q178564"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تأميم",
+    "de": "Verstaatlichung",
+    "dk": "nationalisering",
+    "en-GB": "nationalisation",
+    "en-US": "nationalization",
+    "es": "Nacionalización",
+    "fr": "Nationalisation",
+    "no": "nasjonalisering",
+    "pt-BR": "nacionalização",
+    "pt-PT": "nacionalização",
+    "se": "Förstatligande",
+    "zh-Hans": "国有化"
+  },
+  "qcode": "medtop:20000623",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000623",
+  "aid": "iptc_20000623"
+}

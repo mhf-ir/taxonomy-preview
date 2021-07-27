@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15051001"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001049"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schießwettkampf mit Pistole",
+    "dk": "En skydedisciplin, hvor man anvender pistol.",
+    "en-GB": "Shooting event using a pistol",
+    "en-US": "Shooting event using a pistol",
+    "pt-BR": "Prova de tiro com pistola.",
+    "pt-PT": "Prova de tiro com pistola.",
+    "se": "En sportskyttegren där man använder en pistol.",
+    "zh-Hans": "使用手枪的射击活动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q4632203"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic sport shooting + sports facet shootingtype."
+  },
+  "prefLabel": {
+    "ar": "رماية مسدس",
+    "de": "Pistole",
+    "dk": "pistolskydning",
+    "en-GB": "pistol shooting",
+    "en-US": "pistol shooting",
+    "es": "Pistola",
+    "fr": "Tir au pistolet",
+    "no": "25 meter pistol",
+    "pt-BR": "pistola",
+    "pt-PT": "pistola",
+    "se": "Pistol",
+    "zh-Hans": "手枪射击"
+  },
+  "qcode": "medtop:20001050",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001050",
+  "aid": "iptc_20001050"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000243"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Konsumierbare Getränke, alkoholische und nicht-alkoholische",
+    "dk": "Drikkelig væske, med eller uden alkohol.",
+    "en-GB": "Liquid consumables, both alcoholic and non-alcoholic",
+    "en-US": "Liquid consumables, both alcoholic and non-alcoholic",
+    "pt-BR": "Consumíveis líquidos, alcoólicos e não alcoólicos.",
+    "pt-PT": "Consumíveis líquidos, alcoólicos e não alcoólicos.",
+    "se": "Drickbar vätska, med eller utan alkohol.",
+    "zh-Hans": "包括含酒精的和不含酒精的液体消耗品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04007008",
+    "https://www.wikidata.org/entity/Q40050"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مشروبات",
+    "de": "Getränke",
+    "dk": "drikkevare",
+    "en-GB": "beverage",
+    "en-US": "beverage",
+    "es": "Bebidas",
+    "fr": "Boissons",
+    "no": "drikke",
+    "pt-BR": "bebidas",
+    "pt-PT": "bebidas",
+    "se": "Drycker",
+    "zh-Hans": "饮料"
+  },
+  "qcode": "medtop:20000244",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000244",
+  "aid": "iptc_20000244"
+}

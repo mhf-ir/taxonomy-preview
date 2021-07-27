@@ -1,0 +1,57 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/01000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Medien, die ein großes Publikum erreichen",
+    "dk": "Tekst, lyd og billede sammensat for at blive præsenteret for et større publikum.",
+    "en-GB": "Media addressing a large audience",
+    "en-US": "Media addressing a large audience",
+    "fr": "Médias s'adressant à une large audience",
+    "pt-BR": "Meios de comunicação que se destinam a um grande público, como a televisão, o rádio, as revistas, os jornais etc.",
+    "pt-PT": "Meios de comunicação que se destinam a um grande público, como a televisão, o rádio, as revistas, os jornais, etc.",
+    "se": "Text, ljud och bild som satts ihop för att presenteras för en större publik.",
+    "zh-Hans": "面向大量受众的媒体"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q11033",
+    "http://cv.iptc.org/newscodes/subjectcode/01026000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000046",
+    "medtop:20000047",
+    "medtop:20000048",
+    "medtop:20000049",
+    "medtop:20000050",
+    "medtop:20000051",
+    "medtop:20001182",
+    "medtop:20001293",
+    "medtop:20001319"
+  ],
+  "prefLabel": {
+    "ar": "اعلام جماهيري",
+    "de": "Massenmedien",
+    "dk": "massemedie",
+    "en-GB": "mass media",
+    "en-US": "mass media",
+    "es": "Medios masivos de comunicación",
+    "fr": "Médias",
+    "no": "massemedier",
+    "pt-BR": "mídia de massas",
+    "pt-PT": "meios de comunicação",
+    "se": "Massmedier",
+    "zh-Hans": "大众传媒"
+  },
+  "qcode": "medtop:20000045",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000045",
+  "aid": "iptc_20000045"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000560"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Tauchen in unterschiedlichen Tiefen unter Zeitmessung",
+    "dk": "Dykning i forskellige dybder med tidsmåling.",
+    "en-GB": "Underwater diving with the use of a self-contained underwater breathing apparatus",
+    "en-US": "Underwater diving with the use of a self-contained underwater breathing apparatus",
+    "pt-BR": "Mergulho subaquático com o uso de um aparelho respiratório subaquático independente.",
+    "pt-PT": "Mergulho subaquático com o uso de um aparelho respiratório subaquático independente.",
+    "se": "Samlingsbegrepp för olika grenar med dykning under vatten.",
+    "zh-Hans": "使用自给式水下呼吸器进行水下潜水"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15021006",
+    "https://www.wikidata.org/entity/Q1096878"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سكوبا",
+    "de": "Sporttauchen",
+    "dk": "flaskedykning",
+    "en-GB": "scuba diving",
+    "en-US": "scuba diving",
+    "es": "Buceo",
+    "fr": "Plongée sous-marine",
+    "no": "apparatdykking",
+    "pt-BR": "mergulho",
+    "pt-PT": "mergulho",
+    "se": "Dyksport",
+    "zh-Hans": "水肺潜水"
+  },
+  "qcode": "medtop:20000917",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000917",
+  "aid": "iptc_20000917"
+}

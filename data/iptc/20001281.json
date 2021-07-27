@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2019-10-07T12:00:00+00:00",
+  "definition": {
+    "de": "Squashähnlicher Schlägersport, bei dem der Ball vor dem Schlagen einmal abprallen muss und bei dem eine grössere Spielfläche zur Verfügung steht.",
+    "dk": "En ketsjersport, der minder om squash,men spilles med en ketsjer med kortere skaft. Den spilles også på en lukket bane, hvor man må benytte alle flader, når man sender bolden afsted.",
+    "en-GB": "A racquet sport similar to squash in which the ball must bounce once before being struck and with a greater area of in-bound play",
+    "en-US": "A racquet sport similar to squash in which the ball must bounce once before being struck and with a greater area of in-bound play",
+    "pt-BR": "Esporte de raquete semelhante ao squash em que a bola deve quicar uma vez antes de ser atingida e com uma área maior de jogo.",
+    "pt-PT": "Desporto de raquete semelhante ao squash em que a bola deve bater uma vez antes de ser atingida e com uma área maior de jogo.",
+    "se": "Bollsport som är väldigt lik Squash.",
+    "zh-Hans": "又译美式壁球，类似于壁球的球拍运动，在击球之前，球必须反弹一次，但相比壁球有更大的击打空间"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q754586"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كرة الراح",
+    "de": "Racquetball",
+    "dk": "racketball",
+    "en-GB": "racquetball",
+    "en-US": "racquetball",
+    "es": "Raquetbol",
+    "fr": "Racquetball",
+    "no": "racquetball",
+    "pt-BR": "raquetebol",
+    "pt-PT": "raquetebol",
+    "se": "Raquetboll",
+    "zh-Hans": "短柄墙球"
+  },
+  "qcode": "medtop:20001281",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001281",
+  "aid": "iptc_20001281"
+}

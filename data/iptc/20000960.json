@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Pferderennen mit Reiter",
+    "dk": "Hestevæddeløb er en sport, hvor to eller flere ryttere eller kuske rider eller fører en hest over en given distance for at komme først i mål.",
+    "en-GB": "Mounted horse races.",
+    "en-US": "Mounted horse races.",
+    "pt-BR": "Corridas de cavalos montados.",
+    "pt-PT": "Corridas de cavalos montados.",
+    "se": "Hästtävlingar med ryttaren sittande på hästen. Hästen får galoppera.",
+    "zh-Hans": "骑马比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15030000",
+    "https://www.wikidata.org/entity/Q187916"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000961",
+    "medtop:20000962",
+    "medtop:20000963"
+  ],
+  "prefLabel": {
+    "ar": "سباق خيول",
+    "de": "Pferderennen",
+    "dk": "hestevæddeløb",
+    "en-GB": "horse racing",
+    "en-US": "horse racing",
+    "es": "Hipismo",
+    "fr": "Hippisme",
+    "no": "hesteveddeløp",
+    "pt-BR": "corridas de cavalos",
+    "pt-PT": "corridas de cavalos",
+    "se": "Galopp",
+    "zh-Hans": "赛马"
+  },
+  "qcode": "medtop:20000960",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000960",
+  "aid": "iptc_20000960"
+}

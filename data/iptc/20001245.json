@@ -1,0 +1,41 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000235"
+  ],
+  "created": "2019-07-25T12:00:00+00:00",
+  "definition": {
+    "de": "Der Bau der grundlegenden Einrichtungen und Systeme, die ein Land, eine Stadt oder ein anderes Gebiet versorgen, einschließlich Straßen, Brücken, Dämme, Tunnel, Telekommunikations- und Stromnetze",
+    "dk": "Byggeri af grundlæggende faciliteter som veje, broer, tunneller, telekommunikation og el-net.",
+    "en-GB": "The construction of the fundamental facilities and systems serving a country, city, or other area, including roads, bridges, dams, tunnels, telecommunications and electrical grids",
+    "en-US": "The construction of the fundamental facilities and systems serving a country, city, or other area, including roads, bridges, dams, tunnels, telecommunications and electrical grids",
+    "pt-BR": "Construção das instalações e dos sistemas básicos que servem um país, cidade ou outra área, como estradas, pontes, represas, túneis, telecomunicações e redes elétricas.",
+    "pt-PT": "Construção das instalações e dos sistemas básicos que servem um país, cidade ou outra área, como estradas, pontes, represas, túneis, telecomunicações e redes elétricas.",
+    "se": "Planering, anläggning och underhåll av grundläggande saker som vägar, broar, järnvägar, elnät osv.",
+    "zh-Hans": "为国家、城市或其他地区服务的基础设施和系统的建设，包括道路、桥梁、大坝、隧道、电信和电网"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-25T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مشاريع بنى تحتية",
+    "de": "Infrastruktuprojekte",
+    "dk": "infrastrukturprojekter",
+    "en-GB": "infrastructure projects",
+    "en-US": "infrastructure projects",
+    "es": "Proyectos de infraestructura",
+    "fr": "Projets d'infrastructure",
+    "no": "infrastrukturprosjekter",
+    "pt-BR": "projetos de infraestrutura",
+    "pt-PT": "projetos de infraestrutura",
+    "se": "Infrastruktur",
+    "zh-Hans": "基础设施项目"
+  },
+  "qcode": "medtop:20001245",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001245",
+  "aid": "iptc_20001245"
+}

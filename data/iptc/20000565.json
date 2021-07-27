@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/10000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Lebensform und Kultur der eigenen Heimat",
+    "dk": "Bevidst valgt måde, at indrette sit liv på som signalerer en bestemt social identitet.",
+    "en-GB": "The way in which a person lives, including their style and possessions",
+    "en-US": "The way in which a person lives, including their style and possessions",
+    "pt-BR": "Modo de vida de uma pessoa, incluindo seu estilo e posses.",
+    "pt-PT": "Modo de vida de uma pessoa, incluindo o seu estilo e posses.",
+    "se": "Yttre sätt att leva sitt liv.",
+    "zh-Hans": "一个人的生活方式，包括他们的风格和财产"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q32090"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000569",
+    "medtop:20000570",
+    "medtop:20000572",
+    "medtop:20001143"
+  ],
+  "prefLabel": {
+    "ar": "اسلوب حياة",
+    "de": "Lebensstil",
+    "dk": "livsstil",
+    "en-GB": "lifestyle",
+    "en-US": "lifestyle",
+    "es": "Estilo de vida",
+    "fr": "Mode de vie",
+    "no": "livsstil",
+    "pt-BR": "estilo de vida",
+    "pt-PT": "estilo de vida",
+    "se": "Livsstil",
+    "zh-Hans": "生活方式"
+  },
+  "qcode": "medtop:20000565",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000565",
+  "aid": "iptc_20000565"
+}

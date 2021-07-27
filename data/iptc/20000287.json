@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Private Finanzen und Investitionen",
+    "dk": "Den enkeltes finansielle investeringer.",
+    "en-GB": "Personal finance and investment",
+    "en-US": "Personal finance and investment",
+    "pt-BR": "Finanças e investimentos pessoais.",
+    "pt-PT": "Finanças e investimentos pessoais.",
+    "se": "En individs personliga finanser och ekonomiska satsningar.",
+    "zh-Hans": "个人理财及投资"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006010",
+    "https://www.wikidata.org/entity/Q253613"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "استثمارات شخصية",
+    "de": "Privatinvestition",
+    "dk": "personlig investering",
+    "en-GB": "personal investing",
+    "en-US": "personal investing",
+    "es": "Inversiones personales",
+    "fr": "Placements personnels",
+    "no": "personlig investering",
+    "pt-BR": "investimentos pessoais",
+    "pt-PT": "investimentos pessoais",
+    "se": "Privata investeringar",
+    "zh-Hans": "个人投资"
+  },
+  "qcode": "medtop:20000287",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000287",
+  "aid": "iptc_20000287"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000331"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Geschäft mit dem Angebot von verschiedenen Glücksspielen, wie Kartenspiel, Würfel, Lotto, Toto, Pferdewetten.",
+    "dk": "Virksomheden, der tilbyder hasardspil, enten online eller fysisk som i et casino.",
+    "en-GB": "The business of providing outlets for various games of chance using cards, dice, spinning wheels to betting on animal races",
+    "en-US": "The business of providing outlets for various games of chance using cards, dice, spinning wheels to betting on animal races",
+    "pt-BR": "Negócio do jogo, desde as instalações para vários jogos de azar, usando cartas, dados, roletas, até apostas em corridas de animais.",
+    "pt-PT": "Negócio do jogo, desde as instalações para vários jogos de azar, usando cartas, dados, roletas, até apostas em corridas de animais.",
+    "se": "Affärsverksamhet som går ut på att erbjuda lokaler för spel där utgången helt eller huvudsakligen bestäms av slumpen.",
+    "zh-Hans": "利用纸牌、骰子、旋转轮子赌动物等为各种机会游戏提供渠道的业务。"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04014001",
+    "https://www.wikidata.org/entity/Q61054412"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كازينو وقمار",
+    "de": "Glücksspielindustrie",
+    "dk": "gambling og spil",
+    "en-GB": "casino and gambling",
+    "en-US": "casino and gambling",
+    "es": "Casinos y juegos de azar",
+    "fr": "Casinos et jeux d'argent",
+    "no": "casino og gambling",
+    "pt-BR": "cassinos e jogo",
+    "pt-PT": "casinos e jogo",
+    "se": "Casinon",
+    "zh-Hans": "赌场和博彩"
+  },
+  "qcode": "medtop:20000332",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000332",
+  "aid": "iptc_20000332"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine indische Religion, die einen Weg lehrt zu spiritueller Reinheit und Erleuchtung, durch einen disziplinierten Lebensstil auf der Tradition von Gewaltlosigkeit gegenüber allen Lebewesen. Begann im 7.-5. Jahrhundert vor Christus.",
+    "dk": "Jainisme er en indisk religion baseret på Mahavir Swamis forkyndelser.",
+    "en-GB": "A religion of India that teaches a path to spiritual purity and enlightenment through a disciplined mode of life founded upon the tradition of ahimsa, nonviolence to all living creatures. It began in the 7th-5th century BC.",
+    "en-US": "A religion of India that teaches a path to spiritual purity and enlightenment through a disciplined mode of life founded upon the tradition of ahimsa, nonviolence to all living creatures. It began in the 7th-5th century BC.",
+    "pt-BR": "Religião da Índia que ensina o caminho para a pureza e a iluminação espirituais através de um modo de vida disciplinado fundado na tradição de ainsa, não violência para todas as criaturas vivas. Teve origem nos séculos VII-V a.C.",
+    "pt-PT": "Religião da Índia que ensina o caminho para a pureza e a iluminação espirituais através de um modo de vida disciplinado fundado na tradição de ainsa, não-violência para todas as criaturas vivas. Teve origem nos séculos VII-V a.C.",
+    "se": "En indisk religion som är besläktad med buddhismen.",
+    "zh-Hans": "印度的一种宗教，通过一种建立在对所有生物非暴力的传统基础上的有纪律的生活方式，教导人们通往精神纯洁和启蒙的道路。它开始于公元前7 -5世纪。"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12020000",
+    "https://www.wikidata.org/entity/Q9232"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "جاينية",
+    "de": "Jainismus",
+    "dk": "jainisme",
+    "en-GB": "Jainism",
+    "en-US": "Jainism",
+    "es": "Jainismo",
+    "fr": "Jaïnisme",
+    "no": "jainisme",
+    "pt-BR": "jainismo",
+    "pt-PT": "jainismo",
+    "se": "Jainism",
+    "zh-Hans": "耆那教"
+  },
+  "qcode": "medtop:20000678",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000678",
+  "aid": "iptc_20000678"
+}

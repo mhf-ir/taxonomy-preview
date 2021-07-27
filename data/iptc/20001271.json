@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000690"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Christliches Fest, das zu Ehren aller bekannten und unbekannten Heiligen gefeiert wird. Der Feiertag ist auch als Allerheiligentag, Halloween, Allerheiligenfest oder Allerheiligenfeiertag bekannt.",
+    "dk": "En fejring af alle helgener, som ikke er en dansk helligdag. Ligger altid 1. november.",
+    "en-GB": "Christian festival celebrated in honour of all the saints, known and unknown. Holiday is also known as All Hallows' Day, Hallowmas, Feast of All Saints or Solemnity of All Saints",
+    "en-US": "Christian festival celebrated in honor of all the saints, known and unknown. Holiday is also known as All Hallows' Day, Hallowmas, Feast of All Saints or Solemnity of All Saints",
+    "pt-BR": "Celebração cristã em homenagem a todos os santos, conhecidos e desconhecidos. O feriado também é conhecido como Festa de Todos os Santos ou Solenidade de Todos os Santos.",
+    "pt-PT": "Celebração cristã em homenagem a todos os santos, conhecidos e desconhecidos. O feriado também é conhecido como Festa de Todos os Santos ou Solenidade de Todos os Santos.",
+    "se": "Kristen högtid då de avlidna hyllas.",
+    "zh-Hans": "纪念所有已知和未知圣徒的基督教节日"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q587"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عيد جميع القديسين",
+    "de": "Allerheiligen",
+    "dk": "allehelgensdag",
+    "en-GB": "All Saints Day",
+    "en-US": "All Saints Day",
+    "es": "Día de Todos los Santos",
+    "fr": "Toussaint",
+    "no": "allehelgensdag",
+    "pt-BR": "Dia de Todos os Santos",
+    "pt-PT": "Dia de Todos os Santos",
+    "se": "Alla helgons dag",
+    "zh-Hans": "诸圣节"
+  },
+  "qcode": "medtop:20001271",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001271",
+  "aid": "iptc_20001271"
+}

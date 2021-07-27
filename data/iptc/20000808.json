@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/14000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Persönliche Stufen sozialen Verhaltens",
+    "dk": "Niveauer af adfærd og dets accept af samfundet.",
+    "en-GB": "A person's or group's principles or standards of behaviour, which guide their way of living and choices made",
+    "en-US": "A person's or group's principles or standards of behavior, which guide their way of living and choices made",
+    "pt-BR": "Níveis de conduta e sua aceitação pela comunidade.",
+    "pt-PT": "Níveis de conduta e sua aceitação pela comunidade.",
+    "se": "Allmänt delade, men många gånger underförstådda, regler och förväntningar på beteende som gäller inom en mindre social gemenskap eller i samhället i stort.",
+    "zh-Hans": "行为水平及其社区接受程度。"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12006000",
+    "https://www.wikidata.org/entity/Q831695"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000809",
+    "medtop:20000810",
+    "medtop:20000814",
+    "medtop:20000815",
+    "medtop:20000816"
+  ],
+  "prefLabel": {
+    "ar": "قيم",
+    "de": "Wertvorstellung",
+    "dk": "værdier",
+    "en-GB": "values",
+    "en-US": "values",
+    "es": "Valores",
+    "fr": "Valeurs",
+    "no": "verdigrunnlag",
+    "pt-BR": "valores",
+    "pt-PT": "valores",
+    "se": "Sociala värderingar",
+    "zh-Hans": "社会准则"
+  },
+  "qcode": "medtop:20000808",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000808",
+  "aid": "iptc_20000808"
+}

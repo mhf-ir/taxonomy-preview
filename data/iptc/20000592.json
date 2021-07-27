@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000587"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rechte, die von allen Bürgern in Anspruch genommen werden können",
+    "dk": "Individets grundlæggende rettigheder over for statsmagten, såsom ytringsfrihed, religionsfrihed og diskrimination.",
+    "en-GB": "Rights entitled to be enjoyed by all citizens universally",
+    "en-US": "Rights entitled to be enjoyed by all citizens universally",
+    "pt-BR": "Direitos comuns a todos os cidadãos do mundo.",
+    "pt-PT": "Direitos comuns a todos os cidadãos do mundo.",
+    "se": "Individens grundläggande rättigheter gentemot statsmakten, t ex yttrandefrihet och religionsfrihet.",
+    "zh-Hans": "所有公民普遍享有的权利"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11007000",
+    "https://www.wikidata.org/entity/Q8458"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حقوق الانسان",
+    "de": "Menschenrechte",
+    "dk": "menneskerettighed",
+    "en-GB": "human rights",
+    "en-US": "human rights",
+    "es": "Derechos humanos",
+    "fr": "Droits de l'homme",
+    "no": "menneskerettigheter",
+    "pt-BR": "direitos humanos",
+    "pt-PT": "direitos humanos",
+    "se": "Mänskliga rättigheter",
+    "zh-Hans": "人权"
+  },
+  "qcode": "medtop:20000592",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000592",
+  "aid": "iptc_20000592"
+}

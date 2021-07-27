@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000002"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Form der darstellenden Kunst bei der Künstler eine Erzählung vor dem Publikum durch Dialog und Aktivitäten vermitteln",
+    "dk": "En kunstform, der udtrykker følelser og budskaber gennem en historie, der formidles på scenen via dialog og handlinger foran et publikum.",
+    "en-GB": "A form of performing art where live performers portray a narrative to an audience through dialogue and action",
+    "en-US": "A form of performing art where live performers portray a narrative to an audience through dialog and action",
+    "es": "Forma de arte escénico donde los artistas interpretan una obra frente a un público a través de un diálogo y acción",
+    "fr": "Art du spectacle où des comédiens interprètent une pièce sur scène devant un public à travers le dialogue et l'action",
+    "pt-BR": "Representação de  uma história ou ideia através de diálogos, música e expressão física, em espaço ou edifício concebido para o efeito.",
+    "pt-PT": "Representação de uma história ou ideia através de diálogos, música e expressão física, em espaço ou edifício concebido para o efeito.",
+    "se": "Uttryck av känslor eller överförande av budskap via en historia som framförs genom dialog, musik, och/eller fysiska uttryck.",
+    "zh-Hans": "一种表演艺术形式，通过舞台上的对白和动作向观众讲故事"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01017000",
+    "https://www.wikidata.org/entity/Q11635"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000030",
+    "medtop:20001180",
+    "medtop:20001190"
+  ],
+  "prefLabel": {
+    "ar": "مسرح",
+    "de": "Theater",
+    "dk": "teater",
+    "en-GB": "theatre",
+    "en-US": "theater",
+    "es": "Teatro",
+    "fr": "Théâtre",
+    "no": "teater",
+    "pt-BR": "teatro",
+    "pt-PT": "teatro",
+    "se": "Teater",
+    "zh-Hans": "戏剧"
+  },
+  "qcode": "medtop:20000029",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000029",
+  "aid": "iptc_20000029"
+}

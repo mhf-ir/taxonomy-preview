@@ -1,0 +1,41 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000568"
+  ],
+  "created": "2019-07-30T12:00:00+00:00",
+  "definition": {
+    "de": "Interesse an der Zubereitung von Mahlzeiten oder Backwaren",
+    "dk": "Interesse for at tilberede mad eller bagværk.",
+    "en-GB": "Interest in preparing meals or baked goods",
+    "en-US": "Interest in preparing meals or baked goods",
+    "pt-BR": "Interesse por preparar refeições ou cozinhados.",
+    "pt-PT": "Interesse por preparar refeições ou cozinhados.",
+    "se": "Intresse i metoder och recept för att laga mat och baka.",
+    "zh-Hans": "准备饭菜或烘焙食品的兴趣"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-30T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "طهو",
+    "de": "Kochen und Backen",
+    "dk": "madlavning og bagning",
+    "en-GB": "cooking and baking",
+    "en-US": "cooking and baking",
+    "es": "Cocina (ocio)",
+    "fr": "Cuisine (loisir)",
+    "no": "matlaging",
+    "pt-BR": "cozinhar",
+    "pt-PT": "cozinhar",
+    "se": "Matlagning och bakning",
+    "zh-Hans": "烹饪和烘焙"
+  },
+  "qcode": "medtop:20001253",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001253",
+  "aid": "iptc_20001253"
+}

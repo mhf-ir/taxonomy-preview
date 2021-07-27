@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/15000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Organisationen und Sportverbände",
+    "dk": "Organisationer eller foreninger, der beskæftiger sig med sport.",
+    "en-GB": "Organisations or associations of sports",
+    "en-US": "organizations or associations of sports",
+    "pt-BR": "Organizações responsáveis por um evento esportivo.",
+    "pt-PT": "Organizações responsáveis por um evento desportivo.",
+    "se": "Ett samlande namn på institutioner och organisationer som ägnar sig åt idrott, såsom lokala idrottsföreningar, idrottsförbund och idrottsfederationer.",
+    "zh-Hans": "体育组织或协会"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q4438121",
+    "http://cv.iptc.org/newscodes/subjectcode/15058000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "منظمة رياضية",
+    "de": "Sportorganisation",
+    "dk": "sports -og idrætsorganisation",
+    "en-GB": "sport organisation",
+    "en-US": "sport organization",
+    "es": "Organización deportiva",
+    "fr": "Organisation sportive",
+    "no": "idrettspolitikk",
+    "pt-BR": "organizações esportivas",
+    "pt-PT": "organizações desportivas",
+    "se": "Idrottsorganisationer",
+    "zh-Hans": "体育组织"
+  },
+  "qcode": "medtop:20001125",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001125",
+  "aid": "iptc_20001125"
+}

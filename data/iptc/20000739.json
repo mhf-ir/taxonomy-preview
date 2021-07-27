@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000738"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die wissenschaftliche Erforschung des Weltraums durch bemannte und unbemannte Missionen",
+    "dk": "Den videnskabelige udforskning af det ydre rum gennem bemandede og ubemandede missioner.",
+    "en-GB": "The scientific exploration of outer space through manned and unmanned missions",
+    "en-US": "The scientific exploration of outer space through manned and unmanned missions",
+    "es": "La exploración científica del espacio exterior a través de misiones tripuladas y no tripuladas",
+    "fr": "Exploration scientifique de l'espace à travers des missions habitées et non habitées",
+    "pt-BR": "Exploração científica do espaço sideral através de missões tripuladas e não tripuladas.",
+    "pt-PT": "Exploração científica do espaço sideral através de missões tripuladas e não tripuladas.",
+    "se": "Det vetenskapliga utforskandet av yttre rymden genom bemannade och obemannade rymdfärder.",
+    "zh-Hans": "通过载人和无人飞行任务对外层空间进行科学探索"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13008000",
+    "https://www.wikidata.org/entity/Q180046"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "برنامج فضائي",
+    "de": "Weltraumforschung",
+    "dk": "rumfart",
+    "en-GB": "space exploration",
+    "en-US": "space exploration",
+    "es": "Exploración espacial",
+    "fr": "Exploration de l'Espace",
+    "no": "romforskning",
+    "pt-BR": "exploração espacial",
+    "pt-PT": "exploração espacial",
+    "se": "Rymdforskning",
+    "zh-Hans": "太空探索"
+  },
+  "qcode": "medtop:20000739",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000739",
+  "aid": "iptc_20000739"
+}

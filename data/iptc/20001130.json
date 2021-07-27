@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/17000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Numerische Daten über das Wetter, wie etwa Temperatur, Luftdruck, Luftfeuchtigkeit, Wasserstände, auch von Flut und Ebbe.",
+    "dk": "Numeriske fakta om vejret som temperatur, barometrisk tryk, flodniveauer, fugtighed eller høj og lavvande.",
+    "en-GB": "Numerical facts about the weather such as temperature, barometric pressure, river levels, humidity or high and low tides",
+    "en-US": "Numerical facts about the weather such as temperature, barometric pressure, river levels, humidity or high and low tides",
+    "es": "Datos numéricos como temperatura, humedad, presión atmosférica, nivel de inundación o variación de la marea",
+    "fr": "Données numériques telles que la température, le taux d'humidité, la pression atmosphérique, le niveau de crue ou la variation des marées",
+    "pt-BR": "Fatos numéricos sobre o tempo, como temperatura, pressão atmosférica, níveis dos rios, umidade, marés altas e marés baixas etc.",
+    "pt-PT": "Factos numéricos sobre o tempo, como temperatura, pressão atmosférica, níveis dos rios, humidade, marés altas e marés baixas, etc.",
+    "se": "Numeriska fakta om vädret, såsom temperatur, hög- och lågtryck, luftfuktighet och liknande.",
+    "zh-Hans": "有关天气的数值事实，例如温度、气压、河流水位、湿度或涨潮或退潮"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/17004000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "احصاءات احوال جوية",
+    "de": "Wetterstatistik",
+    "dk": "vejrstatistik",
+    "en-GB": "weather statistic",
+    "en-US": "weather statistic",
+    "es": "Estadísticas meteorológicas",
+    "fr": "Statistiques météorologiques",
+    "no": "værstatistikk",
+    "pt-BR": "estatísticas climáticas",
+    "pt-PT": "estatísticas climáticas",
+    "se": "Väderstatistik",
+    "zh-Hans": "气象数据"
+  },
+  "qcode": "medtop:20001130",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001130",
+  "aid": "iptc_20001130"
+}

@@ -1,0 +1,57 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10010000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/10000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Aktivitäten, die jemand in seiner freien Zeit ausübt.",
+    "dk": "Aktiviteter, der udføres i en persons fritid.",
+    "en-GB": "Activities  carried out in ones' spare time and not in a competitive way.",
+    "en-US": "Activities carried out in ones' spare time and not in a competitive way.",
+    "pt-BR": "Atividades desenvolvidas no tempo livre e de forma não competitiva.",
+    "pt-PT": "Atividades desenvolvidas no tempo livre e de forma não competitiva.",
+    "se": "Aktiviteter som utförs under en persons fritid och utan organiserade tävlingsinslag.",
+    "zh-Hans": "在业余时间以非竞争方式进行的活动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q180910"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000539",
+    "medtop:20000540",
+    "medtop:20000549",
+    "medtop:20000550",
+    "medtop:20000551",
+    "medtop:20000553",
+    "medtop:20000560",
+    "medtop:20000563"
+  ],
+  "prefLabel": {
+    "ar": "ترفيه",
+    "de": "Freizeit",
+    "dk": "fritid",
+    "en-GB": "leisure",
+    "en-US": "leisure",
+    "es": "Ocio",
+    "fr": "Loisirs",
+    "no": "fritid",
+    "pt-BR": "lazer",
+    "pt-PT": "lazer",
+    "se": "Fritid",
+    "zh-Hans": "休闲"
+  },
+  "qcode": "medtop:20000538",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000538",
+  "aid": "iptc_20000538"
+}

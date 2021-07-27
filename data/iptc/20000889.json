@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mit Schlägern werden Bälle durch kleine Pfostentore geschlagen",
+    "dk": "Spilles på en græsplæne med buer, som spillerne skal slå deres bolde igennem og være de første til at komme igennem banen.",
+    "en-GB": "Using mallets to hit a ball through hoops",
+    "en-US": "Using mallets to hit a ball through hoops",
+    "pt-BR": "Jogo em que se bate uma bola com um taco de madeira para passar debaixo de pequenos arcos fixados na grama.",
+    "pt-PT": "Jogo em que se bate uma bola com um taco de madeira para passar debaixo de pequenos arcos fixados na relva.",
+    "se": "Spelas på gräsmatta med bågar som spelarna ska slå sina klot igenom och bli först att ta sig igenom banan.",
+    "zh-Hans": "使用球棍击球过圈"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15081000",
+    "https://www.wikidata.org/entity/Q193387"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كروكيت",
+    "de": "Crocket",
+    "dk": "kroket",
+    "en-GB": "croquet",
+    "en-US": "croquet",
+    "es": "Croquet",
+    "fr": "Croquet",
+    "no": "krokket",
+    "pt-BR": "croquet",
+    "pt-PT": "croquet",
+    "se": "Krocket",
+    "zh-Hans": "门球"
+  },
+  "qcode": "medtop:20000889",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000889",
+  "aid": "iptc_20000889"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000225"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Geräte wie Telefonanlagen, Modems, Fax etc. die den Austausch von Sprache/Daten erleichtern",
+    "dk": "Varer, der letter transmissionen af data eller stemmemeddelelser, såsom telefoner, switches og modemmer.",
+    "en-GB": "Devices such as telephone sets, voice/data switches, modems etc that facilitate point-to-point voice/data transmissions",
+    "en-US": "Devices such as telephone sets, voice/data switches, modems etc that facilitate point-to-point voice/data transmissions",
+    "pt-BR": "Aparelhos como telefones, comutadores de integração voz/dados, modems etc., que facilitam a transmissão voz/dados de um ponto para outro.",
+    "pt-PT": "Aparelhos como telefones, comutadores de integração voz/dados, modems, etc., que facilitam a transmissão voz/dados de um ponto para outro.",
+    "se": "Varor som underlättar överföring av data eller röstmeddelanden, t ex telefoner, växlar och modem.",
+    "zh-Hans": "实现点对点语音或数据传输的设备，如电话机、语音数据交换机、调制解调器等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04003006"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "معدات اتصالات",
+    "de": "Telekommunikation Ausrüstung",
+    "dk": "telekommunikationsudstyr",
+    "en-GB": "telecommunication equipment",
+    "en-US": "telecommunication equipment",
+    "es": "Equipos de telecomunicaciones",
+    "fr": "Équipement de télécommunication",
+    "no": "telekommunikasjonsutstyr",
+    "pt-BR": "equipamentos de telecomunicação",
+    "pt-PT": "equipamentos de telecomunicação",
+    "se": "Telekomutrustning",
+    "zh-Hans": "电信设备"
+  },
+  "qcode": "medtop:20000232",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000232",
+  "aid": "iptc_20000232"
+}

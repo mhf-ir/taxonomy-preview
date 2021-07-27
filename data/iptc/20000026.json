@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000021"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Gattung von Musik, die von vielen Gruppen in der Bevölkerung gehört wird und darauf abzielt, möglichst viele anzusprechen",
+    "dk": "Musikstil, der er bredt tilgængelig og komponeret for at tiltrække mange lyttere.",
+    "en-GB": "A genre of music that is widely accessible and designed to appeal to all",
+    "en-US": "A genre of music that is widely accessible and designed to appeal to all",
+    "es": "Género de música ampliamente accesible y diseñado para atraer a todos",
+    "fr": "Genre musical largement accessible et conçu pour plaire à tous",
+    "pt-BR": "Gênero de música amplamente acessível e criada para agradar a toda a gente.",
+    "pt-PT": "Género de música amplamente acessível e criada para agradar a toda a gente.",
+    "se": "Musikstil som är allmänt tillgänglig och komponerad för att locka många lyssnare.",
+    "zh-Hans": "一种广受欢迎的音乐类型，旨在吸引所有人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01011004",
+    "https://www.wikidata.org/entity/Q373342"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "موسيقى شعبية",
+    "de": "Pop",
+    "dk": "popmusik",
+    "en-GB": "popular music",
+    "en-US": "popular music",
+    "es": "Música popular",
+    "fr": "Pop",
+    "no": "pop/populærmusikk",
+    "pt-BR": "música popular",
+    "pt-PT": "música popular",
+    "se": "Pop",
+    "zh-Hans": "流行音乐"
+  },
+  "qcode": "medtop:20000026",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000026",
+  "aid": "iptc_20000026"
+}

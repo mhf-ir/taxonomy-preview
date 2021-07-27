@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Straßenrennen, bei dem die Wettkämpfer 42,195 km laufen, meist durch die Stadt",
+    "dk": "Et langdistanceløb, hvor konkurrenterne løber 42,195 km.",
+    "en-GB": "A road race where competitors run 42.195km, generally through city streets",
+    "en-US": "A road race where competitors run 42.195km, generally through city streets",
+    "pt-BR": "Corrida de estrada em que os atletas correm 42.195 km.",
+    "pt-PT": "Corrida de estrada em que os atletas correm 42.195 km.",
+    "se": "Långlopp med anor från en grekisk myt om en löpare som sprang från Marathon 42195 m. Moderna maratontävlingar går ofta på avstängda gator i stora städer.",
+    "zh-Hans": "公路赛跑。全程42.195公里。通常在市区的公路上比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15037000",
+    "https://www.wikidata.org/entity/Q40244"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ماراتون",
+    "de": "Marathon",
+    "dk": "maratonløb",
+    "en-GB": "marathon",
+    "en-US": "marathon",
+    "es": "Maratón",
+    "fr": "Marathon",
+    "no": "maraton",
+    "pt-BR": "maratona",
+    "pt-PT": "maratona",
+    "se": "Maraton",
+    "zh-Hans": "马拉松"
+  },
+  "qcode": "medtop:20000988",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000988",
+  "aid": "iptc_20000988"
+}

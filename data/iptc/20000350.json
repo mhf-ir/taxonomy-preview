@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die größte Bank eines Landes, die den Zinssatz festlegt und den Austausch von Geldflüssen zwischen kommerziellen Banken steuert.",
+    "dk": "En bank, der er centrum for banker i et land og er ansvarlig for at udstede pengesedler, udlån til staten og andre banker med mere.",
+    "en-GB": "A country's major bank that sets interest rates, and provides transfer of funds between commercial banks",
+    "en-US": "A country's major bank that sets interest rates, and provides transfer of funds between commercial banks",
+    "pt-BR": "O principal banco de um país, que fixa taxas de juro e transfere fundos entre bancos comerciais.",
+    "pt-PT": "O principal banco de um país, que fixa taxas de juro e transfere fundos entre bancos comerciais.",
+    "se": "Bank som utgör centrum för bankväsendet i ett land och har ansvar för sedelutgivningen, utlåningen till staten och andra banker med mera.",
+    "zh-Hans": "国家主要的银行，负责制定利率，并在商业银行之间提供资金转移"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008001",
+    "https://www.wikidata.org/entity/Q66344"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مصرف مركزي",
+    "de": "Zentralbank",
+    "dk": "centralbank",
+    "en-GB": "central bank",
+    "en-US": "central bank",
+    "es": "Bancos centrales",
+    "fr": "Banque centrale",
+    "no": "sentralbank",
+    "pt-BR": "banco central",
+    "pt-PT": "banco central",
+    "se": "Centralbanker",
+    "zh-Hans": "中央银行"
+  },
+  "qcode": "medtop:20000350",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000350",
+  "aid": "iptc_20000350"
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/02000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verletzung von etablierten Gesetzen durch Individuen, Firmen und Organisationen",
+    "dk": "Enkeltpersoner, virksomheder eller organisationer overtræder gældende love.",
+    "en-GB": "Violations of laws by individuals, companies or organisations",
+    "en-US": "Violations of laws by individuals, companies or organizations",
+    "pt-BR": "Violação das leis por indivíduos, empresas ou organizações.",
+    "pt-PT": "Violação das leis por indivíduos, empresas ou organizações.",
+    "se": "När individer, företag eller organisationer bryter mot gällande lagar.",
+    "zh-Hans": "个人、公司或组织违反法律的行为"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02001000",
+    "https://www.wikidata.org/entity/Q83267"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000083",
+    "medtop:20000084",
+    "medtop:20000086",
+    "medtop:20000087",
+    "medtop:20000093",
+    "medtop:20000095",
+    "medtop:20000097",
+    "medtop:20000098",
+    "medtop:20000099",
+    "medtop:20000100",
+    "medtop:20000101",
+    "medtop:20000103",
+    "medtop:20000104",
+    "medtop:20000105",
+    "medtop:20001196",
+    "medtop:20001283",
+    "medtop:20001285",
+    "medtop:20001313",
+    "medtop:20001314",
+    "medtop:20001320"
+  ],
+  "prefLabel": {
+    "ar": "جريمة",
+    "de": "Kriminalität",
+    "dk": "forbrydelse",
+    "en-GB": "crime",
+    "en-US": "crime",
+    "es": "Criminalidad",
+    "fr": "Criminalité",
+    "no": "kriminalitet",
+    "pt-BR": "crime",
+    "pt-PT": "crime",
+    "se": "Brottslighet",
+    "zh-Hans": "犯罪"
+  },
+  "qcode": "medtop:20000082",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000082",
+  "aid": "iptc_20000082"
+}

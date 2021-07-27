@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/15000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Medikamente werden genommen um die Wettbewerbsfähigkeit im Sport zu ermöglichen",
+    "dk": "Brug af stoffer i sport.",
+    "en-GB": "Using drugs to enable competitiveness in sports",
+    "en-US": "Using drugs to enable competitiveness in sports",
+    "pt-BR": "Utilização de substâncias proibidas para aumentar a competitividade no esporte.",
+    "pt-PT": "Utilização de substâncias proibidas para aumentar a competitividade no desporto.",
+    "se": "Användning av läkemedel inom idrotten.",
+    "zh-Hans": "在体育运动中使用药品保证竞争能力"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q166376"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001105",
+    "medtop:20001106",
+    "medtop:20001107"
+  ],
+  "prefLabel": {
+    "ar": "استخدام منشطات",
+    "de": "Doping (allgemein)",
+    "dk": "stofbrug i sport",
+    "en-GB": "drug use in sport",
+    "en-US": "drug use in sport",
+    "es": "Dopaje y medicamentos en el deporte",
+    "fr": "Médicaments autorisés dans le sport",
+    "no": "doping",
+    "pt-BR": "dopagem (geral)",
+    "pt-PT": "dopagem (geral)",
+    "se": "Idrottsmedicin",
+    "zh-Hans": "使用违禁药物"
+  },
+  "qcode": "medtop:20001104",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001104",
+  "aid": "iptc_20001104"
+}

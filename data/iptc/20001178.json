@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001123"
+  ],
+  "created": "2016-08-24T12:00:00+00:00",
+  "definition": {
+    "de": "Vom Internationalen Paralympischen Komitee organisierte Spiele für behinderte Sportler, die alle 4 Jahre im Winter oder Sommer stattfinden",
+    "dk": "Sportslege for handicappede atleter arrangeret af Den Internationale Paralympiske Komité og afholdt hvert 4. år om vinteren eller sommeren.",
+    "en-GB": "Games for disabled athletes organised by the International Paralympic Committee and held each 4 years in winter or summer",
+    "en-US": "Games for disabled athletes organized by the International Paralympic Committee and held each 4 years in winter or summer",
+    "pt-BR": "Evento esportivo internacional para atletas com deficiência organizado pelo Comitê Paraolímpico Internacional e realizado a cada 4 anos no verão ou inverno.",
+    "pt-PT": "Evento desportivo internacional para atletas com deficiência organizado pelo Comité Paraolímpico Internacional e realizado a cada 4 anos no verão ou inverno.",
+    "se": "Internationella idrottstävlingar för elitidrottare med funktionsnedsättning.",
+    "zh-Hans": "国际残疾人委员会为残疾运动员组织的运动会，每四年一次，冬季或夏季"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q73633"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-08-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ألعاب بارالمبية",
+    "de": "Paralympische Spiele",
+    "dk": "Paralympiske Lege",
+    "en-GB": "Paralympic Games",
+    "en-US": "Paralympic Games",
+    "es": "Juegos paralímpicos",
+    "fr": "Jeux paralympiques",
+    "no": "paralympics",
+    "pt-BR": "jogos paraolímpicos",
+    "pt-PT": "jogos paraolímpicos",
+    "se": "Paralympics",
+    "zh-Hans": "残疾人运动会"
+  },
+  "qcode": "medtop:20001178",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001178",
+  "aid": "iptc_20001178"
+}

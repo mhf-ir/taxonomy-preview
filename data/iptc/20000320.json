@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000316"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Industriezweig, der nach Metallen oder Rohstoffen wie Kohle, oder wertvollen Edelsteinen wie Diamanten gräbt.",
+    "dk": "Industri som beskæftiger sig med at grave efter metaller, råmaterialer og kul eller ædelstene som diamanter.",
+    "en-GB": "The industry of digging for metals, minerals, raw materials, such as coal, or precious gems, such as diamonds",
+    "en-US": "The industry of digging for metals, minerals, raw materials, such as coal, or precious gems, such as diamonds",
+    "pt-BR": "Indústria da extração de metais, de matérias-primas como o carvão, ou de pedras preciosas como os diamantes.",
+    "pt-PT": "Indústria da extração de metais, de matérias-primas como o carvão, ou de pedras preciosas como os diamantes.",
+    "se": "Verksamheten med att gräva efter metaller, råmaterial såsom kol samt ädelstenar såsom diamanter.",
+    "zh-Hans": "挖掘金属、矿物、原材料（如煤）或宝石（如钻石）的产业"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04012005",
+    "https://www.wikidata.org/entity/Q44497"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مناجم",
+    "de": "Bergbau",
+    "dk": "minedrift",
+    "en-GB": "mining",
+    "en-US": "mining",
+    "es": "Minería",
+    "fr": "Mines",
+    "no": "gruvedrift",
+    "pt-BR": "minas",
+    "pt-PT": "minas",
+    "se": "Gruvdrift",
+    "zh-Hans": "采矿业"
+  },
+  "qcode": "medtop:20000320",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000320",
+  "aid": "iptc_20000320"
+}

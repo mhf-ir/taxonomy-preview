@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000252"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kaufen und Verkaufen im Internet",
+    "dk": "Varer købt eller solgt ved hjælp af internettjenester.",
+    "en-GB": "Buying and selling items through the Internet",
+    "en-US": "Buying and selling items through the Internet",
+    "pt-BR": "Compra e venda de produtos pela Internet.",
+    "pt-PT": "Compra e venda de produtos pela Internet.",
+    "se": "Varor som köps eller säljs med hjälp av internettjänster.",
+    "zh-Hans": "通过互联网买卖商品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04007009",
+    "https://www.wikidata.org/entity/Q484847"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تجارة الكترونية",
+    "de": "E-Commerce",
+    "dk": "e-handel",
+    "en-GB": "electronic commerce",
+    "en-US": "electronic commerce",
+    "es": "Comercio electrónico - comercio online",
+    "fr": "Vente en ligne",
+    "no": "netthandel",
+    "pt-BR": "comércio eletrônico",
+    "pt-PT": "comércio eletrónico",
+    "se": "E-handel",
+    "zh-Hans": "电子商务"
+  },
+  "qcode": "medtop:20000247",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000247",
+  "aid": "iptc_20000247"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000148"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schwerer Mangel an Nahrungsmitteln für eine große Bevölkerung",
+    "dk": "Alvorlig og livstruende mangel på mad til en større gruppe mennesker i et område.",
+    "en-GB": "Severe lack of food for a large population",
+    "en-US": "Severe lack of food for a large population",
+    "pt-BR": "Grave falta de comida para a população.",
+    "pt-PT": "Grave falta de comida para a população.",
+    "se": "När en större mängd människor i ett område blir utan mat så deras hälsa hotas.",
+    "zh-Hans": "大量人口严重缺乏食物"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03003000",
+    "https://www.wikidata.org/entity/Q168247"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مجاعة",
+    "de": "Hunger",
+    "dk": "hungersnød",
+    "en-GB": "famine",
+    "en-US": "famine",
+    "es": "Hambruna",
+    "fr": "Famine",
+    "no": "sult",
+    "pt-BR": "fome",
+    "pt-PT": "fome",
+    "se": "Svält",
+    "zh-Hans": "饥荒"
+  },
+  "qcode": "medtop:20000149",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000149",
+  "aid": "iptc_20000149"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/16000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der Sturz einer bestehenden Regierung durch eine organisierte militärische oder politische Gruppe",
+    "dk": "Omstyrtning af en etableret regering af en organiseret militær eller politisk gruppe.",
+    "en-GB": "The overthrow of an established government by an organised military or political group",
+    "en-US": "The overthrow of an established government by an organized military or political group",
+    "es": "Derrocamiento de un gobierno por un grupo militar o político organizado",
+    "fr": "Renversement d'un gouvernement par un groupe militaire ou politique organisé",
+    "pt-BR": "Derrube de um governo estabelecido, feito por um grupo organizado, geralmente militar ou político.",
+    "pt-PT": "Derrube de um governo, feito por um grupo organizado, geralmente militar ou político.",
+    "se": "Plötsligt och (vanligen) med våld genomfört maktskifte i en stat, vanligtvis av (del av) krigsmakten och utan folkets deltagande.",
+    "zh-Hans": "有组织的军事或政治团体推翻现有政权"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q45382",
+    "http://cv.iptc.org/newscodes/subjectcode/16004000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انقلاب",
+    "de": "Staatsstreich",
+    "dk": "statskup",
+    "en-GB": "coup d'etat",
+    "en-US": "coup d'etat",
+    "es": "Golpe de estado",
+    "fr": "Coup d'Etat",
+    "no": "statskupp",
+    "pt-BR": "golpe de estado",
+    "pt-PT": "golpe de estado",
+    "se": "Statskupp",
+    "zh-Hans": "政变"
+  },
+  "qcode": "medtop:20000070",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000070",
+  "aid": "iptc_20000070"
+}

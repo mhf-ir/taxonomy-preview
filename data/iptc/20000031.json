@@ -1,0 +1,60 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000002"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kunstform, die vorrangig die visuellen Sinne anspricht, wie zum Beispiel Keramik, Zeichnungen, Malerei, Bildhauerei, Kunstdrucke, Fotografie, Video, Filme und Architektur",
+    "dk": "Forskellige former for værker, der primært appellerer til det visuelle, såsom keramik, tegninger, skulpturer, fotos, video og arkitektur.",
+    "en-GB": "A form of art which appeals primarily to the visual senses, such as ceramics, drawing, painting, sculpture, printmaking, design, crafts, photography, video, filmmaking, and architecture.",
+    "en-US": "A form of art which appeals primarily to the visual senses, such as ceramics, drawing, painting, sculpture, printmaking, design, crafts, photography, video, filmmaking, and architecture.",
+    "es": "Forma de arte que atrae principalmente a los sentidos visuales, como la cerámica, el dibujo, la pintura, la escultura, el grabado, el diseño, la artesanía, la fotografía, el video, el cine y la arquitectura",
+    "fr": "Arts qui engagent principalement les sens visuels, tels que la céramique, le dessin, la peinture, la sculpture, la gravure, le design, l'artisanat, la photographie, la vidéo, le cinéma et l'architecture",
+    "pt-BR": "Forma de arte que apela sobretudo ao sentido visual, como a cerâmica, desenho, pintura, escultura, impressão, design, artesanato, fotografia, vídeo, cinema e arquitetura.",
+    "pt-PT": "Forma de arte que apela sobretudo ao sentido visual, como a cerâmica, desenho, pintura, escultura, impressão, design, artesanato, fotografia, vídeo, cinema e arquitetura.",
+    "se": "Olika former av verk som i första hand appelerar till det visuella, såsom keramik, teckningar, skulpturer, foto och video.",
+    "zh-Hans": "一种主要诉诸视觉感官的艺术形式，如陶瓷、素描、绘画、雕塑、版画、设计、工艺品、摄影、录像、电影作品和建筑"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q36649"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000032",
+    "medtop:20000033",
+    "medtop:20000034",
+    "medtop:20000035",
+    "medtop:20000036",
+    "medtop:20000037",
+    "medtop:20001203",
+    "medtop:20001204",
+    "medtop:20001205"
+  ],
+  "prefLabel": {
+    "ar": "فنون بصرية",
+    "de": "Bildende Kunst",
+    "dk": "visuel kunst",
+    "en-GB": "visual arts",
+    "en-US": "visual arts",
+    "es": "Artes visuales",
+    "fr": "Arts visuels",
+    "no": "bildekunst",
+    "pt-BR": "artes visuais",
+    "pt-PT": "artes visuais",
+    "se": "Visuella konstformer",
+    "zh-Hans": "视觉艺术"
+  },
+  "qcode": "medtop:20000031",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000031",
+  "aid": "iptc_20000031"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000394"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Finanzinstrumente, wie Futures, Swaps und Optionen, die für das Risikomanagement genutzt werden und deren Wert sich nach den Kursschwankungen oder den Preiserwartungen richten, wie Rohstoffe, festverzinsliche Wertpapiere, Dividende",
+    "dk": "Værdipapirer, fx optioner, hvis værdi påvirkes af værdien af en anden værdi, såsom aktier.",
+    "en-GB": "Financial instruments such as futures, swaps and options, used for risk management, whose characteristics and value depend upon the characteristics and value of an underlying instrument, such as a commodity, bond, equity or currency.",
+    "en-US": "Financial instruments such as futures, swaps and options, used for risk management, whose characteristics and value depend upon the characteristics and value of an underlying instrument, such as a commodity, bond, equity or currency.",
+    "pt-BR": "Instrumentos financeiros como futuros, intercâmbios e opções, usados na gestão de investimentos de risco, e cujas características e valor dependem das características e valor de um instrumento subjacente, como uma matéria-prima, obrigação ou moeda.",
+    "pt-PT": "Instrumentos financeiros como futuros, intercâmbios e opções, usados na gestão de investimentos de risco, e cujas características e valor dependem das características e valor de um instrumento subjacente, como uma matéria-prima, obrigação ou moeda.",
+    "se": "Värdepapper, t ex optioner, vars värde påverkas av värdet på ett annat värdepapper, t ex aktier.",
+    "zh-Hans": "用于风险管理的金融工具，如期货、掉期和期权，其特征和价值取决于基础工具(如商品、债券、股票或货币)的特征和价值。"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008029",
+    "https://www.wikidata.org/entity/Q66295"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اوراق مالية مشتقة",
+    "de": "Derivate",
+    "dk": "derivater",
+    "en-GB": "derivative securities",
+    "en-US": "derivative securities",
+    "es": "Derivados",
+    "fr": "Produits dérivés",
+    "no": "derivater",
+    "pt-BR": "derivados financeiros",
+    "pt-PT": "derivados financeiros",
+    "se": "Derivat",
+    "zh-Hans": "衍生证券"
+  },
+  "qcode": "medtop:20000395",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000395",
+  "aid": "iptc_20000395"
+}

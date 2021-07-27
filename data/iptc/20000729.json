@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000717"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Untersuchung von Lebewesen und Lebensräumen in Salzwasser-Ökosystemen",
+    "dk": "Undersøgelsen af levende organismer og miljøer i saltvand økosystemer.",
+    "en-GB": "The study of living organisms and environments in saltwater ecosystems",
+    "en-US": "The study of living organisms and environments in saltwater ecosystems",
+    "es": "El estudio de los organismos vivos y su entorno en ecosistemas de agua salada",
+    "fr": "Etude des organismes vivants et des environnements dans les écosystèmes d'eau salée",
+    "pt-BR": "Estudo de organismos vivos e de ambientes em ecossistemas de água salgada.",
+    "pt-PT": "Estudo de organismos vivos e de ambientes em ecossistemas de água salgada.",
+    "se": "Vetenskapen om havet.",
+    "zh-Hans": "咸水生态系统中生物与环境的研究"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13014000",
+    "https://www.wikidata.org/entity/Q24577909"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علوم بحرية",
+    "de": "Meeresforschung",
+    "dk": "marinevidenskab",
+    "en-GB": "marine science",
+    "en-US": "marine science",
+    "es": "Oceanografía",
+    "fr": "Océanographie",
+    "no": "havforskning",
+    "pt-BR": "ciências marinhas",
+    "pt-PT": "ciências marinhas",
+    "se": "Oceanografi",
+    "zh-Hans": "海洋科学"
+  },
+  "qcode": "medtop:20000729",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000729",
+  "aid": "iptc_20000729"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000877"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mannschaftssport in militärischer Tradition mit Booten, ähnlich der Kanuregatta",
+    "dk": "Sejlsport i hold med militære traditioner.",
+    "en-GB": "Team sport, military tradition, similar to canoe regatta, in boats",
+    "en-US": "Team sport, military tradition, similar to canoe regatta, in boats",
+    "pt-BR": "Esporte de equipe, de tradição militar, que usa barcos semelhantes às canoas.",
+    "pt-PT": "Desporto de equipa, de tradição militar, que usa barcos semelhantes às canoas.",
+    "se": "Båtsport i lag med militära traditioner.",
+    "zh-Hans": "团队运动，军事传统，类似独木舟赛舟会，在船上进行"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15015012"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic canoeing + sports facet canoekayaktype"
+  },
+  "prefLabel": {
+    "ar": "",
+    "de": "Pontoniering",
+    "dk": "pontoniering",
+    "en-GB": "pontoniering",
+    "en-US": "pontoniering",
+    "es": "Pontoniering",
+    "fr": "Pontoniering",
+    "no": "pontongiering",
+    "pt-BR": "pontoniering",
+    "pt-PT": "pontoniering",
+    "se": "Pontonering",
+    "zh-Hans": "军事浮桥赛艇赛"
+  },
+  "qcode": "medtop:20000882",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000882",
+  "aid": "iptc_20000882"
+}

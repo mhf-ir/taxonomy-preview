@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000322"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Herstellung alkoholischer Getränke",
+    "dk": "Fremstilling af alkoholholdige drikkevarer.",
+    "en-GB": "Manufacture of alcoholic beverages",
+    "en-US": "Manufacture of alcoholic beverages",
+    "pt-BR": "Fabrico de bebidas alcoólicas.",
+    "pt-PT": "Fabrico de bebidas alcoólicas.",
+    "se": "Tillverkning av alkoholhaltiga drycker.",
+    "zh-Hans": "酒精饮料入此"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04013001",
+    "https://www.wikidata.org/entity/Q3150593"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تقطير وانتاج الخمر",
+    "de": "Alkoholische Getränke/Brauerei",
+    "dk": "destilleri og bryggeri",
+    "en-GB": "distiller and brewer",
+    "en-US": "distiller and brewer",
+    "es": "Destilerías y cervecerías",
+    "fr": "Brasseries et distilleries",
+    "no": "alkoholproduksjon",
+    "pt-BR": "destilação e bebidas",
+    "pt-PT": "bebidas destiladas e cerveja",
+    "se": "Destillerier och bryggerier",
+    "zh-Hans": "酒和啤酒"
+  },
+  "qcode": "medtop:20000323",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000323",
+  "aid": "iptc_20000323"
+}

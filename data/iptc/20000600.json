@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000599"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Versorgung und Pensionen für ehemalige Soldaten",
+    "dk": "Anliggender der vedrører de tidligere ansatte i de væbnede styrker.",
+    "en-GB": "Care and provision for those who served in the military",
+    "en-US": "Care and provision for those who served in the military",
+    "pt-BR": "Cuidado e assistência para antigos combatentes das forças armadas.",
+    "pt-PT": "Cuidado e assistência para antigos combatentes das forças armadas.",
+    "se": "Saker som rör före detta anställda hos försvarsmakten.",
+    "zh-Hans": "为那些在军队服过役的人提供照顾和给养"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11001001",
+    "https://www.wikidata.org/entity/Q7923600"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شؤون المحاربين القدامى",
+    "de": "Veteran",
+    "dk": "veterananliggende",
+    "en-GB": "veterans' affairs",
+    "en-US": "veterans' affairs",
+    "es": "Veteranos de guerra",
+    "fr": "Anciens combattants",
+    "no": "krigsveteraner",
+    "pt-BR": "veteranos",
+    "pt-PT": "veteranos",
+    "se": "Militära veteraner",
+    "zh-Hans": "退伍军人事务"
+  },
+  "qcode": "medtop:20000600",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000600",
+  "aid": "iptc_20000600"
+}

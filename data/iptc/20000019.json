@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01011000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000018"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Objekte, mit denen Musik erzeugt werden kann",
+    "dk": "Objekter, der bruges til at skabe lyd til et kunstnerisk formål.",
+    "en-GB": "Objects used to play music on",
+    "en-US": "Objects used to play music on",
+    "fr": "Objets utilisés pour jouer de la musique",
+    "pt-BR": "Objetos usados para tocar música.",
+    "pt-PT": "Objetos usados para tocar música.",
+    "se": "Objekt som används för att skapa ljud i ett konstnärligt syfte.",
+    "zh-Hans": "用来演奏音乐的器具"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q34379"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "آلة موسيقية",
+    "de": "Musikinstrument",
+    "dk": "musikinstrument",
+    "en-GB": "musical instrument",
+    "en-US": "musical instrument",
+    "es": "Instrumento de música",
+    "fr": "Instrument de musique",
+    "no": "musikkinstrument",
+    "pt-BR": "instrumento musical",
+    "pt-PT": "instrumento musical",
+    "se": "Musikinstrument",
+    "zh-Hans": "乐器"
+  },
+  "qcode": "medtop:20000019",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000019",
+  "aid": "iptc_20000019"
+}

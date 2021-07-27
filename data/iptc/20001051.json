@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15051002"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001049"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schießwettkampf mit Gewehr",
+    "dk": "En skydedisciplin, hvor man anvender en riffel.",
+    "en-GB": "Shooting event using a rifle",
+    "en-US": "Shooting event using a rifle",
+    "pt-BR": "Prova de tiro com carabina.",
+    "pt-PT": "Prova de tiro com carabina.",
+    "se": "En sportskyttegren där man använder ett gevär.",
+    "zh-Hans": "使用步枪的射击活动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q69387590"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic sport shooting + sports facet shootingtype."
+  },
+  "prefLabel": {
+    "ar": "رماية بندقية",
+    "de": "Gewehr",
+    "dk": "riffelskydning",
+    "en-GB": "rifle shooting",
+    "en-US": "rifle shooting",
+    "es": "Carabina",
+    "fr": "Tir à la carabine",
+    "no": "geværskyting",
+    "pt-BR": "carabina",
+    "pt-PT": "carabina",
+    "se": "Gevär",
+    "zh-Hans": "步枪射击"
+  },
+  "qcode": "medtop:20001051",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001051",
+  "aid": "iptc_20001051"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wird im Freien auf Eis gespielt. Die Größe des Spielfeldes entspricht einem Fußballfeld. Benutzt werden Schlittschuhe wie im Eishockey und ein kleiner Kunststoffball. Die Schläger der Spieler ähneln Eishockeyschlägern, sind aber kürzer und stärker gerundet",
+    "dk": "Spilles på en skøjtebane af omtrent samme størrelse som en fodboldbane. Spillerne har skøjter på og en stav med korte afrundede klinger. Spilles med en lille hård bold. Holdet består af elleve spillere, hvoraf den ene er en målmand.",
+    "en-GB": "Played outdoors on ice. The size of the ice rink is about the size of a soccer field. Skates like ice hockey. A small hard ball is used for playing. Players play with sticks, much like in ice hockey, but the sticks are shorter and more rounded than in ice",
+    "en-US": "Played outdoors on ice. The size of the ice rink is about the size of a soccer field. Skates like ice hockey. A small hard ball is used for playing. Players play with sticks, much like in ice hockey, but the sticks are shorter and more rounded than in ice",
+    "pt-BR": "Espécie de hóquei no gelo, jogado ao ar livre, sobre uma pista de gelo aproximadamente do tamanho de um campo de futebol. Os jogadores usam uma pequena bola dura e tacos, muito parecidos com os do hóquei no gelo, mas mais curtos e mais arredondados.",
+    "pt-PT": "Espécie de hóquei no gelo, jogado ao ar livre, sobre uma pista de gelo aproximadamente do tamanho de um campo de futebol. Os jogadores usam uma pequena bola dura e tacos, muito parecidos com os do hóquei no gelo, mas mais curtos e mais arredondados.",
+    "se": "Spelas på en isbana av ungefär samma storlek som en fotbollsplan. Spelarna har skridskor och en klubba med kortare rundat blad. Spelas med liten hård boll. Lagen består av elva spelare, varav en är målvakt.",
+    "zh-Hans": "户外冰上运动。冰球场大小和足球场相近。冰鞋和正常冰球使用的类似。使用一个小的硬球进行比赛。选手们的球杆类似于冰球所用，但比一般冰球用的短、圆"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15076000",
+    "https://www.wikidata.org/entity/Q183018"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "باندي",
+    "de": "Bandy",
+    "dk": "bandy",
+    "en-GB": "bandy",
+    "en-US": "bandy",
+    "es": "Bandy",
+    "fr": "Bandy",
+    "no": "bandy",
+    "pt-BR": "bandy",
+    "pt-PT": "bandy",
+    "se": "Bandy",
+    "zh-Hans": "室外冰球"
+  },
+  "qcode": "medtop:20000848",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000848",
+  "aid": "iptc_20000848"
+}

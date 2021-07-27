@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000659"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Beziehungen zwischen christlichen Kirchen",
+    "dk": "Forholdet mellem kristne kirker.",
+    "en-GB": "Relations between Christian churches",
+    "en-US": "Relations between Christian churches",
+    "pt-BR": "Relações entre igrejas cristãs.",
+    "pt-PT": "Relações entre igrejas cristãs.",
+    "se": "Samlande benämning på kyrkliga enhetssträvanden.",
+    "zh-Hans": "基督教会之间的关系"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12027000",
+    "https://www.wikidata.org/entity/Q156112"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مسكونية",
+    "de": "Ökumene",
+    "dk": "økumeni",
+    "en-GB": "ecumenism",
+    "en-US": "ecumenism",
+    "es": "Ecumenismo",
+    "fr": "Oecuménisme",
+    "no": "økumenikk",
+    "pt-BR": "ecumenismo",
+    "pt-PT": "ecumenismo",
+    "se": "Ekumenik",
+    "zh-Hans": "普世教会"
+  },
+  "qcode": "medtop:20000660",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000660",
+  "aid": "iptc_20000660"
+}

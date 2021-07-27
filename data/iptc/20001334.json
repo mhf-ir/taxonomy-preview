@@ -1,0 +1,28 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2021-07-12T12:00:00+00:00",
+  "definition": {
+    "en-GB": "Cycling competitions held on tracks, including sprint, team sprint, keirin, team pursuit, omnium and madison events",
+    "en-US": "Cycling competitions held on tracks, including sprint, team sprint, keirin, team pursuit, omnium and madison events"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q221635"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-07-12T12:00:00+00:00",
+  "prefLabel": {
+    "en-GB": "track cycling",
+    "en-US": "track cycling"
+  },
+  "qcode": "medtop:20001334",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001334",
+  "aid": "iptc_20001334"
+}

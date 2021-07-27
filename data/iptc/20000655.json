@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11006000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000653"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Regierung in der ein einzelner oder eine kleine Gruppe von Einzelnen die Macht haben ohne Einverständnis der Bevölkerung",
+    "dk": "Regeringsform, hvor al statsmagt er koncentreret til en bestemt person eller gruppe.",
+    "en-GB": "Government in which a single individual or a small group of individuals hold power without consent of the people",
+    "en-US": "Government in which a single individual or a small group of individuals hold power without consent of the people",
+    "pt-BR": "Governo em que um único indivíduo ou um pequeno grupo de indivíduos detém o poder sem o consentimento da população.",
+    "pt-PT": "Governo em que um único indivíduo ou um pequeno grupo de indivíduos detém o poder sem o consentimento da população.",
+    "se": "Styrelseform där all statsmakt är koncentrerad till en viss person eller en viss grupp.",
+    "zh-Hans": "未经人民同意而由一个人或一小群人掌权的政府"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q317"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ديكتاتورية",
+    "de": "Diktatur",
+    "dk": "diktatur",
+    "en-GB": "dictatorship",
+    "en-US": "dictatorship",
+    "es": "Dictadura",
+    "fr": "Dictature",
+    "no": "diktatur",
+    "pt-BR": "ditadura",
+    "pt-PT": "ditadura",
+    "se": "Diktatur",
+    "zh-Hans": "独裁"
+  },
+  "qcode": "medtop:20000655",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000655",
+  "aid": "iptc_20000655"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000574"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kampagnen für öffentliche Parteien",
+    "dk": "Intensive aktiviteter i en bestemt periode med henblik på at få en valgt.",
+    "en-GB": "Campaigns for public office",
+    "en-US": "Campaigns for public office",
+    "pt-BR": "Campanhas para cargos públicos.",
+    "pt-PT": "Campanhas para cargos públicos.",
+    "se": "Intensiv verksamhet under viss tid i avsikt att få någon vald.",
+    "zh-Hans": "公职竞选"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11003002",
+    "https://www.wikidata.org/entity/Q847301"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000581"
+  ],
+  "prefLabel": {
+    "ar": "حملات سياسية",
+    "de": "Wahlkampf",
+    "dk": "politisk kampagne",
+    "en-GB": "political campaigns",
+    "en-US": "political campaigns",
+    "es": "Campañas políticas",
+    "fr": "Campagne électorale",
+    "no": "politisk kampanje",
+    "pt-BR": "campanhas políticas",
+    "pt-PT": "campanhas políticas",
+    "se": "Politiska kampanjer",
+    "zh-Hans": "政治运动"
+  },
+  "qcode": "medtop:20000580",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000580",
+  "aid": "iptc_20000580"
+}

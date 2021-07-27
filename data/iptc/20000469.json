@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000464"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jede Variation der Behandlung wie Stresstests, Katheterisieren, Bluttests, CT oder MCR.",
+    "dk": "Medicinske analyseprocedurer såsom blodprøver, stresstest, røntgenstråler, MR-scanning og mere.",
+    "en-GB": "Any of a variety of treatments such as stress tests,  catheterisation, blood tests, computerised axial tomography scan or magnetic resonance  imaging",
+    "en-US": "Any of a variety of treatments such as stress tests, catheterization, blood tests, computerized axial tomography scan or magnetic resonance imaging",
+    "pt-BR": "Variedade de tratamentos, como testes de estresse, cateterização, exames de sangue, tomografia computadorizada, ressonância magnética etc.",
+    "pt-PT": "Variedade de tratamentos, como testes de stress, cateterização, análises ao sangue, tomografia axial computadorizada, ressonância magnética, etc.",
+    "se": "Medicinska analysprocedurer såsom blodprov, stresstester, skiktröntgen, magnetisk resonanstomografi med mera.",
+    "zh-Hans": "任何一种治疗方法，如压力测试、导管插入术、血液检测、计算机轴向断层扫描(CT)和磁共振成像等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07003004",
+    "https://www.wikidata.org/entity/Q796194"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اجراءات/فحوص طبية",
+    "de": "Medizinische Untersuchung",
+    "dk": "medicinsk kontrol og prøve",
+    "en-GB": "medical procedure/test",
+    "en-US": "medical procedure/test",
+    "es": "Exámen/procedimiento médico",
+    "fr": "Protocole médical",
+    "no": "medisinsk behandling",
+    "pt-BR": "meios complementares de diagnóstico",
+    "pt-PT": "meios complementares de diagnóstico e terapêutica",
+    "se": "Medicinska tester",
+    "zh-Hans": "医疗程序/测试"
+  },
+  "qcode": "medtop:20000469",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000469",
+  "aid": "iptc_20000469"
+}

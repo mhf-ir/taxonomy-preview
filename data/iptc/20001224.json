@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000487"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Eine medizinische Spezialisierung, die sich auf den Einsatz von medizinischer Bildgebung (z.B. Röntgenstrahlen) und Strahlung zur Diagnose und manchmal auch zur Behandlung von Krankheiten im Körper konzentriert",
+    "dk": "En medicinsk specialisering, der fokuserer på brugen af medicinsk billeddannelse (såsom røntgenstråler) og stråling til diagnosticering og undertiden også behandling af sygdomme i kroppen.",
+    "en-GB": "A medical specialisation that focuses on the use of medical imaging (such as x-rays) and radiation to diagnose and sometimes also treat diseases within the body",
+    "en-US": "A medical specialization that focuses on the use of medical imaging (such as x-rays) and radiation to diagnose and sometimes also treat diseases within the body",
+    "pt-BR": "Especialidade médica que se dedica ao estudo e emprego de imagens médicas (como raios X) e de radiação para diagnosticar e tratar doenças no interior do corpo.",
+    "pt-PT": "Especialidade médica que se dedica ao estudo e emprego de imagens médicas (como raios X) e de radiação para diagnosticar e tratar doenças no interior do corpo.",
+    "se": "Använda strålning eller liknande metoder för att avbilda kroppens insida.",
+    "zh-Hans": "侧重于使用医学成像(如x射线)和辐射来诊断和治疗身体内的疾病的医学专业"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q77604"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "علم الأشعة",
+    "de": "Radiologie",
+    "dk": "radiologi",
+    "en-GB": "radiology",
+    "en-US": "radiology",
+    "es": "Radiología",
+    "fr": "Radiologie médicale",
+    "no": "røntgen",
+    "pt-BR": "radiologia",
+    "pt-PT": "radiologia",
+    "se": "Röntgen",
+    "zh-Hans": "放射科"
+  },
+  "qcode": "medtop:20001224",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001224",
+  "aid": "iptc_20001224"
+}

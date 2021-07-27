@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zusammenschlüsse, die ein Produkt oder Dienstleistung anbieten, mit der Absicht diese gewinnbringend zu verkaufen.",
+    "dk": "Uafhængige økonomiske organisationer for produktion af varer eller tjenester med fortjeneste.",
+    "en-GB": "Organisations set up usually for profit-making purposes by creating and selling a product or service",
+    "en-US": "organizations set up usually for profit-making purposes by creating and selling a product or service",
+    "pt-BR": "Organizações estabelecidas com fins lucrativos, mediante a criação e venda de um produto ou serviço.",
+    "pt-PT": "Organizações estabelecidas com fins lucrativos, mediante a criação e venda de um produto ou serviço.",
+    "se": "Självständig ekonomisk organisation för produktion av varor eller tjänster för vinnings skull.",
+    "zh-Hans": "为创造和销售某产品或服务而设立的组织，通常以营利为目的"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008034",
+    "https://www.wikidata.org/entity/Q4830453"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001158",
+    "medtop:20001172",
+    "medtop:20001278"
+  ],
+  "prefLabel": {
+    "ar": "شركات كبيرة",
+    "de": "Unternehmen",
+    "dk": "erhvervsliv",
+    "en-GB": "business enterprise",
+    "en-US": "business enterprise",
+    "es": "Empresas",
+    "fr": "Entreprises",
+    "no": "virksomhet",
+    "pt-BR": "empresas",
+    "pt-PT": "empresas",
+    "se": "Företag",
+    "zh-Hans": "企业"
+  },
+  "qcode": "medtop:20000349",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000349",
+  "aid": "iptc_20000349"
+}

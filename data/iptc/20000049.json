@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000045"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Publikation, die üblicherweise wöchentlich, vierzehntägig, monatlich, quartalsweise oder jährlich erscheint, wie zum Beispiel Magazine, Zeitschriften oder Rundbriefe",
+    "dk": "Publikation, der normalt offentliggøres ugentligt, månedligt eller årligt, såsom magasiner, tidsskrifter eller nyhedsbreve.",
+    "en-GB": "Publication that is usually published weekly, bi-weekly, monthly or annually, such as magazines, journals or newsletters",
+    "en-US": "Publication that is usually published weekly, bi-weekly, monthly or annually, such as magazines, journals or newsletters",
+    "es": "Publicación que generalmente se publica semanal, quincenal, mensual o anualmente, como revistas o boletines",
+    "fr": "Publication qui est généralement publiée chaque semaine, toutes les deux semaines, tous les mois ou tous les ans, comme les magazines, les revues et les bulletins d'information",
+    "pt-BR": "Material escrito que se publica semanal, quinzenal, mensal ou anualmente.",
+    "pt-PT": "Material escrito que se publica semanal, quinzenal, mensal ou anualmente.",
+    "se": "Sammanställningar av material som är mer specialicerat och som publiceras regelbundet, men mer sällan än tidningar.",
+    "zh-Hans": "通常每周、每两周、每月或每年出版的出版物，如杂志、期刊或时事通讯"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01026001",
+    "https://www.wikidata.org/entity/Q1002697"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "دورية",
+    "de": "Zeitschrift",
+    "dk": "tidssskrift og magasin",
+    "en-GB": "periodical",
+    "en-US": "periodical",
+    "es": "Periódicos",
+    "fr": "Périodiques",
+    "no": "ukepresse",
+    "pt-BR": "periódicos",
+    "pt-PT": "periódicos",
+    "se": "Periodiska tidskrifter",
+    "zh-Hans": "期刊"
+  },
+  "qcode": "medtop:20000049",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000049",
+  "aid": "iptc_20000049"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001137"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Empfehlung eines Analysten, bestimmte Aktien zu behalten. Kann das Kursziel des Analysten für die Aktie beinhalten.",
+    "dk": "En analytikers anbefaling om at bevare en bestemt aktie.",
+    "en-GB": "An analyst's recommendation to hold particular stocks. May include the analyst*s price target for the stock.",
+    "en-US": "An analyst's recommendation to hold particular stocks. May include the analyst*s price target for the stock.",
+    "pt-BR": "Recomendação de um analista para manter ações específicas. Pode incluir o preço-alvo do analista para uma ação.",
+    "pt-PT": "Recomendação de um analista para manter ações específicas. Pode incluir o preço-alvo do analista para uma ação.",
+    "se": "En analytikers rekommendation att behålla en specifik aktie.",
+    "zh-Hans": "分析师持有特定股票的建议。可能包括分析师对该股的目标价"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2012-10-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "توصية بالاحتفاظ بأسهم (بورصة)",
+    "de": "Halten (Empfehlung)",
+    "dk": "holdanbefaling",
+    "en-GB": "hold recommendation",
+    "en-US": "hold recommendation",
+    "es": "Recomendación de mantenimiento",
+    "fr": "Recommandation de conserver (bourse)",
+    "no": "hold-anbefaling",
+    "pt-BR": "recomendação de manutenção",
+    "pt-PT": "recomendação para manter",
+    "se": "Råd att behålla",
+    "zh-Hans": "持有建议"
+  },
+  "qcode": "medtop:20001139",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001139",
+  "aid": "iptc_20001139"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000802"
+  ],
+  "created": "2019-11-20T12:00:00+00:00",
+  "definition": {
+    "de": "Das Ergreifen von Maßnahmen, die darauf abzielen, eine als verletzlich empfundene Person zu verletzen, zu zwingen und einzuschüchtern. Diese Maßnahmen können persönlich oder online ergriffen werden.",
+    "dk": "Opførsel, der har til hensigt at skade, nedgøre eller skræmme en anden person, der opfattes som sårbar.",
+    "en-GB": "Taking actions meant to harm, coerce and intimidate another person perceived as vulnerable. These actions can be taken in person or online.",
+    "en-US": "Taking actions meant to harm, coerce and intimidate another person perceived as vulnerable. These actions can be taken in person or online.",
+    "pt-BR": "Realizar ações destinadas a prejudicar, coagir e intimidar outra pessoa considerada vulnerável. Essas ações podem ser realizadas pessoalmente ou online.",
+    "pt-PT": "Realizar ações destinadas a prejudicar, coagir e intimidar outra pessoa considerada vulnerável. Essas ações podem ser realizadas pessoalmente ou online.",
+    "se": "Systematiska trakasserier mot en eller flera personer inom en grupp.",
+    "zh-Hans": "有意伤害、胁迫、恐吓弱者的行为，包括当面和网络上的行为"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q240126"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-11-20T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تنمر",
+    "de": "Mobbing",
+    "dk": "mobning",
+    "en-GB": "bullying",
+    "en-US": "bullying",
+    "es": "Acoso",
+    "fr": "Harcèlement",
+    "no": "mobbing",
+    "pt-BR": "bullying",
+    "pt-PT": "bullying",
+    "se": "Mobbning",
+    "zh-Hans": "霸凌"
+  },
+  "qcode": "medtop:20001284",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001284",
+  "aid": "iptc_20001284"
+}

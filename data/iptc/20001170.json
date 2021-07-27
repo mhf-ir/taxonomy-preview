@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Lieferkette, Bestandsverwaltung und Transport von Produkten.",
+    "dk": "Forsyningskæde, lagerstyring og transport af produkter.",
+    "en-GB": "Supply chain, inventory management and transportation of products.",
+    "en-US": "Supply chain, inventory management and transportation of products.",
+    "pt-BR": "Gestão da cadeia de abastecimento, do inventário de estoque e do transporte de produtos.",
+    "pt-PT": "Gestão da cadeia de abastecimento, do inventário de stock e do transporte de produtos.",
+    "se": "Materialflöde inom företag eller organisationer, vanligtvis med huvudsyftet att åstadkomma metoder för att rätt material skall finnas på rätt plats vid rätt tid.",
+    "zh-Hans": "供应链、库存管理、产品运输"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q177777"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "لوجستية",
+    "de": "Logistik",
+    "dk": "logistik",
+    "en-GB": "logistics",
+    "en-US": "logistics",
+    "es": "Logística",
+    "fr": "Logistique",
+    "no": "logistikk",
+    "pt-BR": "logística",
+    "pt-PT": "logística",
+    "se": "Logistik",
+    "zh-Hans": "物流业"
+  },
+  "qcode": "medtop:20001170",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001170",
+  "aid": "iptc_20001170"
+}

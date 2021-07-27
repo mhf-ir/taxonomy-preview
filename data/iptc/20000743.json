@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000742"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Untersuchung des menschlichen Verhaltens und der sozialen Interaktionen im Zeitablauf",
+    "dk": "Videnskab af menneskelig adfærd og sociale interaktioner på tværs af tiden.",
+    "en-GB": "The study of human behaviour and social interactions across time",
+    "en-US": "The study of human behavior and social interactions across time",
+    "es": "El estudio del comportamiento humano y las interacciones sociales a lo largo del tiempo",
+    "fr": "Etude du comportement humain et des interactions sociales dans le temps",
+    "pt-BR": "Estudo do comportamento humano e das interações sociais ao longo do tempo.",
+    "pt-PT": "Estudo do comportamento humano e das interações sociais ao longo do tempo.",
+    "se": "Vetenskapen om människosläktets utveckling och fysiska karakteristika samt världens olika kultur- och samhällstyper.",
+    "zh-Hans": "研究人类行为和社会互动的学科"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13003005",
+    "https://www.wikidata.org/entity/Q23404"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علم انسان",
+    "de": "Anthropologie",
+    "dk": "antropologi",
+    "en-GB": "anthropology",
+    "en-US": "anthropology",
+    "es": "Antropología",
+    "fr": "Anthropologie",
+    "no": "antropologi",
+    "pt-BR": "antropologia",
+    "pt-PT": "antropologia",
+    "se": "Antropologi",
+    "zh-Hans": "人类学"
+  },
+  "qcode": "medtop:20000743",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000743",
+  "aid": "iptc_20000743"
+}

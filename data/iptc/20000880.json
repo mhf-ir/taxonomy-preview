@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15015010"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000877"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Viersitzer Kanu (offenes Boot) mit Wettkämpfern die ein Einzelpaddel benutzen",
+    "dk": "Fire-sædet kano.",
+    "en-GB": "Four-seater canoe (open boat) with each competitor using a single bladed paddle",
+    "en-US": "Four-seater canoe (open boat) with each competitor using a single bladed paddle",
+    "pt-BR": "Canoa de 4 lugares (embarcação aberta para quatro pessoas que remam com remo simples).",
+    "pt-PT": "Canoa de 4 lugares (embarcação aberta para quatro pessoas que remam com pagaia simples).",
+    "zh-Hans": "四座赛艇。开放式的赛艇，参赛者使用单叶桨"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كانو رباعي",
+    "de": "C4 (Kanu)",
+    "dk": "C4 (kano)",
+    "en-GB": "C4 (canoeing)",
+    "en-US": "C4 (canoeing)",
+    "es": "C4 (canotaje)",
+    "fr": "C4 (canoë)",
+    "no": "C4 (kanopadling)",
+    "pt-BR": "C4",
+    "pt-PT": "C4",
+    "se": "C4",
+    "zh-Hans": "四人划艇"
+  },
+  "qcode": "medtop:20000880",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000880",
+  "aid": "iptc_20000880"
+}

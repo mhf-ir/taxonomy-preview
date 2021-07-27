@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Im Bobsport fahren zwei oder vier Athleten in einem Rennschlitten sitzend, der aus einer Verkleidung, einem Rahmen, zwei Achsen und Kufen besteht, eine Bahn (Natureis- oder Kunsteisbahn) hinab. Die Gesamtlaufzeit wird aus den Einzelzeiten der Läufe zusammengezählt und daraus der Gewinner ermittelt",
+    "dk": "To eller fire konkurrenter sidder i en specielt designet slæde og kører ned ad en kunstig isbane.",
+    "en-GB": "In bobsleigh two or four persons race down a course sitting in a sled that consists of a main hull, a frame, two axles and sets of runners. The total time of all heats in a competition is added together to determine the winner.",
+    "en-US": "In bobsleigh two or four persons race down a course sitting in a sled that consists of a main hull, a frame, two axles and sets of runners. The total time of all heats in a competition is added together to determine the winner.",
+    "pt-BR": "Esporte de inverno em que equipes de 2 ou 4 pessoas, sentadas em um trenó com casco assente em 4 trilhos de aço, deslizam por uma estreita pista de gelo protegida lateralmente e com muitas curvas.",
+    "pt-PT": "Desporto de inverno em que equipas de 2 ou 4 pessoas, sentadas num trenó com casco assente em 4 trilhos de aço, deslizam por uma estreita pista de gelo protegida lateralmente e com muitas curvas.",
+    "se": "Två eller fyra tävlande sitter i en specialkonstruerad släde och åker nerför en konstgjord isbana.",
+    "zh-Hans": "在有舵雪橇比赛中，两到四个人坐在雪橇上滑下一条赛道，雪橇由主船体、框架、两个车轴和一组运动员组成。比赛中所有预赛的总时间加在一起来决定获胜者"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15011000",
+    "https://www.wikidata.org/entity/Q177275"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بوبسلي",
+    "de": "Bob",
+    "dk": "bobslæde",
+    "en-GB": "bobsleigh",
+    "en-US": "bobsleigh",
+    "es": "Bobsleigh",
+    "fr": "Bobsleigh",
+    "no": "bob",
+    "pt-BR": "bobsled",
+    "pt-PT": "bobsleigh",
+    "se": "Bob",
+    "zh-Hans": "雪橇"
+  },
+  "qcode": "medtop:20000854",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000854",
+  "aid": "iptc_20000854"
+}

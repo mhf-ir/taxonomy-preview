@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mannschaftssport ähnlich dem Volleyball (mit einem niedriger gespannten Netz), wird hauptsächlich in Turnvereinen gespielt",
+    "dk": "Holdsport svarende til volleyball (med et meget lavere net) udført hovedsageligt i gymnastikklubber.",
+    "en-GB": "Men's team sport similar to volleyball (with a much lower net) executed mainly in gymnastics clubs",
+    "en-US": "Men's team sport similar to volleyball (with a much lower net) executed mainly in gymnastics clubs",
+    "pt-BR": "Esporte coletivo, semelhante ao vôlei, jogado em campo de grama, dividido ao meio por uma rede, e em que a bola é batida com os punhos ou braços.",
+    "pt-PT": "Desporto coletivo, semelhante ao voleibol, jogado em campo relvado, dividido ao meio por uma rede, e em que a bola é batida com os punhos ou braços.",
+    "se": "Fistboll påminner om volleyboll men har lägre nät och bollen slås med knuten näve.",
+    "zh-Hans": "又译拳击球、浮士德球。男子集体运动。类似排球。球网比排球低很多，多在体操俱乐部进行"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15088000",
+    "https://www.wikidata.org/entity/Q1050588"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كرة اليد",
+    "de": "Faustball",
+    "dk": "fistball",
+    "en-GB": "fist ball",
+    "en-US": "fist ball",
+    "es": "Balon puño",
+    "fr": "Fist ball",
+    "no": "fistball",
+    "pt-BR": "punhobol",
+    "pt-PT": "punhobol",
+    "se": "Fistboll",
+    "zh-Hans": "拳球"
+  },
+  "qcode": "medtop:20000936",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000936",
+  "aid": "iptc_20000936"
+}

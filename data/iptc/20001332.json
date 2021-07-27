@@ -1,0 +1,28 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2021-07-12T12:00:00+00:00",
+  "definition": {
+    "en-GB": "Riders are given a fixed time to perform acrobatics tricks and skills, with tricks scored on multiple aspects including difficulty, originality, execution, height and creativity",
+    "en-US": "Riders are given a fixed time to perform acrobatics tricks and skills, with tricks scored on multiple aspects including difficulty, originality, execution, height and creativity"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2192643"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-07-12T12:00:00+00:00",
+  "prefLabel": {
+    "en-GB": "bmx freesytle",
+    "en-US": "bmx freesytle"
+  },
+  "qcode": "medtop:20001332",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001332",
+  "aid": "iptc_20001332"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000225"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Grundlegende Komponenten die das Funktionieren elektronischer Geräte ermöglichen, wie beispielsweise Computer",
+    "dk": "Grundlæggende komponenter, der sammen bliver fungerende elektriske apparater, såsom computere.",
+    "en-GB": "The basic components that together create working electronic devices such as computers",
+    "en-US": "The basic components that together create working electronic devices such as computers",
+    "pt-BR": "Os componentes básicos que, juntos, permitem o funcionamento de dispositivos eletrônicos, como os computadores.",
+    "pt-PT": "Os componentes básicos que, juntos, permitem o funcionamento de dispositivos eletrónicos, como os computadores.",
+    "se": "Grundläggande komponenter som tillsammans blir fungerande elektriska apparater som t ex datorer.",
+    "zh-Hans": "用于制造工作电子设备，如电脑的基本元器件"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04003004",
+    "https://www.wikidata.org/entity/Q11456"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "موصل احادي وعنصر نشيط",
+    "de": "Elektronik",
+    "dk": "halvleder og aktiv komponent",
+    "en-GB": "semiconductors and active components",
+    "en-US": "semiconductors and active components",
+    "es": "Semiconductores",
+    "fr": "Semi-conducteurs et composants électroniques",
+    "no": "halvlederteknologi",
+    "pt-BR": "semicondutores e componentes ativos",
+    "pt-PT": "semicondutores e componentes ativos",
+    "se": "Kretskort och datorkomponenter",
+    "zh-Hans": "半导体和有源元件"
+  },
+  "qcode": "medtop:20000230",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000230",
+  "aid": "iptc_20000230"
+}

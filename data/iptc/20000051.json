@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000045"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die sicht- und hörbare  Videoform von Nachrichten, Unterhaltung oder Information, die über Rundfunk oder das Internet verbreitet wird.",
+    "dk": "Programmer, der omfatter både lyd og video og distribueres trådløst eller via Internettet.",
+    "en-GB": "Video content, such as news, entertainment or information, distributed via broadcast or internet",
+    "en-US": "Video content, such as news, entertainment or information, distributed via broadcast or internet",
+    "es": "Contenido audiovisual, noticias, entretenimiento o información, distribuido a través de redes de televisión, cable o por internet",
+    "fr": "Média proposant des contenus audiovisuels, tel que nouvelles, magazines ou émissions de divertissement, transmis par ondes, câble ou Internet",
+    "pt-BR": "Histórias relativas à televisão como difusora de conteúdo informativo e  meio de entretenimento.",
+    "pt-PT": "Histórias relativas à televisão como difusora de conteúdo informativo e  meio de entretenimento.",
+    "se": "Program som har både ljud och bild och distribueras trådlöst eller via internet.",
+    "zh-Hans": "通过无线电广播或互联网传播的视频内容，如新闻、娱乐或信息"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01016000",
+    "https://www.wikidata.org/entity/Q289"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تلفزيون",
+    "de": "Fernsehen",
+    "dk": "tv",
+    "en-GB": "television",
+    "en-US": "television",
+    "es": "Televisión",
+    "fr": "Télévision",
+    "no": "tv",
+    "pt-BR": "televisão",
+    "pt-PT": "televisão",
+    "se": "Tv",
+    "zh-Hans": "电视"
+  },
+  "qcode": "medtop:20000051",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000051",
+  "aid": "iptc_20000051"
+}

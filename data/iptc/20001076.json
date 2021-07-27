@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15062000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001071"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Kombination von vier verschiedenen Schwimmstilen in einem Rennen",
+    "dk": "En kombination af fire forskellige svømmetyper i et løb.",
+    "en-GB": "A combination of four different swimming styles in one race",
+    "en-US": "A combination of four different swimming styles in one race",
+    "pt-BR": "Prova que combina os quatro estilos de nado em uma só corrida.",
+    "pt-PT": "Prova que combina os quatro estilos de natação numa só corrida.",
+    "zh-Hans": "四种泳姿组合在一起的游泳比赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q657196"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اربع سباحات",
+    "de": "Lagen",
+    "dk": "medley",
+    "en-GB": "medley swimming",
+    "en-US": "medley swimming",
+    "es": "Combinados (natación)",
+    "fr": "4 nages",
+    "no": "medley",
+    "pt-BR": "medley",
+    "pt-PT": "estilos",
+    "se": "Medley",
+    "zh-Hans": "混合泳"
+  },
+  "qcode": "medtop:20001076",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001076",
+  "aid": "iptc_20001076"
+}

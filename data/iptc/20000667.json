@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000664"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Christen, die der Lehre des Reformers Martin Luther folgen.",
+    "dk": "En kortfattet beskrivelse af kirkerne og fromhedslivet baseret på Martin Luther og den lutherske reformation.",
+    "en-GB": "Christians who follow the teaching of reformer Martin Luther",
+    "en-US": "Christians who follow the teaching of reformer Martin Luther",
+    "pt-BR": "Cristãos que seguem os ensinamentos do reformista Martinho Lutero.",
+    "pt-PT": "Cristãos que seguem os ensinamentos do reformista Martinho Lutero.",
+    "se": "Sammanfattande benämning på de kyrkor och det fromhetsliv som utgår från Martin Luther och den lutherska reformationen.",
+    "zh-Hans": "信奉改革家马丁·路德教义的基督徒"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12009002",
+    "https://www.wikidata.org/entity/Q75809"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "لوثرية",
+    "de": "Lutheraner",
+    "dk": "luthersk",
+    "en-GB": "Lutheran",
+    "en-US": "Lutheran",
+    "es": "Luterano",
+    "fr": "Luthérianisme",
+    "no": "Den evangelisk-lutherske kirke",
+    "pt-BR": "luterano",
+    "pt-PT": "luterano",
+    "se": "Lutheranism",
+    "zh-Hans": "路德教"
+  },
+  "qcode": "medtop:20000667",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000667",
+  "aid": "iptc_20000667"
+}

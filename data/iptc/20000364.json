@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Märkte die kämpfen, um den weltweiten Wirtschaftsmarkt zu erreichen und die finanzielle Hilfe fordern von internationalen Kreditgebern",
+    "dk": "De markeder, der kæmper for at komme ind i verdensøkonomierne, og dem, der kræver økonomisk hjælp fra internationale långivere.",
+    "en-GB": "Those markets that are struggling to enter the world economies and those requiring financial help from international lenders",
+    "en-US": "Those markets that are struggling to enter the world economies and those requiring financial help from international lenders",
+    "pt-BR": "Mercados que lutam para entrar nas economias mundiais e aqueles que requerem ajuda financeira de credores internacionais.",
+    "pt-PT": "Mercados que lutam para entrar nas economias mundiais e aqueles que requerem ajuda financeira de credores internacionais.",
+    "se": "Marknader som representeras av utvecklingsländer, som strävar efter att bli en del av den globala ekonomin och som ibland behöver hjälp av internationella långivare.",
+    "zh-Hans": "那些正在努力进入世界经济的市场，以及那些需要国际贷款机构提供金融援助的市场"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008005",
+    "https://www.wikidata.org/entity/Q546395"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اسواق ناشئة",
+    "de": "Schwellenland",
+    "dk": "vækstøkonomier",
+    "en-GB": "emerging market",
+    "en-US": "emerging market",
+    "es": "Mercados emergentes",
+    "fr": "Marché des pays émergents",
+    "no": "framvoksende marked",
+    "pt-BR": "mercados emergentes",
+    "pt-PT": "mercados emergentes",
+    "se": "Tillväxtmarknad",
+    "zh-Hans": "新兴市场"
+  },
+  "qcode": "medtop:20000364",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000364",
+  "aid": "iptc_20000364"
+}

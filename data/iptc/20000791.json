@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000788"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sowohl körperlich, als auch psychisch oder geistig eingeschränkt sein",
+    "dk": "Fysiske eller mentale forhold, der begrænser en persons bevægelser, sanser eller aktiviteter.",
+    "en-GB": "Physical or mental conditions that limits a person's movements, senses, or activities",
+    "en-US": "Physical or mental conditions that limits a person's movements, senses, or activities",
+    "pt-BR": "Condições físicas ou mentais que limitam os movimentos, sentidos ou atividades de uma pessoa.",
+    "pt-PT": "Condições físicas ou mentais que limitam os movimentos, sentidos ou atividades de uma pessoa.",
+    "se": "Fysisk eller psykisk begränsning av en persons förmåga att fungera i en viss situation eller i en viss miljö.",
+    "zh-Hans": "行动、感觉或活动等身体或精神状况受到限制的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14004000",
+    "https://www.wikidata.org/entity/Q12131"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "معوقون",
+    "de": "Behinderter",
+    "dk": "handicap",
+    "en-GB": "disabilities",
+    "en-US": "disabilities",
+    "es": "Discapacitados",
+    "fr": "Handicapés",
+    "no": "funksjonshemming",
+    "pt-BR": "deficiências",
+    "pt-PT": "deficiências",
+    "se": "Handikapp",
+    "zh-Hans": "身心障碍者"
+  },
+  "qcode": "medtop:20000791",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000791",
+  "aid": "iptc_20000791"
+}

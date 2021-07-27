@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Anbieter von Expertenwissen in vielseitigen Wissensgebieten, meist in Form von Zeitverträgen",
+    "dk": "Udbydere af ekspertviden inden for et specifikt område, normalt i en aftalt periode.",
+    "en-GB": "Providers of expert knowledge in a wide range of fields usually on a temporary, contract basis",
+    "en-US": "Providers of expert knowledge in a wide range of fields usually on a temporary, contract basis",
+    "pt-BR": "Fornecedores de conhecimentos especializados em vários domínios, geralmente com base em contratos temporários.",
+    "pt-PT": "Fornecedores de conhecimentos especializados em vários domínios, geralmente com base em contratos temporários.",
+    "se": "Leverantörer av expertkunskap inom ett specifikt område, vanligtvis under en avtalad tid.",
+    "zh-Hans": "提供广泛领域的专业知识服务，通常基于临时合同"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006003",
+    "https://www.wikidata.org/entity/Q268626"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خدمات استشارية",
+    "de": "Unternehmensberatung",
+    "dk": "konsulenttjeneste",
+    "en-GB": "consultancy service",
+    "en-US": "consultancy service",
+    "es": "Servicios de consultoría",
+    "fr": "Consultants",
+    "no": "konsulentvirksomhet",
+    "pt-BR": "serviço de consultoria",
+    "pt-PT": "serviço de consultoria",
+    "se": "Konsulter",
+    "zh-Hans": "咨询服务"
+  },
+  "qcode": "medtop:20000275",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000275",
+  "aid": "iptc_20000275"
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/12000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schriften die heilig oder wichtig für eine Kirche oder Religion sind.",
+    "dk": "Skrifterne er hellige eller vigtige for en kirke eller religion.",
+    "en-GB": "Scriptures holy or important for a church or religion",
+    "en-US": "Scriptures holy or important for a church or religion",
+    "pt-BR": "Escrituras sagradas ou importantes para uma igreja ou religião.",
+    "pt-PT": "Escrituras sagradas ou importantes para uma igreja ou religião.",
+    "se": "Texter som anses heliga eller viktiga för en kyrka eller religion.",
+    "zh-Hans": "对教堂或宗教来说神圣或重要的经文"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12023000",
+    "https://www.wikidata.org/entity/Q179461"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000706",
+    "medtop:20000707",
+    "medtop:20000708"
+  ],
+  "prefLabel": {
+    "ar": "نص ديني",
+    "de": "Religiöse Schriften",
+    "dk": "religiøs tekst",
+    "en-GB": "religious text",
+    "en-US": "religious text",
+    "es": "Textos religiosos",
+    "fr": "Textes religieux",
+    "no": "hellig skrift",
+    "pt-BR": "textos religiosos",
+    "pt-PT": "textos religiosos",
+    "se": "Religiösa texter",
+    "zh-Hans": "宗教文本"
+  },
+  "qcode": "medtop:20000705",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000705",
+  "aid": "iptc_20000705"
+}

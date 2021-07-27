@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000331"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Geschäft, zubereitete Nahrung für größere und kleinere Kundenkreise anzubieten.",
+    "dk": "Virksomhed, der sælger mad til store eller små grupper af kunder.",
+    "en-GB": "The business of providing prepared foods for customers in groups large and small",
+    "en-US": "The business of providing prepared foods for customers in groups large and small",
+    "pt-BR": "Negócio do fornecimento de comida preparada para clientes em grupos grandes ou pequenos.",
+    "pt-PT": "Negócio do fornecimento de comida preparada para clientes em grupos grandes ou pequenos.",
+    "se": "Affärsverksamhet som går ut på att servera färdig mat till stora eller små grupper av kunder.",
+    "zh-Hans": "为顾客提供熟食的生意"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04014004",
+    "https://www.wikidata.org/entity/Q41958"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مطاعم وطبخ",
+    "de": "Gaststronomie",
+    "dk": "restaurant og catering",
+    "en-GB": "restaurant and catering",
+    "en-US": "restaurant and catering",
+    "es": "Restaurantes y restauración",
+    "fr": "Restaurants et traiteurs",
+    "no": "restaurant og catering",
+    "pt-BR": "restaurantes e catering",
+    "pt-PT": "restauração e catering",
+    "se": "Restaurang och catering",
+    "zh-Hans": "饭店和餐饮"
+  },
+  "qcode": "medtop:20000335",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000335",
+  "aid": "iptc_20000335"
+}

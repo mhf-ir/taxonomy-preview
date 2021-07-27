@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000087"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Die absichtliche Falschdarstellung oder Änderung von Buchhaltungsunterlagen in Bezug auf Verkäufe, Einnahmen, Ausgaben und andere Faktoren.",
+    "dk": "Kriminalitet, der involverer vildledende oplysninger om en virksomheds eller organisations økonomi.",
+    "en-GB": "The intentional misrepresentation or alteration of accounting records regarding sales, revenues, expenses and other factors",
+    "en-US": "The intentional misrepresentation or alteration of accounting records regarding sales, revenues, expenses and other factors",
+    "pt-BR": "Deturpação intencional ou alteração de registros contábeis relativos a vendas, receitas, despesas e outros fatores.",
+    "pt-PT": "Deturpação intencional ou alteração de registos contabilísticos relativos a vendas, receitas, despesas e outros fatores.",
+    "se": "Brottslighet som inbegriper felaktigt förda noteringar om ett företags eller organisations ekonomi.",
+    "zh-Hans": "虚假记录或篡改销售、收入、费用等会计数据的行为"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q41799931"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "جريمة مالية",
+    "de": "Wirtschaftskriminalität",
+    "dk": "regnskabskriminalitet",
+    "en-GB": "accounting crime",
+    "en-US": "accounting crime",
+    "es": "Delito contable",
+    "fr": "Fraude comptable",
+    "no": "bedrageri",
+    "pt-BR": "fraude contábil",
+    "pt-PT": "fraude contabilística",
+    "se": "Bokföringsbrott",
+    "zh-Hans": "会计犯罪"
+  },
+  "qcode": "medtop:20001194",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001194",
+  "aid": "iptc_20001194"
+}

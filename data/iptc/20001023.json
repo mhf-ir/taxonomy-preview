@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001017"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rodeo Disziplin",
+    "dk": "At fange geder ved hjælp af en lasso, oprindeligt skabt til at fange geder til mærkning og lignende.",
+    "en-GB": "Rodeo discipline",
+    "en-US": "Rodeo discipline",
+    "pt-BR": "Disciplina de rodeio.",
+    "pt-PT": "Disciplina de rodeio.",
+    "se": "Infångning av getter med hjälp av en lasso, från början skapad för att fånga in getter för märkning och dylikt.",
+    "zh-Hans": "一种牛仔竞技比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15074007",
+    "https://www.wikidata.org/entity/Q5575349"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "روديو ربط الماعز",
+    "de": "Goat Roping",
+    "dk": "goat roping",
+    "en-GB": "goat roping",
+    "en-US": "goat roping",
+    "es": "Goat roping (rodeo)",
+    "fr": "Goat roping (rodéo)",
+    "no": "lasso (geit)",
+    "pt-BR": "goat roping",
+    "pt-PT": "goat roping",
+    "se": "Lasso (getter)",
+    "zh-Hans": "套山羊"
+  },
+  "qcode": "medtop:20001023",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001023",
+  "aid": "iptc_20001023"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000021"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Gattung einer Musik, die aus den USA der 1940er und 1950er Jahre stammt, entwickelt aus afroamerikanischen Musikstilen wie den Gospels, Jump Blues, Jazz, Boogie Woogie und Rythm and Blues",
+    "dk": "En genre af musik, der stammer fra USA i slutningen af 1940'erne og begyndelsen af 1950'erne, hvor den udviklede sig fra afroamerikanske musikalske stilarter som gospel, jump blues, jazz, boogie woogie og rytme og blues.",
+    "en-GB": "A genre of music that originated  in the United States during the late 1940s and early 1950s, evolving from African American musical styles such as gospel, jump blues, jazz, boogie woogie, and rhythm and blues.",
+    "en-US": "A genre of music that originated in the United States during the late 1940s and early 1950s, evolving from African American musical styles such as gospel, jump blues, jazz, boogie woogie, and rhythm and blues.",
+    "es": "Género de música que se originó en Estados Unidos a fines de los años 1940 y principios de los 1950, evolucionando desde estilos musicales afroamericanos como el góspel, el jump blues, el jazz, el boogie woogie y el rhythm and blues",
+    "fr": "Genre musical originaire des États-Unis à la fin des années 1940 et au début des années 1950 évoluant à partir de styles musicaux afro-américains tels que le gospel, le jump blues, le jazz, le boogie woogie et le rhythm and blues",
+    "pt-BR": "Gênero de música com origem nos Estados Unidos durante as décadas de 1940 e 1950, que evoluiu dos estilos musicais afro-americanos, como o gospel, blues, jazz, boogie woogie e R&B.",
+    "pt-PT": "Género de música com origem nos Estados Unidos durante as décadas de 1940 e 1950, que evoluiu dos estilos musicais afro-americanos, como o gospel, blues, jazz, boogie woogie e R&B.",
+    "se": "Musikstil som utvecklades i USA under slutet av 1940-talet och början av 1950-talet. Den blandade influenser från tidigare afro-amerikanska musikstilar som gospel, blues, jazz, boogie woogie och rythm'n'blues.",
+    "zh-Hans": "起源于20世纪40年代末50年代初美国的一种音乐流派，由福音乐、跳蓝调、爵士乐、布吉伍吉舞和节奏布鲁斯等非裔美国人的音乐风格演变而来"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01011006",
+    "https://www.wikidata.org/entity/Q11399"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "موسيقى الروك",
+    "de": "Rock'n' Roll",
+    "dk": "rockmusik",
+    "en-GB": "rock and roll music",
+    "en-US": "rock and roll music",
+    "es": "Música rock and roll",
+    "fr": "Rock",
+    "no": "rock",
+    "pt-BR": "música rock",
+    "pt-PT": "música rock",
+    "se": "Rock",
+    "zh-Hans": "摇滚乐"
+  },
+  "qcode": "medtop:20000027",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000027",
+  "aid": "iptc_20000027"
+}

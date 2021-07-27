@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Spiel zwischen zwei Teams mit 5 Spielern - Punkte werden gemacht in dem man einen großen aufgepumpten Ball in einen Korb wirft, der 3.05 Meter über dem Boden hängt",
+    "dk": "Basketball spilles mellem to hold af fem. Point scores ved at placere den store bold i et net, der er fastgjort på en ring 3,05 m over jorden.",
+    "en-GB": "Game played between two teams of five - points are scored by placing the large inflated ball into a net fixed on a ring 3.05m above the ground.",
+    "en-US": "Game played between two teams of five - points are scored by placing the large inflated ball into a net fixed on a ring 3.05m above the ground.",
+    "pt-BR": "Jogo disputado entre duas equipes de 5 jogadores. Pontos são marcados quando uma bola é encestada num aro com rede, que se encontra a uma altura de 3.05m do solo.",
+    "pt-PT": "Jogo disputado entre duas equipas de 5 jogadores. Pontos são marcados quando uma bola é encestada num aro com rede, que se encontra a uma altura de 3.05m do solo.",
+    "se": "Match mellan två femmannalag där de passar en boll och försöker pricka en fast korg med nät som sitter 3,05 meter över marken.",
+    "zh-Hans": "集体球类运动。两队比赛，每队5人。运动员将球投入对方离地3.05米高的篮网内得分"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15008000",
+    "https://www.wikidata.org/entity/Q5372"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سلة",
+    "de": "Basketball",
+    "dk": "basketball",
+    "en-GB": "basketball",
+    "en-US": "basketball",
+    "es": "Básquetbol",
+    "fr": "Basket-ball",
+    "no": "basketball",
+    "pt-BR": "basquete",
+    "pt-PT": "basquetebol",
+    "se": "Basket",
+    "zh-Hans": "篮球"
+  },
+  "qcode": "medtop:20000851",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000851",
+  "aid": "iptc_20000851"
+}

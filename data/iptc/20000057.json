@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000056"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Regierungsfeindliche oder kriegerische Aktionen von Untergrundgruppen oder anderen nicht-staatlichen Kämpfern, in denen oft Hinterhalte, Sabotage, Überfälle oder Entführungen eingesetzt werden",
+    "dk": "Krigsførelse beregnet til at fratage modstanderen en etableret kontrol over et område, primært gennem den mobile kamp om adskillige mindre enheder, ofte ved anvendelse sabotage og overraskelsesangreb.",
+    "en-GB": "Anti-government or wartime actions by clandestine or non-state combatant groups, often using tactics such as ambush, sabotage, raids and kidnapping",
+    "en-US": "Anti-government or wartime actions by clandestine or non-state combatant groups, often using tactics such as ambush, sabotage, raids and kidnapping",
+    "es": "Acciones de guerra o antigubernamentales dirigidas por grupos de combatientes clandestinos o independientes, utilizando tácticas como emboscadas, sabotajes, incursiones y secuestros",
+    "fr": "Actions antigouvernementales ou actions de guerre menées par des groupes de combattants clandestins ou indépendants, utilisant souvent des tactiques telles que l'embuscade, le sabotage, les raids et les enlèvements",
+    "pt-BR": "Ações antigovernamentais de grupos clandestinos armados, mediante ataques súbitos, sabotagem, sequestro etc.",
+    "pt-PT": "Ações antigovernamentais de grupos clandestinos armados, mediante ataques súbitos, sabotagem, sequestro, etc.",
+    "se": "Krigföring som avser att beröva motståndaren en etablerad kontroll över ett område, främst genom rörlig strid av talrika mindre förband, vilka under lång tid utför sabotage och eldöverfall.",
+    "zh-Hans": "秘密或非国家武装组织的反政府或战时行为，经常使用伏击、破坏、突袭和绑架等战术"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16005000",
+    "https://www.wikidata.org/entity/Q80895"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حرب عصابات",
+    "de": "Guerilla",
+    "dk": "guerillaaktivitet",
+    "en-GB": "guerrilla activity",
+    "en-US": "guerrilla activity",
+    "es": "Actividad guerrillera",
+    "fr": "Guérilla",
+    "no": "geriljakrig",
+    "pt-BR": "guerrilha",
+    "pt-PT": "guerrilha",
+    "se": "Gerillakrig",
+    "zh-Hans": "游击活动"
+  },
+  "qcode": "medtop:20000057",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000057",
+  "aid": "iptc_20000057"
+}

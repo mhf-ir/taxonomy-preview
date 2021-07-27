@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15073000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001108"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkampf, an dem die besten Wettkämpfer oder Teams einer Region teilnehmen. Spiele genannt",
+    "dk": "Konkurrence, hvor atleter eller hold fra en bestemt del af landet kan deltage.",
+    "en-GB": "A competition where individuals or teams from a region of a country may participate. Called *Games*",
+    "en-US": "A competition where individuals or teams from a region of a country may participate. Called *Games*",
+    "pt-BR": "Competição em que podem participar indivíduos ou equipes de uma região. Designa-se por *Jogos*.",
+    "pt-PT": "Competição em que podem participar indivíduos ou equipas de uma região. Designa-se por *Jogos*.",
+    "se": "Tävling där atleter eller lag från en viss del av landet kan delta.",
+    "zh-Hans": "国内某个地区的个人或集体参加的该地区的运动会"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "العاب اقليمية",
+    "de": "Regionale Spiele",
+    "dk": "regionale lege",
+    "en-GB": "regional games",
+    "en-US": "regional games",
+    "es": "Juegos regionales",
+    "fr": "Jeux régionaux",
+    "no": "distriktsleker",
+    "pt-BR": "jogos regionais",
+    "pt-PT": "jogos regionais",
+    "se": "Distriktstävlingar",
+    "zh-Hans": "国内地区运动会"
+  },
+  "qcode": "medtop:20001120",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001120",
+  "aid": "iptc_20001120"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000697"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein erkennbares Gebäude als Ort für den Gottesdienst des Judentums",
+    "dk": "Generelt en bygning, der kan identificeres som et sted for tilbedelse for den jødiske religion.",
+    "en-GB": "Generally an edifice identifiable as a place of worship for the Jewish religion",
+    "en-US": "Generally an edifice identifiable as a place of worship for the Jewish religion",
+    "pt-BR": "Em geral, edifício identificável como local de culto para a religião judaica.",
+    "pt-PT": "Em geral, edifício identificável como local de culto para a religião judaica.",
+    "se": "En byggnad som används för olika riter inom judendomen.",
+    "zh-Hans": "通常指犹太宗教的礼拜场所"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q34627"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كنيس",
+    "de": "Synagoge",
+    "dk": "synagoge",
+    "en-GB": "synagogue",
+    "en-US": "synagogue",
+    "es": "Sinagoga",
+    "fr": "Synagogue",
+    "no": "synagoge",
+    "pt-BR": "sinagoga",
+    "pt-PT": "sinagoga",
+    "se": "Synagogor",
+    "zh-Hans": "会堂"
+  },
+  "qcode": "medtop:20000700",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000700",
+  "aid": "iptc_20000700"
+}

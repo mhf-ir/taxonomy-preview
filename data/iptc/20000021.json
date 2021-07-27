@@ -1,0 +1,63 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01011000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000018"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine unterscheidbare Gattung von Musik",
+    "dk": "En karakteristisk type af musik.",
+    "en-GB": "A distinguishable type of music",
+    "en-US": "A distinguishable type of music",
+    "es": "Un género musical distinguible al que pertenece un tipo particular de música",
+    "fr": "Catégorie rassemblant des musiques ayant des caractéristiques communes",
+    "pt-BR": "Um tipo de música distinguível.",
+    "pt-PT": "Um tipo de música distinguível.",
+    "se": "En vedertagen genre inom musik.",
+    "zh-Hans": "音乐作品呈现出的独特可辨的风格类型"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q188451"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000022",
+    "medtop:20000023",
+    "medtop:20000024",
+    "medtop:20000025",
+    "medtop:20000026",
+    "medtop:20000027",
+    "medtop:20001184",
+    "medtop:20001185",
+    "medtop:20001186",
+    "medtop:20001187",
+    "medtop:20001188",
+    "medtop:20001189"
+  ],
+  "prefLabel": {
+    "ar": "نوع موسيقي",
+    "de": "Musikgenre",
+    "dk": "musikgenre",
+    "en-GB": "musical genre",
+    "en-US": "musical genre",
+    "es": "Estilo musical",
+    "fr": "Genre musical",
+    "no": "musikksjanger",
+    "pt-BR": "gênero musical",
+    "pt-PT": "género musical",
+    "se": "Musikgenre",
+    "zh-Hans": "音乐类型"
+  },
+  "qcode": "medtop:20000021",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000021",
+  "aid": "iptc_20000021"
+}

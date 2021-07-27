@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/02000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Tätigkeitsbereiche, die eingebunden sind in Präventivmaßnahmen zur Verhinderung von Verstößen gegen gültige Gesetze, oder die Gesetzesbrecher vor Gericht zu bringen.",
+    "dk": "Forskellige aktiviteter for at forhindre kriminalitet eller straffe dem, der har begået kriminalitet.",
+    "en-GB": "Agencies that attempt to prevent disobedience to established laws or bring to justice those who disobey those laws",
+    "en-US": "Agencies that attempt to prevent disobedience to established laws or bring to justice those who disobey those laws",
+    "pt-BR": "Agências envolvidas na prevenção da desobediência às leis estabelecidas e em levar a tribunal os que desobedecem a essas leis.",
+    "pt-PT": "Agências envolvidas na prevenção da desobediência às leis estabelecidas e em levar a tribunal os que desobedecem a essas leis.",
+    "se": "Olika aktiviteter för att minimera brottslighet.",
+    "zh-Hans": "防止违反既定法律或将违反法律的人绳之以法的机构"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02003001",
+    "https://www.wikidata.org/entity/Q44554"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000130",
+    "medtop:20000131",
+    "medtop:20000133",
+    "medtop:20001299"
+  ],
+  "prefLabel": {
+    "ar": "تطبيق القانون",
+    "de": "Sicherheitskräfte (BGS, LKA, BKA)",
+    "dk": "retshåndhævelse",
+    "en-GB": "law enforcement",
+    "en-US": "law enforcement",
+    "es": "Autoridades",
+    "fr": "Forces de l'ordre",
+    "no": "rettshåndhevelse",
+    "pt-BR": "forças policiais",
+    "pt-PT": "forças policiais",
+    "se": "Brottsbekämpning",
+    "zh-Hans": "执法机构"
+  },
+  "qcode": "medtop:20000129",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000129",
+  "aid": "iptc_20000129"
+}

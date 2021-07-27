@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15047006"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001026"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Boot für acht Personen und einem Ruder pro Person mit Steuermann",
+    "dk": "Otte-personers både med kun een åre til hver person og med en styrmand til at sætte kursen.",
+    "en-GB": "Eight person boats with just one oar each and with a team mate to give directions",
+    "en-US": "Eight person boats with just one oar each and with a team mate to give directions",
+    "pt-BR": "Barco de oito pessoas com apenas um remo cada uma e com um companheiro de equipe para dar instruções.",
+    "pt-PT": "Barco de oito pessoas com apenas um remo cada uma e com um companheiro de equipa para dar instruções.",
+    "zh-Hans": "八人单桨有舵赛艇比赛，有一人掌控方向"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q81050"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تجديف ثماني بالدفة",
+    "de": "Achter",
+    "dk": "otter med styrmand",
+    "en-GB": "coxed eight",
+    "en-US": "coxed eight",
+    "es": "Ocho con timonel (remo)",
+    "fr": "Huit (aviron)",
+    "no": "åtter med styrmann",
+    "pt-BR": "oito com timoneiro",
+    "pt-PT": "oito com timoneiro",
+    "se": "Åttamanna",
+    "zh-Hans": "八人单桨有舵赛艇比赛"
+  },
+  "qcode": "medtop:20001032",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001032",
+  "aid": "iptc_20001032"
+}

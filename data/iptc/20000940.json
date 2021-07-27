@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer versuchen einen kleinen weißen Ball mit verschiedenen Schlägern in einem Gelände mit 18 Löchern auf verschiedenen Distanzen einzulochen. Das Ziel ist die wenigsten Schläge zu benötigen",
+    "dk": "Spillerne rammer en lille hård bold med forskellige køller rundt om en bane med normalt 18 huller af forskellig længde og vanskelighed. Minimum antal slag vinder. Banerne kan have forhindringer i form af græs, vand og sand.",
+    "en-GB": "A game to hit a small hard ball with different clubs around a course of typically 18 holes varying in distance and during a round. The object, depending on the scoring formulae, is to make the fewest strokes possible",
+    "en-US": "A game to hit a small hard ball with different clubs around a course of typically 18 holes varying in distance and during a round. The object, depending on the scoring formulae, is to make the fewest strokes possible",
+    "pt-BR": "Jogo em que os participantes batem uma pequena bola branca com diferentes tacos ao longo de um campo de 18 buracos, que variam em distância. O objetivo é fazer a bola entrar nos buracos com o menor número possível de tacadas.",
+    "pt-PT": "Jogo em que os participantes batem uma pequena bola branca com diferentes tacos ao longo de um campo de 18 buracos, que variam em distância. O objetivo é fazer a bola entrar nos buracos com o menor número possível de tacadas.",
+    "se": "Spelarna slår på en liten hård boll med olika klubbor runt en bana med normalt 18 hål av varierande längd och svårighet. Minst antal slag vinner. Banorna kan ha hinder i form av tjockt gräs, vatten och sand.",
+    "zh-Hans": "这是一项用不同球杆击打小型硬球进洞的比赛，比赛一轮通常有18个球洞，距离不等。 胜负取决于评分公式，目标是用最少的杆数完成进洞"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15027000",
+    "https://www.wikidata.org/entity/Q5377"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000941"
+  ],
+  "prefLabel": {
+    "ar": "غولف",
+    "de": "Golf",
+    "dk": "golf",
+    "en-GB": "golf",
+    "en-US": "golf",
+    "es": "Golf",
+    "fr": "Golf",
+    "no": "golf",
+    "pt-BR": "golfe",
+    "pt-PT": "golfe",
+    "se": "Golf",
+    "zh-Hans": "高尔夫"
+  },
+  "qcode": "medtop:20000940",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000940",
+  "aid": "iptc_20000940"
+}

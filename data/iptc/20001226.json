@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000487"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Eine medizinische Spezialisierung, die sich auf die Behandlung von Verletzungen oder Störungen des Körpers durch Einschnitte oder Manipulation, insbesondere mit Instrumenten, konzentriert.",
+    "dk": "Medicinsk pleje, hvor enhver form for intervention i kroppen udføres for at fjerne beskadigede dele eller reparere beskadigede ting.",
+    "en-GB": "A medical specialisation that focuses on the treatment of injuries or disorders of the body by incision or manipulation, especially with instruments",
+    "en-US": "A medical specialization that focuses on the treatment of injuries or disorders of the body by incision or manipulation, especially with instruments",
+    "pt-BR": "Especialidade médica que se dedica ao tratamento de lesões ou traumatismos por meio de incisão ou manipulação, especialmente com instrumentos, no corpo do paciente.",
+    "pt-PT": "Especialidade médica que se dedica ao tratamento de lesões ou traumatismos por meio de incisão ou manipulação, especialmente com instrumentos, no corpo do paciente.",
+    "se": "Sjukvård där någon form av ingrepp i kroppen sker för att avlägsna skadade delar, eller reparera skadade saker.",
+    "zh-Hans": "专注于通过手术切口或操作，特别是用器械治疗身体损伤或疾病的医学专业"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q40821"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الجراحة العامة",
+    "de": "Chirurgische Medizin",
+    "dk": "kirurgisk medicin",
+    "en-GB": "surgical medicine",
+    "en-US": "surgical medicine",
+    "es": "Cirugía",
+    "fr": "Chirurgie",
+    "no": "kirurgisk medisin",
+    "pt-BR": "medicina cirúrgica",
+    "pt-PT": "medicina cirúrgica",
+    "se": "Kirurgi (inriktning)",
+    "zh-Hans": "外科"
+  },
+  "qcode": "medtop:20001226",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001226",
+  "aid": "iptc_20001226"
+}

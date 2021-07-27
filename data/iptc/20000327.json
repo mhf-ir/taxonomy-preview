@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000322"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Herstellung von gummibasierten Materialien wie Handschuhe, Schutzmäntel, Schläuchen und Ähnliches",
+    "dk": "Fremstilling af produkter (f.eks. Handsker, slanger, beskyttelsesbeklædning), hvor naturgummi og syntetisk gummi i vid udstrækning indgår som basisråmateriale.",
+    "en-GB": "Production of rubber-based materials for gloves, protective coatings, hoses and the like",
+    "en-US": "Production of rubber-based materials for gloves, protective coatings, hoses and the like",
+    "pt-BR": "Produção de materiais de borracha para o fabrico de luvas, revestimentos protetores, mangueiras etc.",
+    "pt-PT": "Produção de materiais de borracha para o fabrico de luvas, revestimentos protetores, mangueiras, etc.",
+    "se": "Tillverkning av produkter (t ex handskar, slangar, skyddskläder) i vilka naturgummi och syntetiskt gummi till betydande del ingår som basråvara.",
+    "zh-Hans": "用橡胶基材料生产的手套、防护涂层、软管等产品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04013005",
+    "https://www.wikidata.org/entity/Q56604620"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "منتجات مطاطية",
+    "de": "Gummi",
+    "dk": "gummiprodukt",
+    "en-GB": "rubber product",
+    "en-US": "rubber product",
+    "es": "Productos de caucho",
+    "fr": "Caoutchouc",
+    "no": "gummi-industri",
+    "pt-BR": "borracha",
+    "pt-PT": "borracha",
+    "se": "Gummi",
+    "zh-Hans": "橡胶制品"
+  },
+  "qcode": "medtop:20000327",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000327",
+  "aid": "iptc_20000327"
+}

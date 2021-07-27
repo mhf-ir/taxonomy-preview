@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000470"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Behandlung der gesamten Person, unter Einbeziehung mentaler und sozialer Faktoren, eher als die Krankheitssymptome selbst.",
+    "dk": "Behandling af hele personen, inklusive mentale og sociale faktorer, i stedet for bare sygdommens symptomer.",
+    "en-GB": "Treatment of the whole person including mental and social factors rather than just the symptoms of the disease.",
+    "en-US": "Treatment of the whole person including mental and social factors rather than just the symptoms of the disease.",
+    "pt-BR": "Tratamento da pessoa como um todo, incluindo fatores mentais e sociais, e não somente os sintomas da doença.",
+    "pt-PT": "Tratamento da pessoa como um todo, incluindo fatores mentais e sociais, e não somente os sintomas da doença.",
+    "se": "Behandling av hela personen, inklusive mentala och sociala faktorer, i stället för bara av sjukdomens symptom.",
+    "zh-Hans": "对人进行整体的治疗，包括心理和社会因素，而不仅仅是疾病的症状"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07007002",
+    "https://www.wikidata.org/entity/Q188504"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "طب شمولي",
+    "de": "Ganzheitliche Medizin",
+    "dk": "holistisk medicin",
+    "en-GB": "holistic medicine",
+    "en-US": "holistic medicine",
+    "es": "Medicina holística",
+    "fr": "Médecine holistique",
+    "no": "alternativ medisin",
+    "pt-BR": "medicina holística",
+    "pt-PT": "medicina holística",
+    "se": "Holistisk medicin",
+    "zh-Hans": "整体医学"
+  },
+  "qcode": "medtop:20000472",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000472",
+  "aid": "iptc_20000472"
+}

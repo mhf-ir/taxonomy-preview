@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000400"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Schulen, die aus öffentlichen Mitteln, in der Regel von der Regierung auferlegte Steuern, unterhalten werden",
+    "dk": "En kommunal skole som er åben for alle og er en del af det offentlige skolesystem i Danmark.",
+    "en-GB": "Schools maintained by public funds, usually government-imposed taxes",
+    "en-US": "Schools maintained by public funds, usually government-imposed taxes",
+    "pt-BR": "Escolas financiadas por fundos públicos, geralmente impostos cobrados pelo governo.",
+    "pt-PT": "Escolas financiadas por fundos públicos, geralmente impostos cobrados pelo governo.",
+    "se": "En kommunal skola är öppen för alla och ingår i det offentliga skolväsendet i Sverige",
+    "zh-Hans": "由公共基金通常是政府税收开办的学校"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1080794"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مدارس حكومية",
+    "de": "Öffentliche Schulen",
+    "dk": "folkeskole",
+    "en-GB": "public schools",
+    "en-US": "public schools",
+    "es": "Escuelas públicas",
+    "fr": "Écoles publiques",
+    "no": "offentlig skole",
+    "pt-BR": "escolas públicas",
+    "pt-PT": "escolas públicas",
+    "se": "Kommunal skola",
+    "zh-Hans": "公立学校"
+  },
+  "qcode": "medtop:20001213",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001213",
+  "aid": "iptc_20001213"
+}

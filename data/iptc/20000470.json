@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000464"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Mittel, das verabreicht wird in der Hoffnung ein Leiden oder eine Krankheit zu heilen",
+    "dk": "Et stof, der bruges til at eliminere en sygdom.",
+    "en-GB": "The study and science of human diseases and conditions, including the practice of diagnosis, treatment and prevention",
+    "en-US": "The study and science of human diseases and conditions, including the practice of diagnosis, treatment and prevention",
+    "pt-BR": "Substância administrada com intenção de eliminar uma afecção ou doença.",
+    "pt-PT": "Substância administrada com intenção de eliminar uma afeção ou doença.",
+    "se": "En substans som används för att eliminera en sjukdom.",
+    "zh-Hans": "研究人类疾病和病情的科学，包括诊断、治疗和预防的实践"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07007000",
+    "https://www.wikidata.org/entity/Q11190"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000471",
+    "medtop:20000472",
+    "medtop:20000473",
+    "medtop:20000474"
+  ],
+  "prefLabel": {
+    "ar": "طب",
+    "de": "Medikament",
+    "dk": "medicin",
+    "en-GB": "medicine",
+    "en-US": "medicine",
+    "es": "Medicina",
+    "fr": "Remède",
+    "no": "medisin",
+    "pt-BR": "medicamento",
+    "pt-PT": "medicamento",
+    "se": "Medicin",
+    "zh-Hans": "医药学"
+  },
+  "qcode": "medtop:20000470",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000470",
+  "aid": "iptc_20000470"
+}

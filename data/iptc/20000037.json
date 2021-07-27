@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000031"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Form der bildenden Künste, die sich auf die Verwendung von Lehm, Stein, Holz und Metall zur Herstellung dreidimensionaler Werke konzentriert",
+    "dk": "En kunstart, hvor genstande er lavet af en form for fast materiale, såsom sten, træ eller ler.",
+    "en-GB": "A form of visual arts using mediums such as clay, stone, wood and metal to create three-dimensional works",
+    "en-US": "A form of visual arts using mediums such as clay, stone, wood and metal to create three-dimensional works",
+    "es": "Forma de arte visual que utiliza medios tales como arcilla, piedra, madera y metal para crear obras tridimensionales",
+    "fr": "Forme d'art visuel réalisé avec des matériaux tels que l'argile, la pierre, le bois et le métal pour créer des œuvres en trois dimensions",
+    "pt-BR": "Representação de formas em barro, pedra, madeira, metal ou outros materiais.",
+    "pt-PT": "Representação de formas em barro, pedra, madeira, metal ou outros materiais.",
+    "se": "En form av visuell konst där föremål framställs av någon form av fast material som exempelvis sten, trä eller lera.",
+    "zh-Hans": "用黏土、石头、木头和金属等媒介创作三维作品的视觉艺术形式"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01015000",
+    "https://www.wikidata.org/entity/Q11634"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "نحت",
+    "de": "Bildhauerei",
+    "dk": "skulptur",
+    "en-GB": "sculpture",
+    "en-US": "sculpture",
+    "es": "Escultura",
+    "fr": "Sculpture",
+    "no": "skulptur",
+    "pt-BR": "escultura",
+    "pt-PT": "escultura",
+    "se": "Skulptur",
+    "zh-Hans": "雕塑"
+  },
+  "qcode": "medtop:20000037",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000037",
+  "aid": "iptc_20000037"
+}

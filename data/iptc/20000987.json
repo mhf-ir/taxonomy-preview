@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wird als Einsitzer oder Doppelsitzer ausgetragen. Der Athlet liegt auf dem Rücken auf einem offenen Rennschlitten und gleitet in einer Kunst- oder Natureisbahn hinab. Der Athlet und der Rennschlitten müssen gemeinsam die Ziellinie passieren",
+    "dk": "Konkurrenten ligger sig på ryggen med fødderne først på en lille kælk, på en bane, som kan være naturlig, men oftest er opbygget.",
+    "en-GB": "Luge (French word for sled) is competed in singles or doubles. The competitor(s) lay on their back on an open sled and race down a course. The competitor(s) and the sled must be in contact when passing the finishing line. The competitor can steer the sled",
+    "en-US": "Luge (French word for sled) is competed in singles or doubles. The competitor(s) lay on their back on an open sled and race down a course. The competitor(s) and the sled must be in contact when passing the finishing line. The competitor can steer the sled",
+    "pt-BR": "O luge (palavra francesa para trenó) é uma competição individual ou em pares em que os atletas, deitados de costas em trenó aberto, percorrem a grande velocidade uma descida coberta de gelo. O(s) atleta(s) pode(m) manobrar o trenó e deve(m) estar em contato com ele ao passar a linha de chegada.",
+    "pt-PT": "O luge (palavra francesa para trenó) é uma competição individual ou em pares em que os atletas, deitados de costas em trenó aberto, percorrem a grande velocidade uma descida coberta de gelo. O(s) atleta(s) pode(m) manobrar o trenó e deve(m) estar em contacto com ele ao passar a linha de chegada.",
+    "se": "Den tävlande åker på rygg med fötterna först på en liten släde nedför en bana som kan vara naturlig men oftast är uppbyggd. Åkaren kan till viss del styra sin släde.",
+    "zh-Hans": "单人或双人雪橇比赛。运动员躺在雪橇上沿赛道下滑。运动员和雪橇在过终点时不能分离。运动员可以操控雪橇方向"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q273285"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "الزحافات الثلجية",
+    "de": "Rodeln",
+    "dk": "kælk",
+    "en-GB": "luge",
+    "en-US": "luge",
+    "es": "Luge (trineo)",
+    "fr": "Luge",
+    "no": "aking",
+    "pt-BR": "luge",
+    "pt-PT": "luge",
+    "se": "Rodel",
+    "zh-Hans": "坐式雪橇"
+  },
+  "qcode": "medtop:20000987",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000987",
+  "aid": "iptc_20000987"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000294"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Herstellung von Kränen, Bulldozern und ähnliches für den Gebrauch bei großen Bauprojekten",
+    "dk": "Produktion af kraner, bulldozere og lignende til anvendelse i store byggeprojekter.",
+    "en-GB": "Manufacturers of cranes, bulldozers and the like for use in major construction projects",
+    "en-US": "Manufacturers of cranes, bulldozers and the like for use in major construction projects",
+    "pt-BR": "Fabricantes de gruas, buldôzeres e equipamento similar para uso em grandes projetos de construção.",
+    "pt-PT": "Fabricantes de gruas, buldózeres e equipamento similar para uso em grandes projetos de construção.",
+    "se": "Produktion av kranar, bulldozers och liknande för användning i stora konstruktionsprojekt.",
+    "zh-Hans": "起重机、推土机等重型设备"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04011005",
+    "https://www.wikidata.org/entity/Q874311"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "هندسة ثقيلة",
+    "de": "Anlagenbau",
+    "dk": "sværindustri",
+    "en-GB": "heavy engineering",
+    "en-US": "heavy engineering",
+    "es": "Ingeniería pesada",
+    "fr": "Engins de chantier",
+    "no": "tungindustri",
+    "pt-BR": "equipamentos pesados",
+    "pt-PT": "equipamentos pesados",
+    "se": "Tunga maskiner",
+    "zh-Hans": "重工机械"
+  },
+  "qcode": "medtop:20000299",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000299",
+  "aid": "iptc_20000299"
+}

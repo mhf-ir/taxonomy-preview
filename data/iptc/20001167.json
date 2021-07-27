@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000322"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Herstellung von medizinischen und chirurgischen Geräten für Diagnose und Behandlung, wie optische und bildgebende Geräte.",
+    "dk": "Fremstilling af medicinske eller kirurgiske produkter, der anvendes til diagnose og behandling af syge.",
+    "en-GB": "Manufacture of medical and surgical devices for diagnosis and treatment such as optical and imaging equipment.",
+    "en-US": "Manufacture of medical and surgical devices for diagnosis and treatment such as optical and imaging equipment.",
+    "pt-BR": "Fabricação de dispositivos médicos e cirúrgicos para diagnóstico e tratamento.",
+    "pt-PT": "Fabrico de dispositivos médicos e cirúrgicos para diagnóstico e tratamento.",
+    "se": "Tillverkning av medicinska eller kirurgiska produkter som används för diagnosticering och behandling av sjuka.",
+    "zh-Hans": "制造用于诊断和治疗的医疗和外科设备，如光学和成像设备"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/wiki/Q63383285"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "معدات طبية",
+    "de": "medizinische Ausrüstrung",
+    "dk": "medicinsk udstyr",
+    "en-GB": "medical equipment",
+    "en-US": "medical equipment",
+    "es": "Equipamiento médico",
+    "fr": "Équipement médical",
+    "no": "medisinsk utstyr",
+    "pt-BR": "equipamento médico",
+    "pt-PT": "equipamento médico",
+    "se": "Medicinsk utrustning",
+    "zh-Hans": "医疗设备"
+  },
+  "qcode": "medtop:20001167",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001167",
+  "aid": "iptc_20001167"
+}

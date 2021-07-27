@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15062000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001071"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rennen, die in einem 25m langen Pool ausgetragen werden",
+    "dk": "Svømmekonkurrence på en 25 meter lang kortbane.",
+    "en-GB": "Races competed in a 25m length pool",
+    "en-US": "Races competed in a 25m length pool",
+    "pt-BR": "Corridas realizadas em piscina de 25m de comprimento.",
+    "pt-PT": "Corridas realizadas em piscina de 25m de comprimento.",
+    "zh-Hans": "在25米长的泳池进行的游泳比赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q4008851"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سباحة مسافة قصيرة",
+    "de": "Kurzbahnen (Schwimmen)",
+    "dk": "kortbane",
+    "en-GB": "short course swimming",
+    "en-US": "short course swimming",
+    "es": "Piscina corta",
+    "fr": "Petit bassin",
+    "no": "kortbanesvømming",
+    "pt-BR": "piscina curta",
+    "pt-PT": "piscina curta",
+    "se": "Kort bana",
+    "zh-Hans": "短池游泳"
+  },
+  "qcode": "medtop:20001080",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001080",
+  "aid": "iptc_20001080"
+}

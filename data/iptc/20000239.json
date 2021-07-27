@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000235"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bau von Wohnraum zur privaten Nutzung",
+    "dk": "Opførelse af boliger til privat brug.",
+    "en-GB": "Construction of residences, for private use",
+    "en-US": "Construction of residences, for private use",
+    "pt-BR": "Construção de residências, para uso privado.",
+    "pt-PT": "Construção de residências, para uso privado.",
+    "se": "Bygge av bostäder för privat bruk.",
+    "zh-Hans": "建设住宅供私人使用"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04004002",
+    "https://www.wikidata.org/entity/Q1799415"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بناء مساكن",
+    "de": "Wohnungsbau",
+    "dk": "boligbyggeri",
+    "en-GB": "house building",
+    "en-US": "house building",
+    "es": "Construcción de viviendas",
+    "fr": "Bâtiment",
+    "no": "husbygging",
+    "pt-BR": "construção civil",
+    "pt-PT": "construção civil",
+    "se": "Husbyggnad",
+    "zh-Hans": "住房建设"
+  },
+  "qcode": "medtop:20000239",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000239",
+  "aid": "iptc_20000239"
+}

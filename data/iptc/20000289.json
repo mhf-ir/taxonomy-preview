@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Produktion von Druckmaterialien wie Flyer, Werbeplakate, Schilder etc.",
+    "dk": "Produktion af trykte materialer såsom skilte, flyers og reklamer.",
+    "en-GB": "The production of printed matter such as flyers, ads, signs, etc.",
+    "en-US": "The production of printed matter such as flyers, ads, signs, etc.",
+    "pt-BR": "Produção de material impresso como panfletos, anúncios, letreiros etc.",
+    "pt-PT": "Produção de material impresso como panfletos, anúncios, letreiros, etc.",
+    "se": "Produktion av tryckt material såsom skyltar, flygblad och reklambad.",
+    "zh-Hans": "传单、广告、标签等印制品生产"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006021",
+    "https://www.wikidata.org/entity/Q47003909"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-12-11T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "طباعة ودمات ترويج",
+    "de": "Druckdienstleister",
+    "dk": "trykning og salgsfremstød",
+    "en-GB": "printing service",
+    "en-US": "printing service",
+    "es": "Impresión-servicio promocional",
+    "fr": "Imprimerie et reprographie",
+    "no": "trykksakvirksomhet",
+    "pt-BR": "serviços promocionais e de impressão",
+    "pt-PT": "serviços promocionais e de impressão",
+    "se": "Tryckerier",
+    "zh-Hans": "印刷服务"
+  },
+  "qcode": "medtop:20000289",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000289",
+  "aid": "iptc_20000289"
+}

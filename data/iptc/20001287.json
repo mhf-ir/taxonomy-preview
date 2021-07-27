@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000107"
+  ],
+  "created": "2019-11-25T12:00:00+00:00",
+  "definition": {
+    "de": "Angelegenheiten im Zusammenhang mit Obersten oder Hohen Gerichten, einschließlich Nominierungen und Urteile",
+    "dk": "Den øverste retsinstans i et land.",
+    "en-GB": "matters related to supreme or high courts, including nominations and rulings",
+    "en-US": "matters related to supreme or high courts, including nominations and rulings",
+    "pt-BR": "Questões relativas a tribunais supremos ou superiores, incluindo nomeações e decisões.",
+    "pt-PT": "Questões relativas a tribunais supremos ou superiores, incluindo nomeações e decisões.",
+    "se": "Frågor som hanteras av en högre juridisk instans.",
+    "zh-Hans": "有关最高法院与高等法院的事务，包括提名与裁决"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q190752"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-11-25T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "محكمة عليا",
+    "de": "Oberstes Gericht",
+    "dk": "højesteret",
+    "en-GB": "supreme and high court",
+    "en-US": "supreme and high court",
+    "es": "Corte Suprema y Corte Superior",
+    "fr": "Cour suprême et Haute Cour",
+    "no": "høyesterett",
+    "pt-BR": "supremo tribunal e tribunal superior",
+    "pt-PT": "supremo tribunal e tribunal superior",
+    "se": "Högre instans",
+    "zh-Hans": "最高法院与高等法院"
+  },
+  "qcode": "medtop:20001287",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001287",
+  "aid": "iptc_20001287"
+}

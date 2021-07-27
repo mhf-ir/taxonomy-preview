@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000345"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Private Übernahme von staatlichen Unternehmen oder Staatseigentum.",
+    "dk": "Overførsel af statsejede virksomheder, ejendomme eller aktiviteter til private ejere.",
+    "en-GB": "The transfer of state-owned companies or properties to private owners",
+    "en-US": "The transfer of state-owned companies or properties to private owners",
+    "pt-BR": "Transferência de empresas ou propriedades do estado para proprietários ou empresas privados.",
+    "pt-PT": "Transferência de empresas ou propriedades do estado para proprietários ou empresas privados.",
+    "se": "Överföring av offentlig verksamhet i privat ägo.",
+    "zh-Hans": "将国有企业或财产转让给私人所有人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016034",
+    "https://www.wikidata.org/entity/Q161500"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خصخصة",
+    "de": "Privatisierung",
+    "dk": "privatisering",
+    "en-GB": "privatisation",
+    "en-US": "privatization",
+    "es": "Privatización",
+    "fr": "Privatisations",
+    "no": "privatisering",
+    "pt-BR": "privatização",
+    "pt-PT": "privatização",
+    "se": "Privatisering",
+    "zh-Hans": "私有化"
+  },
+  "qcode": "medtop:20000624",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000624",
+  "aid": "iptc_20000624"
+}

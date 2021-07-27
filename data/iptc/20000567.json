@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000550"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Interesse für alte und moderne Fahrräder",
+    "dk": "Interesse for nye og gamle cykler.",
+    "en-GB": "Interest in new and classic manpowered cycles",
+    "en-US": "Interest in new and classic manpowered cycles",
+    "pt-BR": "Interesse por bicicletas novas e clássicas.",
+    "pt-PT": "Interesse por bicicletas novas e clássicas.",
+    "se": "Intresse för nya och gamla cyklar.",
+    "zh-Hans": "对新型和经典人力自行车的兴趣"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شغف بالدراجات",
+    "de": "Fahrrad",
+    "dk": "cykelentusiasme",
+    "en-GB": "bicycle enthusiasm",
+    "en-US": "bicycle enthusiasm",
+    "es": "Afición por la bicicleta",
+    "fr": "Amateur de vélo",
+    "no": "sykkelinteresse",
+    "pt-BR": "interesse por bicicletas",
+    "pt-PT": "interesse por bicicletas",
+    "se": "Cyklar",
+    "zh-Hans": "自行车爱好"
+  },
+  "qcode": "medtop:20000567",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000567",
+  "aid": "iptc_20000567"
+}

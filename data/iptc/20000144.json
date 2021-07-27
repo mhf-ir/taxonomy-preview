@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000143"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: Concept medtop:20000163 was merged into this one as their semantics were not sufficiently different"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unfälle mit Fahrzeugen im Luft- und Weltraum",
+    "dk": "En ulykke eller hændelse, der involverer fartøjer i luft eller rum.",
+    "en-GB": "An accident or incident involving aircrafts or spacecrafts",
+    "en-US": "An accident or incident involving aircrafts or spacecrafts",
+    "pt-BR": "Acidente envolvendo aviões ou naves espaciais.",
+    "pt-PT": "Acidente envolvendo aviões ou naves espaciais.",
+    "se": "Oönskade händelser med farkoster i luften eller rymden.",
+    "zh-Hans": "涉及航空器在空中或太空中的意外事故"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03010003",
+    "https://www.wikidata.org/entity/Q744913"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حادث جوي او فضائي",
+    "de": "Flugunglück",
+    "dk": "luft- og rumfartsulykke",
+    "en-GB": "air and space accident and incident",
+    "en-US": "air and space accident and incident",
+    "es": "Accidentes aeroespaciales",
+    "fr": "Accident aérospatial",
+    "no": "flyulykker",
+    "pt-BR": "acidente aéreo",
+    "pt-PT": "acidente aéreo e espacial",
+    "se": "Luftfartsolyckor",
+    "zh-Hans": "航空航天事故"
+  },
+  "qcode": "medtop:20000144",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000144",
+  "aid": "iptc_20000144"
+}

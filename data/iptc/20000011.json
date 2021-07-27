@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000002"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Stile und Trends von Kleidung, Fußbekleidung, Modezubehör, inklusive deren Entwürfe, Präsentation und Nutzung",
+    "dk": "Stil og trends inden for tøj, fodtøj, tilbehør, herunder design og præsentation.",
+    "en-GB": "Styles and trends in clothing, footwear, accessories, including the design, presentation and wearing of these styles and trends",
+    "en-US": "Styles and trends in clothing, footwear, accessories, including the design, presentation and wearing of these styles and trends",
+    "es": "Estilos y tendencias en prendas de vestir, calzado, accesorios, incluido el diseño, la presentación y el uso de estos estilos y tendencias",
+    "fr": "Styles et tendances dans les vêtements, les chaussures, les accessoires, y compris la conception, la présentation et le port de ces styles et tendances",
+    "pt-BR": "Criação e uso de roupa, de calçado e de acessórios.",
+    "pt-PT": "Criação e uso de roupa, de calçado e de acessórios.",
+    "se": "Design av kläder och tillbehör för att uttrycka en känsla eller överföra ett budskap.",
+    "zh-Hans": "服装、鞋类、配饰的风格和趋势，包括这些风格和趋势的设计、展示和穿着"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01007000",
+    "https://www.wikidata.org/entity/Q12684"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000012",
+    "medtop:20001248",
+    "medtop:20001249"
+  ],
+  "prefLabel": {
+    "ar": "موضة",
+    "de": "Mode",
+    "dk": "mode",
+    "en-GB": "fashion",
+    "en-US": "fashion",
+    "es": "Moda",
+    "fr": "Mode",
+    "no": "mote",
+    "pt-BR": "moda",
+    "pt-PT": "moda",
+    "se": "Mode",
+    "zh-Hans": "时尚"
+  },
+  "qcode": "medtop:20000011",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000011",
+  "aid": "iptc_20000011"
+}

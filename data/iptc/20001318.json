@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000441"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Tiere oder Insekten, die in einen menschlichen Raum eindringen und Zerstörung oder unhygienische Bedingungen verursachen",
+    "dk": "Dyr eller insekter, der trænger ind i menneskers ejendom og forårsager skade.",
+    "en-GB": "Animals or insects that invade a human space causing destruction or unsanitary conditions",
+    "en-US": "Animals or insects that invade a human space causing destruction or unsanitary conditions",
+    "pt-BR": "Animais ou insetos que invadem um espaço humano e causam destruição ou condições insalubres.",
+    "pt-PT": "Animais ou insetos que invadem um espaço humano e causam destruição ou condições insalubres.",
+    "se": "Djur eller insekter som tar sig in i byggnader och ställer till skada",
+    "zh-Hans": "破坏人类生活环境或卫生条件的动物或昆虫"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q219174"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كائنات عضوية ضارة",
+    "de": "Schädlinge",
+    "dk": "skadedyr",
+    "en-GB": "pests",
+    "en-US": "pests",
+    "es": "Plagas",
+    "fr": "Organisme nuisible",
+    "no": "landeplager, ødeleggende insektsvermer",
+    "pt-BR": "pragas",
+    "pt-PT": "pragas",
+    "se": "Skadedjur",
+    "zh-Hans": "害虫"
+  },
+  "qcode": "medtop:20001318",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001318",
+  "aid": "iptc_20001318"
+}

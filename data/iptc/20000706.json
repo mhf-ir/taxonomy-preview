@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000705"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Heilige Schrift des Christentums, bestehend aus dem Alten und dem Neuen Testament",
+    "dk": "Hellige skrifter om kristendommen bestående af det gamle og nye testamente.",
+    "en-GB": "Sacred scriptures of Christianity consisting of the old and new testament",
+    "en-US": "Sacred scriptures of Christianity consisting of the old and new testament",
+    "pt-BR": "Escrituras sagradas do cristianismo que consistem no Velho e no Novo Testamento.",
+    "pt-PT": "Escrituras sagradas do cristianismo que consistem no Velho e no Novo Testamento.",
+    "se": "Kristendomens heliga bok, inkluderande Gamla och Nya testamentet.",
+    "zh-Hans": "由旧约和新约组成的基督教圣典"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12023001",
+    "https://www.wikidata.org/entity/Q1845"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "الكتاب المقدس",
+    "de": "Bibel",
+    "dk": "Bibel",
+    "en-GB": "Bible",
+    "en-US": "Bible",
+    "es": "Biblia",
+    "fr": "Bible",
+    "no": "Bibelen",
+    "pt-BR": "Bíblia",
+    "pt-PT": "Bíblia",
+    "se": "Bibeln",
+    "zh-Hans": "圣经"
+  },
+  "qcode": "medtop:20000706",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000706",
+  "aid": "iptc_20000706"
+}

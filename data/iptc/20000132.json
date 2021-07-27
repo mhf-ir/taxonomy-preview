@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000131"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Person, die nicht an dem Ort ist, wo man sie in einem bestimmten Zeitraum erwartet",
+    "dk": "En person, der har været savnet i nogen tid og bliver søgt, mere eller mindre aktivt.",
+    "en-GB": "An adult whose disappearance is possibly not voluntary, or a child whose whereabouts are unknown to the child's legal guardian",
+    "en-US": "An adult whose disappearance is possibly not voluntary, or a child whose whereabouts are unknown to the child's legal guardian",
+    "pt-BR": "Pessoa que não está no lugar esperado, onde deveria estar, há um certo período de tempo.",
+    "pt-PT": "Pessoa que é considerada ausente sem explicação conhecida e procurada por outros.",
+    "se": "En person som saknas sedan en tid och söks, mer eller mindre aktivt.",
+    "zh-Hans": "一个人在一段时间内不在他们应该在的地方"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14017000",
+    "https://www.wikidata.org/entity/Q388505"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مفقودون",
+    "de": "Vermisste",
+    "dk": "savnet person",
+    "en-GB": "missing person",
+    "en-US": "missing person",
+    "es": "Personas desaparecidas",
+    "fr": "Personne disparue",
+    "no": "savnet",
+    "pt-BR": "desaparecidos",
+    "pt-PT": "pessoa desaparecida",
+    "se": "Saknad person",
+    "zh-Hans": "失踪人员"
+  },
+  "qcode": "medtop:20000132",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000132",
+  "aid": "iptc_20000132"
+}

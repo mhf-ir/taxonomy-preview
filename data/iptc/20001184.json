@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000021"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Ein Musikgenre, das in den 1970er Jahren in afroamerikanischen Gemeinden in den Vereinigten Staaten entwickelt wurde und aus Rap besteht, der gewöhnlich mit elektronischer Unterstützung gespielt wird.",
+    "dk": "En musikstil udviklet af afroamerikanere i amerikanske byer i løbet af 1970'erne, der også omfatter rap.",
+    "en-GB": "A genre of music developed in African American communities in the United States in the 1970s which consists of rapping usually with an electronic backing",
+    "en-US": "A genre of music developed in African American communities in the United States in the 1970s which consists of rapping usually with an electronic backing",
+    "pt-BR": "Gênero musical surgido em comunidades afro-americanas dos Estados Unidos da década de 1970, que consiste em fazer rap, geralmente com um apoio musical eletrônico.",
+    "pt-PT": "Género musical surgido em comunidades afro-americanas dos Estados Unidos da década de 1970, que consiste em fazer rap, geralmente com um apoio musical eletrónico.",
+    "se": "En musikstil som utvecklades av afro-amerikaner i amerikansks storstäder under 1970-talet. Rap är en form av rytmiskt tal.",
+    "zh-Hans": "20世纪70年代在美国的非裔美国人社区发展起来的一种音乐类型，通常由电子伴奏的说唱组成"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q11401"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "هيب هوب",
+    "de": "Hip Hop",
+    "dk": "hip hop",
+    "en-GB": "hip hop",
+    "en-US": "hip hop",
+    "es": "Hip hop",
+    "fr": "Hip-hop",
+    "no": "hiphop",
+    "pt-BR": "hip-hop",
+    "pt-PT": "hip-hop",
+    "se": "Hip Hop",
+    "zh-Hans": "嘻哈"
+  },
+  "qcode": "medtop:20001184",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001184",
+  "aid": "iptc_20001184"
+}

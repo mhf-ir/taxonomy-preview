@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000322"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Produktion von Materialien für Möbel und Vorhänge und für verschiedene Sorten von Bekleidung",
+    "dk": "Fremstilling af materialer til påklædning af mennesker, møbler og andre genstande.",
+    "en-GB": "Production of fabrics for furnishings and fixtures, and for clothing of various types",
+    "en-US": "Production of fabrics for furnishings and fixtures, and for clothing of various types",
+    "pt-BR": "Fabrico de tecidos para móveis, abajures e vestuário de vários tipos.",
+    "pt-PT": "Fabrico de tecidos para móveis e acessórios de vestuário de vários tipos.",
+    "se": "Tillverkning av material för att klä människor, möbler och andra föremål.",
+    "zh-Hans": "生产用于家具装修，以及各种类型的服装用的织物"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04013007",
+    "https://www.wikidata.org/entity/Q607081"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نسيج والبسة",
+    "de": "Textil und Bekleidung",
+    "dk": "tekstil og tøj",
+    "en-GB": "textile and clothing",
+    "en-US": "textile and clothing",
+    "es": "Textiles y vestimenta",
+    "fr": "Textile",
+    "no": "tekstilindustri",
+    "pt-BR": "têxtil e vestuário",
+    "pt-PT": "têxtil e vestuário",
+    "se": "Kläder och textilier",
+    "zh-Hans": "纺织和服装"
+  },
+  "qcode": "medtop:20000329",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000329",
+  "aid": "iptc_20000329"
+}

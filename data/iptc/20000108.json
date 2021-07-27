@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000107"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verfahren bei dem das Urteil nicht akzeptiert wird",
+    "dk": "Handlinger truffet, når dommen ikke accepteres.",
+    "en-GB": "Process in which parties request a formal change to an official decision",
+    "en-US": "Process in which parties request a formal change to an official decision",
+    "pt-BR": "Ações realizadas quando o veredicto não é aceite.",
+    "pt-PT": "Ações realizadas quando o veredicto não é aceite.",
+    "se": "Åtgärder från en eller båda parter efter ett utslag från en domstol om de inte är nöjda med utslaget.",
+    "zh-Hans": "不接受判决时采取的行动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q329777"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "استئناف",
+    "de": "Berufung (Gericht)",
+    "dk": "appel (domstol)",
+    "en-GB": "appeal (court)",
+    "en-US": "appeal (court)",
+    "es": "Apelación",
+    "fr": "Appel",
+    "no": "ankerett",
+    "pt-BR": "recurso (tribunal)",
+    "pt-PT": "recurso (tribunal)",
+    "se": "Överklagande av dom",
+    "zh-Hans": "上诉"
+  },
+  "qcode": "medtop:20000108",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000108",
+  "aid": "iptc_20000108"
+}

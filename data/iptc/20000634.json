@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000621"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bewegung einer Gemeinschaft von Menschen von einem Ort zu einem anderen",
+    "dk": "Politik vedrørende modtagelse af mennesker fra andre lande.",
+    "en-GB": "Movement of one body of persons from one place to another",
+    "en-US": "Movement of one body of persons from one place to another",
+    "pt-BR": "Deslocação de uma comunidade de pessoas de um lugar para outro.",
+    "pt-PT": "Deslocação de uma comunidade de pessoas de um lugar para outro.",
+    "se": "Politik som styr mottagandet av folk från andra länder.",
+    "zh-Hans": "一群人从一个地方到另一个地方的移动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11017000",
+    "https://www.wikidata.org/entity/Q15064326"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-08-21T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "هجرة",
+    "de": "Migration",
+    "dk": "migration",
+    "en-GB": "migration policy",
+    "en-US": "migration policy",
+    "es": "Migración",
+    "fr": "Migrations",
+    "no": "innvandringspolitikk",
+    "pt-BR": "política de migração",
+    "pt-PT": "política de migração",
+    "se": "Migrationspolitik",
+    "zh-Hans": "人口迁移"
+  },
+  "qcode": "medtop:20000634",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000634",
+  "aid": "iptc_20000634"
+}

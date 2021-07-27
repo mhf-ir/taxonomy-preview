@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000437"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gebiete die im Allgemeinen feucht sind und weder unter Wasser liegen, noch trockenes Land sind. Oft wasserführend für die Wasserqualität oder Wildnis.",
+    "dk": "Et område i naturen, som konstant eller undertiden, er nedsænket i vand.",
+    "en-GB": "Areas generally marshy and not either under water or dry land. Often related to aquifers for water quality and/or wildlife",
+    "en-US": "Areas generally marshy and not either under water or dry land. Often related to aquifers for water quality and/or wildlife",
+    "pt-BR": "Áreas geralmente pantanosas e que não estão debaixo de água, nem em terra seca. Frequentemente em relação com aquíferos para a qualidade da água e/ou vida selvagem.",
+    "pt-PT": "Áreas geralmente pantanosas e que não estão debaixo de água, nem em terra seca. Frequentemente em relação a aquíferos para a qualidade da água e/ou vida selvagem.",
+    "se": "Ett område i naturen som hela tiden eller ibland är dränkt i vatten.",
+    "zh-Hans": "通常是沼泽区域，既不在水下也不在陆地上。经常与含水层的水质和/或野生动物有关"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06006004",
+    "https://www.wikidata.org/entity/Q170321"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اراضي رطبة",
+    "de": "Feuchtgebiet",
+    "dk": "vådområde",
+    "en-GB": "wetlands",
+    "en-US": "wetlands",
+    "es": "Pantanos",
+    "fr": "Marais",
+    "no": "våtmark",
+    "pt-BR": "zonas úmidas",
+    "pt-PT": "zonas húmidas",
+    "se": "Våtmarker",
+    "zh-Hans": "湿地"
+  },
+  "qcode": "medtop:20000440",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000440",
+  "aid": "iptc_20000440"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine verbreitete asiatische Religion, gegründet von Buddha im 6ten Jahrhundert vor Christus in Indien, die verkündet, dass richtiges Denken und Selbstverleugnung in einen göttlichen Geisteszustand frei von Wünschen führt.",
+    "dk": "En østlig religion, der baserer sig på Buddhas lære.",
+    "en-GB": "A major Asian religion founded by Buddha in the 6th century BC in India and preaching that right thinking and self-denial will lead to a divine state without desire",
+    "en-US": "A major Asian religion founded by Buddha in the 6th century BC in India and preaching that right thinking and self-denial will lead to a divine state without desire",
+    "pt-BR": "Importante religião asiática, fundada por Buda no séc. VI a.C. na Índia, que prega que o bom uso da razão e a abnegação conduzem a um estado divino sem desejo.",
+    "pt-PT": "Importante religião asiática, fundada por Buda no séc. VI a.C. na Índia, que prega que o bom uso da razão e a abnegação conduzem a um estado divino sem desejo.",
+    "se": "En öster­ländsk religion som lägger stor vikt vid fri­görelsen från det världsliga.",
+    "zh-Hans": "公元前6世纪由佛陀在印度创立的一种主要的亚洲宗教，宣扬正确的思想和自我否定将导致一个没有欲望的神圣国度"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12012000",
+    "https://www.wikidata.org/entity/Q748"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بوذية",
+    "de": "Buddhismus",
+    "dk": "buddhisme",
+    "en-GB": "Buddhism",
+    "en-US": "Buddhism",
+    "es": "Budismo",
+    "fr": "Bouddhisme",
+    "no": "buddhisme",
+    "pt-BR": "budismo",
+    "pt-PT": "budismo",
+    "se": "Buddhism",
+    "zh-Hans": "佛教"
+  },
+  "qcode": "medtop:20000658",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000658",
+  "aid": "iptc_20000658"
+}

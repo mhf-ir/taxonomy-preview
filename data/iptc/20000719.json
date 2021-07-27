@@ -1,0 +1,54 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000717"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Studium der Anatomie, des Verhaltens, der Herkunft, der Physiologie und anderer Aspekte lebender Organismen",
+    "dk": "Videnskaben om de levende organismer.",
+    "en-GB": "The study of the anatomy, behaviour, origin, physiology and other aspects of living organisms",
+    "en-US": "The study of the anatomy, behavior, origin, physiology and other aspects of living organisms",
+    "es": "El estudio de la anatomía, comportamiento, origen, fisiología y otros aspectos de los organismos vivos",
+    "fr": "Etude de l'anatomie, du comportement, de l'origine, de la physiologie et d'autres aspects des organismes vivants",
+    "pt-BR": "Estudo da anatomia, do comportamento, da origem, da fisiologia e de outros aspectos dos organismos vivos.",
+    "pt-PT": "Estudo da anatomia, do comportamento, da origem, da fisiologia e de outros aspetos dos organismos vivos.",
+    "se": "Vetenskapen om de levande organismerna.",
+    "zh-Hans": "研究生物的解剖、行为、起源、生理学和其他方面的科学"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13004008",
+    "https://www.wikidata.org/entity/Q420"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000720",
+    "medtop:20000721",
+    "medtop:20000722",
+    "medtop:20000723",
+    "medtop:20000724"
+  ],
+  "prefLabel": {
+    "ar": "علم الاحياء",
+    "de": "Biologie",
+    "dk": "biologi",
+    "en-GB": "biology",
+    "en-US": "biology",
+    "es": "Biología",
+    "fr": "Biologie",
+    "no": "biologi",
+    "pt-BR": "biologia",
+    "pt-PT": "biologia",
+    "se": "Biologi",
+    "zh-Hans": "生物学"
+  },
+  "qcode": "medtop:20000719",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000719",
+  "aid": "iptc_20000719"
+}

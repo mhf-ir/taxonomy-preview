@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000817"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Umfassende Gesundheitspflege aufgrund ernsthafter Krankheit oder Invalidität",
+    "dk": "Omfattende sundhedsydelser på grund af alvorlig sygdom eller handicap.",
+    "en-GB": "Services provided on an extended and ongoing basis to patients suffering from chronic illness or disability",
+    "en-US": "Services provided on an extended and ongoing basis to patients suffering from chronic illness or disability",
+    "pt-BR": "Serviços e cuidados de saúde prestados de forma prolongada e continuada a pacientes que sofrem de doenças crônicas ou deficiência.",
+    "pt-PT": "Serviços e cuidados de saúde prestados de forma prolongada e continuada a pacientes que sofrem de doenças crónicas ou deficiência.",
+    "se": "Långvarig vård på sjukhus, vanligtvis av gamla eller obotligt sjuka.",
+    "zh-Hans": "因严重疾病或残疾而提供的广泛医疗保健"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14018000",
+    "https://www.wikidata.org/entity/Q6672123"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عناية طوبلة الامد",
+    "de": "Langzeitpflege",
+    "dk": "langvarig pleje",
+    "en-GB": "long-term care",
+    "en-US": "long-term care",
+    "es": "Cuidados de largo plazo",
+    "fr": "Soins de longue durée",
+    "no": "langtidspleie",
+    "pt-BR": "cuidados continuados",
+    "pt-PT": "cuidados continuados",
+    "se": "Långvård",
+    "zh-Hans": "长期护理"
+  },
+  "qcode": "medtop:20000819",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000819",
+  "aid": "iptc_20000819"
+}

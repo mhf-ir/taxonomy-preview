@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15062000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001071"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Staffelteam Wettbewerb mit vier kombinierten Schwimmstilen",
+    "dk": "Holdstafetløb, der involverer en kombination af fire forskellige svømmestile.",
+    "en-GB": "Team relay race involving a combination of four different swimming styles",
+    "en-US": "Team relay race involving a combination of four different swimming styles",
+    "pt-BR": "Prova de revezamento em que uma equipe de nadadores faz uma combinação de quatro estilos diferentes de nado.",
+    "pt-PT": "Prova de estafeta em que uma equipa de nadadores faz uma combinação de quatro estilos diferentes de natação.",
+    "zh-Hans": "集体游泳接力赛，包括四种不同泳姿的组合"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q657196"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اربع سباحات تتابع",
+    "de": "Staffel Lagen",
+    "dk": "medley stafet",
+    "en-GB": "relay medley swimming",
+    "en-US": "relay medley swimming",
+    "es": "Relevo combinado (natación)",
+    "fr": "Relais 4 nages",
+    "no": "medleystafett",
+    "pt-BR": "revezamento medley",
+    "pt-PT": "estilos estafetas",
+    "se": "Kappsim, medley",
+    "zh-Hans": "混合泳接力赛"
+  },
+  "qcode": "medtop:20001079",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001079",
+  "aid": "iptc_20001079"
+}

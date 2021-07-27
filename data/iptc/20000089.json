@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000087"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bruch von legalen Verträgen zwischen Unternehmen und mit Kunden",
+    "dk": "Overtrædelse af aftaler indgået i en kontrakt mellem to eller flere parter.",
+    "en-GB": "The breaking of terms set in a contractual agreement",
+    "en-US": "The breaking of terms set in a contractual agreement",
+    "pt-BR": "Quebra de contratos legais entre companhias ou com clientes.",
+    "pt-PT": "Quebra de contratos legais entre companhias ou com clientes.",
+    "se": "Brott mot överenskommelser som satts upp i ett kontrakt mellan två eller flera parter.",
+    "zh-Hans": "违反合同协议中规定的条款"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02012004",
+    "https://www.wikidata.org/entity/Q562566"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مخالفة عقد",
+    "de": "Vertragsbruch",
+    "dk": "kontraktbrud",
+    "en-GB": "breach of contract",
+    "en-US": "breach of contract",
+    "es": "Violación de contrato",
+    "fr": "Violation de contrat",
+    "no": "kontraktbrudd",
+    "pt-BR": "quebra de contrato",
+    "pt-PT": "quebra de contrato",
+    "se": "Avtalsbrott",
+    "zh-Hans": "合同违约"
+  },
+  "qcode": "medtop:20000089",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000089",
+  "aid": "iptc_20000089"
+}

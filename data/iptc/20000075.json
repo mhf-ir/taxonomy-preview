@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11002003"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000073"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Strategie um Frieden wiederherzustellen in einem Kriegs- oder Konfliktgebiet",
+    "dk": "En strategi for at opnå fred i et krigs- eller konfliktområde.",
+    "en-GB": "A strategy for achieving peace in a warring nation or area of conflict",
+    "en-US": "A strategy for achieving peace in a warring nation or area of conflict",
+    "es": "Estrategia para lograr la paz en una nación beligerante o en una zona de conflicto",
+    "fr": "Stratégie pour parvenir à la paix dans une nation belligérante ou dans une zone de conflit",
+    "pt-BR": "Uma estratégia para atingir a paz numa nação em guerra ou área em conflito.",
+    "pt-PT": "Uma estratégia para atingir a paz numa nação em guerra ou área em conflito.",
+    "se": "En strategi för att uppnå fred i ett krigs- eller konfliktområde.",
+    "zh-Hans": "在交战国家或冲突地区实现和平的计划"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خطة سلام",
+    "de": "Friedensplan",
+    "dk": "fredsplan",
+    "en-GB": "peace plan",
+    "en-US": "peace plan",
+    "es": "Plan de paz",
+    "fr": "Plan de paix",
+    "no": "fredsplan",
+    "pt-BR": "plano de paz",
+    "pt-PT": "plano de paz",
+    "se": "Fredsplan",
+    "zh-Hans": "和平计划"
+  },
+  "qcode": "medtop:20000075",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000075",
+  "aid": "iptc_20000075"
+}

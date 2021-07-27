@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15010000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Spiel, was auf einem flachen Tisch gespielt wird, mit verschieden nummerierten Kugeln",
+    "dk": "En sport på et bord med huller, hvor der anvendes en kø, og hvor der spilles med forskellige antal nummererede kugler.",
+    "en-GB": "A cue sport on a table with pockets, played with different numbers of balls",
+    "en-US": "A cue sport on a table with pockets, played with different numbers of balls",
+    "pt-BR": "Jogo disputado com um taco e diferente número de bolas em mesa revestida com pano de feltro e dotada de buracos com bolsas.",
+    "pt-PT": "Jogo disputado com um taco e diferente número de bolas em mesa revestida com pano de feltro e dotada de buracos com bolsas.",
+    "se": "Bollsport med kö som redskap med vilken man stöter bollar på ett speciellt bord.",
+    "zh-Hans": "用球杆在一个带球兜的球台上击球的运动。可使用不同数量的球"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q11020"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/billiardtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بلياردو",
+    "de": "Billiard",
+    "dk": "pool",
+    "en-GB": "pool",
+    "en-US": "pool",
+    "es": "Billar americano",
+    "fr": "Billard américain",
+    "no": "pool",
+    "pt-BR": "bilhar",
+    "pt-PT": "bilhar",
+    "se": "Pool",
+    "zh-Hans": "台球"
+  },
+  "qcode": "medtop:20001015",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001015",
+  "aid": "iptc_20001015"
+}

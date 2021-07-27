@@ -1,0 +1,28 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/15000000"
+  ],
+  "created": "2021-05-05T12:00:00+00:00",
+  "definition": {
+    "en-GB": "The executive leadership and owners of a sports team",
+    "en-US": "The executive leadership and owners of a sports team"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q26481809"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "en-GB": "sports management and ownership",
+    "en-US": "sports management and ownership"
+  },
+  "qcode": "medtop:20001324",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001324",
+  "aid": "iptc_20001324"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000071"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Systematisches Töten einer Glaubensgemeinschaft, eines Volkstammes oder einer ethnischen Gruppe durch eine andere",
+    "dk": "Systematisk drab på en folkegruppe eller dele af en folkegruppe.",
+    "en-GB": "The systematic killing of one clan, tribe, or religious or ethnic group by another",
+    "en-US": "The systematic killing of one clan, tribe, or religious or ethnic group by another",
+    "es": "Asesinato sistemático de un clan, tribu o grupo religioso o étnico",
+    "fr": "Assassinat systématique d'un clan, d'une tribu ou d'un groupe religieux ou ethnique",
+    "pt-BR": "Morte sistemática de clã, tribo ou grupo étnico por outro.",
+    "pt-PT": "Morte sistemática de clã, tribo ou grupo étnico por outro.",
+    "se": "Systematiskt dödande av en folkgrupp eller delar av en folkgrupp.",
+    "zh-Hans": "有组织地杀害一个氏族、部落、宗教或民族的行为"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16006001",
+    "https://www.wikidata.org/entity/Q41397"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ابادة",
+    "de": "Völkermord",
+    "dk": "folkedrab",
+    "en-GB": "genocide",
+    "en-US": "genocide",
+    "es": "Genocidio",
+    "fr": "Génocide",
+    "no": "folkemord",
+    "pt-BR": "genocídio",
+    "pt-PT": "genocídio",
+    "se": "Folkmord",
+    "zh-Hans": "种族灭绝"
+  },
+  "qcode": "medtop:20000072",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000072",
+  "aid": "iptc_20000072"
+}

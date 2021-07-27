@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000294"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Hersteller von Turbinen, Maschinen, Pumpen, Ventilatoren, Motoren und Komponenten für schwere Ausrüstung",
+    "dk": "Produktion af turbiner, motorer, ventilatorer, pumper og andre komponenter til motordrevet udstyr.",
+    "en-GB": "Manufacturers of turbines, engines, fans , pumps , motors and components for powered equipment.",
+    "en-US": "Manufacturers of turbines, engines, fans , pumps , motors and components for powered equipment.",
+    "pt-BR": "Fabricantes de turbinas, motores, ventiladores, bombas e componentes para equipamentos elétricos.",
+    "pt-PT": "Fabricantes de turbinas, motores, ventiladores, bombas e componentes para equipamentos elétricos.",
+    "se": "Produktion av turbiner, motorer, fläktar, pumpar och andra komponenter till motordriven utrustning.",
+    "zh-Hans": "涡轮机、发动机、风扇、泵、电动机和动力设备部件的制造商。"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04011009"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صناعة آلات",
+    "de": "Maschinenbau",
+    "dk": "maskinfremstilling",
+    "en-GB": "machine manufacturing",
+    "en-US": "machine manufacturing",
+    "es": "Fabricación de máquinas",
+    "fr": "Mécanique lourde",
+    "no": "maskinindustri",
+    "pt-BR": "engenharia de máquinas",
+    "pt-PT": "engenharia de máquinas",
+    "se": "Maskintillverkning",
+    "zh-Hans": "机械制造"
+  },
+  "qcode": "medtop:20000302",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000302",
+  "aid": "iptc_20000302"
+}

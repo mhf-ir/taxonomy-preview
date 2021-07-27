@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/06000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verschmutzung von Luft, Wasser, Land etc. durch schädliche Stoffe",
+    "dk": "Skadeliges stoffers betydning for forringelsen af luft, jord og vand.",
+    "en-GB": "Corruption of air, water, land etc. by  harmful substances",
+    "en-US": "Corruption of air, water, land etc. by harmful substances",
+    "pt-BR": "Contaminação de ar, água, terra etc., por substâncias nocivas.",
+    "pt-PT": "Contaminação de ar, água, terra, etc., por substâncias nocivas.",
+    "se": "Ämnen som blivit över när man framställt något eller använt det och som sprids där man inte vill ha det, i vatten, mark och luft.",
+    "zh-Hans": "有害物质对空气、水、土地等的破坏"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06005000",
+    "https://www.wikidata.org/entity/Q58734"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000425",
+    "medtop:20000426",
+    "medtop:20000427",
+    "medtop:20000428",
+    "medtop:20000429"
+  ],
+  "prefLabel": {
+    "ar": "تلوث بيئي",
+    "de": "Umweltverschmutzung",
+    "dk": "forurening",
+    "en-GB": "environmental pollution",
+    "en-US": "environmental pollution",
+    "es": "Contaminación ambiental",
+    "fr": "Pollution de l'environnement",
+    "no": "forurensning",
+    "pt-BR": "poluição ambiental",
+    "pt-PT": "poluição ambiental",
+    "se": "Föroreningar",
+    "zh-Hans": "环境污染"
+  },
+  "qcode": "medtop:20000424",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000424",
+  "aid": "iptc_20000424"
+}

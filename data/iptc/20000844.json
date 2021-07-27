@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettlauf über eine Distanz bis zu 400 Metern",
+    "dk": "Spurtkonkurrencer i afstande til og med 400 meter.",
+    "en-GB": "A running race at distances of up to and including 400 metres",
+    "en-US": "A running race at distances of up to and including 400 meters",
+    "pt-BR": "Corrida de velocidade de distâncias até 400 metros.",
+    "pt-PT": "Corrida de velocidade de distâncias até 400 metros.",
+    "se": "Springtävlingar på distanser till och med 400 meter.",
+    "zh-Hans": "400米及以下的短跑运动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q624482"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عدو سريع",
+    "de": "Sprint",
+    "dk": "sprintløb",
+    "en-GB": "sprint run",
+    "en-US": "sprint run",
+    "es": "Sprint",
+    "fr": "Course de vitesse",
+    "no": "sprintløp",
+    "pt-BR": "sprint",
+    "pt-PT": "sprint",
+    "se": "Sprintdistanser",
+    "zh-Hans": "短跑"
+  },
+  "qcode": "medtop:20000844",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000844",
+  "aid": "iptc_20000844"
+}

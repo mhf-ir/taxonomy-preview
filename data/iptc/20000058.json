@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000056"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zeitlich begrenzter Einsatz von internationalen Streitkräften in einem Land oder einer Region, welche(s) Hilfe von außen benötigt, zur Lösung einer Krise",
+    "dk": "Midlertidig brug af internationale tropper i et land eller en region, som har brug for hjælp udefra til at løse en krise.",
+    "en-GB": "The temporary use of international forces in a country or region that requires outside help with resolving a crisis",
+    "en-US": "The temporary use of international forces in a country or region that requires outside help with resolving a crisis",
+    "es": "Presencia temporal de fuerzas internacionales en un país o región que requiere asistencia externa para resolver una crisis",
+    "fr": "Présence temporaire de forces internationales dans un pays ou une région qui nécessite une aide extérieure pour résoudre une crise",
+    "pt-BR": "Uso temporário de forças internacionais, seja por convite ou por decisão de órgão estrangeiro, num país ou numa região com intenção de resolver uma crise.",
+    "pt-PT": "Uso temporário de forças internacionais, seja por convite ou por decisão de órgão estrangeiro, num país ou numa região com intenção de resolver uma crise.",
+    "se": "Tillfälligt användande av internationella trupper i ett land eller en region, som behöver hjälp från utsidan för att lösa en kris.",
+    "zh-Hans": "在需要外界帮助解决危机的国家或地区临时使用国际部队"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16009002",
+    "https://www.wikidata.org/entity/Q1168287"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000059"
+  ],
+  "prefLabel": {
+    "ar": "تدخل عسكري دولي",
+    "de": "Internationale militärische Intervention",
+    "dk": "international militær indgriben",
+    "en-GB": "international military intervention",
+    "en-US": "international military intervention",
+    "es": "Intervención militar internacional",
+    "fr": "Intervention militaire internationale",
+    "no": "militær intervensjon",
+    "pt-BR": "intervenção militar internacional",
+    "pt-PT": "intervenção militar internacional",
+    "se": "Internationell militär intervention",
+    "zh-Hans": "国际军事介入"
+  },
+  "qcode": "medtop:20000058",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000058",
+  "aid": "iptc_20000058"
+}

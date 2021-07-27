@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Diejenigen die Allah und seine Lehren als Zentrum ihres Glaubens betrachten.",
+    "dk": "Monoteistisk religion, der regner Muhammed som en profet og Koranen som hellig skrift.",
+    "en-GB": "Those who use Allah and his teachings as their centre of belief",
+    "en-US": "Those who use Allah and his teachings as their center of belief",
+    "pt-BR": "Aqueles que usam Alá e seus ensinamentos como centro de sua crença religiosa.",
+    "pt-PT": "Aqueles que usam Alá e os seus ensinamentos como centro da sua crença religiosa.",
+    "se": "Monoteistisk religion som räknar Muhammed som profet och Koranen som helig skrift.",
+    "zh-Hans": "那些以安拉和他的教导为信仰中心的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12010000",
+    "https://www.wikidata.org/entity/Q432"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اسلام",
+    "de": "Islam",
+    "dk": "islam",
+    "en-GB": "Islam",
+    "en-US": "Islam",
+    "es": "Islam",
+    "fr": "Islam",
+    "no": "islam",
+    "pt-BR": "islã",
+    "pt-PT": "islão",
+    "se": "Islam",
+    "zh-Hans": "伊斯兰教"
+  },
+  "qcode": "medtop:20000677",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000677",
+  "aid": "iptc_20000677"
+}

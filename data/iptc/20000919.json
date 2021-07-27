@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Hunderennen über eine vorgeschriebene Distanz",
+    "dk": "Samlingskoncept til konkurrencer, hvor hunde løber rundt på en bane.",
+    "en-GB": "Dogs racing around a track",
+    "en-US": "Dogs racing around a track",
+    "pt-BR": "Corrida de cães à volta de uma pista.",
+    "pt-PT": "Corrida de cães à volta de uma pista.",
+    "se": "Samlingsbegrepp för tävlingar där hundar springer ikapp runt en bana.",
+    "zh-Hans": "狗沿赛道进行的赛跑"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15082000",
+    "https://www.wikidata.org/entity/Q57833661"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/dogracingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000920",
+    "medtop:20000921"
+  ],
+  "prefLabel": {
+    "ar": "سباق كلاب",
+    "de": "Hunderennen",
+    "dk": "hundeløb",
+    "en-GB": "dog racing",
+    "en-US": "dog racing",
+    "es": "Carreras de perros",
+    "fr": "Course de chiens",
+    "no": "hundeløp",
+    "pt-BR": "corrida de cães",
+    "pt-PT": "corrida de cães",
+    "se": "Hundsport",
+    "zh-Hans": "赛狗"
+  },
+  "qcode": "medtop:20000919",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000919",
+  "aid": "iptc_20000919"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14025005"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000134"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Strafe durch Tod",
+    "dk": "Straf af en person, der er dømt til døden for en forbrydelse.",
+    "en-GB": "The legally authorised execution of someone as punishment for a crime",
+    "en-US": "The legally authorized execution of someone as punishment for a crime",
+    "pt-BR": "Pena de morte.",
+    "pt-PT": "Pena de morte.",
+    "se": "Påföljd mot en person som fällts för brott där den skyldige mister livet.",
+    "zh-Hans": "对犯人处死的刑罚"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q8454"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عقوبة قصوى",
+    "de": "Todesstrafe",
+    "dk": "dødsstraf",
+    "en-GB": "capital punishment",
+    "en-US": "capital punishment",
+    "es": "Pena capital",
+    "fr": "Peine capitale",
+    "no": "dødsstraff",
+    "pt-BR": "pena de morte",
+    "pt-PT": "pena de morte",
+    "se": "Dödsstraff",
+    "zh-Hans": "死刑"
+  },
+  "qcode": "medtop:20000135",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000135",
+  "aid": "iptc_20000135"
+}

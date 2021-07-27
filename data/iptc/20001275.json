@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000523"
+  ],
+  "created": "2019-10-07T12:00:00+00:00",
+  "definition": {
+    "de": "einen Arbeitsmarkt, der aus einzelnen Zulieferern mit kurzfristigen Verträgen oder freiberuflicher Arbeit besteht, im Gegensatz zu Festanstellungen, wie z.B. Fahrer oder Auslieferungspersonal",
+    "dk": "En tendens på arbejdsmarkedet, hvor man ansættes fra dag til dag eller fra opgave til opgave i modsætning til fast arbejde samme sted.",
+    "en-GB": "a labour market consisting of individual suppliers on short-term contracts or freelance work as opposed to permanent jobs, such as drivers or delivery workers",
+    "en-US": "a labor market consisting of individual suppliers on short-term contracts or freelance work as opposed to permanent jobs, such as drivers or delivery workers",
+    "pt-BR": "Mercado de trabalho que consiste em fornecedores individuais de serviços com contratos de curto prazo ou freelance em oposição a empregos permanentes, como motoristas ou entregadores.",
+    "pt-PT": "Mercado de trabalho que consiste em fornecedores individuais de serviços com contratos de curto prazo ou freelance em oposição a empregos permanentes, como motoristas ou entregadores.",
+    "se": "En arbetsmarknad där enskilda personer jobbar på korta uppdrag istället för att vara fast anställda.",
+    "zh-Hans": "由基于短期合约或自由职业者构成的劳动力市场，与长期雇佣相区别"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q56408801"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اقتصاد العربة",
+    "de": "Gig-Economy",
+    "dk": "tidsbegrænset ansættelse",
+    "en-GB": "gig economy",
+    "en-US": "gig economy",
+    "es": "Gig economy",
+    "fr": "Gig economy",
+    "no": "oppdragsøkonomi",
+    "pt-BR": "economia sob demanda",
+    "pt-PT": "economia dos serviços pontuais",
+    "se": "Gig-ekonomi",
+    "zh-Hans": "零工经济"
+  },
+  "qcode": "medtop:20001275",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001275",
+  "aid": "iptc_20001275"
+}

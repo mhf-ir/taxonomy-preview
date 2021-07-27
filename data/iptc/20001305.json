@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Schlägersportart, die typischerweise im Doppel auf einem geschlossenen Platz gespielt wird",
+    "dk": "En ketsjersport, der spilles på en lukket bane, og som er en mellemting mellem tennis og squash.",
+    "en-GB": "Racquet sport typically played in doubles on an enclosed court",
+    "en-US": "Racket sport typically played in doubles on an enclosed court",
+    "pt-BR": "Esporte de raquete, disputado por duas duplas frente a frente em recinto fechado.",
+    "pt-PT": "Desporto de raquete, disputado por duas duplas frente a frente em recinto fechado.",
+    "se": "Racketsport, ibland kallad padeltennis, där tvåmannalag möts i en stängd bana.",
+    "zh-Hans": "通常在封闭的场地上用球拍进行的双打运动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1582389"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "بادل تنس",
+    "de": "Padel",
+    "dk": "padel",
+    "en-GB": "padel",
+    "en-US": "padel",
+    "es": "Pádel",
+    "fr": "Padel-tennis",
+    "no": "padel",
+    "pt-BR": "padel",
+    "pt-PT": "padel",
+    "se": "Padel",
+    "zh-Hans": "笼式网球"
+  },
+  "qcode": "medtop:20001305",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001305",
+  "aid": "iptc_20001305"
+}

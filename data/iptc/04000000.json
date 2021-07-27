@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alle Inhalte, die Planung, Produktion und Austausch von Vermögen betreffen",
+    "dk": "Alt om planlægning, produktion og udveksling af ejendom.",
+    "en-GB": "All matters concerning the planning, production and exchange of wealth.",
+    "en-US": "All matters concerning the planning, production and exchange of wealth.",
+    "pt-BR": "Assuntos relativos à planificação, produção e troca de riqueza.",
+    "pt-PT": "Assuntos relativos à planificação, produção e troca de riqueza.",
+    "se": "Allt som rör planering, produktion och utbyte av egendom. Jordbruk, dator- och IT-teknik, byggbransch och mark, energi och resurser, finans och affär, varutransport, makroekonomi, media, turism, transporter generellt.",
+    "zh-Hans": "一切与财富的规划、生产和交换有关的事宜"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04000000",
+    "https://www.wikidata.org/entity/Q98119923"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000170",
+    "medtop:20000209",
+    "medtop:20000344",
+    "medtop:20000385"
+  ],
+  "prefLabel": {
+    "ar": "اقتصاد، اعمال ومال",
+    "de": "Wirtschaft und Finanzen",
+    "dk": "økonomi, erhvervsliv og finans",
+    "en-GB": "economy, business and finance",
+    "en-US": "economy, business and finance",
+    "es": "Economía, negocios y finanzas",
+    "fr": "Économie et finances",
+    "no": "økonomi og næringsliv",
+    "pt-BR": "economia, negócios e finanças",
+    "pt-PT": "economia, negócios e finanças",
+    "se": "Ekonomi, affärer, finans",
+    "zh-Hans": "经济、商业和金融"
+  },
+  "qcode": "medtop:04000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/04000000",
+  "aid": "iptc_04000000"
+}

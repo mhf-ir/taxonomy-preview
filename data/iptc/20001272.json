@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000690"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Der Vorabend des christlichen Festtages der Heiligen Walpurga, einer Äbtissin aus dem 8. Jahrhundert in Frankreich, der in der Nacht vom 30. April auf den 1. Mai gefeiert wird",
+    "dk": "En tradition, hvor man tæner bål aftenen før 1. maj for at holde heksene væk. Er ikke særligt udbredt i Danmark længere",
+    "en-GB": "The eve of the Christian feast day of Saint Walpurga, an 8th-century abbess in Francia, celebrated on the night of 30 April and the day of 1 May",
+    "en-US": "The eve of the Christian feast day of Saint Walpurga, an 8th-century abbess in Francia, celebrated on the night of 30 April and the day of 1 May",
+    "pt-BR": "Véspera do dia da festa cristã de Santa Valburga, abadessa do século VIII na Frância, celebrada na noite de 30 de abril e no dia 1 de maio.",
+    "pt-PT": "Véspera do dia da festa cristã de Santa Valburga, abadessa do século VIII na Frância, celebrada na noite de 30 de abril e no dia 1 de maio.",
+    "se": "Kristen högtid som firas till minne av Saint Walpurga, en nunna från 700-talet.",
+    "zh-Hans": "4月30日晚到5月1日拂晓前，纪念八世纪的女圣徒Saint Walpurga的基督教节日"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q200982"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عيد القديسة فالبرغا",
+    "de": "Walpurgisnacht",
+    "dk": "valborgsaften",
+    "en-GB": "Walpurgis night",
+    "en-US": "Walpurgis night",
+    "es": "Noche de Walpurgis",
+    "fr": "Nuit de Walpurgis",
+    "no": "valborgsnatten",
+    "pt-BR": "Noite de Santa Valburga",
+    "pt-PT": "Noite de Santa Valburga",
+    "se": "Sista april",
+    "zh-Hans": "五朔节前夕"
+  },
+  "qcode": "medtop:20001272",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001272",
+  "aid": "iptc_20001272"
+}

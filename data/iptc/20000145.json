@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000143"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: Concept medtop:20000164 was merged into this one as their semantics were not sufficiently different"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unfälle mit Wasserfahrzeugen",
+    "dk": "Ulykke eller hændelse, der involverer maritime fartøjer.",
+    "en-GB": "An accident or incident involving marine vessels.",
+    "en-US": "An accident or incident involving marine vessels.",
+    "pt-BR": "Acidente envolvendo embarcações.",
+    "pt-PT": "Acidente envolvendo embarcações.",
+    "se": "Oönskade händelser med en eller flera fordon på vatten.",
+    "zh-Hans": "涉及海船的意外事故"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03010004",
+    "https://www.wikidata.org/entity/Q2235325"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حادث بحري",
+    "de": "Schiffsunglück",
+    "dk": "søfartsulykke",
+    "en-GB": "maritime accident and incident",
+    "en-US": "maritime accident and incident",
+    "es": "Accidente marítimo",
+    "fr": "Accident maritime",
+    "no": "skipsulykker",
+    "pt-BR": "acidente marítimo",
+    "pt-PT": "acidente marítimo",
+    "se": "Sjöfartsolyckor",
+    "zh-Hans": "海上事故"
+  },
+  "qcode": "medtop:20000145",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000145",
+  "aid": "iptc_20000145"
+}

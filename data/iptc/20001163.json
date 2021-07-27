@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Aufbau und Pflege einer Beziehung zu den Kunden, um den Umsatz zu steigern.",
+    "dk": "Oprettelse og vedligeholdelse af forhold til kunder for at øge salget.",
+    "en-GB": "Creating and maintaining a relationship with the customers to increase sales.",
+    "en-US": "Creating and maintaining a relationship with the customers to increase sales.",
+    "pt-BR": "Criação e manutenção de uma relação com os clientes para aumentar as vendas.",
+    "pt-PT": "Criação e manutenção de uma relação com os clientes para aumentar as vendas.",
+    "se": "Skapandet och upprätthållandet av relationer till kunder för att öka försäljningen.",
+    "zh-Hans": "建立并维持与客户的关系以增加销售额"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q485643"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ادارة العلاقات مع الزبائن",
+    "de": "Kundenmanagement",
+    "dk": "kunderelation",
+    "en-GB": "client relationship management",
+    "en-US": "client relationship management",
+    "es": "Gestión de relaciones con clientes",
+    "fr": "Relation client",
+    "no": "kundebehandling",
+    "pt-BR": "gestão de relacionamento com o cliente",
+    "pt-PT": "gestão de relacionamento com o cliente",
+    "se": "Kundvård",
+    "zh-Hans": "客户关系管理"
+  },
+  "qcode": "medtop:20001163",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001163",
+  "aid": "iptc_20001163"
+}

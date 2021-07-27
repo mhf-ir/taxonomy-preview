@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000386"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Energiehandel und Energiemarkt.",
+    "dk": "Handelssted for elektricitet, gas, kul, olie og kuldioxid.",
+    "en-GB": "Energy trading and markets",
+    "en-US": "Energy trading and markets",
+    "pt-BR": "Comércio e mercados energéticos.",
+    "pt-PT": "Comércio e mercados energéticos.",
+    "se": "Handelsplats för el, gas, kol, olja och utsläppsrätter för koldioxid.",
+    "zh-Hans": "能源交易及市场"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04009001",
+    "https://www.wikidata.org/entity/Q1239166"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "طاقة",
+    "de": "Energie",
+    "dk": "energibørs",
+    "en-GB": "energy market",
+    "en-US": "energy market",
+    "es": "Mercado de energía",
+    "fr": "Marché de l'énergie",
+    "no": "energimarked",
+    "pt-BR": "mercado da energia",
+    "pt-PT": "mercado da energia",
+    "se": "Energimarknad",
+    "zh-Hans": "能源市场"
+  },
+  "qcode": "medtop:20000387",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000387",
+  "aid": "iptc_20000387"
+}

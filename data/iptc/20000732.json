@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13001001"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000731"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Untersuchung der physikalischen Wechselwirkungen zwischen elektrisch geladenen Teilchen und Magnetfeldern",
+    "dk": "Undersøgelsen af de fysiske interaktioner mellem elektrisk ladede partikler og magnetiske felter.",
+    "en-GB": "The study of the physical interactions between electrically charged particles and magnetic fields",
+    "en-US": "The study of the physical interactions between electrically charged particles and magnetic fields",
+    "es": "El estudio de las interacciones físicas entre partículas cargadas eléctricamente y campos magnéticos",
+    "fr": "Etude des interactions physiques entre particules chargées électriquement et champs magnétiques",
+    "pt-BR": "Estudo das interações físicas entre partículas carregadas eletricamente e campos magnéticos.",
+    "pt-PT": "Estudo das interações físicas entre partículas carregadas eletricamente e campos magnéticos.",
+    "se": "Vetenskapen om sambandet mellan elektricitet och magnetism.",
+    "zh-Hans": "研究带电粒子与磁场之间物理相互作用的学科"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q11406"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كهرمغناطيس",
+    "de": "Elektromagnetismus",
+    "dk": "elektromagnetisme",
+    "en-GB": "electromagnetism",
+    "en-US": "electromagnetism",
+    "es": "Electromagnetismo",
+    "fr": "Électromagnétisme",
+    "no": "elektromagnetisme",
+    "pt-BR": "eletromagnetismo",
+    "pt-PT": "eletromagnetismo",
+    "se": "Elektromagnetism",
+    "zh-Hans": "电磁学"
+  },
+  "qcode": "medtop:20000732",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000732",
+  "aid": "iptc_20000732"
+}

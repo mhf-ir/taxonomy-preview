@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000111"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Person, die vor Gericht steht",
+    "dk": "Enhver, der er tiltalt i en retssag, og som skal svare på anklagerne.",
+    "en-GB": "The person on trial",
+    "en-US": "The person on trial",
+    "pt-BR": "Indivíduo que está sendo julgado em tribunal.",
+    "pt-PT": "Indivíduo que está a ser julgado em tribunal.",
+    "se": "Den som är åtalad i en rättegång och ska svara på anklagelserna.",
+    "zh-Hans": "受审者"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02009001",
+    "https://www.wikidata.org/entity/Q159394"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مدعى عليه",
+    "de": "Angeklagter",
+    "dk": "tiltalt",
+    "en-GB": "defendant",
+    "en-US": "defendant",
+    "es": "Acusado",
+    "fr": "Accusé",
+    "no": "tiltalt",
+    "pt-BR": "réu",
+    "pt-PT": "réu",
+    "se": "Svarande",
+    "zh-Hans": "被告"
+  },
+  "qcode": "medtop:20000113",
+  "retired": "2019-10-07T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000113",
+  "aid": "iptc_20000113"
+}

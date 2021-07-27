@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Führungsebene verschiedener Regierungsministerien, auch bekannt als Staatssekretäre. Auf anderen Ebenen bilden sie die Legislative. Der oberste Minister ist entweder der Bundeskanzler oder der Vizekanzler",
+    "dk": "Medlem af en regering og leder af et ministerium.",
+    "en-GB": "Senior government official, either elected or appointed, who heads a government department",
+    "en-US": "Senior government official, either elected or appointed, who heads a government department",
+    "pt-BR": "Político que chefia um departamento do governo e trabalha em conjunto com outros ministros para tomar e implementar decisões políticas.",
+    "pt-PT": "Político que chefia um departamento do governo e trabalha em conjunto com outros ministros para tomar e implementar decisões políticas.",
+    "se": "Medlem av regering som oftast även är chef för ett departement.",
+    "zh-Hans": "各级政府部门的首长。在另一个层次上，它们构成一个立法机构。首席部长不是首相就是总理"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11006009",
+    "https://www.wikidata.org/entity/Q165950"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "وزراء (حكومة)",
+    "de": "Minister",
+    "dk": "minister (regering)",
+    "en-GB": "minister and secretary (government)",
+    "en-US": "minister and secretary (government)",
+    "es": "Ministros (gobierno)",
+    "fr": "Ministres",
+    "no": "minister/statsråd",
+    "pt-BR": "ministro (governo)",
+    "pt-PT": "ministro (governo)",
+    "se": "Ministrar",
+    "zh-Hans": "部长（政府）"
+  },
+  "qcode": "medtop:20000613",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000613",
+  "aid": "iptc_20000613"
+}

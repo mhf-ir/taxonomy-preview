@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000256"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alle Inhalte, die sich auf Öl und Gas beziehen, kennzeichnend hier die Gewinnung und der Transport zur Raffinerie",
+    "dk": "Alt relateret til olie og gas fra indsamlingen til raffinaderiet.",
+    "en-GB": "All matters concerning oil and gas, typically supply chain activities from the reservoir to the refinery gate",
+    "en-US": "All matters concerning oil and gas, typically supply chain activities from the reservoir to the refinery gate",
+    "pt-BR": "Assuntos relativos ao petróleo e ao gás, tipicamente atividades da cadeia de abastecimento desde a reserva até o portão da refinaria.",
+    "pt-PT": "Assuntos relativos ao petróleo e ao gás, tipicamente atividades da cadeia de abastecimento desde a reserva até ao portão da refinaria.",
+    "se": "Allt som rör olja och gas från upphämtningen till raffinaderiet.",
+    "zh-Hans": "从石油矿藏到炼油的所有环节"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005004",
+    "https://www.wikidata.org/entity/Q2542096"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-25T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "نفط وغاز/تكرير وبيع وتوزيع",
+    "de": "Öl und Gas (Förderung)",
+    "dk": "olie og gas - opstrømsaktivitet",
+    "en-GB": "oil and gas - upstream activities",
+    "en-US": "oil and gas - upstream activities",
+    "es": "Petróleo y gas primarios",
+    "fr": "Production de pétrole et gaz",
+    "no": "oppstrømsaktvitet",
+    "pt-BR": "petróleo e gás (extração)",
+    "pt-PT": "petróleo e gás (extração)",
+    "se": "Olja och gas, utvinning",
+    "zh-Hans": "石油和天然气-上游活动"
+  },
+  "qcode": "medtop:20000267",
+  "retired": "2019-07-25T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000267",
+  "aid": "iptc_20000267"
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bezahlte Dienstleistung von Zivilisten für die Regierung und die oftmals unbezahlte ehrenamtliche Dienstleistung für andere",
+    "dk": "Statslig og kommunal forvaltning.",
+    "en-GB": "The paid service by civilians for the government, and the often non-paid service of individuals for the benefit of others (public service)",
+    "en-US": "The paid service by civilians for the government, and the often non-paid service of individuals for the benefit of others (public service)",
+    "pt-BR": "Serviço pago feito por civis para o governo e serviço, frequentemente não pago, de indivíduos para benefício de outros (serviço público).",
+    "pt-PT": "Serviço pago feito por civis para o governo e serviço, frequentemente não pago, de indivíduos para benefício de outros (serviço público).",
+    "se": "Statlig och kommunal förvaltning.",
+    "zh-Hans": "公务人员为政府提供的有偿服务，以及个人为他人提供的非有偿服务(公共服务)"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11006001",
+    "https://www.wikidata.org/entity/Q11771944"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000595",
+    "medtop:20000596",
+    "medtop:20001144"
+  ],
+  "prefLabel": {
+    "ar": "ادارة مدنية وعامة",
+    "de": "Öffentlicher Dienst",
+    "dk": "offentlig forvaltning",
+    "en-GB": "civil and public service",
+    "en-US": "civil and public service",
+    "es": "Servicios públicos",
+    "fr": "Service public",
+    "no": "offentlig forvaltning",
+    "pt-BR": "serviços públicos",
+    "pt-PT": "serviços públicos",
+    "se": "Offentlig verksamhet",
+    "zh-Hans": "公务员和公共服务"
+  },
+  "qcode": "medtop:20000594",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000594",
+  "aid": "iptc_20000594"
+}

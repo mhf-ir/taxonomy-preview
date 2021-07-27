@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000349"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Der Prozess der Konzeption, Gründung und Führung eines neuen Unternehmens.",
+    "dk": "Processen med at oprette, lancere og drive et nyt firma.",
+    "en-GB": "The process of designing, launching and running a new business.",
+    "en-US": "The process of designing, launching and running a new business.",
+    "pt-BR": "O processo de projetar, lançar e executar um novo negócio.",
+    "pt-PT": "O processo de projetar, lançar e executar um novo negócio.",
+    "se": "Processen att skapa, lansera och driva ett nytt företag.",
+    "zh-Hans": "设计、启动和运行一个新企业或新业务"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3908516"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مقاولات",
+    "de": "Unternehmertum",
+    "dk": "iværksætteri",
+    "en-GB": "entrepreneurship",
+    "en-US": "entrepreneurship",
+    "es": "Empresariado",
+    "fr": "Entrepreneuriat",
+    "no": "entreprenørskap",
+    "pt-BR": "empreendedorismo",
+    "pt-PT": "empreendedorismo",
+    "se": "Entreprenörskap",
+    "zh-Hans": "创业"
+  },
+  "qcode": "medtop:20001158",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001158",
+  "aid": "iptc_20001158"
+}

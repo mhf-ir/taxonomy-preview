@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/15000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Aktionen, einschließlich Geldstrafen und Suspensionen erhoben von Sportorganisationen und Teams",
+    "dk": "Foranstaltninger, såsom bøder og suspensioner, idømt af sportsorganisationer eller sportshold.",
+    "en-GB": "Actions, including fines and suspensions levied by sports organisations and teams",
+    "en-US": "Actions, including fines and suspensions levied by sports organizations and teams",
+    "pt-BR": "Ações, incluindo multas e suspensões, atribuídas por equipes e organizações esportivas.",
+    "pt-PT": "Ações, incluindo multas e suspensões, atribuídas por equipas e organizações desportivas.",
+    "se": "Åtgärder, t ex böter och avstängning, som påförs av idrottsorganisationer eller idrottslag.",
+    "zh-Hans": "体育组织或团体实施的纪律处分，包括罚款，停赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15102000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رياضة",
+    "de": "Disziplinarmaßnahmen im Sport",
+    "dk": "disciplinær handling i sport",
+    "en-GB": "disciplinary action in sport",
+    "en-US": "disciplinary action in sport",
+    "es": "Acción disciplinaria en el deporte",
+    "fr": "Mesures disciplinaires dans le sport",
+    "no": "straffereaksjoner i idretten",
+    "pt-BR": "medidas disciplinares no esporte",
+    "pt-PT": "medidas disciplinares no desporto",
+    "se": "Idrottslig bestraffning",
+    "zh-Hans": "运动纪律处分"
+  },
+  "qcode": "medtop:20001103",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001103",
+  "aid": "iptc_20001103"
+}

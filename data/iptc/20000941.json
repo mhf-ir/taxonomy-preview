@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000940"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Spiel bei dem Bälle eingelocht werden in einem speziellen Kurs mit so wenig Versuchen wie möglich",
+    "dk": "Spilles på kunstige korte baner med forhindringer. Normalt 18 baner på en runde.",
+    "en-GB": "A game where small hard balls must be holed on an artificial course in as few strokes from the club as possible",
+    "en-US": "A game where small hard balls must be holed on an artificial course in as few strokes from the club as possible",
+    "pt-BR": "Jogo semelhante ao golfe, praticado em campo artificial de menores dimensões.",
+    "pt-PT": "Jogo semelhante ao golfe, praticado em campo artificial de menores dimensões.",
+    "se": "Spelas på konstgjorda korta banor med hinder. Spelarna har en klubba liknande puttern i vanlig golf och olika bollar med olika egenskaper. Normalt 18 banor på en runda.",
+    "zh-Hans": "在一个人工场内，尽量用最少的杆次击一个硬质小球进洞的项目"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15075000",
+    "https://www.wikidata.org/entity/Q754796"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "غولف",
+    "de": "Minigolf",
+    "dk": "minigolf",
+    "en-GB": "mini golf",
+    "en-US": "mini golf",
+    "es": "Mini golf",
+    "fr": "Mini golf",
+    "no": "minigolf",
+    "pt-BR": "minigolfe",
+    "pt-PT": "minigolfe",
+    "se": "Bangolf",
+    "zh-Hans": "迷你高尔夫"
+  },
+  "qcode": "medtop:20000941",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000941",
+  "aid": "iptc_20000941"
+}

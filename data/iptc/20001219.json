@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000464"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Medizinische oder psychotherapeutische Behandlung der Abhängigkeit von psychoaktiven Substanzen wie Alkohol, verschreibungspflichtigen Drogen und Straßendrogen",
+    "dk": "Pleje af personer, der er misbruger alkohol eller stoffer.",
+    "en-GB": "Medical or psychotherapeutic treatment for dependency on psychoactive substances such as alcohol, prescription drugs, and street drugs",
+    "en-US": "Medical or psychotherapeutic treatment for dependency on psychoactive substances such as alcohol, prescription drugs, and street drugs",
+    "pt-BR": "Tratamento médico ou psicoterapêutico para a dependência de substâncias psicoativas, como álcool, medicamentos ou drogas.",
+    "pt-PT": "Tratamento médico ou psicoterapêutico para a dependência de substâncias psicoativas, como álcool, medicamentos ou drogas.",
+    "se": "Vård av personer som hamnat i missbruk av alkohol eller droger.",
+    "zh-Hans": "采用医学或心理治疗方式治疗患者对精神活性物质（如酒精、处方药和毒品）的依赖。"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1260022"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "إعادة تأهيل مدمني المخدرات",
+    "de": "Drogentherapie",
+    "dk": "afvænning",
+    "en-GB": "drug rehabilitation",
+    "en-US": "drug rehabilitation",
+    "es": "Rehabilitación de drogas",
+    "fr": "Cure de désintoxication",
+    "no": "rusbehandling",
+    "pt-BR": "cura de desintoxicação",
+    "pt-PT": "cura de desintoxicação",
+    "se": "Missbruksvård",
+    "zh-Hans": "戒毒"
+  },
+  "qcode": "medtop:20001219",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001219",
+  "aid": "iptc_20001219"
+}

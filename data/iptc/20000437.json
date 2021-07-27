@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000430"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Umweltprobleme von Wassereinheiten, inklusive Meere, Seen, Flüsse und Reservoire, sowie Eis, Gletscher und Formen des Niederschlags",
+    "dk": "Miljøspørgsmål vedrørende vand, herunder hav, søer, floder, gletsjere og is.",
+    "en-GB": "Environmental issues about bodies of water, including oceans, lakes, streams and reservoirs, as well as ice, glaciers and forms of precipitation",
+    "en-US": "Environmental issues about bodies of water, including oceans, lakes, streams and reservoirs, as well as ice, glaciers and forms of precipitation",
+    "pt-BR": "Questões ambientais sobre massas de água, incluindo oceanos, lagos, ribeiros e reservatórios, mas também gelo, geleiras e formas de precipitação.",
+    "pt-PT": "Questões ambientais sobre massas de água, incluindo oceanos, lagos, ribeiros e reservatórios, mas também gelo, glaciares e formas de precipitação.",
+    "se": "Miljöfrågor som avser vatten, inklusive hav, sjöar, floder, glaciärer och is.",
+    "zh-Hans": "关于水体的环境问题，包括海洋、湖泊、溪流和水库，以及冰、冰川和降水形式"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06010000",
+    "https://www.wikidata.org/entity/Q283"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000438",
+    "medtop:20000439",
+    "medtop:20000440"
+  ],
+  "prefLabel": {
+    "ar": "مياه",
+    "de": "Wasser",
+    "dk": "vand",
+    "en-GB": "water",
+    "en-US": "water",
+    "es": "Agua",
+    "fr": "Distribution de l'eau",
+    "no": "vann",
+    "pt-BR": "água",
+    "pt-PT": "água",
+    "se": "Vatten",
+    "zh-Hans": "水资源"
+  },
+  "qcode": "medtop:20000437",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000437",
+  "aid": "iptc_20000437"
+}

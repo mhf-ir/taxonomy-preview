@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001157"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: broader term changed"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Japanische traditionelle Kampfsportart mit einem Holzschwert. 'Naginata' bedeutet Speer mit einem gebogenen Blatt",
+    "dk": "Japansk kampsport, hvor våbnet er en stang med et skarpt blad i enden.",
+    "en-GB": "Japanese traditional martial art using a pole sword made of wood. 'Naginata' means a spear with a curved blade",
+    "en-US": "Japanese traditional martial art using a pole sword made of wood. 'Naginata' means a spear with a curved blade",
+    "pt-BR": "Arte marcial tradicional japonesa que usa uma espada curva de madeira.",
+    "pt-PT": "Arte marcial tradicional japonesa que usa uma espada curva de madeira.",
+    "se": "Japansk stridskonst där vapnet är en stång med en vass klinga i änden.",
+    "zh-Hans": "日本传统武术，使用木制棍剑。木剑意思是带弯刃的矛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15095000",
+    "https://www.wikidata.org/entity/Q1757215"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ناغيناتا",
+    "de": "Naginata",
+    "dk": "naginata",
+    "en-GB": "naginata",
+    "en-US": "naginata",
+    "es": "Naginata",
+    "fr": "Naginata",
+    "no": "naginata",
+    "pt-BR": "naginata",
+    "pt-PT": "naginata",
+    "se": "Naginata",
+    "zh-Hans": "薙刀"
+  },
+  "qcode": "medtop:20001009",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001009",
+  "aid": "iptc_20001009"
+}

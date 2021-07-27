@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000411"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Menschen jeden Alters die sich in einer strukturellen Umgebung befinden, nicht notwendigerweise ein Klassenraum, um etwas zu lernen.",
+    "dk": "Person, der modtager undervisning.",
+    "en-GB": "People of any age in a structured environment, not necessarily a classroom, in order to learn something",
+    "en-US": "People of any age in a structured environment, not necessarily a classroom, in order to learn something",
+    "pt-BR": "Pessoas de todas as idades em ambiente estruturado, não necessariamente uma sala de aula, para aprender alguma coisa.",
+    "pt-PT": "Pessoas de todas as idades em ambiente estruturado, não necessariamente uma sala de aula, para aprender alguma coisa.",
+    "se": "Person som får undervisning.",
+    "zh-Hans": "任何年龄层的人，在结构化的环境中（不一定是在教室里）进行学习"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05010001",
+    "https://www.wikidata.org/entity/Q48282"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "طلاب",
+    "de": "Schüler",
+    "dk": "elev/studerende",
+    "en-GB": "students",
+    "en-US": "students",
+    "es": "Estudiantes",
+    "fr": "Étudiants",
+    "no": "student",
+    "pt-BR": "alunos",
+    "pt-PT": "alunos",
+    "se": "Elever",
+    "zh-Hans": "学生"
+  },
+  "qcode": "medtop:20000415",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000415",
+  "aid": "iptc_20000415"
+}

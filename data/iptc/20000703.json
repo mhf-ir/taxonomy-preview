@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/12000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Person oder Personen, die eine rituelle oder führende Rolle in ihrer jeweiligen Religion oder Kirche haben.",
+    "dk": "Person eller personer, der har en rituel, juridisk eller på anden måde førende rolle i deres respektive kirke eller religion.",
+    "en-GB": "Person or persons who have a ritual, juridical or otherwise leading role in their respective church or religion",
+    "en-US": "Person or persons who have a ritual, juridical or otherwise leading role in their respective church or religion",
+    "pt-BR": "Pessoa ou pessoas que têm um papel de liderança ritual, jurídica ou outra em sua igreja ou religião.",
+    "pt-PT": "Pessoa ou pessoas que têm um papel de liderança ritual, jurídica ou outra na sua igreja ou religião.",
+    "se": "Personer som har en rituell, juridisk eller annan ledande roll i sin kyrka eller religion.",
+    "zh-Hans": "在其各自的教会或宗教中具有仪式、法律或其他主导作用的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12015000",
+    "https://www.wikidata.org/entity/Q15995642"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000704"
+  ],
+  "prefLabel": {
+    "ar": "زعيم ديني",
+    "de": "Religiöses Oberhaupt",
+    "dk": "religiøs leder",
+    "en-GB": "religious leader",
+    "en-US": "religious leader",
+    "es": "Líder religioso",
+    "fr": "Chefs religieux",
+    "no": "religiøs leder",
+    "pt-BR": "líder religioso",
+    "pt-PT": "líder religioso",
+    "se": "Religiösa ledare",
+    "zh-Hans": "宗教领袖"
+  },
+  "qcode": "medtop:20000703",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000703",
+  "aid": "iptc_20000703"
+}

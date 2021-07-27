@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Um von neun Punktrichtern die beste Punktzahl zu bekommen in zwei vorbereiteten Bereichen - beide zu Musik gelaufen - müssen die Wettkämpfer die höchst mögliche Harmonie zwischen artistischem Ausdruck und technischer Präzision erreichen",
+    "dk": "Konkurrencer individuelt eller i par, hvor deltagerne udfører kunst på is med skøjter på fødderne. Programmet udføres til musik og bedømmes af dommere.",
+    "en-GB": "To obtain the best marks possible from nine judges who award scores after two prepared sections - both skated to music - during which competitors must attempt to achieve the greatest possible harmony between artistic flair and technical precision.",
+    "en-US": "To obtain the best marks possible from nine judges who award scores after two prepared sections - both skated to music - during which competitors must attempt to achieve the greatest possible harmony between artistic flair and technical precision.",
+    "pt-BR": "Esporte, individual ou em pares, em que os patinadores são avaliados por 9 juízes após cada programa apresentado. Os patinadores devem executar figuras e movimentos ao som da música, conjugando beleza artística e precisão técnica.",
+    "pt-PT": "Desporto, individual ou em pares, em que os patinadores são avaliados por 9 juízes após cada programa apresentado. Os patinadores devem executar figuras e movimentos ao som da música, conjugando beleza artística e precisão técnica.",
+    "se": "Tävlas individuellt eller i par där de tävlande utför konster på is med skridskor på fötterna. Programmet utförs till musik och bedöms av domare.",
+    "zh-Hans": "尽可能从九名评委中获得最佳分数，这九名裁判在两个准备好的短节目后打分数 - 两段都是伴音乐滑行- 在比赛中选手必须努力在滑行的艺术感和技术精确度之间实现最大可能的和谐"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15025000",
+    "https://www.wikidata.org/entity/Q38108"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/figureskatingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000935"
+  ],
+  "prefLabel": {
+    "ar": "تزلج فني على الجليد",
+    "de": "Eiskunstlauf",
+    "dk": "kunstskøjteløb",
+    "en-GB": "figure skating",
+    "en-US": "figure skating",
+    "es": "Patinaje artístico",
+    "fr": "Patinage artistique",
+    "no": "kunstløp",
+    "pt-BR": "patinação artística",
+    "pt-PT": "patinagem artística",
+    "se": "Konståkning",
+    "zh-Hans": "花样滑冰"
+  },
+  "qcode": "medtop:20000934",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000934",
+  "aid": "iptc_20000934"
+}

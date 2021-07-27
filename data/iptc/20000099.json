@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Tod eines Menschen durch einen anderen",
+    "dk": "Drab på en anden person.",
+    "en-GB": "The killing of one person by another, including murder and manslaughter",
+    "en-US": "The killing of one person by another, including murder and manslaughter",
+    "pt-BR": "Morte de uma pessoa cometida por outra(s).",
+    "pt-PT": "Morte de uma pessoa cometida por outra(s).",
+    "se": "Att döda en annan person.",
+    "zh-Hans": "一个人被另一个人杀死，包括谋杀和误杀"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02001001",
+    "https://www.wikidata.org/entity/Q149086"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "قتل",
+    "de": "Mord",
+    "dk": "drab",
+    "en-GB": "homicide",
+    "en-US": "homicide",
+    "es": "Homicidio",
+    "fr": "Homicide",
+    "no": "drap",
+    "pt-BR": "homicídio",
+    "pt-PT": "homicídio",
+    "se": "Dråp",
+    "zh-Hans": "凶杀"
+  },
+  "qcode": "medtop:20000099",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000099",
+  "aid": "iptc_20000099"
+}

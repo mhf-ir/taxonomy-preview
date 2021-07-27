@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000560"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Aktivität, die Köder, Waffen und Netze benutzt um Wassertiere zu fangen.",
+    "dk": "En rekreativ aktivitet, hvor man forsøger at fange fisk ved hjælp af agn, våben og fælder.",
+    "en-GB": "A recreational activity involving the use of baits, lures, weapons and traps for the capture of aquatic species.",
+    "en-US": "A recreational activity involving the use of baits, lures, weapons and traps for the capture of aquatic species.",
+    "pt-BR": "Atividade que envolve o uso de isca, chamariz, armas ou armadilhas na captura de espécies aquáticas.",
+    "pt-PT": "Atividade que envolve o uso de isco, chamariz, armas ou armadilhas na captura de espécies aquáticas.",
+    "se": "En fritidsaktivitet där man med hjälp av beten, vapen och fällor försöker fånga vattenlevande djur.",
+    "zh-Hans": "一种娱乐活动，包括使用诱饵、诱饵、武器和陷阱捕获水生物种"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10013000",
+    "https://www.wikidata.org/entity/Q14373"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صيد سمك",
+    "de": "Angeln",
+    "dk": "lystfiskeri",
+    "en-GB": "fishing",
+    "en-US": "fishing",
+    "es": "Pesca",
+    "fr": "Pêche",
+    "no": "fiske",
+    "pt-BR": "pesca",
+    "pt-PT": "pesca",
+    "se": "Fiske",
+    "zh-Hans": "钓鱼"
+  },
+  "qcode": "medtop:20000561",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000561",
+  "aid": "iptc_20000561"
+}

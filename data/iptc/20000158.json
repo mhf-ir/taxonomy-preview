@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000157"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sturm mit hoher Geschwindigkeit, aber ohne das gewaltige Tempo eines Hurrikans, mit wenig oder ohne Regen oder Hagel. Meistens stark zerstörerisch",
+    "dk": "Vejr med meget stærk vind, ofte med ødelæggelse som et resultat.",
+    "en-GB": "A storm with very strong wind but little or no rain or snow",
+    "en-US": "A storm with very strong wind but little or no rain or snow",
+    "pt-BR": "Tempestade de grande velocidade mas sem furacões e com pouca chuva ou granizo. Altamente destrutiva.",
+    "pt-PT": "Fenómeno atmosférico caracterizado por ventos fortes, geralmente com pouca chuva, que pode ser altamente destrutivo.",
+    "se": "Väder med mycket hård vind, ofta med förstörelse som följd.",
+    "zh-Hans": "一种高速但非飓风的风暴，空气运动很少或没有雨或冰雹，通常具有很强破坏性"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03007001",
+    "https://www.wikidata.org/entity/Q148942"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عواصف",
+    "de": "Orkan",
+    "dk": "storm",
+    "en-GB": "windstorms",
+    "en-US": "windstorms",
+    "es": "Tempestad",
+    "fr": "Tempête",
+    "no": "syklon",
+    "pt-BR": "tempestade ciclônica",
+    "pt-PT": "tempestade ciclónica",
+    "se": "Stormar",
+    "zh-Hans": "暴风"
+  },
+  "qcode": "medtop:20000158",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000158",
+  "aid": "iptc_20000158"
+}

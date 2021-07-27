@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000574"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Auswahl einzelner Regierungsvertreter für eine staatsübergreifende Organisation",
+    "dk": "At vælge repræsentanter til en mellemstatslig regering, f.eks. Europa-Parlamentet.",
+    "en-GB": "Choosing individuals for the government of an international organization, such as the United Nations, European Union, NATO and World Bank",
+    "en-US": "Choosing individuals for the government of an international organization, such as the United Nations, European Union, NATO and World Bank",
+    "pt-BR": "Escolha de indivíduos para a chefia de uma organização internacional, como Nações Unidas, União Europeia, OTAN ou Banco Mundial.",
+    "pt-PT": "Escolha de indivíduos para a chefia de uma organização internacional, como Nações Unidas, União Europeia, NATO ou Banco Mundial.",
+    "se": "Att välja representanter till ett mellanstatligt styre, t ex Europaparlamentet.",
+    "zh-Hans": "为政府机构选拔工作人员"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q8550213"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انتخابات حكومية",
+    "de": "staatsübergreifende Wahl",
+    "dk": "mellemstatsligt valg",
+    "en-GB": "intergovernmental elections",
+    "en-US": "intergovernmental elections",
+    "es": "Elecciones intergubernamentales",
+    "fr": "Élections intergouvernementales",
+    "no": "mellomstatlige valg",
+    "pt-BR": "eleições intergovernamentais",
+    "pt-PT": "eleições intergovernamentais",
+    "se": "Mellanstatliga val",
+    "zh-Hans": "政府选举"
+  },
+  "qcode": "medtop:20000577",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000577",
+  "aid": "iptc_20000577"
+}

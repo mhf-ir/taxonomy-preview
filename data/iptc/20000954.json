@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000951"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sprünge und Figuren werden gezeigt durch die Bewegung eines Seiles",
+    "dk": "Gymnasten udfører øvelser i kast og dans med tov (sjippetov).",
+    "en-GB": "Jump and figure movements are performed while a rope is manipulated.",
+    "en-US": "Jump and figure movements are performed while a rope is manipulated.",
+    "pt-BR": "Exercício de ginástica rítmica em que as ginastas realizam uma coreografia no solo usando uma corda.",
+    "pt-PT": "Exercício de ginástica rítmica em que as ginastas realizam uma coreografia no solo usando uma corda.",
+    "zh-Hans": "舞动绳子同时表演跳跃和舞蹈动作"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028013",
+    "https://www.wikidata.org/entity/Q635343"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الحبل",
+    "de": "Seil (Rhythmische Gymnastik)",
+    "dk": "tov",
+    "en-GB": "rope (rhythmic gymnastics)",
+    "en-US": "rope (rhythmic gymnastics)",
+    "es": "Cuerda (gimnasia rítmica)",
+    "fr": "Corde",
+    "no": "tau (rytmisk gymnastikk)",
+    "pt-BR": "corda",
+    "pt-PT": "corda",
+    "se": "Rep",
+    "zh-Hans": "绳操（艺术体操）"
+  },
+  "qcode": "medtop:20000954",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000954",
+  "aid": "iptc_20000954"
+}

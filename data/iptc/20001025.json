@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001155"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mannschaftssport ähnlich dem Eishockey, gespielt auf vierrädrigen Rollschuhen mit Schlägern und einem Ball",
+    "dk": "Selve spillet er som ishockey, men konkurrenterne har rulleskøjter (inliners) på og underlaget er ikke is.",
+    "en-GB": "Team sport similar to ice hockey, executed on 4 wheel roller skates with sticks and a ball",
+    "en-US": "Team sport similar to ice hockey, executed on 4 wheel roller skates with sticks and a ball",
+    "pt-BR": "Esporte de equipe semelhante ao hóquei no gelo, executado sobre patins de 4 rodas, com tacos e uma bola.",
+    "pt-PT": "Desporto de equipa semelhante ao hóquei no gelo, executado sobre patins de 4 rodas, com tacos e uma bola.",
+    "se": "Själva spelet är som ishockey men de tävlande har rullskridskor (inlines) och underlaget är inte is.",
+    "zh-Hans": "类似冰球的集体运动。穿四轮轮滑，使用球棍击球"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15024001",
+    "https://www.wikidata.org/entity/Q1748406"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-11-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "هوكي",
+    "de": "Rollerhockey",
+    "dk": "rulleskøjtehockey",
+    "en-GB": "roller hockey",
+    "en-US": "roller hockey",
+    "es": "Hockey sobre patines",
+    "fr": "Roller hockey",
+    "no": "rulleskøytehockey",
+    "pt-BR": "hóquei em patins",
+    "pt-PT": "hóquei em patins",
+    "se": "Inlinehockey",
+    "zh-Hans": "轮滑曲棍球（冰上曲棍球）"
+  },
+  "qcode": "medtop:20001025",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001025",
+  "aid": "iptc_20001025"
+}

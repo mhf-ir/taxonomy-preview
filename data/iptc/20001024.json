@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001017"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rodeo Disziplin",
+    "dk": "At ride på hest med sadel, som forsøger at kaste rytteren af. Oprindeligt skabt til heste, der skal rides af den professionelle cowboy.",
+    "en-GB": "Rodeo discipline",
+    "en-US": "Rodeo discipline",
+    "pt-BR": "Disciplina de rodeio.",
+    "pt-PT": "Disciplina de rodeio.",
+    "se": "Ridning på en sadelförsedd häst, som försöker kasta av ryttaren, från början skapad för att hästar måste ridas in av den yrkesutövande cowboyen.",
+    "zh-Hans": "一种牛仔竞技比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15074005"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "روديو سادل برونك",
+    "de": "Saddle Bronc",
+    "dk": "saddle bronc",
+    "en-GB": "saddle bronc",
+    "en-US": "saddle bronc",
+    "es": "Saddle bronc",
+    "fr": "Saddle bronc (rodéo)",
+    "no": "Innridning av hest med sal",
+    "pt-BR": "saddle bronc",
+    "pt-PT": "saddle bronc",
+    "se": "Inridning (med sadel) av hästar",
+    "zh-Hans": "骑有鞍野马"
+  },
+  "qcode": "medtop:20001024",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001024",
+  "aid": "iptc_20001024"
+}

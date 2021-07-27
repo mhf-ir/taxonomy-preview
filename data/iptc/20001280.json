@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000157"
+  ],
+  "created": "2019-10-07T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Art von Sturm, auch tropischer Wirbelsturm genannt, der sich über tropischen oder subtropischen Gewässern bildet",
+    "dk": "En voldsom og potentielt ødelæggende storm, som dannes over tropiske eller subtropiske havområder.",
+    "en-GB": "A type of storm also called a tropical cyclone, which forms over tropical or subtropical waters",
+    "en-US": "A type of storm also called a tropical cyclone, which forms over tropical or subtropical waters",
+    "pt-BR": "Tipo de tempestade, também chamado de ciclone tropical, que se forma sobre águas tropicais ou subtropicais.",
+    "pt-PT": "Tipo de tempestade, também chamado ciclone tropical, que se forma sobre águas tropicais ou subtropicais.",
+    "se": "En typ av tropisk storm där vindstyrkan överstiger 32,7 m/s.",
+    "zh-Hans": "一种发生在热带和亚热带地区强大而深厚的热带气旋"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q58197759"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "إعصار",
+    "de": "Hurrikan",
+    "dk": "orkan",
+    "en-GB": "hurricane",
+    "en-US": "hurricane",
+    "es": "Huracán",
+    "fr": "Ouragan",
+    "no": "orkan",
+    "pt-BR": "furacão",
+    "pt-PT": "furacão",
+    "se": "Orkan",
+    "zh-Hans": "飓风"
+  },
+  "qcode": "medtop:20001280",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001280",
+  "aid": "iptc_20001280"
+}

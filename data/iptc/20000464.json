@@ -1,0 +1,57 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/07000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Behandlung von Krankheiten und Heilungsbedingungen",
+    "dk": "Aktiv pleje af mennesker, der lider af sygdom.",
+    "en-GB": "In general treatment of diseases and other conditions to produce wellness",
+    "en-US": "In general treatment of diseases and other conditions to produce wellness",
+    "pt-BR": "Em geral, tratamento de doenças e de outras condições para gerar bem-estar.",
+    "pt-PT": "Em geral, tratamento de doenças e de outras condições para gerar bem-estar.",
+    "se": "Aktiv vård av människa som lider av sjukdom.",
+    "zh-Hans": "通过常用疾病治疗方法和其他条件恢复健康"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07003000",
+    "https://www.wikidata.org/entity/Q65982936"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000465",
+    "medtop:20000467",
+    "medtop:20000469",
+    "medtop:20000470",
+    "medtop:20000475",
+    "medtop:20000476",
+    "medtop:20000478",
+    "medtop:20001219",
+    "medtop:20001221",
+    "medtop:20001228"
+  ],
+  "prefLabel": {
+    "ar": "علاج صحي",
+    "de": "Medizinische Behandlung",
+    "dk": "sundhedsbehandling",
+    "en-GB": "health treatment",
+    "en-US": "health treatment",
+    "es": "Tratamiento de salud",
+    "fr": "Traitements",
+    "no": "medisinsk behandling",
+    "pt-BR": "tratamento de saúde",
+    "pt-PT": "tratamento de saúde",
+    "se": "Behandlingar",
+    "zh-Hans": "健康治疗"
+  },
+  "qcode": "medtop:20000464",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000464",
+  "aid": "iptc_20000464"
+}

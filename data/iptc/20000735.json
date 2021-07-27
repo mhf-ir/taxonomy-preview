@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/13000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Methodische Untersuchungen von Ereignissen, Prozeduren etc. um zu erklären, wie sie entstehen oder um Lösungen zu finden für Probleme.",
+    "dk": "Proces, der gennem systematisk arbejde kan producere ny viden og øget viden.",
+    "en-GB": "The scientific and methodical investigation of events, procedures and interactions to explain why they occur, or to find solutions for problems",
+    "en-US": "The scientific and methodical investigation of events, procedures and interactions to explain why they occur, or to find solutions for problems",
+    "es": "La investigación científica y metódica de eventos, procedimientos e interacciones para explicar por qué ocurren o para encontrar soluciones a problemas",
+    "fr": "Investigation scientifique et méthodique des événements, des procédures et des interactions pour expliquer pourquoi elles se produisent ou pour trouver des solutions aux problèmes",
+    "pt-BR": "Investigação metódica de eventos, procedimentos etc., para explicar sua causa ou para solucionar problemas.",
+    "pt-PT": "Investigação metódica de eventos, procedimentos, etc., para explicar a sua causa ou para solucionar problemas.",
+    "se": "Process som genom systematiskt arbete kan frambringa nya kunskaper och ökat vetande.",
+    "zh-Hans": "对事物的发生、变化规律和相互作用进行科学和严谨的研究，以解释其缘由或找到问题的解决方法"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13006000",
+    "https://www.wikidata.org/entity/Q42240"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000736",
+    "medtop:20000737",
+    "medtop:20000738",
+    "medtop:20000740"
+  ],
+  "prefLabel": {
+    "ar": "ابحاث",
+    "de": "Forschung",
+    "dk": "videnskabelig undersøgelse",
+    "en-GB": "scientific research",
+    "en-US": "scientific research",
+    "es": "Investigación científica",
+    "fr": "Recherche scientifique",
+    "no": "forskning",
+    "pt-BR": "investigação científica",
+    "pt-PT": "investigação científica",
+    "se": "Vetenskaplig forskning",
+    "zh-Hans": "科学研究"
+  },
+  "qcode": "medtop:20000735",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000735",
+  "aid": "iptc_20000735"
+}

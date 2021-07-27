@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Einzelzeitrennen über eine mit Fackeln markierte Strecke, die der Wettkämpfer mithilfe von Kompass und Karte in einer bestimmten Reihenfolge finden muss",
+    "dk": "Udstyret med et kort og kompas skal deltagerne lede efter et antal poster.",
+    "en-GB": "An individual time-trial over a route marked out by beacons. The competitor has to search out and find in a specific order. The contestant makes his way with the help of a compass and map",
+    "en-US": "An individual time-trial over a route marked out by beacons. The competitor has to search out and find in a specific order. The contestant makes his way with the help of a compass and map",
+    "pt-BR": "Corrida individual contra o relógio em percurso assinalado por marcas. O atleta, que prossegue com a ajuda de bússola e mapa, tem que procurar e encontrar as marcas segundo determinada ordem.",
+    "pt-PT": "Corrida individual contrarrelógio em percurso assinalado por marcas. O atleta, que prossegue com a ajuda de bússola e mapa, tem que procurar e encontrar as marcas segundo determinada ordem.",
+    "se": "Utrustad med karta och kompass ska de tävlande på tid leta upp ett antal kontroller. Vägvalet är frivilligt. Olika lopp har olika längd och antal kontroller. Utförs även som stafett.",
+    "zh-Hans": "单人计时比赛，路线用标志指示。参赛者根据特定顺序寻找标志。可使用罗盘和地图"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15044000",
+    "https://www.wikidata.org/entity/Q29358"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001012"
+  ],
+  "prefLabel": {
+    "ar": "سباق موجه",
+    "de": "Orientierung",
+    "dk": "orienteringsløb",
+    "en-GB": "orienteering",
+    "en-US": "orienteering",
+    "es": "Carrera de orientación",
+    "fr": "Course d'orientation",
+    "no": "orientering",
+    "pt-BR": "orientação",
+    "pt-PT": "orientação",
+    "se": "Orientering",
+    "zh-Hans": "定向越野赛"
+  },
+  "qcode": "medtop:20001011",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001011",
+  "aid": "iptc_20001011"
+}

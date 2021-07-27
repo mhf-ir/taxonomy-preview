@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kriminelle Handlungen, die von Banden oder kriminellen Gruppen begangen wurden",
+    "dk": "Planlagt kriminalitet udført af kriminelle i en gruppe, for eksempel mafiaen.",
+    "en-GB": "Crimes committed by gangs or criminal organizations, such as the mafia",
+    "en-US": "Crimes committed by gangs or criminal organizations, such as the mafia",
+    "pt-BR": "Crimes cometidos por gangues ou grupos criminosos, como a máfia.",
+    "pt-PT": "Crimes cometidos por gangues ou grupos criminosos, como a máfia.",
+    "se": "Planerad brottslighet som utförs av en samling kriminella i grupp, exempelvis maffia.",
+    "zh-Hans": "如黑手党等犯罪集团或犯罪组织所犯的罪行"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02010000",
+    "https://www.wikidata.org/entity/Q46952"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000102"
+  ],
+  "prefLabel": {
+    "ar": "جريمة منظمة",
+    "de": "Organisierte Kriminalität",
+    "dk": "organiseret kriminalitet",
+    "en-GB": "organised crime",
+    "en-US": "organized crime",
+    "es": "Crimen organizado",
+    "fr": "Crime organisé",
+    "no": "organisert kriminalitet",
+    "pt-BR": "crime organizado",
+    "pt-PT": "crime organizado",
+    "se": "Organiserad brottslighet",
+    "zh-Hans": "有组织犯罪"
+  },
+  "qcode": "medtop:20000101",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000101",
+  "aid": "iptc_20000101"
+}

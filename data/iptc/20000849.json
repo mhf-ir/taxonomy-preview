@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Spiel zwischen zwei Teams von neun auf einem geschlossenen Platz. Das Team mit den meisten Punkten gewinnt. Ein Punkt wird gemacht, wenn ein Spieler über den Platz läuft und dabei 4 Stationen passiert",
+    "dk": "Kamp mellem Nimands hold, hvor det hold, der samler flest point vinder. Point opnås ved at løbe rundt på banen, der er markeret med fire afrundingsmærker. Spilleren skal først ramme en bold, der er kastet af en spiller i modstanderholdet.",
+    "en-GB": "A game between two teams of nine played on an enclosed ground. The team which scores the most points wins. A point is scored when a player runs around the ground marked out by four bases. To do this he has to hit the ball thrown at him by a rival player.",
+    "en-US": "A game between two teams of nine played on an enclosed ground. The team which scores the most points wins. A point is scored when a player runs around the ground marked out by four bases. To do this he has to hit the ball thrown at him by a rival player.",
+    "pt-BR": "Jogo disputado entre 2 equipes de 9 jogadores em campo fechado. Ganha a equipe que marcar mais pontos durante a partida. Para marcar um ponto, o jogador, após bater a bola com um bastão, deve dar a volta ao campo marcado por 4 bases externas.",
+    "pt-PT": "Jogo disputado entre 2 equipas de 9 jogadores em campo fechado. Ganha a equipa que marcar mais pontos durante a partida. Para marcar um ponto, o jogador, após bater a bola com um bastão, deve dar a volta ao campo marcado por 4 bases externas.",
+    "se": "Match mellan niomannalag där det lag som samlar flest poäng vinner. Poäng får man genom att springa runt banan som är markerad med fyra rundningsmärken. Spelaren måste först träffa en boll som kastas av en spelare i motståndarlaget.",
+    "zh-Hans": "在封闭的场地上进行的每队九人两只队伍的比赛。得分最高的球队获胜。当一个球员绕着由四个垒标注的场地跑完一圈时，就可以得分。要做到这一点，他必须击中对手向他投掷的球"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15007000",
+    "https://www.wikidata.org/entity/Q5369"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000850"
+  ],
+  "prefLabel": {
+    "ar": "بيسبول",
+    "de": "Baseball",
+    "dk": "baseball",
+    "en-GB": "baseball",
+    "en-US": "baseball",
+    "es": "Béisbol",
+    "fr": "Baseball",
+    "no": "baseball",
+    "pt-BR": "beisebol",
+    "pt-PT": "beisebol",
+    "se": "Baseboll",
+    "zh-Hans": "棒球"
+  },
+  "qcode": "medtop:20000849",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000849",
+  "aid": "iptc_20000849"
+}

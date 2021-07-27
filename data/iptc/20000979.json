@@ -1,0 +1,55 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15015000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkampf mit Kajaks, in dem der Paddler mit den Füßen nach vorne sitzt und ein Doppelpaddel benutzt",
+    "dk": "Sejlads i kajak, hvor deltageren sidder med ben og fødder fremad og bruger en padle med blade i begge ender.",
+    "en-GB": "Competition involving kayaks where the paddler sits with their legs facing forward using a double-bladed paddle",
+    "en-US": "Competition involving kayaks where the paddler sits with their legs facing forward using a double-bladed paddle",
+    "pt-BR": "Competição com caiaques em que o remador fica com as pernas voltadas para a frente e rema com um remo de duas pás.",
+    "pt-PT": "Competição com caiaques em que o remador fica com as pernas voltadas para a frente e rema com uma pagaia dupla.",
+    "se": "Båtsport där den tävlande sitter med ben och fötter framåt och använder en paddel med blad i båda ändar.",
+    "zh-Hans": "皮艇比赛。运动员腿朝前坐，使用双叶浆"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2094083"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/canoekayaktype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000980",
+    "medtop:20000981",
+    "medtop:20000982"
+  ],
+  "prefLabel": {
+    "ar": "كاياك",
+    "de": "Kajak",
+    "dk": "kajak",
+    "en-GB": "kayaking",
+    "en-US": "kayaking",
+    "es": "Kayak",
+    "fr": "Kayak",
+    "no": "padling",
+    "pt-BR": "caiaque",
+    "pt-PT": "caiaque",
+    "se": "Kanot (kajak)",
+    "zh-Hans": "皮艇"
+  },
+  "qcode": "medtop:20000979",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000979",
+  "aid": "iptc_20000979"
+}

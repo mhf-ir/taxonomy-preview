@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ursprüngliche chinesische religiöse und philosophische Tradition, die seit mehr als 2000 Jahren das chinesische Leben beeinflusst.",
+    "dk": "En kinesisk visdomslære, der går ind for et enkelt liv i harmoni med naturen.",
+    "en-GB": "Indigenous religio-philosophical tradition that has shaped Chinese life for more than 2000 years",
+    "en-US": "Indigenous religio-philosophical tradition that has shaped Chinese life for more than 2000 years",
+    "pt-BR": "Tradição religiosa e filosófica autóctone que molda a cultura chinesa há mais de 2000 anos.",
+    "pt-PT": "Tradição religiosa e filosófica autóctone que molda a cultura chinesa há mais de 2000 anos.",
+    "se": "En kinesisk vishetslära som förespråkar ett enkelt liv i samklang med naturen.",
+    "zh-Hans": "一种对中国人的生活产生了2000多年影响的本土宗教信仰"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12017000",
+    "https://www.wikidata.org/entity/Q9598"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "طاوية",
+    "de": "Taoismus",
+    "dk": "taoisme",
+    "en-GB": "Taoism",
+    "en-US": "Taoism",
+    "es": "Taoismo",
+    "fr": "Taoïsme",
+    "no": "taoisme",
+    "pt-BR": "taoismo",
+    "pt-PT": "taoismo",
+    "se": "Daoism",
+    "zh-Hans": "道教"
+  },
+  "qcode": "medtop:20000685",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000685",
+  "aid": "iptc_20000685"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000256"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Geschäft mit Alternativen-Energien",
+    "dk": "Den kommercielle virksomhed, der producerer energi uden at ødelægge miljøet.",
+    "en-GB": "The alternative energy business",
+    "en-US": "The alternative energy business",
+    "pt-BR": "Negócio das energias alternativas.",
+    "pt-PT": "Negócio das energias alternativas.",
+    "se": "Den kommersiella verksamhet som framställer energi utan att förstöra miljön.",
+    "zh-Hans": "可替代能源行业"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005001",
+    "https://www.wikidata.org/entity/Q4202245"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "طاقة بديلة",
+    "de": "Alternative-Energie",
+    "dk": "alternativ energi",
+    "en-GB": "alternative energy",
+    "en-US": "alternative energy",
+    "es": "Energía alternativa",
+    "fr": "Énergies alternatives",
+    "no": "alternativ energi",
+    "pt-BR": "energias alternativas",
+    "pt-PT": "energias alternativas",
+    "se": "Alternativ energi",
+    "zh-Hans": "可替代能源"
+  },
+  "qcode": "medtop:20000257",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000257",
+  "aid": "iptc_20000257"
+}

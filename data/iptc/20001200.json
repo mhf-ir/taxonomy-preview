@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000131"
+  ],
+  "changeNote": {
+    "en-GB": "Moved from 20001200 (prosecution) to 20000131 (criminal investigation)"
+  },
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Wenn Polizei und/oder Staatsanwälte eine Untersuchung ohne Abschluss beenden",
+    "dk": "Når politi og forundersøgere vurderer, at der ikke er noget tilstrækkelig grundlag for at komme videre med en efterforskning.",
+    "en-GB": "When police and/or prosecutors end an investigation without a conclusion",
+    "en-US": "When police and/or prosecutors end an investigation without a conclusion",
+    "pt-BR": "Encerramento que a polícia e/ou os promotores fazem de investigação criminal por falta de conclusão.",
+    "pt-PT": "Encerramento que a polícia e / ou os promotores fazem de investigação criminal por falta de conclusão.",
+    "se": "När polis och förundersökningsledare bedömer att det inte finns förutsättningar att komma längre med en utredning.",
+    "zh-Hans": "警察或检察官在没有结论的情况下结束调查"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q178146"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اسقاط تحقيق جنائي",
+    "de": "Strafrechtliche Ermittlungen eingestellt",
+    "dk": "henlæggelse af straffesag",
+    "en-GB": "dropped criminal investigation",
+    "en-US": "dropped criminal investigation",
+    "es": "Abandono de investigación criminal",
+    "fr": "Abandon d'enquête criminelle",
+    "no": "henleggelse",
+    "pt-BR": "investigação criminal arquivada",
+    "pt-PT": "investigação criminal arquivada",
+    "se": "Nedlagd förundersökning",
+    "zh-Hans": "撤销刑事调查"
+  },
+  "qcode": "medtop:20001200",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001200",
+  "aid": "iptc_20001200"
+}

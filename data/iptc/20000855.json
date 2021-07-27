@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Spiel bei dem die Spieler Kugeln auf eine Zielscheibe werfen. Der Gewinner ist derjenige, der am nächsten herankommt",
+    "dk": "Et spil, hvor spillere kaster kugler mod et mål og hvor vinderen er den spiller, der lander tættest.",
+    "en-GB": "Collective name of a number of games where the common goal is to move the competitor's balls as close to a small target ball as possible, played on a grass or sand surface. Balls are thrown (as in petanque and boules) or rolled (as in lawn bowls or bocce).",
+    "en-US": "Collective name of a number of games where the common goal is to move the competitor's balls as close to a small target ball as possible, played on a grass or sand surface. Balls are thrown (as in petanque and boules) or rolled (as in lawn bowls or bocce).",
+    "pt-BR": "Jogo que consiste no lançamento de bolas de aço com o objetivo de ficarem o mais próximo possível do alvo, uma pequena bola de madeira que é atirada no início do jogo.",
+    "pt-PT": "Jogo que consiste no lançamento de bolas de aço com o objetivo de ficarem o mais próximo possível do alvo, uma pequena bola de madeira que é atirada no início do jogo.",
+    "se": "De tävlande turas om att kasta sina klot mot en målkula. Närmast vinner.",
+    "zh-Hans": "对一系列球类运动的总称，这类运动在草地或沙地进行，以投手移动球并尽可能近地接近一个小目标为目的。移动方式可为投掷（如法式滚球）或滚动（如草地滚球）"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15013000",
+    "https://www.wikidata.org/entity/Q895060"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بيتانك",
+    "de": "Boules und Pètanque",
+    "dk": "bowls og petanque",
+    "en-GB": "boules",
+    "en-US": "boules",
+    "es": "Bolos y petanca",
+    "fr": "Boule anglaise et pétanque",
+    "no": "boules og petanque",
+    "pt-BR": "petanca",
+    "pt-PT": "petanca",
+    "se": "Boule",
+    "zh-Hans": "地掷球"
+  },
+  "qcode": "medtop:20000855",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000855",
+  "aid": "iptc_20000855"
+}

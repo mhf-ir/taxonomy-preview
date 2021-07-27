@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000062"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bewaffnete Auseinandersetzung zwischen den Bewohnern eines Landes oder einer seiner Regionen, in einigen Fällen mit dem Ziel deren Aufteilung",
+    "dk": "Krig mellem forskellige grupper inden for samme nation, undertiden med målet om at dele landet.",
+    "en-GB": "Armed conflict between members of the same country, in some cases with the goal of dividing the country",
+    "en-US": "Armed conflict between members of the same country, in some cases with the goal of dividing the country",
+    "es": "Conflicto armado entre miembros de un mismo país, en algunos casos para dividir el país",
+    "fr": "Conflit armé entre membres d'un même pays, dans certains cas dans le but de diviser le pays",
+    "pt-BR": "Conflito armado entre membros de um país ou de uma região geográfica, em alguns casos com intenção de causar a divisão do país ou da região.",
+    "pt-PT": "Conflito armado entre membros de um país ou de uma região geográfica, em alguns casos com intenção de causar a divisão do país ou da região.",
+    "se": "Krig mellan olika grupper inom en och samma nation, ibland med målet att dela landet.",
+    "zh-Hans": "同一国家各派别之间的武装冲突，在某些情况下是为了分裂国家"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16009001",
+    "https://www.wikidata.org/entity/Q8465"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حرب اهلية",
+    "de": "Bürgerkrieg",
+    "dk": "borgerkrig",
+    "en-GB": "civil war",
+    "en-US": "civil war",
+    "es": "Guerra civil",
+    "fr": "Guerre civile",
+    "no": "borgerkrig",
+    "pt-BR": "guerra civil",
+    "pt-PT": "guerra civil",
+    "se": "Inbördeskrig",
+    "zh-Hans": "国内战争"
+  },
+  "qcode": "medtop:20000063",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000063",
+  "aid": "iptc_20000063"
+}

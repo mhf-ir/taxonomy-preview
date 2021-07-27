@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14025003"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000775"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schädigendes Verhalten gegenüber einer anderen Gruppe auf der Grundlage des Alters",
+    "dk": "Skadelige holdninger til en anden gruppe baseret på forskellige aldre.",
+    "en-GB": "Discrimination against individuals or groups of people on the basis of age",
+    "en-US": "Discrimination against individuals or groups of people on the basis of age",
+    "pt-BR": "Atitudes hostis ou discriminatórias em relação a outro grupo com base em critérios de idade.",
+    "pt-PT": "Atitudes hostis ou discriminatórias em relação a outro grupo com base em critérios de idade.",
+    "se": "Särbehandling av individer eller grupper på grund av åldern på personerna.",
+    "zh-Hans": "基于不同年龄，一个群体对另一个或多个群体的有害态度"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q438946"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تمييز عمري",
+    "de": "Altersdiskriminierung",
+    "dk": "aldersdiskrimination",
+    "en-GB": "ageism",
+    "en-US": "ageism",
+    "es": "Discriminación por edad",
+    "fr": "Agisme",
+    "no": "aldersdiskriminering",
+    "pt-BR": "idadismo",
+    "pt-PT": "idadismo",
+    "se": "Åldersdiskriminering",
+    "zh-Hans": "年龄歧视"
+  },
+  "qcode": "medtop:20000776",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000776",
+  "aid": "iptc_20000776"
+}

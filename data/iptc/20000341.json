@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000337"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Geschäft mit dem Transport von Waren durch LKWs und Straßen.",
+    "dk": "Bevægelse af mennesker eller varer ved hjælp af lastbiler eller busser på vejnettet.",
+    "en-GB": "The business of transporting goods by trucks and highways",
+    "en-US": "The business of transporting goods by trucks and highways",
+    "pt-BR": "Negócio do transporte de mercadorias por caminhão e rodovia.",
+    "pt-PT": "Negócio do transporte de mercadorias por camião e autoestrada.",
+    "se": "Kommersiell förflyttning av varor med hjälp av lastbilar och vägar.",
+    "zh-Hans": "货物运输和高速公路用卡车和公路运输货物的业务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04015003",
+    "https://www.wikidata.org/entity/Q516739"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نقل طرقي",
+    "de": "Straßentransport",
+    "dk": "vejtransport",
+    "en-GB": "road transport",
+    "en-US": "road transport",
+    "es": "Transporte carretero",
+    "fr": "Transport routier",
+    "no": "veitransport",
+    "pt-BR": "transporte rodoviário",
+    "pt-PT": "transporte rodoviário",
+    "se": "Vägtransport",
+    "zh-Hans": "公路运输"
+  },
+  "qcode": "medtop:20000341",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000341",
+  "aid": "iptc_20000341"
+}

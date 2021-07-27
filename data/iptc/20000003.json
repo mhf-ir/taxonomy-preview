@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000002"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Erzählung in Form von Computergrafik, als Langfilm oder Kurzfilm",
+    "dk": "Historier fortalt gennem animerede tegninger eller computergrafik.",
+    "en-GB": "Stories told through animated drawings in either full-length or short format",
+    "en-US": "Stories told through animated drawings in either full-length or short format",
+    "es": "Historias contadas a través de dibujos animados en formato largo o corto",
+    "fr": "Histoires racontées à travers des dessins animés en format long ou court",
+    "pt-BR": "Animação, incluindo longas e curtas-metragens, artistas e comercialização de produtos com personagens de animação.",
+    "pt-PT": "Técnica que permite dar a desenhos ou bonecos a ilusão de movimento; artistas envolvidos e comercialização de produtos com personagens dos filmes daí resultantes.",
+    "se": "Rörlig bild skapad av en serie teckningar, lerfigurer etc med små förändringar från en bild till nästa.",
+    "zh-Hans": "长短篇的动画故事"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01025000",
+    "https://www.wikidata.org/entity/Q11425"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تحريك",
+    "de": "Animation",
+    "dk": "animation",
+    "en-GB": "animation",
+    "en-US": "animation",
+    "es": "Animación",
+    "fr": "Dessin animé",
+    "no": "animasjon",
+    "pt-BR": "animação",
+    "pt-PT": "animação",
+    "se": "Animation",
+    "zh-Hans": "动画"
+  },
+  "qcode": "medtop:20000003",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000003",
+  "aid": "iptc_20000003"
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/08000000"
+  ],
+  "changeNote": {
+    "en-GB": "2021-05-05: Retired. Use award and prize (20000498) or record and achievement (20000499) instead."
+  },
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/08003003"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Nicht-sportliche Leistungen eines Einzelnen oder einer Gruppe, Tiere, Pflanzen oder andere Objekte, wie Gewinnen eines Wettbewerbs etc.",
+    "dk": "Præstationer fra enkeltpersoner eller grupper, dyr, planter eller andre genstande, såsom at vinde en konkurrencepræget konkurrence.",
+    "en-GB": "Achievements by individuals or groups, animals, plants or other objects, such as  winning a competitive contest etc",
+    "en-US": "Achievements by individuals or groups, animals, plants or other objects, such as winning a competitive contest etc",
+    "pt-BR": "Conquistas de indivíduos ou grupos, animais, plantas ou outros objetos, como ganhar uma competição etc.",
+    "pt-PT": "Conquistas de indivíduos ou grupos, animais, plantas ou outros objetos, como ganhar uma competição, etc.",
+    "se": "Bedrift av person eller grupp, djur, växter eller andra objekt, t ex att vinna en tävling.",
+    "zh-Hans": "由个人或团体，动物、植物或其他对象获得的成就，例如在比赛中获胜等"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q21013267"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "انجاز",
+    "de": "Erungenschaft",
+    "dk": "præstation",
+    "en-GB": "accomplishment",
+    "en-US": "accomplishment",
+    "es": "Logros",
+    "fr": "Succès",
+    "no": "prestasjon",
+    "pt-BR": "feitos",
+    "pt-PT": "feitos",
+    "se": "Prestationer",
+    "zh-Hans": "成就"
+  },
+  "qcode": "medtop:20000497",
+  "retired": "2021-05-05T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000497",
+  "aid": "iptc_20000497"
+}

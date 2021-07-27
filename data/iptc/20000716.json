@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13002000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000756"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wissenschaft und Anwendung des Designs, der Konstruktion und des Funktionierens von mechanischen Systemen",
+    "dk": "Videnskaben og brugen af design, konstruktion og håndtering af mekaniske systemer.",
+    "en-GB": "The study and application of the design, construction and operation of mechanical systems",
+    "en-US": "The study and application of the design, construction and operation of mechanical systems",
+    "pt-BR": "Estudo e aplicação da planificação, construção e operação de sistemas mecânicos.",
+    "pt-PT": "Estudo e aplicação da planificação, construção e operação de sistemas mecânicos.",
+    "se": "Vetenskapen om och användandet av design, konstruktion och hantering av mekaniska system.",
+    "zh-Hans": "机械系统设计、建造和运行的研究与应用"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q101333"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "هندسة ميكانيكية",
+    "de": "Maschinenbau",
+    "dk": "maskiningeniør",
+    "en-GB": "mechanical engineering",
+    "en-US": "mechanical engineering",
+    "es": "Ingeniería mecánica",
+    "fr": "Génie mécanique",
+    "no": "maskinteknikk",
+    "pt-BR": "engenharia mecânica",
+    "pt-PT": "engenharia mecânica",
+    "se": "Maskinteknik",
+    "zh-Hans": "机械工程"
+  },
+  "qcode": "medtop:20000716",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000716",
+  "aid": "iptc_20000716"
+}

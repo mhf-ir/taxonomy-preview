@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11013000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der von der Regierung verkündete nationale Haushalt",
+    "dk": "Et skøn på forhånd af statens indtægter og udgifter i et år, regnskabsåret.",
+    "en-GB": "The expenses and revenues approved by the legislature.",
+    "en-US": "The expenses and revenues approved by the legislature.",
+    "pt-BR": "Despesas e receitas aprovadas pela câmara legislativa.",
+    "pt-PT": "Despesas e receitas aprovadas pela assembleia legislativa.",
+    "se": "En beräkning i förväg av statens inkomster och utgifter under ett år, budgetår.",
+    "zh-Hans": "立法机关批准的开支和收入。"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q271855"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000608"
+  ],
+  "prefLabel": {
+    "ar": "ميزانية حكومية",
+    "de": "Staatshaushalt",
+    "dk": "finanslov",
+    "en-GB": "government budget",
+    "en-US": "government budget",
+    "es": "Presupuesto del gobierno",
+    "fr": "Budget du gouvernement",
+    "no": "statsbudsjett",
+    "pt-BR": "orçamento de estado",
+    "pt-PT": "orçamento de estado",
+    "se": "Statsbudget",
+    "zh-Hans": "政府预算"
+  },
+  "qcode": "medtop:20000607",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000607",
+  "aid": "iptc_20000607"
+}

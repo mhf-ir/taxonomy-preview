@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Gewalttat, die von Einzelpersonen unter Verwendung von bewaffneten Waffen begangen wird",
+    "dk": "Voldelige handlinger, der begås ved hjælp af skydevåben.",
+    "en-GB": "An act of violence committed by individuals with the use of armed weapons",
+    "en-US": "An act of violence committed by individuals with the use of armed weapons",
+    "pt-BR": "Atos de violência cometidos por indivíduos com recurso a armas de fogo.",
+    "pt-PT": "Atos de violência cometidos por indivíduos com recurso a armas de fogo.",
+    "se": "Våld där skjutvapen används.",
+    "zh-Hans": "个人用枪支等武器实施的暴力行为"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2252077"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اطلاق نار",
+    "de": "Schießerei",
+    "dk": "skyderi",
+    "en-GB": "shootings",
+    "en-US": "shootings",
+    "es": "Tiroteo",
+    "fr": "Fusillade",
+    "no": "skyteepisode",
+    "pt-BR": "tiroteios",
+    "pt-PT": "tiroteios",
+    "se": "Skjutningar",
+    "zh-Hans": "枪击"
+  },
+  "qcode": "medtop:20001313",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001313",
+  "aid": "iptc_20001313"
+}

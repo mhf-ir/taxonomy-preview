@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001243"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Destilliertes Petroleumprodukt zur Nutzung als Brennstoff für Autos, mit oder ohne Zusätze",
+    "dk": "Destilleret olieprodukt, der bruges til bilbrændstof, med eller uden tilsætningsstoffer.",
+    "en-GB": "Distilled petroleum product used for automotive fuel, with or without additives",
+    "en-US": "Distilled petroleum product used for automotive fuel, with or without additives",
+    "pt-BR": "Produto petrolífero destilado, usado para combustível automóvel, com ou sem aditivos.",
+    "pt-PT": "Produto petrolífero destilado, usado para combustível automóvel, com ou sem aditivos.",
+    "se": "Typ av lättflyktigt och brandfarligt bränsle för lätta eller snabbgående motorer, särskilt för personbilar.",
+    "zh-Hans": "用作汽车燃料的石油制品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005012",
+    "https://www.wikidata.org/entity/Q39558"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نفط",
+    "de": "Benzin",
+    "dk": "benzin",
+    "en-GB": "petrol",
+    "en-US": "gasoline",
+    "es": "Gasolina, nafta",
+    "fr": "Essence",
+    "no": "bensin",
+    "pt-BR": "gasolina",
+    "pt-PT": "gasolina",
+    "se": "Bensin",
+    "zh-Hans": "汽油"
+  },
+  "qcode": "medtop:20000268",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000268",
+  "aid": "iptc_20000268"
+}

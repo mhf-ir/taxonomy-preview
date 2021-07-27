@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000784"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "In der Regel der geplante Abbruch des Prozesses zur Reproduktion menschlichen Lebens",
+    "dk": "Det faktum, at en graviditet afbrydes inden slutningen af den 22. uge af graviditeten, og at fosteret er død ved fødslen.",
+    "en-GB": "The intentional termination of a pregnancy for elective or medical reasons",
+    "en-US": "The intentional termination of a pregnancy for elective or medical reasons",
+    "pt-BR": "Geralmente, interrupção planejada do processo de reprodução de vida humana.",
+    "pt-PT": "Interrupção, planeada ou não, do processo de reprodução de vida humana.",
+    "se": "Förhållandet att en graviditet upphör eller avbryts före den 22:a graviditetsveckans slut och att fostret är dött vid framfödandet.",
+    "zh-Hans": "通常是有计划地破坏人类生命的繁殖过程"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14016000",
+    "https://www.wikidata.org/entity/Q8452"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اجهاض",
+    "de": "Schwangerschaftsabbruch",
+    "dk": "abort",
+    "en-GB": "abortion",
+    "en-US": "abortion",
+    "es": "Aborto",
+    "fr": "Avortement",
+    "no": "abort",
+    "pt-BR": "aborto",
+    "pt-PT": "aborto",
+    "se": "Abort",
+    "zh-Hans": "堕胎"
+  },
+  "qcode": "medtop:20000785",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000785",
+  "aid": "iptc_20000785"
+}

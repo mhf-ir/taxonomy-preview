@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/09000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Arbeitende und arbeitssuchende Bevölkerung.",
+    "dk": "Marked, hvor arbejdsgivere kræver arbejdskraft mod betaling, og hvor enkeltpersoner tilbyder arbejdskraft til betaling af lønninger.",
+    "en-GB": "The supply and demand of labour in an economy",
+    "en-US": "The supply and demand of labor in an economy",
+    "pt-BR": "Parte da população que está trabalhando ou que está procurando trabalho.",
+    "pt-PT": "Parte da população que está a trabalhar ou que está à procura de trabalho.",
+    "se": "Den marknad där arbetsgivarna efterfrågar arbetskraft mot betalning, och där individerna utbjuder arbetskraft mot erhållande av lön.",
+    "zh-Hans": "又称就业市场，一群正在工作或正在找工作的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09003001",
+    "https://www.wikidata.org/entity/Q305186"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20001275"
+  ],
+  "prefLabel": {
+    "ar": "سوق العمل",
+    "de": "Arbeitsmarkt",
+    "dk": "arbejdsmarked",
+    "en-GB": "labour market",
+    "en-US": "labor market",
+    "es": "Mercado de trabajo",
+    "fr": "Marché du travail",
+    "no": "arbeidsmarked",
+    "pt-BR": "mercado de trabalho",
+    "pt-PT": "mercado de trabalho",
+    "se": "Arbetsmarknad",
+    "zh-Hans": "劳动力市场"
+  },
+  "qcode": "medtop:20000523",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000523",
+  "aid": "iptc_20000523"
+}

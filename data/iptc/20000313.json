@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000304"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Radiogeschäft",
+    "dk": "Kommercielle virksomheder, der producerer, distribuerer og sender radioprogrammer.",
+    "en-GB": "The business of radio",
+    "en-US": "The business of radio",
+    "pt-BR": "Histórias relativas ao negócio da rádio.",
+    "pt-PT": "Histórias relativas ao negócio da rádio.",
+    "se": "Den kommersiella verksamhet som producerar, distribuerar och sänder radioprogram.",
+    "zh-Hans": "广播业务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04010008",
+    "https://www.wikidata.org/entity/Q7281175"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صناعة الاذاعة",
+    "de": "Radioindustrie",
+    "dk": "radiobranche",
+    "en-GB": "radio industry",
+    "en-US": "radio industry",
+    "es": "Industria de radio",
+    "fr": "Radio",
+    "no": "radiofabrikker",
+    "pt-BR": "rádio",
+    "pt-PT": "rádio",
+    "se": "Radioindustrin",
+    "zh-Hans": "广播业"
+  },
+  "qcode": "medtop:20000313",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000313",
+  "aid": "iptc_20000313"
+}

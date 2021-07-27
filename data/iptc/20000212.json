@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000210"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gewinnung von Nahrungsmittel aus dem Boden",
+    "dk": "Udnyttelse af jord til agerbrug eller græsning til produktion af fødevarer, foder og råvarer til energiformål eller til videre industriel forarbejdning eller forarbejdning.",
+    "en-GB": "The growing of plants on a large scale commercially, especially a cereal, fruit, grain or vegetable",
+    "en-US": "The growing of plants on a large scale commercially, especially a cereal, fruit, grain or vegetable",
+    "pt-BR": "Produção de alimentos no solo.",
+    "pt-PT": "Produção de alimentos no solo.",
+    "se": "Utnyttjande av mark till åkerbruk eller bete för produktion av livsmedel, fodermedel och råvaror till energiändamål eller till vidare industriell förädling eller beredning.",
+    "zh-Hans": "利用土地栽培各种农作物"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04001001",
+    "https://www.wikidata.org/entity/Q51075346"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "زراعة",
+    "de": "Ackerbau",
+    "dk": "agerlandbrug",
+    "en-GB": "arable farming",
+    "en-US": "arable farming",
+    "es": "Cultivos agrícolas",
+    "fr": "Cultures",
+    "no": "dyrket mark",
+    "pt-BR": "agricultura",
+    "pt-PT": "agricultura",
+    "se": "Jordbruk",
+    "zh-Hans": "种植业"
+  },
+  "qcode": "medtop:20000212",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000212",
+  "aid": "iptc_20000212"
+}

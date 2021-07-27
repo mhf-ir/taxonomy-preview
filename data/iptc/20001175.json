@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2016-04-05T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Sportart, bei der Schwimmer als Solo-, Duett- oder Mannschaftsschwimmer koordinierte oder identische Bewegungen im Takt zur Musik ausführen. Sie werden beurteilt und erhalten Punkte für Körperhaltung, Kontrolle und den Schwierigkeitsgrad der Bewegungen.",
+    "dk": "En sport, hvor svømmere i solo-, duet- eller holdkonfigurationer udfører koordinerede eller identiske bevægelser i tid til musik. De bedømmes og tildeles point for kropsposition, kontrol og bevægelsens sværhedsgrad.",
+    "en-GB": "A sport in which swimmers, in solo, duet or team configurations, perform coordinated or identical movements in time to music. They are judged and are awarded points for body position, control, and the degree of difficulty of the moves.",
+    "en-US": "A sport in which swimmers, in solo, duet or team configurations, perform coordinated or identical movements in time to music. They are judged and are awarded points for body position, control, and the degree of difficulty of the moves.",
+    "pt-BR": "Esporte em que os nadadores, em configurações individuais, em dueto ou por equipes, executam movimentos coordenados ou idênticos ao som de música. Eles são avaliados e recebem pontos pela posição do corpo, controle e grau de dificuldade dos movimentos.",
+    "pt-PT": "Desporto em que os nadadores, em configurações individuais, em dueto ou por equipas, executam movimentos coordenados ou idênticos ao som de música. Eles são avaliados e recebem pontos pela posição do corpo, controlo e grau de dificuldade dos movimentos.",
+    "se": "En olympisk gren, där man tävlar i två moment: musiksimning och figursimning.",
+    "zh-Hans": "一种游泳项目。泳者可以是单人、双人或团体，随着音乐的节拍做协调的或相同的动作， 根据体位，控制和动作难易程度打分"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q180692"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "narrower": [
+    "medtop:20001081",
+    "medtop:20001082"
+  ],
+  "prefLabel": {
+    "ar": "سباحة متزامنة",
+    "de": "Synchronschwimmen",
+    "dk": "synkronsvømning",
+    "en-GB": "artistic swimming",
+    "en-US": "synchronized swimming",
+    "es": "Natación sincronizada",
+    "fr": "Natation synchronisée",
+    "no": "synkronsvømming",
+    "pt-BR": "nado sincronizado",
+    "pt-PT": "natação sincronizada",
+    "se": "Konstsim",
+    "zh-Hans": "花样游泳"
+  },
+  "qcode": "medtop:20001175",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001175",
+  "aid": "iptc_20001175"
+}

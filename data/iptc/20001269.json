@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000552"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Die Feier des Endes eines Kalenderjahres und des Beginns des nächsten",
+    "dk": "Fejringen af, at et kalenderår afsluttes og et nyt begynder. Afhængig af kultur og tidsregning.",
+    "en-GB": "The celebration of the end of one calendar year and the start of next",
+    "en-US": "The celebration of the end of one calendar year and the start of next",
+    "pt-BR": "Celebração do fim de um ano civil e do início do próximo.",
+    "pt-PT": "Celebração do fim de um ano civil e do início do próximo.",
+    "se": "Högtid för att fira ut det gamla året och välkomna det nya.",
+    "zh-Hans": "庆祝一年完结新一年开始"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q196627"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "رأس السنة",
+    "de": "Neujahr",
+    "dk": "nytår",
+    "en-GB": "New year",
+    "en-US": "New year",
+    "es": "Año Nuevo",
+    "fr": "Nouvel an",
+    "no": "nyttår",
+    "pt-BR": "Dia de Ano Novo",
+    "pt-PT": "Dia de Ano Novo",
+    "se": "Nyår",
+    "zh-Hans": "新年"
+  },
+  "qcode": "medtop:20001269",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001269",
+  "aid": "iptc_20001269"
+}

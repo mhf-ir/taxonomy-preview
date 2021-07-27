@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000504"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Nachrichten über Adelige oder Angehörige von Königsfamilien, alltägliches und bezüglich ihrer Rolle als regierende Königshäuser",
+    "dk": "Nyheder om kongelige mennesker og især deres sociale liv, i modsætning til mere officielle opgaver.",
+    "en-GB": "Imperial and royal family members in their societal rather than governmental roles",
+    "en-US": "Imperial and royal family members in their societal rather than governmental roles",
+    "pt-BR": "Notícias sobre membros de famílias reais e imperiais, incluindo assuntos de sistemas legais.",
+    "pt-PT": "Notícias sobre membros de famílias reais e imperiais, incluindo assuntos de sistemas legais.",
+    "se": "Nyheter om kungliga personer och då främst deras sociala liv till skillnad från mer officiella uppdrag.",
+    "zh-Hans": "皇室成员在他们的社会角色而不是政府角色中"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/08007000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "شؤون امبراطورية وملكية",
+    "de": "Adel",
+    "dk": "kongelige og kejserlige",
+    "en-GB": "royalty",
+    "en-US": "royalty",
+    "es": "Asuntos imperiales, reales",
+    "fr": "Royauté",
+    "no": "kongehus",
+    "pt-BR": "realeza",
+    "pt-PT": "realeza",
+    "se": "Kungligt",
+    "zh-Hans": "皇室事务"
+  },
+  "qcode": "medtop:20000506",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000506",
+  "aid": "iptc_20000506"
+}

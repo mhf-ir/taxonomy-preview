@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/08000000"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/08003002"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Leben und Verhalten berühmter Leute",
+    "dk": "Nyheder og beskrivelser af berømte mennesker.",
+    "en-GB": "Life and behaviour of famous people",
+    "en-US": "Life and behavior of famous people",
+    "pt-BR": "Vida e comportamento de pessoas famosas.",
+    "pt-PT": "Vida e comportamento de pessoas famosas.",
+    "se": "Nyheter om och beskrivningar av kända människor.",
+    "zh-Hans": "名人的生活和行为"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q211236"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مشاهير",
+    "de": "Prominenz",
+    "dk": "berømthed",
+    "en-GB": "celebrity",
+    "en-US": "celebrity",
+    "es": "Celebridades",
+    "fr": "Célébrités",
+    "no": "kjendis",
+    "pt-BR": "celebridades",
+    "pt-PT": "celebridades",
+    "se": "Kändisar",
+    "zh-Hans": "名人"
+  },
+  "qcode": "medtop:20000505",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000505",
+  "aid": "iptc_20000505"
+}

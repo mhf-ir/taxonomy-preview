@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000742"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Untersuchung der physikalischen Eigenschaften der Erdoberfläche und ihrer politischen Spaltungen",
+    "dk": "Videnskaben af de fysiske træk ved jordoverfladen og dens politiske opdelinger.",
+    "en-GB": "The study of the physical features of the surface of Earth and its political divisions",
+    "en-US": "The study of the physical features of the surface of Earth and its political divisions",
+    "es": "El estudio de las características físicas de la superficie de la Tierra y sus divisiones políticas",
+    "fr": "Etude des caractéristiques physiques de la surface de la Terre et de ses divisions politiques",
+    "pt-BR": "Estudo das características físicas da superfície da Terra e de suas divisões políticas.",
+    "pt-PT": "Estudo das características físicas da superfície da Terra e das suas divisões políticas.",
+    "se": "Vetenskapen om natur- och kulturlandskapets bildning, framväxt och förändringar och om samspelet mellan naturgivna och kulturbetingade förhållanden samt om rumsliga samband.",
+    "zh-Hans": "研究地球表面物理特征及其政治区划的学科"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13004003",
+    "https://www.wikidata.org/entity/Q1071"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "جغرافيا",
+    "de": "Geografie",
+    "dk": "geografi",
+    "en-GB": "geography",
+    "en-US": "geography",
+    "es": "Geografía",
+    "fr": "Géographie",
+    "no": "geografi",
+    "pt-BR": "geografia",
+    "pt-PT": "geografia",
+    "se": "Geografi",
+    "zh-Hans": "地理学"
+  },
+  "qcode": "medtop:20000746",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000746",
+  "aid": "iptc_20000746"
+}

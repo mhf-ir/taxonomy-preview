@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Einzelwettkampf der Männer, der das Erreichen von Punkten in 10 Disziplinen über 2 Tage anstrebt: 1. Tag - 1000 m, Weitsprung, Kugelstoßen, 400 m. 2. Tag - 110 m Hürden, Diskuswerfen, Stabhochsprung, Speerwerfen und 1500 m",
+    "dk": "En atletikgren, hvor deltagerne udfører ti forskellige discipliner i løbet af to dages konkurrence.",
+    "en-GB": "Individual men's competition which involves accumulating points in 10 different disciplines over two days: 1st day - 100m, long-jump, shot-putt, high-jump, 400m. 2nd day - 110m hurdles, discus, pole-vault, javelin and 1,500 metres.",
+    "en-US": "Individual men's competition which involves accumulating points in 10 different disciplines over two days: 1st day - 100m, long-jump, shot-putt, high-jump, 400m. 2nd day - 110m hurdles, discus, pole-vault, javelin and 1,500 meters.",
+    "pt-BR": "Competição individual masculina envolvendo 10 provas diferentes durante 2 dias. 1º dia: 100m, salto em distância, lançamento de peso, salto em altura e 400m. 2º dia: 110m barreiras, lançamento de disco, salto com vara, lançamento de dardo e 1500m.",
+    "pt-PT": "Competição individual masculina envolvendo 10 provas diferentes durante 2 dias. 1º dia: 100m, salto em comprimento, lançamento do peso, salto em altura e 400m. 2º dia: 110m barreiras, lançamento do disco, salto à vara, lançamento do dardo e 1500m.",
+    "se": "En friidrottsgren där de tävlande utför tio olika grenar under två dagars tävlande. Varje resultat ger poäng så grenarna blir jämförbara och vinnaren är den med högst totalsumma.",
+    "zh-Hans": "男子个人项目，两天内完成10个不同的项目，累积积分:第一天：100米跑，跳远，铅球，跳高，400米跑。 第二天：110米栏，铁饼，撑竿跳高，标枪和1500米跑"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005027",
+    "https://www.wikidata.org/entity/Q184654"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عشاري",
+    "de": "Zehnkampf",
+    "dk": "tikamp",
+    "en-GB": "decathlon",
+    "en-US": "decathlon",
+    "es": "Decatlón",
+    "fr": "Decathlon",
+    "no": "tikamp",
+    "pt-BR": "decatlo",
+    "pt-PT": "decatlo",
+    "se": "Tiokamp",
+    "zh-Hans": "十项全能"
+  },
+  "qcode": "medtop:20000829",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000829",
+  "aid": "iptc_20000829"
+}

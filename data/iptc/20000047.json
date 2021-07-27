@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000045"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine täglich oder wöchentlich erscheinende Publikation, die Lokal-, Regional- oder Weltnachrichten präsentiert sowie Features, Meinungsspalten, Comics und weitere Inhalte",
+    "dk": "Regelmæssigt producerede publikationer, der indeholder nyheder og andet indhold af interesse for læserne.",
+    "en-GB": "Daily or weekly publication that presents the news, locally, regionally or globally, as well as features, opinion columns, comics and other content",
+    "en-US": "Daily or weekly publication that presents the news, locally, regionally or globally, as well as features, opinion columns, comics and other content",
+    "es": "Publicación diaria o semanal que presenta las noticias, a nivel local, regional o mundial, reportajes, columnas de opinión, cómics y otros contenidos",
+    "fr": "Publication périodique qui présente des informations locales, régionales ou mondiales, ainsi que des sujets magazines, des reportages, des articles d'opinion, des bandes dessinées et d'autres contenus",
+    "pt-BR": "Publicações diárias ou semanais que apresentam em geral notícias e informações atualizadas, locais, nacionais e internacionais, assim como artigos de opinião, artigos de fundo, quadrinhos e outros conteúdos.",
+    "pt-PT": "Publicações diárias ou semanais que apresentam em geral notícias e informações atualizadas, locais, nacionais e internacionais, assim como artigos de opinião, artigos de fundo, banda desenhada e outros conteúdos.",
+    "se": "Regelbundet producerade publikationer som innehåller nyheter och andra saker som är av intresse för läsarna. Var tidigare uteslutande distribuerat i pappersform, men nya tekniska lösningar används numera.",
+    "zh-Hans": "每日或每周发行的出版物，提供本地、区域或全球新闻以及专题、评论专栏、漫画和其他内容"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01026003",
+    "https://www.wikidata.org/entity/Q11032"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صحيفة",
+    "de": "Zeitung",
+    "dk": "avis",
+    "en-GB": "newspaper",
+    "en-US": "newspaper",
+    "es": "Diarios y revistas",
+    "fr": "Journaux",
+    "no": "dagspresse",
+    "pt-BR": "jornais",
+    "pt-PT": "jornais",
+    "se": "Tidningar",
+    "zh-Hans": "报纸"
+  },
+  "qcode": "medtop:20000047",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000047",
+  "aid": "iptc_20000047"
+}

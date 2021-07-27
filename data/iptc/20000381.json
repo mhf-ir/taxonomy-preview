@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Pools von Anteilen oder festverzinslichen Wertpapieren zum Verkauf, oft gesammelt mit Investitionsabsicht in Wachstum, Einkommen oder Sicherheit",
+    "dk": "En samling af værdipapirer, ofte benævnt en portefølje, der ejes af mange mennesker sammen, der er medejere, og som kan bestå af forskellige typer aktie- eller rente-baserede værdipapirer.",
+    "en-GB": "Pools of shares or bonds for sale often grouped by investment intention, such as growth, income or security",
+    "en-US": "Pools of shares or bonds for sale often grouped by investment intention, such as growth, income or security",
+    "pt-BR": "Fundo de ações ou obrigações para venda agrupadas por intenção de investimento, tal como crescimento de rendimento ou segurança.",
+    "pt-PT": "Fundo de ações ou obrigações para venda agrupadas por intenção de investimento, tal como crescimento de rendimento ou segurança.",
+    "se": "En samling värdepapper, ofta kallad för portfölj, som ägs av många människor tillsammans, vilka är andelsägare och som kan bestå av olika typer av aktie- eller räntebaserade värdepapper.",
+    "zh-Hans": "出售的股票或债券的集合，通常按投资意图（如增长、收入或证券）分组"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008028",
+    "https://www.wikidata.org/entity/Q791974"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صناديق استثمار",
+    "de": "Investmentfond",
+    "dk": "fond",
+    "en-GB": "mutual funds",
+    "en-US": "mutual funds",
+    "es": "Fondos mutuales",
+    "fr": "Fonds communs de placement",
+    "no": "investeringsselskap",
+    "pt-BR": "fundos de investimento",
+    "pt-PT": "fundos de investimento",
+    "se": "Fonder",
+    "zh-Hans": "共同基金"
+  },
+  "qcode": "medtop:20000381",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000381",
+  "aid": "iptc_20000381"
+}

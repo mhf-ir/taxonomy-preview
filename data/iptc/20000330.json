@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000322"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Anbau, Produktion und Handel mit Tabakprodukten",
+    "dk": "Dyrkning, produktion og salg af tobak.",
+    "en-GB": "Growing, producing and sale of tobacco products",
+    "en-US": "Growing, producing and sale of tobacco products",
+    "pt-BR": "Cultivo, produção e venda de produtos do tabaco.",
+    "pt-PT": "Cultivo, produção e venda de produtos do tabaco.",
+    "se": "Odlandet, producerandet och försäljningen av tobak.",
+    "zh-Hans": "烟草制品的种植、生产和销售"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04013008",
+    "https://www.wikidata.org/wiki/Q907703 "
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تبغ",
+    "de": "Tabak",
+    "dk": "tobak",
+    "en-GB": "tobacco",
+    "en-US": "tobacco",
+    "es": "Tabaco",
+    "fr": "Tabac",
+    "no": "tobakk",
+    "pt-BR": "tabaco",
+    "pt-PT": "tabaco",
+    "se": "Tobak",
+    "zh-Hans": "烟草"
+  },
+  "qcode": "medtop:20000330",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000330",
+  "aid": "iptc_20000330"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gebühren, die auf importierte und exportierte Waren erhoben werden, meist strafend.",
+    "dk": "En told, der betales ved import eller eksport af varer over en landegrænse, normalt for at udligne prisforskelle.",
+    "en-GB": "Fees placed on goods imported or exported, often punitive",
+    "en-US": "Fees placed on goods imported or exported, often punitive",
+    "pt-BR": "Taxas impostas a bens importados ou exportados, muitas vezes punitivas.",
+    "pt-PT": "Taxas impostas a bens importados ou exportados, muitas vezes punitivas.",
+    "se": "En skatt enligt en tariff som betalas vid import eller export av varor över en landgräns, oftast för att utjämna prisdifferenser.",
+    "zh-Hans": "对进出口货物征收的费用，通常是惩罚性的"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008035",
+    "https://www.wikidata.org/entity/Q52389"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تعرفة",
+    "de": "Zoll",
+    "dk": "toldafgift",
+    "en-GB": "tariff",
+    "en-US": "tariff",
+    "es": "Aranceles",
+    "fr": "Droits de douane",
+    "no": "toll",
+    "pt-BR": "tarifas",
+    "pt-PT": "tarifas",
+    "se": "Tullavgifter",
+    "zh-Hans": "关税"
+  },
+  "qcode": "medtop:20000384",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000384",
+  "aid": "iptc_20000384"
+}

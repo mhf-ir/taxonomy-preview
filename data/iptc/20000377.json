@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000373"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Regierungsentscheidungen über Tarife, Verschiffung, Embargos und welche Güter und Dienstleistungen",
+    "dk": "Beskrivelse af alle økonomiske og politiske foranstaltninger med det formål at påvirke udenrigshandel.",
+    "en-GB": "Governmental decisions on tariffs, shipping, embargoes, and the types or kinds of goods and services to be imported and exported",
+    "en-US": "Governmental decisions on tariffs, shipping, embargoes, and the types or kinds of goods and services to be imported and exported",
+    "pt-BR": "Decisões governamentais em relação a tarifas, embarque, embargos e os tipos de bens e serviços que são importados e exportados.",
+    "pt-PT": "Decisões governamentais em relação a tarifas, embarque, embargos e os tipos de bens e serviços que são importados e exportados.",
+    "se": "Benämning på alla ekonomisk-politiska åtgärder med vilka avsikten är att påverka utrikeshandeln.",
+    "zh-Hans": "征收关税、航运、禁运以及进出口某类商品和服务的政府决定"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008033",
+    "https://www.wikidata.org/entity/Q959108"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سياسة تجارية",
+    "de": "Handelsbeschränkung",
+    "dk": "handelspolitik",
+    "en-GB": "trade policy",
+    "en-US": "trade policy",
+    "es": "Política comercial",
+    "fr": "Politique commerciale",
+    "no": "handelspolitikk",
+    "pt-BR": "política comercial",
+    "pt-PT": "política comercial",
+    "se": "Handelspolitik",
+    "zh-Hans": "贸易政策"
+  },
+  "qcode": "medtop:20000377",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000377",
+  "aid": "iptc_20000377"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000235"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bau von Straßen, Dämmen, Büro- und anderen Großbauten",
+    "dk": "Store byggeprojekter som veje, dæmninger, kontor- og fabriksbygninger og arenaer.",
+    "en-GB": "Large scale construction projects, construction of roads, dams, office/factory buildings, offshore and onshore structures, large sport stadiums",
+    "en-US": "Large scale construction projects, construction of roads, dams, office/factory buildings, offshore and onshore structures, large sport stadiums",
+    "pt-BR": "Projetos de construção de grande escala: estradas, represas, edifícios de escritórios, fábricas, estádios etc.",
+    "pt-PT": "Projetos de construção de grande escala: estradas, barragens, edifícios de escritórios, fábricas, estádios, etc.",
+    "se": "Storskaliga konstruktionsprojekt, t ex vägar, dammar, kontors- och fabriksbyggnader och arenor.",
+    "zh-Hans": "大型建设项目、公路、大坝、厂房、近海及陆上建筑、大型体育场馆建设"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04004001"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-25T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "منشآت ثقيلة",
+    "de": "Tiefbau",
+    "dk": "anlægsbyggeri",
+    "en-GB": "heavy construction",
+    "en-US": "heavy construction",
+    "es": "Construcción pesada",
+    "fr": "Travaux publics",
+    "no": "store byggprosjekter",
+    "pt-BR": "obras públicas",
+    "pt-PT": "obras públicas",
+    "se": "Infrastrukturbyggnad",
+    "zh-Hans": "大型建筑"
+  },
+  "qcode": "medtop:20000238",
+  "retired": "2019-07-25T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000238",
+  "aid": "iptc_20000238"
+}

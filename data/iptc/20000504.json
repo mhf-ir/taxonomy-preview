@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/08000000"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/08005000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Leben und Verhalten bekannter Leute",
+    "dk": "Nyheder om, og beskrivelser af, den højeste klasse i samfundet, især dets sociale liv.",
+    "en-GB": "Life and behaviour of the rich and socialites",
+    "en-US": "Life and behaviour of the rich and socialites",
+    "pt-BR": "Vida e comportamento de pessoas conhecidas.",
+    "pt-PT": "Vida e comportamento de pessoas conhecidas.",
+    "se": "Nyheter om och beskrivningar av den högsta samhällsklassen, framför allt dess sällskapsliv.",
+    "zh-Hans": "著名人物的生活和行为"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q17126676"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000506"
+  ],
+  "prefLabel": {
+    "ar": "مجتمع مخملي",
+    "de": "Society",
+    "dk": "overklasse",
+    "en-GB": "high society",
+    "en-US": "high society",
+    "es": "Gente",
+    "fr": "Mondanités",
+    "no": "overklasse",
+    "pt-BR": "alta sociedade",
+    "pt-PT": "alta sociedade",
+    "se": "Societeten",
+    "zh-Hans": "社会名流"
+  },
+  "qcode": "medtop:20000504",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000504",
+  "aid": "iptc_20000504"
+}

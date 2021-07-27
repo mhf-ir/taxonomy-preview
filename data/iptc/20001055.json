@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Im Skeleton-Wettbewerb liegt der Athlet auf dem Bauch, während der Fahrt durch die Bahn (Kunsteis- oder Naturbahn). Der Athlet muss die Ziellinie auf dem Schlitten liegend überqueren. Die Gesamtzeit errechnet sich aus den Einzelzeiten der Läufe",
+    "dk": "Ligner slæde, men konkurrenten ligger på maven og går med hovedet først.",
+    "en-GB": "In skeleton the competitor lies on his/her stomach when racing down the course. The competitor must be on the sled when crossing the finishing line.",
+    "en-US": "In skeleton the competitor lies on his/her stomach when racing down the course. The competitor must be on the sled when crossing the finishing line.",
+    "pt-BR": "No skeleton, o esquiador, deitado de barriga para baixo num trenó especial, tenta descer o mais rápido possível uma pista de gelo.",
+    "pt-PT": "No skeleton, o esquiador, deitado de barriga para baixo num trenó especial, tenta descer o mais rápido possível uma pista de gelo.",
+    "se": "Liknar rodel men den tävlande ligger på magen och åker med huvudet först.",
+    "zh-Hans": "身体俯卧滑下雪道。过终线时选手必须在雪橇上。所有比赛的时间叠加定最终成绩"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15083000",
+    "https://www.wikidata.org/entity/Q186190"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سباق الزلاجات الصدرية",
+    "de": "Skeleton",
+    "dk": "skeleton",
+    "en-GB": "skeleton",
+    "en-US": "skeleton",
+    "es": "Skeleton",
+    "fr": "Skeleton",
+    "no": "skeleton",
+    "pt-BR": "skeleton",
+    "pt-PT": "skeleton",
+    "se": "Skeleton",
+    "zh-Hans": "钢架雪车"
+  },
+  "qcode": "medtop:20001055",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001055",
+  "aid": "iptc_20001055"
+}

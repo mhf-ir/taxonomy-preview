@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000621"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Regierungspolitik, die das Wohlergehen der Bürger schützt",
+    "dk": "Politikker, der sigter mod at beskytte borgerne.",
+    "en-GB": "Government policies to protect the well-being of its citizens",
+    "en-US": "Government policies to protect the well-being of its citizens",
+    "pt-BR": "Políticas do governo para proteger o bem-estar de seus cidadãos.",
+    "pt-PT": "Políticas do governo para proteger o bem-estar dos seus cidadãos.",
+    "se": "Politik som syftar till att skydda medborgarna.",
+    "zh-Hans": "保护公民福祉的政府政策"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11006002",
+    "https://www.wikidata.org/entity/Q294240"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "امن عام",
+    "de": "Innere Sicherheit",
+    "dk": "borgeres sikkerhed",
+    "en-GB": "safety of citizens",
+    "en-US": "safety of citizens",
+    "es": "Seguridad ciudadana",
+    "fr": "Sécurité publique",
+    "no": "samfunnssikkerhet",
+    "pt-BR": "segurança dos cidadãos",
+    "pt-PT": "segurança dos cidadãos",
+    "se": "Medborgerlig säkerhet",
+    "zh-Hans": "公民安全"
+  },
+  "qcode": "medtop:20000619",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000619",
+  "aid": "iptc_20000619"
+}

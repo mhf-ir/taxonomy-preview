@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000225"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Umfasst technische Entwicklungen in Hardware und Software, Forschung und verwandte Gebiete wie Cyber-Sicherheit",
+    "dk": "Alt om sikkerhed for datasystemer.",
+    "en-GB": "To encompass technical developments in hardware and software, basic research and related areas such as cyber security",
+    "en-US": "To encompass technical developments in hardware and software, basic research and related areas such as cyber security",
+    "pt-BR": "Tudo o que diz respeito a desenvolvimentos técnicos em hardware e software, investigação básica e áreas relacionadas, como cibersegurança.",
+    "pt-PT": "Tudo o que diz respeito a desenvolvimentos técnicos em hardware e software, investigação básica e áreas relacionadas, como cibersegurança.",
+    "se": "Allt som rör säkerhet för it-system.",
+    "zh-Hans": "基础研究和网络安全等相关领域的软硬件技术发展"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04003008",
+    "https://www.wikidata.org/entity/Q3510521"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "امن",
+    "de": "Sicherheitstechnologie",
+    "dk": "datasikkerhed",
+    "en-GB": "computer security",
+    "en-US": "computer security",
+    "es": "Seguridad",
+    "fr": "Sécurité informatique",
+    "no": "datasikkerhet",
+    "pt-BR": "segurança informática",
+    "pt-PT": "segurança informática",
+    "se": "Datasäkerhet",
+    "zh-Hans": "计算机安全"
+  },
+  "qcode": "medtop:20000229",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000229",
+  "aid": "iptc_20000229"
+}

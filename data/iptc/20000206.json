@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Patente, Copyright und Warenzeichen",
+    "dk": "Eksklusiv ret til at udnytte en opfindelse, juridisk ret for forfatteren til kun at beslutte brugen af sit arbejde og lovligt beskyttede navn eller karakteristika for varer og tjenester for en bestemt erhvervsdrivende.",
+    "en-GB": "Intellectual properties as patents, copyright and trademarks.",
+    "en-US": "Intellectual properties as patents, copyright and trademarks.",
+    "pt-BR": "Propriedades intelectuais enquanto patentes, direitos de autor e marcas registradas.",
+    "pt-PT": "Propriedades intelectuais enquanto patentes, direitos de autor e marcas registadas.",
+    "se": "Ensamrätt att exploatera en uppfinning, laglig rätt för upphovsman att ensam bestämma över användningen av sitt verk och lagligen skyddat namn eller kännetecken på varor och tjänster från en viss näringsidkare.",
+    "zh-Hans": "专利、版权和商标等知识产权"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016031",
+    "https://www.wikidata.org/entity/Q131257"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "براءة، حقوق نشر وعلامة تجارية",
+    "de": "Patent, Copyright und Warenzeichen",
+    "dk": "patent, ophavsret og varemærke",
+    "en-GB": "patent, copyright and trademark",
+    "en-US": "patent, copyright and trademark",
+    "es": "Patentes, propiedad intelectual, marcas registradas",
+    "fr": "Brevet, droit d'auteur et marque déposée",
+    "no": "patenter, rettigheter og merkevare",
+    "pt-BR": "patente, direitos de autor e marca registrada",
+    "pt-PT": "patente, direitos de autor e marca registada",
+    "se": "Patent, upphovsrätt och varumärke",
+    "zh-Hans": "专利、版权和商标"
+  },
+  "qcode": "medtop:20000206",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000206",
+  "aid": "iptc_20000206"
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15010000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Spiel, was auf einem flachen Tisch gespielt wird, der mit Stoff bezogen ist, auf dem die Spieler Kugeln mit einem Holzqueue anstoßen nach bestimmten Regeln",
+    "dk": "Deltagerne bruger en kø til at støde kugler på et specielt bord og bringe kuglerne i huller i hjørnerne og på langsiderne.",
+    "en-GB": "A cue sport with balls on a table without a specific order to play them",
+    "en-US": "A cue sport with balls on a table without a specific order to play them",
+    "pt-BR": "Esporte de taco e bolas disputado sobre uma mesa e sem ordem específica para as jogar.",
+    "pt-PT": "Desporto de taco e bolas disputado sobre uma mesa e sem ordem específica para as jogar.",
+    "se": "De tävlande använder en kö för att pricka bollar på ett speciellt bord och få ner bollarna i hål i hörnen och på långsidorna.",
+    "zh-Hans": "一种用球杆击打桌面上的球的运动，没有特定的击球顺序"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3341285"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/billiardtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بلياردو",
+    "de": "Billard",
+    "dk": "billard",
+    "en-GB": "billiards",
+    "en-US": "billiards",
+    "es": "Billar",
+    "fr": "Billard",
+    "no": "biljard",
+    "pt-BR": "bilhar",
+    "pt-PT": "bilhar",
+    "se": "Biljard",
+    "zh-Hans": "台球"
+  },
+  "qcode": "medtop:20000853",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000853",
+  "aid": "iptc_20000853"
+}

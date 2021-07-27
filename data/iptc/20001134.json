@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000030"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Ein Gattung von Musiktheater, die meist ein leichtes und humorvolles Thema hat und bei der ein Teil des Librettos gesprochen und nicht gesungen wird",
+    "dk": "En kunstform, der minder om opera, men hvor både handling og musik er mere lette og humoristiske.",
+    "en-GB": "A genre of music theatre that usually has a light or humorous theme where some of the libretto is usually spoken rather than sung.",
+    "en-US": "A genre of music theatre that usually has a light or humorous theme where some of the libretto is usually spoken rather than sung.",
+    "es": "Género de ópera que generalmente tiene un tema ligero o humorístico en el cual parte del libreto se suele declamar en lugar de cantar",
+    "fr": "Genre d'opéra qui a généralement un thème léger ou humoristique et où une partie du livret est habituellement parlée plutôt que chantée",
+    "pt-BR": "Gênero de teatro musical de tema leve ou bem-humorado em que parte do libreto é geralmente falada em vez de cantada.",
+    "pt-PT": "Género de teatro musical de tema leve ou bem-humorado em que parte do libreto é geralmente falada em vez de cantada.",
+    "se": "Påminner om opera men där både handling och musik är mer lättsamt och humoristiskt.",
+    "zh-Hans": "一种音乐戏剧流派，通常有一个轻快或幽默的主题，其中一些剧本通常是说而不是唱"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q170384"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2012-10-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "أوبريت",
+    "de": "Operette",
+    "dk": "operette",
+    "en-GB": "operetta",
+    "en-US": "operetta",
+    "es": "Opereta",
+    "fr": "Opérette",
+    "no": "operette",
+    "pt-BR": "opereta",
+    "pt-PT": "opereta",
+    "se": "Operett",
+    "zh-Hans": "轻歌剧"
+  },
+  "qcode": "medtop:20001134",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001134",
+  "aid": "iptc_20001134"
+}

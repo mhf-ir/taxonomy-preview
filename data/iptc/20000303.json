@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000294"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Hersteller von Schiffen, U-Booten oder Lastkähnen",
+    "dk": "Produktion af skibe, ubåde og pramme.",
+    "en-GB": "Manufacturers of ships, submarines, barges.",
+    "en-US": "Manufacturers of ships, submarines, barges.",
+    "pt-BR": "Fabricantes de navios, submarinos, barcaças.",
+    "pt-PT": "Fabricantes de navios, submarinos, barcaças.",
+    "se": "Produktion av fartyg, ubåtar och pråmar.",
+    "zh-Hans": "船舶、潜艇、驳船制造"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04011008",
+    "https://www.wikidata.org/entity/Q474200"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بناء سفن",
+    "de": "Schiffbau",
+    "dk": "skibsbyggeri",
+    "en-GB": "shipbuilding",
+    "en-US": "shipbuilding",
+    "es": "Astilleros",
+    "fr": "Construction navale",
+    "no": "skipsbygging",
+    "pt-BR": "construção naval",
+    "pt-PT": "construção naval",
+    "se": "Varvsindustri",
+    "zh-Hans": "造船"
+  },
+  "qcode": "medtop:20000303",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000303",
+  "aid": "iptc_20000303"
+}

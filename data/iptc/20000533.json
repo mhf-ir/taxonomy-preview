@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/09000000"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09009000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Fehlen von bezahlter Arbeit.",
+    "dk": "Når personer der kan arbejde og aktivt søger arbejde, men ikke kan finde arbejde.",
+    "en-GB": "The state of being available to work but not having a job",
+    "en-US": "The state of being available to work but not having a job",
+    "pt-BR": "Fato de não ter trabalho, sendo capaz de trabalhar.",
+    "pt-PT": "Facto de não ter trabalho, sendo capaz de trabalhar.",
+    "se": "Förhållande som råder när personer kan och vill arbeta och är aktivt arbetssökande men inte finner arbete.",
+    "zh-Hans": "能够工作但没有工作"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q41171"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000534",
+    "medtop:20000535"
+  ],
+  "prefLabel": {
+    "ar": "بطالة",
+    "de": "Arbeitslosigkeit",
+    "dk": "arbejdsløshed",
+    "en-GB": "unemployment",
+    "en-US": "unemployment",
+    "es": "Desempleo",
+    "fr": "Chômage",
+    "no": "arbeidsledighet",
+    "pt-BR": "desemprego",
+    "pt-PT": "desemprego",
+    "se": "Arbetslöshet",
+    "zh-Hans": "失业"
+  },
+  "qcode": "medtop:20000533",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000533",
+  "aid": "iptc_20000533"
+}

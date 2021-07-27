@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15021004"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000913"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zwei Wettkämpfer des gleichen Teams starten gleich oder unterschiedlich hohen Plattformen. Sie werden zusätzlich zu den Standard-Kriterien auch noch in Synchronisation bewertet",
+    "dk": "To deltagere springer fra hvert sit sted og forsøger, at lave det samme hop synkront. Point for både udførelse af springet og synkroniseringen.",
+    "en-GB": "Two competitors from the same team dive off at the same time from separate platforms or springboards. As well as being judged on the standard criteria they are also awarded marks for synchronisation.",
+    "en-US": "Two competitors from the same team dive off at the same time from separate platforms or springboards. As well as being judged on the standard criteria they are also awarded marks for synchronization.",
+    "pt-BR": "Dois atletas da mesma equipe saltam simultaneamente para a água de plataformas ou trampolins separados. Além dos critérios padrão, eles também são avaliados pela sincronização.",
+    "pt-PT": "Dois atletas da mesma equipa saltam simultaneamente para a água de plataformas ou trampolins separados. Além dos critérios padrão, eles também são avaliados pela sincronização.",
+    "se": "Två tävlande hoppar från varsin plats och försöker göra samma hopp samtidigt. Poäng både för hoppets utförande och synkroniseringen.",
+    "zh-Hans": "来自同一团队的两名参赛者同时从不同的跳台或跳板上跳水。 评分标准除了跳水动作本身，还包括选手之间的同步情况"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q638269"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/platformheight"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "غطس متزامن",
+    "de": "Synchronspringen Plattform",
+    "dk": "synkronudspring",
+    "en-GB": "synchronised diving",
+    "en-US": "synchronized diving",
+    "es": "Salto sincronizado",
+    "fr": "Plongeon synchronisé",
+    "no": "synkronstuping",
+    "pt-BR": "saltos ornamentais sincronizados",
+    "pt-PT": "saltos para a água sincronizados",
+    "se": "Synkro",
+    "zh-Hans": "双人跳水"
+  },
+  "qcode": "medtop:20000916",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000916",
+  "aid": "iptc_20000916"
+}

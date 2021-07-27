@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/05000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Einführung durch Gläubige in eine bestimmte oder andere Glaubensrichtungen, oft aber nicht immer in Schulen durch religiöse Institutionen.",
+    "dk": "Formidling af viden om en religion, som regel, men ikke altid, i skoler, der drives af religiøse organisationer.",
+    "en-GB": "Instruction by any faith, in that faith or about other faiths, usually, but not always, conducted in schools run by religious bodies",
+    "en-US": "Instruction by any faith, in that faith or about other faiths, usually, but not always, conducted in schools run by religious bodies",
+    "pt-BR": "Instrução religiosa ou a propósito de religiões, geralmente, mas não sempre, ministrada em escolas dirigidas por religiosos.",
+    "pt-PT": "Instrução religiosa ou a propósito de religiões, geralmente, mas não sempre, ministrada em escolas dirigidas por religiosos.",
+    "se": "Förmedling av kunskaper om en religion, vanligtvis, men inte alltid, i skolor som drivs av religiösa organisationer.",
+    "zh-Hans": "任何被信仰指导，或者关于宗教信仰或其他信仰的指导，通常但不总是在宗教机构开办的学校中进行"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1412471",
+    "http://cv.iptc.org/newscodes/subjectcode/05011000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تربية دينية",
+    "de": "Religionserziehung",
+    "dk": "religiøs undervisning",
+    "en-GB": "religious education",
+    "en-US": "religious education",
+    "es": "Educación religiosa",
+    "fr": "Éducation religieuse",
+    "no": "religionsutdanning",
+    "pt-BR": "Educação religiosa",
+    "pt-PT": "educação religiosa",
+    "se": "Religiös utbildning",
+    "zh-Hans": "宗教教育"
+  },
+  "qcode": "medtop:20000399",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000399",
+  "aid": "iptc_20000399"
+}

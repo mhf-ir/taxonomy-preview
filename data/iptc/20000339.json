@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10007000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000509"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der Weg von und zur Arbeit, einschließlich Transportmöglichkeiten, Reisenetzwerke und Fahrgemeinschaften.",
+    "dk": "Regelmæssige ture mellem hjem og arbejdsplads, normalt dagligt.",
+    "en-GB": "The process of getting to and from work, including transport options, travel networks, car pooling.",
+    "en-US": "The process of getting to and from work, including transport options, travel networks, car pooling.",
+    "pt-BR": "O processo de chegar ao ou vir do trabalho, incluindo opções de transporte, redes de transporte e partilha de carro.",
+    "pt-PT": "O processo de chegar ao ou vir do trabalho, incluindo opções de transporte, redes de transporte e partilha de carro.",
+    "se": "Regelbundna resor mellan bostad och arbetsplats, vanligen dagliga.",
+    "zh-Hans": "往返工作的过程，包括交通选择，行车线路，汽车共乘等"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q48442"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-12-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سفر",
+    "de": "Pendelverkehr",
+    "dk": "pendling",
+    "en-GB": "commuting",
+    "en-US": "commuting",
+    "es": "Transporte colectivo",
+    "fr": "Transport quotidien",
+    "no": "pendling",
+    "pt-BR": "migração pendular",
+    "pt-PT": "deslocação pendular",
+    "se": "Pendling",
+    "zh-Hans": "通勤"
+  },
+  "qcode": "medtop:20000339",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000339",
+  "aid": "iptc_20000339"
+}

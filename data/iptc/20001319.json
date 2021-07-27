@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000045"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Die Verbreitung von Falschinformationen unabhängig von der Absicht",
+    "dk": "Spredning af falske nyheder eller informationer, uanset hensigten.",
+    "en-GB": "The spread of false information regardless of intent",
+    "en-US": "The spread of false information regardless of intent",
+    "pt-BR": "Disseminação de informação falsa ou incorreta, independentemente da intenção.",
+    "pt-PT": "Disseminação de informação falsa ou incorreta, independentemente da intenção.",
+    "se": "Spridande av falsk information oavsett avsikt.",
+    "zh-Hans": "有意无意散布虚假信息"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q13579947"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تضليل إعلامي",
+    "de": "Desinformation und Fehlinformation",
+    "dk": "disinformation og misinformation",
+    "en-GB": "disinformation and misinformation",
+    "en-US": "disinformation and misinformation",
+    "es": "Desinformación",
+    "fr": "Désinformation",
+    "no": "desinformasjon og feilinformasjon",
+    "pt-BR": "desinformação e informação errada",
+    "pt-PT": "desinformação e informação errada",
+    "se": "Desinformation",
+    "zh-Hans": "误导和不实消息"
+  },
+  "qcode": "medtop:20001319",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001319",
+  "aid": "iptc_20001319"
+}

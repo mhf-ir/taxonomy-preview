@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000107"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mitglieder des Gerichts, die zu Gericht sitzen und Recht sprechen",
+    "dk": "Den eller de personer, der træffer juridiske afgørelser.",
+    "en-GB": "Official who decides cases in a court of law and passes sentences on those found guilty",
+    "en-US": "Official who decides cases in a court of law and passes sentences on those found guilty",
+    "pt-BR": "Membro do poder judiciário que tem autoridade para julgar",
+    "pt-PT": "Membro do poder judicial que tem autoridade para julgar.",
+    "se": "Den person eller de personer som leder förhandlingen i domstolen och fäller avgörandet.",
+    "zh-Hans": "坐在审判席上的人员"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02002002",
+    "https://www.wikidata.org/entity/Q16533"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "قضاة",
+    "de": "Richter",
+    "dk": "dommer",
+    "en-GB": "judge",
+    "en-US": "judge",
+    "es": "Juez",
+    "fr": "Juge",
+    "no": "dommer",
+    "pt-BR": "juiz",
+    "pt-PT": "juiz",
+    "se": "Domare",
+    "zh-Hans": "法官"
+  },
+  "qcode": "medtop:20000110",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000110",
+  "aid": "iptc_20000110"
+}

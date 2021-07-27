@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001026"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Boot für eine Person mit zwei Rudern",
+    "dk": "Enpersons båd med to årer hver uden styrmand.",
+    "en-GB": "Single person boats with two oars",
+    "en-US": "Single person boats with two oars",
+    "pt-BR": "Barco de uma pessoa com dois remos.",
+    "pt-PT": "Barco de uma pessoa com dois remos.",
+    "zh-Hans": "单人双桨赛艇"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15047001",
+    "https://www.wikidata.org/entity/Q1307021"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تجديف فردي",
+    "de": "Einer",
+    "dk": "singlesculler",
+    "en-GB": "single sculls",
+    "en-US": "single sculls",
+    "es": "Scull individual (remo)",
+    "fr": "Skiff (aviron)",
+    "no": "singlesculler",
+    "pt-BR": "skiff",
+    "pt-PT": "skiff",
+    "se": "Singelsculler",
+    "zh-Hans": "单人双桨赛艇"
+  },
+  "qcode": "medtop:20001034",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001034",
+  "aid": "iptc_20001034"
+}

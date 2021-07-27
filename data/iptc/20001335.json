@@ -1,0 +1,28 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2021-07-12T12:00:00+00:00",
+  "definition": {
+    "en-GB": "A variation of association football in which each team fields five players and play is on a smaller pitch. An official Summer Paralympics sport.",
+    "en-US": "A variation of association football in which each team fields five players and play is on a smaller pitch. An official Summer Paralympics sport."
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q5465786"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-07-12T12:00:00+00:00",
+  "prefLabel": {
+    "en-GB": "football 5-a-side",
+    "en-US": "football 5-a-side"
+  },
+  "qcode": "medtop:20001335",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001335",
+  "aid": "iptc_20001335"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000659"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kirchen des byzantinischen Ritus, die in der apostolischen Tradition stehen, vor allem in Ost- und Südosteuropa sowie im Mittleren Osten.",
+    "dk": "En kristen retning, især aktiv i Østeuropa, kendetegnet ved dens fortsatte tro på kirkefædre og deres liturgi.",
+    "en-GB": "Eastern rite churches which are characterised by their continuity with the apostolic church, their liturgy and their territorial churches, mainly in eastern and south-eastern Europe and the Middle East",
+    "en-US": "Eastern rite churches which are characterized by their continuity with the apostolic church, their liturgy and their territorial churches, mainly in eastern and south-eastern Europe and the Middle East",
+    "pt-BR": "Igrejas de rito oriental que se caracterizam pela sua continuidade com a igreja apostólica, sua liturgia e suas igrejas territoriais, sobretudo no leste e sudeste da Europa e no Oriente Médio.",
+    "pt-PT": "Igrejas de rito oriental que se caracterizam pela sua continuidade com a igreja apostólica, a sua liturgia e as suas igrejas territoriais, sobretudo no leste e sudeste da Europa e no Médio Oriente.",
+    "se": "En kristen riktning, särskilt verksam i Östeuropa, som karaktäriseras av dess fortsatta tro på kyrkofäderna och dessas liturgi.",
+    "zh-Hans": "主要分布在东欧和东南欧以及中东地区的东方仪式教堂，其特点是与使徒教会、礼拜仪式和领土教堂的连续性"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12009012",
+    "https://www.wikidata.org/entity/Q3333484"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ارثوذكس",
+    "de": "Orthodoxe",
+    "dk": "ortodoks",
+    "en-GB": "Orthodoxy",
+    "en-US": "Orthodoxy",
+    "es": "Ortodoxo",
+    "fr": "Orthodoxie",
+    "no": "Den ortodokse kirke",
+    "pt-BR": "ortodoxia",
+    "pt-PT": "ortodoxia",
+    "se": "Ortodox kristendom",
+    "zh-Hans": "东正教"
+  },
+  "qcode": "medtop:20000663",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000663",
+  "aid": "iptc_20000663"
+}

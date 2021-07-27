@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000509"
+  ],
+  "created": "2019-10-07T12:00:00+00:00",
+  "definition": {
+    "de": "Unbezahlte Arbeit, die von Einzelpersonen als Dienst an anderen frei geleistet wird",
+    "dk": "Ulønnet arbejde, som udføres af lyst med det formål at glæde eller gavne andre.",
+    "en-GB": "Unpaid work undertaken freely by individuals as a service to others",
+    "en-US": "Unpaid work undertaken freely by individuals as a service to others",
+    "pt-BR": "Trabalho não remunerado realizado gratuitamente por indivíduos como um serviço aos outros.",
+    "pt-PT": "Trabalho não remunerado realizado gratuitamente por indivíduos como um serviço aos outros.",
+    "se": "Jobb som utförs frivilligt och utan betalning för att hjälpa andra personer eller organisationer.",
+    "zh-Hans": "无偿并自愿向他人提供服务"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q188844"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تطوع",
+    "de": "Ehrenamt",
+    "dk": "frivilligt arbejde",
+    "en-GB": "volunteering",
+    "en-US": "volunteering",
+    "es": "Voluntariado",
+    "fr": "Bénévolat",
+    "no": "frivillig arbeid",
+    "pt-BR": "voluntariado",
+    "pt-PT": "voluntariado",
+    "se": "Ideellt arbete",
+    "zh-Hans": "志愿服务"
+  },
+  "qcode": "medtop:20001277",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001277",
+  "aid": "iptc_20001277"
+}

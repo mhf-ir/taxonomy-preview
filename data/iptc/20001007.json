@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000998"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rennen mit bis zu sechs Fahrern in einem flachen ovalen Kurs. Speedway Motorräder haben nur einen Gang und keine Bremsen",
+    "dk": "Motorcykelkonkurrence på en oval bane med normalt fire konkurrenter pr. løb. En konkurrence består af flere heats, hvor hver rytter er inkluderet i nogle heats. De konkurrerer både individuelt og i hold. Motorcyklerne har kun et gear og ingen bremse.",
+    "en-GB": "Race involving up to six riders competing over a flat  oval track. Speedway motorcycles use only one gear and have no brakes",
+    "en-US": "Race involving up to six riders competing over a flat oval track. Speedway motorcycles use only one gear and have no brakes",
+    "pt-BR": "Corrida com até seis pilotos que competem em pista oval plana. As motos têm apenas uma marcha e não têm freios.",
+    "pt-PT": "Corrida com até seis pilotos que competem em pista oval plana. As motos têm apenas uma mudança e não têm travões.",
+    "se": "Motorcykeltävling på en oval bana med normalt fyra tävlande per heat. En tävling består av flera heat där varje åkare är med i några av heaten. Det tävlas både individuellt och i lag. Motorcyklarna har bara en växel och ingen broms.",
+    "zh-Hans": "最多6个骑手参赛。在平整的椭圆形赛道上比赛。本赛事摩托车只有一个档，不带刹车"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15057000",
+    "https://www.wikidata.org/entity/Q750080"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topicmotorcycling+ sports facet motorcyclingtype"
+  },
+  "prefLabel": {
+    "ar": "مضمار",
+    "de": "Speedway",
+    "dk": "speedway",
+    "en-GB": "speedway",
+    "en-US": "speedway",
+    "es": "Speedway",
+    "fr": "Speedway",
+    "no": "speedway",
+    "pt-BR": "speedway",
+    "pt-PT": "speedway",
+    "se": "Speedway",
+    "zh-Hans": "摩托车跑道赛"
+  },
+  "qcode": "medtop:20001007",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001007",
+  "aid": "iptc_20001007"
+}

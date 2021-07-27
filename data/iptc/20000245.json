@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000243"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Waren, die als Kleidung getragen werden",
+    "dk": "Tøj, som folk bruger på kroppen, såsom sweatere, skjorter, nederdele, kjoler og bukser.",
+    "en-GB": "Items of apparel to wear",
+    "en-US": "Items of apparel to wear",
+    "pt-BR": "Artigos de vestuário.",
+    "pt-PT": "Artigos de vestuário.",
+    "se": "Plagg som människor bär på kroppen, till exempel tröjor, skjortor, kjolar, klänningar och byxor.",
+    "zh-Hans": "用于穿着的物品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04007001",
+    "https://www.wikidata.org/entity/Q11460"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "البسة",
+    "de": "Bekleidung",
+    "dk": "tøj",
+    "en-GB": "clothing",
+    "en-US": "clothing",
+    "es": "Vestuario",
+    "fr": "Habillement",
+    "no": "klær",
+    "pt-BR": "vestuário",
+    "pt-PT": "vestuário",
+    "se": "Kläder",
+    "zh-Hans": "服装"
+  },
+  "qcode": "medtop:20000245",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000245",
+  "aid": "iptc_20000245"
+}

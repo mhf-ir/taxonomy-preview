@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der Teil der regulierenden Kraft des Staates, der in alle Regierungsangelegenheiten involviert ist.",
+    "dk": "Den højeste udøvende magt i et land, hvor magten er delt i tre mellem udøvende, lovgivende og dømmende.",
+    "en-GB": "That portion of a ruling body involving the overall operation of government",
+    "en-US": "That portion of a ruling body involving the overall operation of government",
+    "pt-BR": "Parte do corpo governativo de um país que detém o poder de executar as leis e a operação geral do governo.",
+    "pt-PT": "Parte do corpo governativo de um país que detém o poder de executar as leis e a operação geral do governo.",
+    "se": "Den högsta verkställande makten i ett land där makten fördelas mellan verkställande, lagstiftande och dömande.",
+    "zh-Hans": "管理机构中涉及政府整体运作的那部分"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11006005",
+    "https://www.wikidata.org/entity/Q35798"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سلطة تنفيذية (حكومة)",
+    "de": "Bundeskabinett",
+    "dk": "udøvende (regering)",
+    "en-GB": "executive (government)",
+    "en-US": "executive (government)",
+    "es": "Ejecutivo (gobierno)",
+    "fr": "Pouvoir exécutif",
+    "no": "utøvende makt",
+    "pt-BR": "executivo (governo)",
+    "pt-PT": "executivo (governo)",
+    "se": "Verkställande statsmakt",
+    "zh-Hans": "行政工作（政府）"
+  },
+  "qcode": "medtop:20000606",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000606",
+  "aid": "iptc_20000606"
+}

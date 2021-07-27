@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15050013"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001038"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Boot mit einem Mast ohne festen Kiel",
+    "dk": "Konkurrencer med en sejlbåd med midterbord i stedet for fast køl.",
+    "en-GB": "Single hulled vessel without a fixed keel",
+    "en-US": "Single hulled vessel without a fixed keel",
+    "pt-BR": "Embarcação de casco simples sem quilha fixa.",
+    "pt-PT": "Embarcação de casco simples sem quilha fixa.",
+    "se": "Tävlingar med en typ av segelbåt med centerbord i stället för fast köl.",
+    "zh-Hans": "无固定龙骨单体船"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q5278203"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic sailing + sports facet sailingtype."
+  },
+  "prefLabel": {
+    "ar": "دينغي",
+    "de": "Dinghy",
+    "dk": "jolle",
+    "en-GB": "dinghy",
+    "en-US": "dinghy",
+    "es": "Vela ligera",
+    "fr": "Dériveur",
+    "no": "jolle",
+    "pt-BR": "dinghy",
+    "pt-PT": "dinghy",
+    "se": "Jolle",
+    "zh-Hans": "舢板"
+  },
+  "qcode": "medtop:20001040",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001040",
+  "aid": "iptc_20001040"
+}

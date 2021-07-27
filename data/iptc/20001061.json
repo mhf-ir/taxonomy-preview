@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001056"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer gleiten auf Skiern eine schneebedeckte Rampe herunter und versuchen so weit wie möglich zu fliegen. Bewertet wird die Distanz, der Flugstil und die Landung",
+    "dk": "Konkurrenter kører ned ad en snedækket forhøjet rampe på ski og forsøger at hoppe væk fra den så langt som muligt og modtager point for afstand, flyvemåde og landing.",
+    "en-GB": "Competitors descend a snow covered elevated ramp on skis and try to fly off it as far as possible, receiving marks for distance, style of flight and landing",
+    "en-US": "Competitors descend a snow covered elevated ramp on skis and try to fly off it as far as possible, receiving marks for distance, style of flight and landing",
+    "pt-BR": "Os esquiadores ganham velocidade descendo uma rampa coberta de neve e saltam o mais longe possível, sendo avaliados pela distância coberta, pelo estilo de voo e pela qualidade da recepção.",
+    "pt-PT": "Os esquiadores ganham velocidade descendo uma rampa coberta de neve e saltam o mais longe possível, sendo avaliados pela distância coberta, pelo estilo de voo e pela qualidade da receção.",
+    "se": "De tävlande åker nedför en ramp med speciella skidor på fötterna. De hoppar ut över en kant och försöker flyga så långt och kontrollerat som möjligt. Resultatet är en kombination av längd och domarsiffror.",
+    "zh-Hans": "选手使用滑雪板从雪坡上滑下，尽量飞远。根据飞行距离、姿势和落地得分"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15052000",
+    "https://www.wikidata.org/entity/Q7718"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "قفز تزلجي",
+    "de": "Skispringen",
+    "dk": "skihop",
+    "en-GB": "ski jumping",
+    "en-US": "ski jumping",
+    "es": "Salto con esquí",
+    "fr": "Saut à skis",
+    "no": "skihopp",
+    "pt-BR": "saltos de esqui",
+    "pt-PT": "saltos de esqui",
+    "se": "Backhoppning",
+    "zh-Hans": "跳台滑雪"
+  },
+  "qcode": "medtop:20001061",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001061",
+  "aid": "iptc_20001061"
+}

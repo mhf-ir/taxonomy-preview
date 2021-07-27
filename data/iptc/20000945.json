@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000951"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Tanz und gymnastische Figuren mit langen kreuzenden Keulen",
+    "dk": "Dans og gymnastikbevægelser mens gymnasten jonglerer med køller på gulv.",
+    "en-GB": "Dance and gymnastic moves whilst juggling clubs.",
+    "en-US": "Dance and gymnastic moves while juggling clubs.",
+    "pt-BR": "Exercício de ginástica rítmica em que as ginastas realizam uma coreografia no solo usando maças.",
+    "pt-PT": "Exercício de ginástica rítmica em que as ginastas realizam uma coreografia no solo usando maças.",
+    "zh-Hans": "在作体操和舞蹈时，杂耍式地作抛接棒动作"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028010"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "نوادي",
+    "de": "Keulen (Rhythmische Gymnastik)",
+    "dk": "køller",
+    "en-GB": "clubs (rhythmic gymnastics)",
+    "en-US": "clubs (rhythmic gymnastics)",
+    "es": "Clavas (gimnasia rítmica)",
+    "fr": "Massues",
+    "no": "køller (rytmisk gymnastikk)",
+    "pt-BR": "maças",
+    "pt-PT": "maças",
+    "se": "Käglor",
+    "zh-Hans": "棒操（艺术体操）"
+  },
+  "qcode": "medtop:20000945",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000945",
+  "aid": "iptc_20000945"
+}

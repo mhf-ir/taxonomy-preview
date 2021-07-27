@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000316"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Fertigung von Materialien wie Bauplatten, Holzbefestigungen für die Bauindustrie",
+    "dk": "Fremstilling af materialer, der bruges i byggebranchen.",
+    "en-GB": "Manufacture of materials like wallboard, lumber wiring for the building industry",
+    "en-US": "Manufacture of materials like wallboard, lumber, wiring for the building industry",
+    "pt-BR": "Fabrico de materiais para a indústria da construção.",
+    "pt-PT": "Fabrico de materiais para a indústria da construção.",
+    "se": "Tillverkning av material som används i byggindustrin, såsom väggskivor.",
+    "zh-Hans": "如墙板、木材等与建筑业相关的材料加工"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04012001",
+    "https://www.wikidata.org/entity/Q56887369"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مواد بناء",
+    "de": "Baustoff",
+    "dk": "byggematerialer",
+    "en-GB": "building material",
+    "en-US": "building material",
+    "es": "Materiales de construcción",
+    "fr": "Matériaux de construction",
+    "no": "byggematerialer",
+    "pt-BR": "material de construção",
+    "pt-PT": "material de construção",
+    "se": "Byggmaterial",
+    "zh-Hans": "建筑材料"
+  },
+  "qcode": "medtop:20000317",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000317",
+  "aid": "iptc_20000317"
+}

@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Menschen, die Jesus Christus und seine Lehren als das Zentrum ihres Glaubens sehen.",
+    "dk": "Religion baseret på Jesus Kristus og hans prædikener.",
+    "en-GB": "Those that use Jesus Christ and his teachings as their centre of belief",
+    "en-US": "Those that use Jesus Christ and his teachings as their center of belief",
+    "pt-BR": "Aqueles que usam Jesus Cristo e seus ensinamentos como centro de sua crença religiosa.",
+    "pt-PT": "Aqueles que usam Jesus Cristo e os seus ensinamentos como centro da sua crença religiosa.",
+    "se": "Den religion som utgår från Jesus Kristus och hans predikningar.",
+    "zh-Hans": "那些以耶稣基督和他的教导为信仰中心的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12009000",
+    "https://www.wikidata.org/entity/Q5043"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000660",
+    "medtop:20000661",
+    "medtop:20000662",
+    "medtop:20000663",
+    "medtop:20000664",
+    "medtop:20000671"
+  ],
+  "prefLabel": {
+    "ar": "مسيحية",
+    "de": "Christentum",
+    "dk": "kristendom/folkekirke",
+    "en-GB": "Christianity",
+    "en-US": "Christianity",
+    "es": "Cristianismo",
+    "fr": "Christianisme",
+    "no": "kristendom",
+    "pt-BR": "cristianismo",
+    "pt-PT": "cristianismo",
+    "se": "Kristendom",
+    "zh-Hans": "基督教"
+  },
+  "qcode": "medtop:20000659",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000659",
+  "aid": "iptc_20000659"
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001093"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Stange wird zu den Schultern gehoben, dann über den Kopf und dort gehalten während die Beine gestreckt werden",
+    "dk": "Stangen løftes først op på skuldrene og løftes derefter over hovedet og holdes der i strakte arme, mens du holder benene stille.",
+    "en-GB": "The bar is first lifted to the shoulders and then jerk it above the head and keep it there while maintaining straight legs",
+    "en-US": "The bar is first lifted to the shoulders and then jerk it above the head and keep it there while maintaining straight legs",
+    "pt-BR": "A barra de pesos é primeiro levantada até os ombros e só depois arremessada acima da cabeça, posição que o atleta deve manter durante alguns segundos com as pernas esticadas.",
+    "pt-PT": "A barra de pesos é primeiro levantada até aos ombros e só depois arremessada acima da cabeça, posição que o atleta deve manter durante alguns segundos com as pernas esticadas.",
+    "se": "En variant av tyngdlyftning där man först lyfter till skulderhöjd och sedan stöter upp till raka armar och står kvar med raka ben.",
+    "zh-Hans": "杠铃首先被提起到肩上。然后举过头顶，保持在头顶并保持双腿直立"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15070002",
+    "https://www.wikidata.org/entity/Q6531690"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic weightlifting+ sports facet weightliftingtype."
+  },
+  "prefLabel": {
+    "ar": "نتر",
+    "de": "Clean und Jerk (Gewichtheben)",
+    "dk": "stød",
+    "en-GB": "clean and jerk (weightlifting)",
+    "en-US": "clean and jerk (weightlifting)",
+    "es": "Dos tiempos (halterofilia)",
+    "fr": "Épaulé-jeté",
+    "no": "støt (vektløfting)",
+    "pt-BR": "arremesso",
+    "pt-PT": "arremesso",
+    "se": "Stöt",
+    "zh-Hans": "挺举"
+  },
+  "qcode": "medtop:20001094",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001094",
+  "aid": "iptc_20001094"
+}

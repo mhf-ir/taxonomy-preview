@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000446"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Krankheiten, die die Psyche und das Verhalten betreffen",
+    "dk": "Sygdomme og lidelser, der påvirker sindet og adfærden.",
+    "en-GB": "The psychological well-being of an individual and the diseases and disorders that affect mood, thinking and behaviour as well as actions taken to bring improvement and awareness to these conditions",
+    "en-US": "The psychological well-being of an individual and the diseases and disorders that affect mood, thinking and behaviour as well as actions taken to bring improvement and awareness to these conditions",
+    "pt-BR": "Doenças e distúrbios que afetam a mente e o comportamento.",
+    "pt-PT": "Doenças e distúrbios que afetam a mente e o comportamento.",
+    "se": "Tillstånd av psykisk ohälsa som drabbar personligheten, känslolivet och kognitionen.",
+    "zh-Hans": "影响精神和行为的疾病和失调"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q30085742"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-11-26T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000459"
+  ],
+  "prefLabel": {
+    "ar": "اضطراب عقلي وسلوكي",
+    "de": "Psychische Krankheit",
+    "dk": "psykisk og adfærdsmæssig lidelse",
+    "en-GB": "mental health and disorders",
+    "en-US": "mental health and disorders",
+    "es": "Enfermedades mentales y comportamentales",
+    "fr": "Troubles mentaux et comportementaux",
+    "no": "psykiske lidelser/atferdsvansker",
+    "pt-BR": "distúrbios mentais e comportamentais",
+    "pt-PT": "distúrbios mentais e comportamentais",
+    "se": "Psykisk ohälsa",
+    "zh-Hans": "精神和行为障碍"
+  },
+  "qcode": "medtop:20000458",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000458",
+  "aid": "iptc_20000458"
+}

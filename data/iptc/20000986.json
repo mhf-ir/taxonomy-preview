@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zwei Teams mit gepolsterten Spielern mit Helmen versuchen sich gegenseitig zu besiegen mit einem Schläger und einem harten Ball",
+    "dk": "Lacrosse er en holdsport af indiansk oprindelse. Stor sport i USA og Canada. Spillerne har en stav med et trekantet net foran. Der kan bolden fanges. Du kan ramme modstanderens stav og hånd og også tackles.",
+    "en-GB": "Two teams of helmeted and padded players try and outscore each other using a netted stick and hard ball.",
+    "en-US": "Two teams of helmeted and padded players try and outscore each other using a netted stick and hard ball.",
+    "pt-BR": "Jogo disputado por 2 equipes de jogadores devidamente protegidos que usam um taco longo e com rede na ponta para apanhar ou arremessar uma bola dura.",
+    "pt-PT": "Jogo disputado por 2 equipas de jogadores devidamente protegidos que usam um taco longo e com rede na ponta para apanhar ou arremessar uma bola dura.",
+    "se": "Lacrosse är en lagsport med indianskt ursprung. Stor sport i USA och Kanada. Spelarna har en klubba med ett triangelformat nät längst fram. Där kan bollen fångas. Man får slå på motståndarnas klubba och hand och även tacklas.",
+    "zh-Hans": "又译袋棍球、棍网球或兜网球。两支球队的比赛，每名球员戴着头盔，穿防护服，试图用一根带兜网的球棍和一个硬球得分超过对方"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15035000",
+    "https://www.wikidata.org/entity/Q185851"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "لاكروس",
+    "de": "Lacrosse",
+    "dk": "lacrosse",
+    "en-GB": "lacrosse",
+    "en-US": "lacrosse",
+    "es": "Lacrosse",
+    "fr": "Lacrosse",
+    "no": "lacrosse",
+    "pt-BR": "lacrosse",
+    "pt-PT": "lacrosse",
+    "se": "Lacrosse",
+    "zh-Hans": "长曲棍球"
+  },
+  "qcode": "medtop:20000986",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000986",
+  "aid": "iptc_20000986"
+}

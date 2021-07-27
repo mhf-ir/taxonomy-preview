@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000002"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Form der darstellenden Kunst, die aus gezielt ausgewählten Abfolgen von menschlicher Bewegung besteht",
+    "dk": "Mennesker, der bevæger sig i rytmisk og udtrykker en følelse, eller formidler et budskab",
+    "en-GB": "A form of performing art consisting of purposefully selected sequences of human movement",
+    "en-US": "A form of performing art consisting of purposefully selected sequences of human movement",
+    "es": "Forma de arte escénico que consiste en coordinar movimientos secuenciales del cuerpo",
+    "fr": "Forme d'art qui consiste à effectuer une série de mouvements ordonnés du corps",
+    "pt-BR": "Expressão de emoções ou mensagens através do movimento do corpo.",
+    "pt-PT": "Expressão de emoções ou mensagens através do movimento do corpo.",
+    "se": "Personer som rör sig och uttrycker en känsla eller överför ett budskap.",
+    "zh-Hans": "一种表演艺术形式，由有目的地选择的人类动作序列组成"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01006000",
+    "https://www.wikidata.org/entity/Q11639"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000008",
+    "medtop:20000009",
+    "medtop:20000010"
+  ],
+  "prefLabel": {
+    "ar": "رقص",
+    "de": "Tanz",
+    "dk": "dans",
+    "en-GB": "dance",
+    "en-US": "dance",
+    "es": "Danza",
+    "fr": "Danse",
+    "no": "dans",
+    "pt-BR": "dança",
+    "pt-PT": "dança",
+    "se": "Dans",
+    "zh-Hans": "舞蹈"
+  },
+  "qcode": "medtop:20000007",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000007",
+  "aid": "iptc_20000007"
+}

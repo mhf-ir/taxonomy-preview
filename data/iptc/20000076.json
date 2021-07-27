@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11002003"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000073"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gespräche zwischen Ländern, und Weltregionen die miteinander im Konflikt oder Krieg sind, um wieder Frieden zu erreichen",
+    "dk": "Drøftelser mellem lande, regioner eller geopolitiske enheder i krig eller konflikt, ofte med en mægler, hvor målet er at nå en løsning, der fører til fred.",
+    "en-GB": "Discussions between countries, world regions or geopolitical entities in conflict or at war, often with a mediator, with the goal of arriving at a solution for peace",
+    "en-US": "Discussions between countries, world regions or geopolitical entities in conflict or at war, often with a mediator, with the goal of arriving at a solution for peace",
+    "es": "Discusiones entre países, regiones del mundo o entidades geopolíticas en conflicto o en guerra, a menudo conducidas con un mediador, con el objetivo de alcanzar una solución de paz",
+    "fr": "Discussions entre pays, régions du monde ou entités géopolitiques en conflit ou en guerre, souvent menées avec un médiateur, dans le but d'arriver à une solution pour la paix",
+    "pt-BR": "Discussões entre países, regiões ou entidades geopolíticas em conflito ou em guerra, muitas vezes com um mediador, com o objetivo de chegar a uma solução para a paz.",
+    "pt-PT": "Discussões entre países, regiões ou entidades geopolíticas em conflito ou em guerra, muitas vezes com um mediador, com o objetivo de chegar a uma solução para a paz.",
+    "se": "Diskussioner mellan länder, regioner eller geopolitiska entiteter i krig eller konflikt, ofta med en medlare, med målet att uppnå en lösning som leder till fred.",
+    "zh-Hans": "冲突或战争中的国家、世界区域或地缘政治实体之间的讨论，通常由调解员主持，目的是达成和平的解决方案，简称和谈"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q98077935"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "محادثات سلام",
+    "de": "Friedensgespräche",
+    "dk": "fredsforhandling",
+    "en-GB": "peace talks",
+    "en-US": "peace talks",
+    "es": "Negociaciones de paz",
+    "fr": "Pourparlers de paix",
+    "no": "fredsforhandling",
+    "pt-BR": "conversações de paz",
+    "pt-PT": "conversações de paz",
+    "se": "Fredssamtal",
+    "zh-Hans": "和平谈判"
+  },
+  "qcode": "medtop:20000076",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000076",
+  "aid": "iptc_20000076"
+}

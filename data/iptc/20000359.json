@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000358"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Messlatte des Ökonomischen Zustands einer Region, deutsch: BIP englisch: GDP",
+    "dk": "Værdien af alle varer og tjenester, der er produceret i et land i et år.",
+    "en-GB": "A measure of a region's economic performance, commonly abbreviated as GDP",
+    "en-US": "A measure of a region's economic performance, commonly abbreviated as GDP",
+    "pt-BR": "Indicador econômico do valor monetário da produção em um território, comumente abreviado como PIB.",
+    "pt-PT": "Indicador económico do valor monetário da produção num território, comummente abreviado como PIB.",
+    "se": "Värdet av alla de varor och tjänster som framställs i ett land under ett år.",
+    "zh-Hans": "衡量一个地区经济表现的指标，通常缩写为GDP"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q12638"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اجمالي الناتج الداخلي",
+    "de": "Bruttoinlandsprodukt",
+    "dk": "bruttonationalprodukt (bnp)",
+    "en-GB": "gross domestic product",
+    "en-US": "gross domestic product",
+    "es": "Producto Interno Bruto",
+    "fr": "Produit intérieur brut",
+    "no": "brutto nasjonalprodukt",
+    "pt-BR": "produto interno bruto",
+    "pt-PT": "produto interno bruto",
+    "se": "Bruttonationalprodukt",
+    "zh-Hans": "国内生产总值"
+  },
+  "qcode": "medtop:20000359",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000359",
+  "aid": "iptc_20000359"
+}

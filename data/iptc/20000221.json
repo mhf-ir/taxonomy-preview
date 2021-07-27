@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000217"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zweig der Chemie, der von Mineralien und Metallen handelt",
+    "dk": "Den del af kemi, der beskæftiger sig med mineraler og metaller.",
+    "en-GB": "The branch of chemistry dealing with minerals and metals",
+    "en-US": "The branch of chemistry dealing with minerals and metals",
+    "pt-BR": "Ramo da química que estuda minerais e metais.",
+    "pt-PT": "Ramo da química que estuda minerais e metais.",
+    "se": "Den del av kemin som handlar om mineraler och metaller.",
+    "zh-Hans": "化学分支，研究矿物和金属"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04002004",
+    "https://www.wikidata.org/entity/Q11165"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مواد كيميائية لا عضوية",
+    "de": "Anorganische Chemie",
+    "dk": "uorganisk kemi",
+    "en-GB": "inorganic chemical",
+    "en-US": "inorganic chemical",
+    "es": "Productos químicos inorgánicos",
+    "fr": "Chimie inorganique",
+    "no": "uorganisk kjemi",
+    "pt-BR": "químicos inorgânicos",
+    "pt-PT": "químicos inorgânicos",
+    "se": "Mineraler & metaller",
+    "zh-Hans": "无机化学"
+  },
+  "qcode": "medtop:20000221",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000221",
+  "aid": "iptc_20000221"
+}

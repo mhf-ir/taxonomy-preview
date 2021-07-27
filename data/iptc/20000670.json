@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000664"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Christen, die der Lehre der Reformer Johannes Calvin und Ulrich Zwingli folgen.",
+    "dk": "Kristne, der følger undervisningen af reformatorerne Johannes Calvin og Ulrich Zwingli.",
+    "en-GB": "Christians who follow the teaching of reformers Johannes Calvin and Ulrich Zwingli",
+    "en-US": "Christians who follow the teaching of reformers Johannes Calvin and Ulrich Zwingli",
+    "pt-BR": "Cristãos que seguem os ensinamentos dos reformistas João Calvino e Ulrico Zuínglio.",
+    "pt-PT": "Cristãos que seguem os ensinamentos dos reformistas João Calvino e Ulrico Zuínglio.",
+    "se": "En utveckling inom kristendomen för att förändra kyrkan, ett exempel är kalvinism. Den betonar att Gud har all makt och att Bibeln ska styra både kyrkan och samhället.",
+    "zh-Hans": "追随改革者约翰·卡尔文和乌尔里希·茨温利教义的基督教徒"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12009003",
+    "https://www.wikidata.org/entity/Q101849"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بروتستانت",
+    "de": "Reformierte",
+    "dk": "reformert",
+    "en-GB": "Reformed",
+    "en-US": "Reformed",
+    "es": "Reformado",
+    "fr": "Calvinisme",
+    "no": "kalvinisme",
+    "pt-BR": "reformado",
+    "pt-PT": "reformado",
+    "se": "Reformert kristendom",
+    "zh-Hans": "基督教改革宗"
+  },
+  "qcode": "medtop:20000670",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000670",
+  "aid": "iptc_20000670"
+}

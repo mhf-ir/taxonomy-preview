@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000021"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Gattung von Musik mit Wurzeln in Blues und Ragtime, die aus afro-amerikanischen Gemeinden in New Orleans (USA) im späten 19. und frühen 20. Jahrhundert hervorging",
+    "dk": "Musik med blandede harmonier, ofte improviseret, med rødder i blues og ragtime i det afroamerikanske samfund i New Orleans.",
+    "en-GB": "A genre of music with roots in blues and ragtime that originated in African American communities of New Orleans in the United States in the late 19th and early 20th centuries",
+    "en-US": "A genre of music with roots in blues and ragtime that originated in African American communities of New Orleans in the United States in the late 19th and early 20th centuries",
+    "es": "Género de música con raíces en el blues y el ragtime que se originó en las comunidades afroamericanas de Nueva Orleans en los Estados Unidos a fines del siglo XIX y principios del siglo XX",
+    "fr": "Genre musical issu du blues et du ragtime qui est apparu dans les communautés afro-américaines de la Nouvelle-Orléans aux États-Unis à la fin du 19ème et au début du 20ème siècle",
+    "pt-BR": "Gênero de música com raízes nos blues e no ragtime, originário das comunidades afro-americanas de Nova Orleães nos Estados Unidos no fim do século XIX e início do século XX.",
+    "pt-PT": "Género de música com raízes nos blues e no ragtime, originário das comunidades afro-americanas de Nova Orleães nos Estados Unidos no fim do século XIX e início do século XX.",
+    "se": "Musik med blandade harmonier, ofta improviserat.",
+    "zh-Hans": "一种根植于19世纪末20世纪初美国新奥尔良非裔美国人社区的蓝调和拉格泰姆音乐类型"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01011003",
+    "https://www.wikidata.org/entity/Q8341"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "موسيقى الجاز",
+    "de": "Jazz",
+    "dk": "jazzmusik",
+    "en-GB": "jazz music",
+    "en-US": "jazz music",
+    "es": "Música jazz",
+    "fr": "Jazz",
+    "no": "jazz",
+    "pt-BR": "música jazz",
+    "pt-PT": "música jazz",
+    "se": "Jazz",
+    "zh-Hans": "爵士音乐"
+  },
+  "qcode": "medtop:20000025",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000025",
+  "aid": "iptc_20000025"
+}

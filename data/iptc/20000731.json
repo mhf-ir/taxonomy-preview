@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000717"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Untersuchung der Bewegung und Struktur der Materie und ihrer Beziehung zur Energie",
+    "dk": "Undersøgelsen af materiens bevægelse og struktur, og hvordan den forholder sig til energi.",
+    "en-GB": "The study of the movement and structure of matter, and how it relates to energy",
+    "en-US": "The study of the movement and structure of matter, and how it relates to energy",
+    "es": "El estudio del movimiento y de la estructura de la materia, y cómo se relaciona con la energía",
+    "fr": "Etude du mouvement et de la structure de la matière et de son lien avec l'énergie",
+    "pt-BR": "Estudo do movimento e estrutura da matéria e de como ela se relaciona com a energia.",
+    "pt-PT": "Estudo do movimento e estrutura da matéria e de como ela se relaciona com a energia.",
+    "se": "Vetenskapen om materiens struktur på grundläggande nivå och dess uppträdande under skilda betingelser.",
+    "zh-Hans": "研究物质的运动和结构，以及它与能量关系的学科"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13001001",
+    "https://www.wikidata.org/entity/Q413"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000732",
+    "medtop:20000733"
+  ],
+  "prefLabel": {
+    "ar": "فيزياء",
+    "de": "Physik",
+    "dk": "fysik",
+    "en-GB": "physics",
+    "en-US": "physics",
+    "es": "Física",
+    "fr": "Physique",
+    "no": "fysikk",
+    "pt-BR": "física",
+    "pt-PT": "física",
+    "se": "Fysik",
+    "zh-Hans": "物理学"
+  },
+  "qcode": "medtop:20000731",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000731",
+  "aid": "iptc_20000731"
+}

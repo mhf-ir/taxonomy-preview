@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000756"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Untersuchung und Entwurf von Computersystemen, Software und Netzwerken",
+    "dk": "Videnskab og design relateret til computersystemer, software og netværk.",
+    "en-GB": "The study and design of computer systems, software and networks",
+    "en-US": "The study and design of computer systems, software and networks",
+    "es": "El estudio y diseño de sistemas informáticos, software y redes",
+    "fr": "Etude et conception de systèmes informatiques, logiciels et réseaux",
+    "pt-BR": "Estudo e desenvolvimento de sistemas computacionais, software e redes.",
+    "pt-PT": "Estudo e desenvolvimento de sistemas computacionais, software e redes.",
+    "se": "Vetenskap och design rörande datasystem, mjukvara och nätverk.",
+    "zh-Hans": "计算机系统、软件和网络的研究和设计"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13022000",
+    "https://www.wikidata.org/entity/Q11661"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001298"
+  ],
+  "prefLabel": {
+    "ar": "علوم الكمبيوتر/معلوماتية",
+    "de": "Informatik",
+    "dk": "informationsteknologi og datalogi",
+    "en-GB": "information technology and computer science",
+    "en-US": "information technology and computer science",
+    "es": "Tecnología de la información e Informática",
+    "fr": "Technologie de l'information et Informatique",
+    "no": "informasjons- og kommunikasjonsteknologi",
+    "pt-BR": "tecnologias de informação",
+    "pt-PT": "tecnologias de informação",
+    "se": "IT/datavetenskap",
+    "zh-Hans": "信息技术与计算机科学"
+  },
+  "qcode": "medtop:20000763",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000763",
+  "aid": "iptc_20000763"
+}

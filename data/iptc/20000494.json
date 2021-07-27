@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000493"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Krankheit, die Tiere befällt",
+    "dk": "Sygdomme, der rammer dyr.",
+    "en-GB": "Disease affecting animals",
+    "en-US": "Disease affecting animals",
+    "pt-BR": "Doenças que afetam os animais.",
+    "pt-PT": "Doenças que afetam os animais.",
+    "se": "Sjukdomar som drabbar djur.",
+    "zh-Hans": "影响动物的疾病"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07001007",
+    "https://www.wikidata.org/entity/Q9190427"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مرض حيواني",
+    "de": "Tierkrankheit",
+    "dk": "dyresygdom",
+    "en-GB": "animal disease",
+    "en-US": "animal disease",
+    "es": "Enfermedades animales",
+    "fr": "Maladie animale",
+    "no": "dyresykdommer",
+    "pt-BR": "doenças dos animais",
+    "pt-PT": "doenças dos animais",
+    "se": "Djursjukdomar",
+    "zh-Hans": "动物疾病"
+  },
+  "qcode": "medtop:20000494",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000494",
+  "aid": "iptc_20000494"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000405"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Institution der Lehre auf höherer Ebene, spezielle Form variiert von Land zu Land",
+    "dk": "Uddannelsesinstitution for videregående uddannelse og forskning, som i princippet kræver afsluttede gymnasiestudier for at komme ind.",
+    "en-GB": "Institution of higher learning, its specific scope is set differently in different countries",
+    "en-US": "Institution of higher learning, its specific scope is set differently in different countries",
+    "pt-BR": "Instituição de ensino superior cujo escopo específico é definido de forma diferente consoante o país.",
+    "pt-PT": "Instituição de ensino superior cujo escopo específico é definido de forma diferente consoante o país.",
+    "se": "Läroanstalt för högre utbildning och forskning, där det i princip krävs avslutade gymnasiestudier för att komma in.",
+    "zh-Hans": "高等学校，其具体范围在不同国家有不同的规定"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q189004"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كلية",
+    "de": "Fachhochschule",
+    "dk": "college",
+    "en-GB": "college",
+    "en-US": "college",
+    "es": "Colegio universitario",
+    "fr": "Lycées professionnels",
+    "no": "høgskole",
+    "pt-BR": "faculdade",
+    "pt-PT": "faculdade",
+    "se": "Högskola",
+    "zh-Hans": "学院"
+  },
+  "qcode": "medtop:20000406",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000406",
+  "aid": "iptc_20000406"
+}

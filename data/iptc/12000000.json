@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alle Aspekte des menschlichen Lebens, die Religion, Philosophie, Ethik und Spiritualität beinhalten.",
+    "dk": "Alle aspekter af menneskelig eksistens, der involverer teologi, filosofi, etik og spiritualitet.",
+    "en-GB": "All aspects of human existence involving theology, philosophy, ethics and spirituality.",
+    "en-US": "All aspects of human existence involving theology, philosophy, ethics and spirituality.",
+    "pt-BR": "Todos os aspectos da existência humana que envolvem teologia, filosofia, ética e espiritualidade.",
+    "pt-PT": "Todos os aspetos da existência humana que envolvem teologia, filosofia, ética e espiritualidade.",
+    "se": "Allt som rör den mänskliga existensen i förhållande till teologi, filosofi, etik och andlighet. Sekter, tro, frimurare, kyrkliga och religiösa organisationer.",
+    "zh-Hans": "人类存在的所有方面，包括神学、哲学、伦理和灵性"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12000000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000657",
+    "medtop:20000687",
+    "medtop:20000688",
+    "medtop:20000689",
+    "medtop:20000697",
+    "medtop:20000702",
+    "medtop:20000703",
+    "medtop:20000705"
+  ],
+  "prefLabel": {
+    "ar": "ديانة ومعتقدات",
+    "de": "Religion, Weltanschauung",
+    "dk": "religion og tro",
+    "en-GB": "religion and belief",
+    "en-US": "religion and belief",
+    "es": "Religión y culto",
+    "fr": "Religion et croyance",
+    "no": "religion og livssyn",
+    "pt-BR": "religião e crença",
+    "pt-PT": "religião e crença",
+    "se": "Etik och religion",
+    "zh-Hans": "宗教和信仰"
+  },
+  "qcode": "medtop:12000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/12000000",
+  "aid": "iptc_12000000"
+}

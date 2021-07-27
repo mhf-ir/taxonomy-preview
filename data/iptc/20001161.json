@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000225"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Ein Netzwerk von Geräten mit Mikrochips, elektronischen Sensoren und Kommunikation über das Interne",
+    "dk": "Produkter med indbygget elektronik og internetforbindelse, der gør det muligt for dem at kontrollere eller udveksle data over netværket.",
+    "en-GB": "A network of devices using microchips, electronic sensors and communication by the Internet",
+    "en-US": "A network of devices using microchips, electronic sensors and communication by the Internet",
+    "pt-BR": "Rede de objetos e utensílios interligados por protocolos de comunicação, usando microchips, sensores eletrônicos e comunicação pela Internet.",
+    "pt-PT": "Rede de objetos e utensílios interligados por protocolos de comunicação, usando microchips, sensores eletrónicos e comunicação pela Internet.",
+    "se": "Vardagsföremål som hushållsapparater, kläder och accessoarer, men även maskiner, fordon och byggnader, med inbyggd elektronik och internetuppkoppling, vilket gör att de kan styras eller utbyta data över nätet.",
+    "zh-Hans": "由使用微芯片、电子传感器和因特网通信的设备组成的网络"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q251212"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "انترنت الاشياء",
+    "de": "Internet der Dinge",
+    "dk": "tingenes internet",
+    "en-GB": "Internet of Things",
+    "en-US": "Internet of Things",
+    "es": "Objetos conectados",
+    "fr": "Objets connectés",
+    "no": "tingenes internett",
+    "pt-BR": "internet das coisas",
+    "pt-PT": "internet das coisas",
+    "se": "Internet of Things",
+    "zh-Hans": "物联网"
+  },
+  "qcode": "medtop:20001161",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001161",
+  "aid": "iptc_20001161"
+}

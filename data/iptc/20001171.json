@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000344"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Peer-to-Peer-basierte gemeinsame Nutzung des Zugangs zu Gütern und Dienstleistungen.",
+    "dk": "Aktiviteter, der sigter mod at reducere ressourceforbruget gennem en mere effektiv kapacitetsudnyttelse, såsom deling af adgangen til varer og tjenester.",
+    "en-GB": "Peer-to-peer-based sharing of access to goods and services.",
+    "en-US": "Peer-to-peer-based sharing of access to goods and services.",
+    "pt-BR": "Acesso a bens e serviços em redes colaborativas.",
+    "pt-PT": "Acesso a bens e serviços em redes colaborativas.",
+    "se": "Aktiviteter som syftar till minskad resursåtgång genom effektivare kapacitetsutnyttjande såsom delning av tillgång till varor och tjänster.",
+    "zh-Hans": "基于点对点的商品和服务共享"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2277143"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اقتصاد المشاركة",
+    "de": "gemeinsame Wirtschaft",
+    "dk": "deleøkonomi",
+    "en-GB": "sharing economy",
+    "en-US": "sharing economy",
+    "es": "Economía colaborativa",
+    "fr": "Économie du partage",
+    "no": "delingsøkonomi",
+    "pt-BR": "economia colaborativa",
+    "pt-PT": "economia de partilha",
+    "se": "Delningsekonomi",
+    "zh-Hans": "共享经济"
+  },
+  "qcode": "medtop:20001171",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001171",
+  "aid": "iptc_20001171"
+}

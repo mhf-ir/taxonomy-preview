@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000065"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gewalttätige, zerstörerische Aktionen des zivilen Ungehorsams durch Personengruppen, oft in Reaktion auf einen Missstand oder als aktiver Widerstand, meist mit Verletzungen von Personen verbunden",
+    "dk": "Midlertidig voldelig opførsel af menneskegrupper uden for myndighedernes kontrol.",
+    "en-GB": "Violent, destructive events of civil disorder by groups of people, usually in response to a grievance or as acts of opposition, often involving injury to individuals and destruction of property",
+    "en-US": "Violent, destructive events of civil disorder by groups of people, usually in response to a grievance or as acts of opposition, often involving injury to individuals and destruction of property",
+    "es": "Eventos violentos y destructivos de desorden civil por grupos de personas, por lo general en respuesta a un agravio o como actos de oposición, causando frecuentamente heridas a personas y destrucción de propiedad",
+    "fr": "Troubles de l'ordre public provoqués par des groupes de personnes, en réponse à un grief ou pour faire acte d'opposition, provoquant souvent des violences, des blessures et des destructions de biens",
+    "pt-BR": "Manifestações violentas e destrutivas de desordem civil, frequentemente envolvendo feridos e destruição de propriedade.",
+    "pt-PT": "Manifestações violentas e destrutivas de desordem civil, frequentemente envolvendo feridos e destruição de propriedade.",
+    "se": "Tillfälligt våldsamt uppträdande av folkmassa utanför myndigheternas kontroll.",
+    "zh-Hans": "由一群人制造的暴力的、破坏性的公众骚乱事件，通常是为发泄不满和表示抗议，常常造成对个人的伤害和财产的破坏"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16007000",
+    "https://www.wikidata.org/entity/Q124757"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شغب",
+    "de": "Ausschreitung",
+    "dk": "optøjer",
+    "en-GB": "riot",
+    "en-US": "riot",
+    "es": "Disturbios",
+    "fr": "Emeutes",
+    "no": "opptøyer",
+    "pt-BR": "motins",
+    "pt-PT": "motins",
+    "se": "Upplopp",
+    "zh-Hans": "暴乱"
+  },
+  "qcode": "medtop:20000069",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000069",
+  "aid": "iptc_20000069"
+}

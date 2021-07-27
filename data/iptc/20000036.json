@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000031"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Form der bildenden Künste, die fotografische Bilder verwendet",
+    "dk": "En form for visuel kunst ved hjælp af fotografiske billeder.",
+    "en-GB": "A form of visual arts using photographic images",
+    "en-US": "A form of visual arts using photographic images",
+    "es": "Forma de arte visual en el cual se producen imágenes capturando luz",
+    "fr": "Forme d'art visuel qui consiste à produire des images en captant la lumière",
+    "pt-BR": "Meio mecânico de criar imagens mediante o uso da luz e de materiais sensíveis à luz, com químicos ou mediante meios digitais.",
+    "pt-PT": "Meio mecânico de criar imagens mediante o uso da luz e de materiais sensíveis à luz, com químicos ou mediante meios digitais.",
+    "se": "En form av visuell konst där avbildande utrustning används, t ex analog eller digital kamera.",
+    "zh-Hans": "一种使用摄影图像的视觉艺术形式"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01013000",
+    "https://www.wikidata.org/entity/Q11633"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تصوير فوتوغرافي",
+    "de": "Fotografie",
+    "dk": "fotografi",
+    "en-GB": "photography",
+    "en-US": "photography",
+    "es": "Fotografía",
+    "fr": "Photographie",
+    "no": "fotografi",
+    "pt-BR": "fotografia",
+    "pt-PT": "fotografia",
+    "se": "Fotografi",
+    "zh-Hans": "摄影"
+  },
+  "qcode": "medtop:20000036",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000036",
+  "aid": "iptc_20000036"
+}

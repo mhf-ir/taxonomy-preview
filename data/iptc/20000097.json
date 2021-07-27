@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Absichtliche Täuschung, die die Rechte und das Eigentum anderer beschädigen",
+    "dk": "Planlagte aktiviteter for at bedrage penge eller værdigenstande fra andre mennesker, virksomheder eller organisationer.",
+    "en-GB": "Intentional deception for personal or financial gain",
+    "en-US": "Intentional deception for personal or financial gain",
+    "pt-BR": "Engano intencional para ganho pessoa ou financeiro.",
+    "pt-PT": "Engano intencional para ganho pessoa ou financeiro.",
+    "se": "Planerade aktiviteter för att lura till sig pengar eller värdesaker från andra personer, företag eller organisationer.",
+    "zh-Hans": "为个人或经济利益而故意欺骗"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02012001",
+    "https://www.wikidata.org/entity/Q28813"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001195"
+  ],
+  "prefLabel": {
+    "ar": "احتيال",
+    "de": "Betrug",
+    "dk": "bedrageri",
+    "en-GB": "fraud",
+    "en-US": "fraud",
+    "es": "Fraude",
+    "fr": "Fraude",
+    "no": "bedrageri",
+    "pt-BR": "fraude",
+    "pt-PT": "fraude",
+    "se": "Bedrägeri",
+    "zh-Hans": "欺诈"
+  },
+  "qcode": "medtop:20000097",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000097",
+  "aid": "iptc_20000097"
+}

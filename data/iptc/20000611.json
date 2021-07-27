@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verfahren zur Anklage wegen Amtsvergehen von Amtsträgern vor einem Tribunal.",
+    "dk": "Proces med at bringe regeringsmedlemmer eller lignende personer for en særlig domstol for lovstridig embedsførelse.",
+    "en-GB": "The  process of bringing a public official before a tribunal to answer charges of wrongdoing",
+    "en-US": "The process of bringing a public official before a tribunal to answer charges of wrongdoing",
+    "pt-BR": "Processo em que um detentor de cargo público é levado a tribunal para responder por acusações de irregularidades.",
+    "pt-PT": "Processo em que um detentor de cargo público é levado a tribunal para responder por acusações de irregularidades.",
+    "se": "Processen som ställer regeringsmedlemmar eller liknande personer inför en särskild domstol för ämbetsfel.",
+    "zh-Hans": "将公职人员带到法庭上对不法行为的指控进行答辩的过程"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11006013",
+    "https://www.wikidata.org/entity/Q480498"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اجراءات الاتهام",
+    "de": "Amtsvergehen",
+    "dk": "rigsretssag",
+    "en-GB": "impeachment",
+    "en-US": "impeachment",
+    "es": "Procedimiento de destitución",
+    "fr": "Procédure de destitution",
+    "no": "riksrett",
+    "pt-BR": "impeachment",
+    "pt-PT": "impeachment",
+    "se": "Riksrättsförfarande",
+    "zh-Hans": "弹劾"
+  },
+  "qcode": "medtop:20000611",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000611",
+  "aid": "iptc_20000611"
+}

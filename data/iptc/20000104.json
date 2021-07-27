@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ungesetzliche Beschaffung",
+    "dk": "Ulovlig erhvervelse af en andens ejendom.",
+    "en-GB": "The taking of another person's property without their consent, sometimes by force",
+    "en-US": "The taking of another person's property without their consent, sometimes by force",
+    "pt-BR": "Apropriação ilegal.",
+    "pt-PT": "Apropriação ilegal.",
+    "se": "Att olagligt ta någon annans egendom.",
+    "zh-Hans": "非法占有他人财物的行为"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02001003",
+    "https://www.wikidata.org/entity/Q2727213"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سرقة",
+    "de": "Diebstahl",
+    "dk": "tyveri",
+    "en-GB": "robbery and theft",
+    "en-US": "robbery and theft",
+    "es": "Robo",
+    "fr": "Vol",
+    "no": "tyveri og innbrudd",
+    "pt-BR": "roubo",
+    "pt-PT": "roubo",
+    "se": "Stöld",
+    "zh-Hans": "盗窃"
+  },
+  "qcode": "medtop:20000104",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000104",
+  "aid": "iptc_20000104"
+}

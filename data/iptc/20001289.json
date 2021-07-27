@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000243"
+  ],
+  "created": "2019-11-25T12:00:00+00:00",
+  "definition": {
+    "de": "Indirekte oder direkte Wege, Produkte oder Dienstleistungen auf den Markt zu bringen, damit sie von den Verbrauchern gekauft werden können",
+    "dk": "Måder, hvormed man sikrer, at ens varer kan købes af interesserede kunder.",
+    "en-GB": "Indirect or direct ways of bringing products or services to market so that they can be purchased by consumers",
+    "en-US": "Indirect or direct ways of bringing products or services to market so that they can be purchased by consumers",
+    "pt-BR": "Formas indiretas ou diretas de levar produtos ou serviços ao mercado para que possam ser adquiridos pelos consumidores.",
+    "pt-PT": "Formas indiretas ou diretas de levar produtos ou serviços ao mercado para que possam ser adquiridos pelos consumidores.",
+    "se": "Olika sätt för säljare och leverantörer av varor att nå konsumenterna.",
+    "zh-Hans": "将产品或服务推向市场的方式，以便消费者可以间接或直接购买产品"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q6576947"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-11-25T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "قنوات التوزي",
+    "de": "Vertriebskanäle",
+    "dk": "salgskanaler",
+    "en-GB": "sales channels",
+    "en-US": "sales channels",
+    "es": "Canales de venta",
+    "fr": "Canaux de distribution",
+    "no": "salgskanaler",
+    "pt-BR": "canais de vendas",
+    "pt-PT": "canais de vendas",
+    "se": "Försäljningskanaler",
+    "zh-Hans": "销售渠道"
+  },
+  "qcode": "medtop:20001289",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001289",
+  "aid": "iptc_20001289"
+}

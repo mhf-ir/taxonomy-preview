@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Wettlauf, bei dem der Läufer immer einen Fuß auf dem Boden haben muss",
+    "dk": "Et løb, der kræver, at konkurrenten altid har en fod på jorden.",
+    "en-GB": "A race requiring the competitor to have always one foot on the ground",
+    "en-US": "A race requiring the competitor to have always one foot on the ground",
+    "pt-BR": "Corrida em que o atleta deve manter um dos pés sempre em contato com o chão.",
+    "pt-PT": "Corrida em que o atleta deve manter um dos pés sempre em contacto com o chão.",
+    "se": "De tävlande ska  avverka en bana på så kort tid som möjligt utan att springa. De tävlande måste alltid ha en fot i kontakt med marken.",
+    "zh-Hans": "要求参赛者总有一只脚着地的竞走比赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q202391"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سباق المشي",
+    "de": "Gehen",
+    "dk": "kapgang",
+    "en-GB": "race walking",
+    "en-US": "race walking",
+    "es": "Marcha atlética",
+    "fr": "Marche",
+    "no": "kappgang",
+    "pt-BR": "marcha atlética",
+    "pt-PT": "marcha atlética",
+    "se": "Gång",
+    "zh-Hans": "竞走"
+  },
+  "qcode": "medtop:20000841",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000841",
+  "aid": "iptc_20000841"
+}

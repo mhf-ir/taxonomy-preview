@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000294"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Langlebige Güter, die bei der Produktion anderer Güter oder Dienstleistungen verwendet werden",
+    "dk": "Holdbare produkter, der bruges til produktion af andre varer eller tjenester.",
+    "en-GB": "Durable goods used in the production of other goods or services.",
+    "en-US": "Durable goods used in the production of other goods or services.",
+    "pt-BR": "Bens duráveis utilizados na produção de outros bens ou serviços.",
+    "pt-PT": "Bens duráveis utilizados na produção de outros bens ou serviços.",
+    "se": "Varaktiga produkter som används vid produktionen av andra varor eller tjänster.",
+    "zh-Hans": "用于生产其他商品或服务的耐用品，也称资本财货"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q56573293"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سلع انتاجية",
+    "de": "Investitionsgüter",
+    "dk": "kapitalgode",
+    "en-GB": "capital goods",
+    "en-US": "capital goods",
+    "es": "Bienes de equipo",
+    "fr": "Biens d'équipement",
+    "no": "kapitalvarer",
+    "pt-BR": "bens de produção",
+    "pt-PT": "bens de produção",
+    "se": "Kapitalvaror",
+    "zh-Hans": "资本品"
+  },
+  "qcode": "medtop:20001165",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001165",
+  "aid": "iptc_20001165"
+}

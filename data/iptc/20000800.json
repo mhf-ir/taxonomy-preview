@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000799"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der Mangel an festem Wohnsitz",
+    "dk": "Mangel på fast bopæl.",
+    "en-GB": "The social condition defined by lack of permanent residence, living in shelters or on streets, and the issues and problems associated with it",
+    "en-US": "The social condition defined by lack of permanent residence, living in shelters or on streets, and the issues and problems associated with it",
+    "pt-BR": "Ausência de local de moradia fixa.",
+    "pt-PT": "Ausência de local de morada fixa.",
+    "se": "Avsaknad av ett hem.",
+    "zh-Hans": "没有固定的居住地点"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14009000",
+    "https://www.wikidata.org/entity/Q131327"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تشرد",
+    "de": "Obdachlosigkeit",
+    "dk": "hjemløshed",
+    "en-GB": "homelessness",
+    "en-US": "homelessness",
+    "es": "Sin techo",
+    "fr": "Sans abris",
+    "no": "bostedsløs",
+    "pt-BR": "sem-teto",
+    "pt-PT": "sem-abrigo",
+    "se": "Hemlöshet",
+    "zh-Hans": "无家可归"
+  },
+  "qcode": "medtop:20000800",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000800",
+  "aid": "iptc_20000800"
+}

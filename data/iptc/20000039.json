@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000038"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Geschichte der Entwicklung von Kunst und Kultur, wie beispielsweise die Entstehung der Höhlenmalerei, die Änderungen in der  Sprache über die Zeit hinweg, die Entwicklung von Werten.",
+    "dk": "Historien om, hvordan kunst og kultur har udviklet sig over forskellige tidsperioder.",
+    "en-GB": "The history of the development of art and culture such as the rise of cave paintings, linguistic variations over time, the evolution of values",
+    "en-US": "The history of the development of art and culture such as the rise of cave paintings, linguistic variations over time, the evolution of values",
+    "es": "Historia del desarrollo del arte y de la cultura, como la evolución de las pinturas rupestres, las variaciones lingüísticas a lo largo del tiempo, la evolución de los valores",
+    "fr": "Histoire du développement de l'art et de la culture comme l'évolution des peintures rupestres, les variations linguistiques dans le temps, l'évolution des valeurs socioculturelles",
+    "pt-BR": "História do desenvolvimento de artes e culturas, tais como pinturas rupestres, arte pré-colombiana, confecção de papel chinês.",
+    "pt-PT": "História do desenvolvimento de artes e culturas, tais como pinturas rupestres, arte pré-colombiana ou confeção de papel chinês.",
+    "se": "Hur kultur utvecklats under olika tidsperioder.",
+    "zh-Hans": "艺术和文化发展史，如岩画的兴起、语言随时间的变化、价值观的演变"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01022001"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تنمية ثقافية",
+    "de": "Kulturgeschichte",
+    "dk": "kulturhistorie",
+    "en-GB": "cultural development",
+    "en-US": "cultural development",
+    "es": "Artes tradicionales",
+    "fr": "Histoire de l'art",
+    "no": "kulturhistorie",
+    "pt-BR": "desenvolvimento cultural",
+    "pt-PT": "desenvolvimento cultural",
+    "se": "Kulturhistoria",
+    "zh-Hans": "文化发展"
+  },
+  "qcode": "medtop:20000039",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000039",
+  "aid": "iptc_20000039"
+}

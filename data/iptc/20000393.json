@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000392"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Übereinkunft zwischen zwei Einzelpersonen oder Institutionen für einen begrenzten Zeitraum Geld zu verleihen zu einer vereinbarten Rate innerhalb eines Rückzahlungszeitraums",
+    "dk": "En aftale fra en enkeltperson eller institution om midlertidigt at sprede penge til en anden med en aftalt sats og tidspunkt for tilbagebetaling.",
+    "en-GB": "An agreement by one individual or institution to temporarily disperse money to another, with an agreed rate and time for its return",
+    "en-US": "An agreement by one individual or institution to temporarily disperse money to another, with an agreed rate and time for its return",
+    "pt-BR": "Acordo por meio do qual um indivíduo ou uma instituição emprestam dinheiro a outro, mediante uma taxa de juro e um período para sua devolução.",
+    "pt-PT": "Acordo por meio do qual um indivíduo ou uma instituição emprestam dinheiro a outro, mediante uma taxa de juro e um período para a sua devolução.",
+    "se": "Innehav av annans egendom för eget bruk med skyldighet för låntagaren att återställa det lånade föremålet eller motsvarande värde till en bestämd ränta och vid en bestämd tidpunkt..",
+    "zh-Hans": "由一个人或机构以约定的回报率和时间向另一个人或机构临时分拨资金的协议"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008021",
+    "https://www.wikidata.org/entity/Q189539"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "قروض",
+    "de": "Kredit",
+    "dk": "lån",
+    "en-GB": "loans",
+    "en-US": "loans",
+    "es": "Préstamos",
+    "fr": "Prêts",
+    "no": "lån",
+    "pt-BR": "empréstimos",
+    "pt-PT": "empréstimos",
+    "se": "Lån",
+    "zh-Hans": "贷款"
+  },
+  "qcode": "medtop:20000393",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000393",
+  "aid": "iptc_20000393"
+}

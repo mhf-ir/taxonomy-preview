@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000689"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Etablierte religiöse Rituale, wie Messen, Taufen, Priestertreffen.",
+    "dk": "Etablerede religiøse ritualer, såsom messe, dåb og bønnemøder.",
+    "en-GB": "Established religious rituals such as mass, baptism, prayer meetings",
+    "en-US": "Established religious rituals such as mass, baptism, prayer meetings",
+    "pt-BR": "Rituais religiosos estabelecidos, como missa, batismo, oração em grupo.",
+    "pt-PT": "Rituais religiosos estabelecidos, como missa, batismo, oração em grupo.",
+    "se": "Etablerade religösa riter, såsom mässa, dop och bönemöten.",
+    "zh-Hans": "传统的宗教仪式，如弥撒、洗礼、祈祷会"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12025004",
+    "https://www.wikidata.org/entity/Q2110808"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001273"
+  ],
+  "prefLabel": {
+    "ar": "شعائر دينية",
+    "de": "Religionsritual",
+    "dk": "religiøst ritual",
+    "en-GB": "religious ritual",
+    "en-US": "religious ritual",
+    "es": "Rituales religiosos",
+    "fr": "Rites religieux",
+    "no": "religiøs handling",
+    "pt-BR": "ritual",
+    "pt-PT": "ritual",
+    "se": "Religiösa ritualer",
+    "zh-Hans": "宗教仪式"
+  },
+  "qcode": "medtop:20000696",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000696",
+  "aid": "iptc_20000696"
+}

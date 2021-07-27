@@ -1,0 +1,56 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02007000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/11000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die politischen, soziale und ökonomischen Rechte, die für alle Menschen gelten, meist in Gesetzen festgelegt",
+    "dk": "Politiske, sociale og økonomiske rettigheder, som alle har ret til i henhold til loven.",
+    "en-GB": "The political, social and economic rights to which all creatures are entitled, usually upheld by law.",
+    "en-US": "The political, social and economic rights to which all creatures are entitled, usually upheld by law.",
+    "pt-BR": "Direitos políticos, sociais e econômicos aos quais todas as criaturas têm direito, geralmente confirmados por lei.",
+    "pt-PT": "Direitos políticos, sociais e económicos aos quais todas as criaturas têm direito, geralmente confirmados por lei.",
+    "se": "Politiska, sociala och ekonomiska rättigheter, som alla har rätt till enligt lagen.",
+    "zh-Hans": "所有人都有权享有的政治、社会和经济权利，通常由法律维护"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3237872"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000120",
+    "medtop:20000588",
+    "medtop:20000590",
+    "medtop:20000591",
+    "medtop:20000592",
+    "medtop:20001300",
+    "medtop:20001326"
+  ],
+  "prefLabel": {
+    "ar": "حقوق اساسية",
+    "de": "Grundrechte",
+    "dk": "grundlæggende rettighed",
+    "en-GB": "fundamental rights",
+    "en-US": "fundamental rights",
+    "es": "Derechos fundamentales",
+    "fr": "Droits fondamentaux",
+    "no": "grunnrettigheter",
+    "pt-BR": "direitos fundamentais",
+    "pt-PT": "direitos fundamentais",
+    "se": "Grundläggande rättigheter",
+    "zh-Hans": "基本权利"
+  },
+  "qcode": "medtop:20000587",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000587",
+  "aid": "iptc_20000587"
+}

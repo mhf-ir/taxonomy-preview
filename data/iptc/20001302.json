@@ -1,0 +1,41 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001301"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Die bisher beste Leistung eines Sportlers in einem bestimmten Bereich",
+    "dk": "Den hidtil bedste præstation til dato blandt alle atleter eller hold.",
+    "en-GB": "The best performance to date by an athlete in a given area",
+    "en-US": "The best performance to date by an athlete in a given area",
+    "pt-BR": "O melhor desempenho de um atleta em determinada área.",
+    "pt-PT": "O melhor desempenho de um atleta em determinada área.",
+    "se": "Bästa resultat i världen eller annat område, säsongsbästa osv.",
+    "zh-Hans": "运动员在某一特定领域迄今为止最好的表现"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "رقم قياسي رياضي",
+    "de": "Rekord",
+    "dk": "sportsrekord",
+    "en-GB": "sports record",
+    "en-US": "sports record",
+    "es": "Récord deportivo",
+    "fr": "Record sportif",
+    "no": "idrettsrekord",
+    "pt-BR": "recorde esportivo",
+    "pt-PT": "recorde desportivo",
+    "se": "Rekord (sport och idrott)",
+    "zh-Hans": "运动记录"
+  },
+  "qcode": "medtop:20001302",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001302",
+  "aid": "iptc_20001302"
+}

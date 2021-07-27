@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000093"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zahlungen oder Spenden, um den Ausgang einer legalen Angelegenheit zu beeinflussen",
+    "dk": "Tilbud om penge eller tjenester til en person i en afgørende position for at påvirke vedkommendes handlinger",
+    "en-GB": "The giving of money or favours in order to influence the judgment or conduct of a person in a position of power",
+    "en-US": "The giving of money or favors in order to influence the judgment or conduct of a person in a position of power",
+    "pt-BR": "Dinheiro ou benefícios com que se pretende influenciar o juízo ou conduta de uma pessoa em uma posição de poder.",
+    "pt-PT": "Dinheiro ou benefícios com que se pretende influenciar o juízo ou conduta de uma pessoa numa posição de poder.",
+    "se": "Att erbjuda pengar eller annat i utbyte mot tjänster från en person i beslutande ställning.",
+    "zh-Hans": "给予金钱或恩惠以影响当权者的判断或行为"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02012007",
+    "https://www.wikidata.org/entity/Q187436"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رشوة",
+    "de": "Bestechung",
+    "dk": "bestikkelse",
+    "en-GB": "bribery",
+    "en-US": "bribery",
+    "es": "Soborno",
+    "fr": "Subornation de témoins",
+    "no": "bestikkelse",
+    "pt-BR": "suborno",
+    "pt-PT": "suborno",
+    "se": "Mutbrott",
+    "zh-Hans": "贿赂"
+  },
+  "qcode": "medtop:20000094",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000094",
+  "aid": "iptc_20000094"
+}

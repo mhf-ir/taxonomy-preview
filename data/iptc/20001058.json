@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001056"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer zeigen eine Reihe von atemberaubenden akrobatischen Sätzen mit vorbereiteten Sprüngen. Kombiniert mit Trickski, Schanzenspringen und Skiballett",
+    "dk": "Alternativ form for skiløb i alpint miljø. Konkurrenterne kører på pukkelpister, foretager kunstneriske spring eller udfører kunstneriske bevægelser på vej ned ad bakken. Kombination af tid og dommerpoint.",
+    "en-GB": "Competitors perform a series of breathtaking acrobatic leaps from a prepared jump. Combined with moguls, jumps and ski ballet.",
+    "en-US": "Competitors perform a series of breathtaking acrobatic leaps from a prepared jump. Combined with moguls, jumps and ski ballet.",
+    "pt-BR": "Os esquiadores realizam uma série de figuras acrobáticas após saltar de uma rampa. Mistura de *moguls* (bossas ou lombas na pista), saltos e balé em esqui.",
+    "pt-PT": "Os esquiadores realizam uma série de figuras acrobáticas após saltar de uma rampa. Mistura de *moguls* (bossas ou lombas na pista), saltos e balé em esqui.",
+    "se": "Alternativ form av skidtävling i alpin miljö. De tävlande åker puckelpist, gör konstnärliga hopp eller genomför konstnärliga rörelser på väg nedför backen. Kombination av tid och domarpoäng.",
+    "zh-Hans": "滑雪者起跳后表演惊险的技巧动作。可以组合雪上技巧，跳跃和雪上芭蕾等动作"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15026000",
+    "https://www.wikidata.org/entity/Q189472"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/freestyleskiingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تزلج حر",
+    "de": "Freestyle Ski",
+    "dk": "freestyle skiløb",
+    "en-GB": "freestyle skiing",
+    "en-US": "freestyle skiing",
+    "es": "Esquí estilo libre",
+    "fr": "Ski acrobatique",
+    "no": "fristil",
+    "pt-BR": "esqui estilo livre",
+    "pt-PT": "esqui estilo livre",
+    "se": "Freestyle",
+    "zh-Hans": "自由式滑雪"
+  },
+  "qcode": "medtop:20001058",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001058",
+  "aid": "iptc_20001058"
+}

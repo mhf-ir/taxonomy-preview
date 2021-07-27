@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Glaubenssystem der Mitglieder der Vereinigungskirche, das von Sun Myung Moon festgelegt wurde.",
+    "dk": "Trosystemet for medlemmer af Unification Church oprettet af præsten Sun Myung Moon.",
+    "en-GB": "The belief system of members of the Unification Church established by the Rev. Sun Myung Moon.",
+    "en-US": "The belief system of members of the Unification Church established by the Rev. Sun Myung Moon.",
+    "pt-BR": "Sistema de crenças dos membros da Igreja da Unificação, estabelecida pelo reverendo Sun Myung Moon.",
+    "pt-PT": "Sistema de crenças dos membros da Igreja da Unificação, estabelecida pelo reverendo Sun Myung Moon.",
+    "se": "Tidigare namn på Familjefederationen för världsfred och enighet, en nyreligiös rörelse grundad i Busan i Sydkorea av Sun Myung Moon.",
+    "zh-Hans": "由孙明文牧师建立的统一教会成员的信仰体系。"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12002001",
+    "https://www.wikidata.org/entity/Q217059"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "توحيد",
+    "de": "Vereinigungsbewegung",
+    "dk": "Moon-bevægelsen",
+    "en-GB": "Unificationism",
+    "en-US": "Unificationism",
+    "es": "Iglesia de la Unificación",
+    "fr": "Église de l'Unification",
+    "no": "Den forente familie",
+    "pt-BR": "unificacionismo",
+    "pt-PT": "unificacionismo",
+    "se": "Moonrörelsen",
+    "zh-Hans": "统一教"
+  },
+  "qcode": "medtop:20000686",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000686",
+  "aid": "iptc_20000686"
+}

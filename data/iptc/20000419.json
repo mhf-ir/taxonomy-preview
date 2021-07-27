@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000418"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Diese Kategorie umfasst alle Probleme, in Bezug auf die globale Erwärmung, inklusive Klimaforschung, Ferndiagnose von Temperaturentwicklungen, Debatten um die Erderwärmung und Wege die Schadstoffemission und den Kohlenstoffgehalt zu verringern.",
+    "dk": "Det bemærkede stigning i gennemsnitstemperaturen på jordoverfladen siden slutningen af det 19. århundrede.",
+    "en-GB": "This category includes all issues relating to global warming including temperature research, remote sensing on temperature trends, debate on global warming, ways to reduce emissions and carbon trading.",
+    "en-US": "This category includes all issues relating to global warming including temperature research, remote sensing on temperature trends, debate on global warming, ways to reduce emissions and carbon trading.",
+    "pt-BR": "Esta categoria inclui todos os assuntos relativos ao aquecimento global, incluindo investigação de temperaturas, sensoriamento remoto de tendências de temperaturas, debate sobre o aquecimento global, formas de reduzir emissões e comércio de carbono.",
+    "pt-PT": "Esta categoria inclui todos os assuntos relativos ao aquecimento global, incluindo investigação de temperaturas, deteção remota de tendências de temperaturas, debate sobre o aquecimento global, formas de reduzir emissões e comércio de carbono.",
+    "se": "Den konstaterade ökningen av medeltemperaturen på jordytan sedan slutet av 1800-talet.",
+    "zh-Hans": "这一分类包括与全球变暖有关的所有问题，包括气温研究、对温度变化趋势的遥感、关于全球变暖的讨论、减少排放的方法和碳交易"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06011000",
+    "https://www.wikidata.org/entity/Q7942"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "احتباس حراري",
+    "de": "Klimaerwärmung",
+    "dk": "global opvarmning",
+    "en-GB": "global warming",
+    "en-US": "global warming",
+    "es": "Calentamiento global",
+    "fr": "Réchauffement climatique",
+    "no": "global oppvarming",
+    "pt-BR": "aquecimento global",
+    "pt-PT": "aquecimento global",
+    "se": "Global uppvärmning",
+    "zh-Hans": "全球气候变暖"
+  },
+  "qcode": "medtop:20000419",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000419",
+  "aid": "iptc_20000419"
+}

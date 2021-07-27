@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000111"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Vergeltung, die gegen Gesetzesbrecher verhängt wird",
+    "dk": "Straf af personer eller organisationer, der er dømt for kriminalitet.",
+    "en-GB": "The retribution handed out to those who break laws",
+    "en-US": "The retribution handed out to those who break laws",
+    "pt-BR": "Sentenças impostas àqueles que infringem as leis.",
+    "pt-PT": "Sentenças impostas àqueles que infringem as leis.",
+    "se": "Påföljd mot personer (eller organisationer) som fällts för brott.",
+    "zh-Hans": "对违法者的惩罚"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02004000",
+    "https://www.wikidata.org/entity/Q186361"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000135",
+    "medtop:20000136",
+    "medtop:20000137",
+    "medtop:20001198",
+    "medtop:20001199"
+  ],
+  "prefLabel": {
+    "ar": "عقوبة",
+    "de": "Strafe",
+    "dk": "straf (kriminel)",
+    "en-GB": "sentencing (criminal)",
+    "en-US": "sentencing (criminal)",
+    "es": "Penas",
+    "fr": "Peines",
+    "no": "straffeutmåling",
+    "pt-BR": "pena/sentença",
+    "pt-PT": "pena / sentença",
+    "se": "Straff",
+    "zh-Hans": "刑罚"
+  },
+  "qcode": "medtop:20000134",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000134",
+  "aid": "iptc_20000134"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000449"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Epidemie von Infektionskrankheiten, die sich über eine große Region oder sogar weltweit ausgebreitet hat",
+    "dk": "En epidemi af smitsom sygdom, der har spredt sig over en stor region eller endda over hele verden.",
+    "en-GB": "An epidemic of infectious disease that has spread across a large region or even worldwide",
+    "en-US": "An epidemic of infectious disease that has spread across a large region or even worldwide",
+    "pt-BR": "Epidemia de uma doença infecciosa que se espalhou por uma região ampla ou mesmo por todo o mundo.",
+    "pt-PT": "Epidemia de uma doença infecciosa que se espalhou por uma região ampla ou mesmo por todo o mundo.",
+    "se": "Epidemi som får spridning över stora delar av världen och drabbar många människor",
+    "zh-Hans": "大型且具有传染力又会造成死亡的流行病"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q12184"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "جائحة",
+    "de": "Pandemie",
+    "dk": "pandemi",
+    "en-GB": "pandemic",
+    "en-US": "pandemic",
+    "es": "Pandemia",
+    "fr": "Pandémie",
+    "no": "pandemi",
+    "pt-BR": "pandemia",
+    "pt-PT": "pandemia",
+    "se": "Pandemi",
+    "zh-Hans": "瘟疫"
+  },
+  "qcode": "medtop:20001218",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001218",
+  "aid": "iptc_20001218"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000107"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Angestellte des Gerichts, Gerichtsdiener, Stenografen etc.",
+    "dk": "Personer, som er ansat og arbejder ved domstolene.",
+    "en-GB": "Court clerks, bailiffs, stenographers etc.",
+    "en-US": "Court clerks, bailiffs, stenographers etc.",
+    "pt-BR": "Auxiliares de justiça.",
+    "pt-PT": "Auxiliares de justiça.",
+    "se": "Personer som är anställda och arbetar i domstolar.",
+    "zh-Hans": "法院职员、法警、速记员等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02002003",
+    "https://www.wikidata.org/entity/Q12666235"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "محكمة ادارية",
+    "de": "Gerichtsverwaltung",
+    "dk": "domstolsadministration",
+    "en-GB": "court administration",
+    "en-US": "court administration",
+    "es": "Administración de corte",
+    "fr": "Greffe",
+    "no": "domstoladministrasjon",
+    "pt-BR": "serviços de tribunal",
+    "pt-PT": "serviços de tribunal",
+    "se": "Domstolspersonal",
+    "zh-Hans": "法院行政"
+  },
+  "qcode": "medtop:20000109",
+  "retired": "2019-10-07T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000109",
+  "aid": "iptc_20000109"
+}

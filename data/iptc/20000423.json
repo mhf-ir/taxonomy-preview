@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/06000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Debatte um umweltpolitische Fragen",
+    "dk": "Politiske foranstaltninger, der sigter mod at forhindre overudnyttelse og ødelæggelse af miljøet.",
+    "en-GB": "The debate on environmental policy",
+    "en-US": "The debate on environmental policy",
+    "pt-BR": "Debate sobre política ambiental.",
+    "pt-PT": "Debate sobre política ambiental.",
+    "se": "Politiska åtgärder som syftar till att förhindra överexploatering och förstöring av miljön.",
+    "zh-Hans": "关于环境政策的讨论"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06004000",
+    "https://www.wikidata.org/entity/Q5381346"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سياسات بيئية",
+    "de": "Umweltpolitik",
+    "dk": "miljøpolitik",
+    "en-GB": "environmental politics",
+    "en-US": "environmental politics",
+    "es": "Política ambiental",
+    "fr": "Politique de l'environnement",
+    "no": "miljøpolitikk",
+    "pt-BR": "políticas ambientais",
+    "pt-PT": "políticas ambientais",
+    "se": "Miljöpolitik",
+    "zh-Hans": "环境政治"
+  },
+  "qcode": "medtop:20000423",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000423",
+  "aid": "iptc_20000423"
+}

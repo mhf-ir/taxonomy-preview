@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Methode das Gleichgewicht zwischen Einnahmen und Ausgaben auszubalancieren",
+    "dk": "En beregning på forhånd af alle indtægter og udgifter.",
+    "en-GB": "A method of balancing revenues against expenses",
+    "en-US": "A method of balancing revenues against expenses",
+    "pt-BR": "Método de equilibrar receitas e despesas.",
+    "pt-PT": "Método de equilibrar receitas e despesas.",
+    "se": "En beräkning i förväg av alla inkomster och utgifter.",
+    "zh-Hans": "平衡收支的一种方法"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008019",
+    "https://www.wikidata.org/entity/Q41263"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ميزانيات ورسم ميزانيات",
+    "de": "Haushalt",
+    "dk": "budget og budgettering",
+    "en-GB": "budgets and budgeting",
+    "en-US": "budgets and budgeting",
+    "es": "Presupuesto",
+    "fr": "Budget",
+    "no": "budsjett",
+    "pt-BR": "orçamento",
+    "pt-PT": "orçamento",
+    "se": "Budget och budgetarbete",
+    "zh-Hans": "预算"
+  },
+  "qcode": "medtop:20000348",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000348",
+  "aid": "iptc_20000348"
+}

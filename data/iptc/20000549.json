@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000538"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Spielen um Geld, meist im Zusammenhang mit Zahlen und dem Setzen auf erhoffte Kombinationen",
+    "dk": "Spil, hvor deltagernes chancer for at vinde, helt eller delvist beror på tilfældet.",
+    "en-GB": "Gambling, often involving selection of sets of numbers one expects to come up",
+    "en-US": "Gambling, often involving selection of sets of numbers one expects to come up",
+    "pt-BR": "Jogos de azar, que envolvem frequentemente a seleção de um conjunto de números que se espera que sejam sorteados.",
+    "pt-PT": "Jogos de azar, que envolvem frequentemente a seleção de um conjunto de números que se espera que sejam sorteados.",
+    "se": "Spel där deltagarnas vinstmöjligheter helt eller delvis är beroende av slumpen.",
+    "zh-Hans": "赌博，通常包括选择多组预期出现的数字"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10002000",
+    "https://www.wikidata.org/entity/Q11416"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "يانصيب",
+    "de": "Glücksspiel und Lotterie",
+    "dk": "spil og lotteri",
+    "en-GB": "gaming and lottery",
+    "en-US": "gaming and lottery",
+    "es": "Juegos de azar y loterías",
+    "fr": "Jeux de hasard et loteries",
+    "no": "gambling",
+    "pt-BR": "jogos e loterias",
+    "pt-PT": "jogos e lotarias",
+    "se": "Spel och lotteri",
+    "zh-Hans": "游戏和彩票"
+  },
+  "qcode": "medtop:20000549",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000549",
+  "aid": "iptc_20000549"
+}

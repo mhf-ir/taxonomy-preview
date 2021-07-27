@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000294"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Firmen, die Komponenten für Flugzeuge und die Raumfahrt zusammenbauen oder herstellen",
+    "dk": "Produktion af fly og rumfartøjer og komponenter, der er nødvendige for at fremstille dem.",
+    "en-GB": "Companies that assemble or manufacture components for airplanes and space ships.",
+    "en-US": "Companies that assemble or manufacture components for airplanes and space ships.",
+    "pt-BR": "Companhias que montam ou fabricam componentes para aviões e naves espaciais.",
+    "pt-PT": "Companhias que montam ou fabricam componentes para aviões e naves espaciais.",
+    "se": "Produktion av flygplan och rymdfarkoster samt komponenter som behövs för att tillverka dessa.",
+    "zh-Hans": "为飞机和宇宙飞船装配或制造部件的公司"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04011001",
+    "https://www.wikidata.org/entity/Q3477363"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صناعات جوية وفضائية",
+    "de": "Flug- und Raumfahrindustrie",
+    "dk": "fly- og rumfartsindustri",
+    "en-GB": "aerospace",
+    "en-US": "aerospace",
+    "es": "Industria aeroespacial",
+    "fr": "Industrie aérospatiale",
+    "no": "luft- og romfartsindustri",
+    "pt-BR": "indústria aeroespacial",
+    "pt-PT": "indústria aeroespacial",
+    "se": "Flyg- och rymdindustri",
+    "zh-Hans": "航空航天"
+  },
+  "qcode": "medtop:20000295",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000295",
+  "aid": "iptc_20000295"
+}

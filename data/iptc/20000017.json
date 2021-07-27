@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000013"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schriftliche Werke, die auf die Ästhetik und die Rythmik von Sprache bauen um eine Botschaft oder Gefühle auszudrücken",
+    "dk": "Skriftlige værker, der bruger sprogets æstetiske og rytmiske egenskaber til at udtrykke et budskab eller en følelse.",
+    "en-GB": "Written works that use the aesthetic and rhythmic qualities of language to express a message or emotion",
+    "en-US": "Written works that use the esthetic and rhythmic qualities of language to express a message or emotion",
+    "es": "Obra escrita que utiliza las calidades estéticas y rítmicas del lenguaje para expresar un mensaje o una emoción",
+    "fr": "Œuvre écrite utilisant les qualités esthétiques et rythmiques du langage pour exprimer un message ou une émotion",
+    "pt-BR": "Obras escritas que usam as qualidades estéticas e rítmicas da língua para expressar emoções ou uma mensagem.",
+    "pt-PT": "Obras escritas que usam as qualidades estéticas e rítmicas da língua para expressar emoções ou uma mensagem.",
+    "se": "Skrivna texter som förutom innehåll även förmedlar en känsla via formatet, som kan följa ett visst versmått eller vara fritt.",
+    "zh-Hans": "通过语言美感和韵律表达情感的文字作品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01010002",
+    "https://www.wikidata.org/entity/Q482"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شعر",
+    "de": "Poesie",
+    "dk": "poesi",
+    "en-GB": "poetry",
+    "en-US": "poetry",
+    "es": "Poesía",
+    "fr": "Poésie",
+    "no": "lyrikk",
+    "pt-BR": "poesia",
+    "pt-PT": "poesia",
+    "se": "Poesi",
+    "zh-Hans": "诗歌"
+  },
+  "qcode": "medtop:20000017",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000017",
+  "aid": "iptc_20000017"
+}

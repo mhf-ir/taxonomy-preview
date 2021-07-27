@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "https://www.wikidata.org/entity/Q15229207"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001301"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Ehre, die einem Sportler für eine Platzierung in einem sportlichen Wettbewerb, z. B. bei den Olympischen Spielen, zuteil wird",
+    "dk": "Æresbevisning eller hæder, som tildeles en atlet eller et hold , der har placeret sig blandt de bedste i en konkurrence.",
+    "en-GB": "Honour given to an athlete for placing in a sports competition, such as the Olympics",
+    "en-US": "Honor given to an athlete for placing in a sports competition, such as the Olympics",
+    "pt-BR": "Honra concedida a um atleta ou a uma equipe pelo lugar alcançado em uma competição esportiva, como os Jogos Olímpicos.",
+    "pt-PT": "Honra concedida a um atleta ou a uma equipa pelo lugar alcançado numa competição desportiva, como os Jogos Olímpicos.",
+    "se": "Medaljer från OS, VM osv. Sammanställningar av medaljskörd per nation.",
+    "zh-Hans": "运动员因参加体育比赛而获得的荣誉，如奥运会奖牌"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ميدالية رياضية",
+    "de": "Medaille",
+    "dk": "sportsmedalje",
+    "en-GB": "sports medal",
+    "en-US": "sports medal",
+    "es": "Medalla deportiva",
+    "fr": "Médaille sportive",
+    "no": "idrettsmedalje",
+    "pt-BR": "medalha esportiva",
+    "pt-PT": "medalha desportiva",
+    "se": "Medaljer",
+    "zh-Hans": "体育奖牌"
+  },
+  "qcode": "medtop:20001303",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001303",
+  "aid": "iptc_20001303"
+}

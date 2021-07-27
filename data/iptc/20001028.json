@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15047000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001026"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Boot für zwei Personen mit einem Ruder für jeden und mit Steuermann",
+    "dk": "Topersoners både med kun een åre til hver person og med en styrmand til at sætte kursen.",
+    "en-GB": "Two person boats with just one oar each and with a team mate to give directions",
+    "en-US": "Two person boats with just one oar each and with a team mate to give directions",
+    "pt-BR": "Barco de duas pessoas com apenas um remo cada uma e com um companheiro de equipe para dar instruções.",
+    "pt-PT": "Barco de duas pessoas com apenas um remo cada uma e com um companheiro de equipa para dar instruções.",
+    "zh-Hans": "双人人单桨有舵赛艇比赛，有一人掌控方向"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q232557"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تجديف زوجي بالدفة",
+    "de": "Zweier",
+    "dk": "toer med styrmand",
+    "en-GB": "coxed pair",
+    "en-US": "coxed pair",
+    "es": "Par con timonel (remo)",
+    "fr": "Deux barré (aviron)",
+    "no": "toer med styrmann",
+    "pt-BR": "dois com timoneiro",
+    "pt-PT": "dois com timoneiro",
+    "se": "Tvåa med styrman",
+    "zh-Hans": "双人单桨有舵赛艇比赛"
+  },
+  "qcode": "medtop:20001028",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001028",
+  "aid": "iptc_20001028"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15073000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001108"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkampf, an dem die besten Wettkämpfer oder Teams eines Landes teilnehmen. Spiele genannt",
+    "dk": "Konkurrence, hvor atleter eller hold fra et bestemt land kan deltage.",
+    "en-GB": "A competition where individuals or teams from one country may participate. Called *Games*",
+    "en-US": "A competition where individuals or teams from one country may participate. Called *Games*",
+    "pt-BR": "Competição em que podem participar indivíduos ou equipes de um país. Designa-se por *Jogos*.",
+    "pt-PT": "Competição em que podem participar indivíduos ou equipas de um país. Designa-se por *Jogos*.",
+    "se": "Tävling där atleter eller lag från ett visst land kan delta.",
+    "zh-Hans": "全国的个人或团体参加本国家范围内运动会"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "العاب وطنية",
+    "de": "Nationale Spiele",
+    "dk": "nationale lege",
+    "en-GB": "national games",
+    "en-US": "national games",
+    "es": "Juegos nacionales",
+    "fr": "Jeux nationaux",
+    "no": "nasjonale leker",
+    "pt-BR": "jogos nacionais",
+    "pt-PT": "jogos nacionais",
+    "se": "Nationella spel",
+    "zh-Hans": "全国运动会"
+  },
+  "qcode": "medtop:20001117",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001117",
+  "aid": "iptc_20001117"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Sport mit Strategie und Ausdauer, Einzeln oder im Doppel in einem Court mit Schläger und einem kleinen Ball",
+    "dk": "Ketjersport med en lille gummikugle, hvor man konkurrerer i et rum med vægge.",
+    "en-GB": "A racquet sport of strategy and endurance played by singles or doubles teams in a walled court with a small rubber ball",
+    "en-US": "A racquet sport of strategy and endurance played by singles or doubles teams in a walled court with a small rubber ball",
+    "pt-BR": "Jogo de estratégia e resistência, disputado individualmente ou por equipes de 2 jogadores, com raquete e bola de borracha, em quadra retangular fechada dos quatro lados.",
+    "pt-PT": "Jogo de estratégia e resistência, disputado individualmente ou por equipas de 2 jogadores, com raquete e bola de borracha, em campo retangular fechado dos quatro lados.",
+    "se": "Racketsport med en liten gummiboll. Man tävlar individuellt eller i par i ett rum med väggar där de tävlande delar på utrymmet.",
+    "zh-Hans": "使用球拍的单人或双人比拼耐力和战术的运动。在墙壁围成的场地内击打橡胶小球"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15059000",
+    "https://www.wikidata.org/entity/Q133201"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سكواش",
+    "de": "Squash",
+    "dk": "squash",
+    "en-GB": "squash",
+    "en-US": "squash",
+    "es": "Squash",
+    "fr": "Squash",
+    "no": "squash",
+    "pt-BR": "squash",
+    "pt-PT": "squash",
+    "se": "Squash",
+    "zh-Hans": "壁球"
+  },
+  "qcode": "medtop:20001068",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001068",
+  "aid": "iptc_20001068"
+}

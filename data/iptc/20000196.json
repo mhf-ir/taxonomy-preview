@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verträge bezüglich Verkaufsaktivitäten",
+    "dk": "Aftale om køb eller salg, af varer, rettigheder eller fast ejendom.",
+    "en-GB": "Contracts regarding commercial activities",
+    "en-US": "Contracts regarding commercial activities",
+    "pt-BR": "Contratos relativos a atividades comerciais.",
+    "pt-PT": "Contratos relativos a atividades comerciais.",
+    "se": "Kontrakt avseende kommersiella aktiviteter.",
+    "zh-Hans": "关于商业活动的合同"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016013"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عقد تجاري",
+    "de": "Vertrag",
+    "dk": "forretningsaftale",
+    "en-GB": "commercial contract",
+    "en-US": "commercial contract",
+    "es": "Contrato comercial",
+    "fr": "Contrat commercial",
+    "no": "kommersiell kontrakt",
+    "pt-BR": "contrato comercial",
+    "pt-PT": "contrato comercial",
+    "se": "Affärsavtal",
+    "zh-Hans": "商业合同"
+  },
+  "qcode": "medtop:20000196",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000196",
+  "aid": "iptc_20000196"
+}

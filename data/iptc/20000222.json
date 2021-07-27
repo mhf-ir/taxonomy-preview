@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000217"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zweig der Chemie, der von menschlichen, tierischen oder kohlenstoffbasierten Stoffen handelt",
+    "dk": "Den del af kemi, der beskæftiger sig med mennesker, dyr og kulstofbaserede stoffer.",
+    "en-GB": "The branch of chemistry dealing with human, animal or carbon-based substances",
+    "en-US": "The branch of chemistry dealing with human, animal or carbon-based substances",
+    "pt-BR": "Ramo da química que estuda substâncias humanas, animais ou à base de carbono.",
+    "pt-PT": "Ramo da química que estuda substâncias humanas, animais ou à base de carbono.",
+    "se": "Den del av kemin som handlar om människor, djur och kolbaserade substanser.",
+    "zh-Hans": "化学分支，研究人类、动物或碳基物质"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04002005",
+    "https://www.wikidata.org/entity/Q11351"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مواد كيميائية عضوية",
+    "de": "Organische Chemie",
+    "dk": "organisk kemi",
+    "en-GB": "organic chemical",
+    "en-US": "organic chemical",
+    "es": "Productos químicos orgánicos",
+    "fr": "Chimie organique",
+    "no": "organisk kjemi",
+    "pt-BR": "químicos orgânicos",
+    "pt-PT": "químicos orgânicos",
+    "se": "Organisk kemi",
+    "zh-Hans": "有机化学"
+  },
+  "qcode": "medtop:20000222",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000222",
+  "aid": "iptc_20000222"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Fallschirm Wettbewerbe mit freiem Fall auf langer Distanz",
+    "dk": "En individuel konkurrencegren i faldskærmsudspring, hvor springeren falder med hovedet mod jorden i frit fald og falder så hurtigt som muligt.",
+    "en-GB": "Parachuting competitions with long distance falls without using a parachute",
+    "en-US": "Parachuting competitions with long distance falls without using a parachute",
+    "pt-BR": "Competições de paraquedismo envolvendo salto em queda livre.",
+    "pt-PT": "Competições de paraquedismo envolvendo salto em queda livre.",
+    "se": "En individuell tävlingsgren inom fallskärmssporten där hopparen ställer sig med huvudet mot marken i fritt fall och faller så fort det är möjligt.",
+    "zh-Hans": "跳伞运动。其中很长距离自由降落不打开伞"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15001002",
+    "https://www.wikidata.org/entity/Q193210"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "القفز بالمظلة",
+    "de": "Sky Diving",
+    "dk": "faldskærmsudspring (frit fald)",
+    "en-GB": "sky diving",
+    "en-US": "sky diving",
+    "es": "Salto en caída libre",
+    "fr": "Chute libre",
+    "no": "fallskjermhopping",
+    "pt-BR": "salto em queda livre",
+    "pt-PT": "salto em queda livre",
+    "se": "Sky diving",
+    "zh-Hans": "高空跳伞"
+  },
+  "qcode": "medtop:20001062",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001062",
+  "aid": "iptc_20001062"
+}

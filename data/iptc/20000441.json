@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/06000000"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06007000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gesamtheit von Flora und Fauna",
+    "dk": "Alt, hvad der har at gøre med den naturlige verden.",
+    "en-GB": "The natural world in its entirety",
+    "en-US": "The natural world in its entirety",
+    "pt-BR": "O mundo natural em sua totalidade.",
+    "pt-PT": "O mundo natural na sua totalidade.",
+    "se": "Allt som har med den naturliga världen att göra.",
+    "zh-Hans": "整个自然界"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q7860"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000442",
+    "medtop:20000443",
+    "medtop:20000444",
+    "medtop:20001318"
+  ],
+  "prefLabel": {
+    "ar": "طبيعة",
+    "de": "Natur",
+    "dk": "natur",
+    "en-GB": "nature",
+    "en-US": "nature",
+    "es": "Naturaleza",
+    "fr": "Nature",
+    "no": "natur",
+    "pt-BR": "natureza",
+    "pt-PT": "natureza",
+    "se": "Natur",
+    "zh-Hans": "自然"
+  },
+  "qcode": "medtop:20000441",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000441",
+  "aid": "iptc_20000441"
+}

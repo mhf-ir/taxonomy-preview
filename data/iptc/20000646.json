@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/11000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gruppen, offiziell außerhalb der Regierung stehend, die in einem größeren Themenspektrum Einfluss ausüben, demonstrieren, agieren wie Ökonomie, Umwelt, Gesundheit etc.",
+    "dk": "Udpegning af alle ikke-statslige organisationer, såsom forskellige individuelle organisationer, aktionsgrupper, meningsgrupper, frivillige organisationer eller fagforeninger.",
+    "en-GB": "Groups officially outside of government that lobby, demonstrate or campaign on a wide range of issues such as economics, environment healthcare etc.",
+    "en-US": "Groups officially outside of government that lobby, demonstrate or campaign on a wide range of issues such as economics, environment healthcare etc.",
+    "pt-BR": "Grupos não pertencentes ao governo que pressionam, protestam ou fazem campanha sobre vários assuntos como economia, meio ambiente, cuidados de saúde etc.",
+    "pt-PT": "Grupos não pertencentes ao governo que pressionam, protestam ou fazem campanha sobre vários assuntos como economia, meio ambiente, cuidados de saúde, etc.",
+    "se": "Benämning på alla organisationer som inte är statliga, såsom olika enskilda organisationer, aktionsgrupper, opinionsgrupper, frivilligorganisationer eller fackliga organisationer.",
+    "zh-Hans": "政府以外的团体，就经济、环境、卫生保健等广泛问题进行游说、示威或运动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q79913",
+    "http://cv.iptc.org/newscodes/subjectcode/11010001"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "منظمة غير حكومية",
+    "de": "Regierungsunabhängige Organisation",
+    "dk": "NGO",
+    "en-GB": "non-governmental organisation",
+    "en-US": "non-governmental organization",
+    "es": "Organización no gubernamental",
+    "fr": "Organisation non gouvernementale",
+    "no": "ikke-statlig organisasjon",
+    "pt-BR": "organização não governamental",
+    "pt-PT": "organização não governamental",
+    "se": "Icke-statliga organisationer",
+    "zh-Hans": "非政府组织"
+  },
+  "qcode": "medtop:20000646",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000646",
+  "aid": "iptc_20000646"
+}

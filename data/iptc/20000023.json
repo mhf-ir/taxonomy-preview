@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000021"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Gattung von Musik, die aus den südlichen USA stammt, meisten in Form von Balladen oder Tanzmusik unter Verwendung von Instrumenten wie Banjos, Geigen und Gitarren.",
+    "dk": "En genre af musik, der stammer fra det sydlige USA, ofte bestående af ballader eller dansemelodier og med strengeinstrumenter som banjoer, violiner og guitarer.",
+    "en-GB": "A genre of music that originated in the southern United States, often consisting of ballads or dance tunes and featuring string instruments such as banjos, fiddles and guitars",
+    "en-US": "A genre of music that originated in the southern United States, often consisting of ballads or dance tunes and featuring string instruments such as banjos, fiddles and guitars",
+    "es": "Género de música que se originó en el sur de los Estados Unidos, a menudo compuesto por baladas o melodías de baile y con instrumentos de cuerda como banjos, violines y guitarras",
+    "fr": "Genre musical originaire du sud des États-Unis, souvent composé de ballades ou d'airs de danse et comportant des instruments à cordes tels que des banjos, des violons et des guitares",
+    "pt-BR": "Gênero de música com origem no Sul dos Estados Unidos, que consiste frequentemente em baladas ou músicas dançáveis e que usa instrumentos de corda, como os banjos ou as guitarras.",
+    "pt-PT": "Género de música com origem no Sul dos Estados Unidos, que consiste frequentemente em baladas ou músicas dançáveis e que usa instrumentos de corda, como os banjos ou as guitarras.",
+    "se": "En musikstil med rötter i södra USA, ofta bestående av ballader eller dansmelodier och spelade på stränginstrument.",
+    "zh-Hans": "一种起源于美国南部的音乐类型，通常由民谣或舞曲组成，以弦乐为主，比如五弦琴、小提琴和吉他"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01011005",
+    "https://www.wikidata.org/entity/Q83440"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "موسيقى الكانتري",
+    "de": "Country",
+    "dk": "countrymusik",
+    "en-GB": "country music",
+    "en-US": "country music",
+    "es": "Música country",
+    "fr": "Country",
+    "no": "countrymusikk",
+    "pt-BR": "música country",
+    "pt-PT": "música country",
+    "se": "Country",
+    "zh-Hans": "乡村音乐"
+  },
+  "qcode": "medtop:20000023",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000023",
+  "aid": "iptc_20000023"
+}

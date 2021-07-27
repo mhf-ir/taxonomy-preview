@@ -1,0 +1,58 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/08000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Artikel über Einzelpersonen, Gruppen, Tiere, Pflanzen oder andere Objekte mit Blick auf emotionale Aspekte",
+    "dk": "Historier om enkeltpersoner, grupper, dyr, planter eller andre genstande med fokus på følelsesmæssige facetter.",
+    "en-GB": "Item that discusses individuals, groups, animals, plants or other objects in an emotional way",
+    "en-US": "Items about individuals, groups, animals, plants or other objects with a focus on emotional facets",
+    "pt-BR": "Temas sobre indivíduos, grupos, animais, plantas ou outros objetos, com foco em aspetos emocionais.",
+    "pt-PT": "Temas sobre indivíduos, grupos, animais, plantas ou outros objetos, com foco em aspetos emocionais.",
+    "se": "Lättare berättelser om individer, grupper av människor, djur eller ting.",
+    "zh-Hans": "关于个人、团体、动物、植物或其他关注情感层面方面的条目"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q361306"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000497",
+    "medtop:20000498",
+    "medtop:20000499",
+    "medtop:20000500",
+    "medtop:20000501",
+    "medtop:20000502",
+    "medtop:20000503",
+    "medtop:20000504",
+    "medtop:20000505",
+    "medtop:20000507",
+    "medtop:20001237",
+    "medtop:20001238"
+  ],
+  "prefLabel": {
+    "ar": "قضية انسانية",
+    "de": "Vermischtes",
+    "dk": "folk og fæ",
+    "en-GB": "human interest",
+    "en-US": "human interest",
+    "es": "Interés humano, animales, insólito",
+    "fr": "Gens animaux insolite",
+    "no": "kuriosa og kjendiser",
+    "pt-BR": "interesse humano",
+    "pt-PT": "interesse humano",
+    "se": "Mänskligt",
+    "zh-Hans": "人性"
+  },
+  "qcode": "medtop:08000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/08000000",
+  "aid": "iptc_08000000"
+}

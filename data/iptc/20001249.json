@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000011"
+  ],
+  "created": "2019-07-30T12:00:00+00:00",
+  "definition": {
+    "de": "Trends rund um das Schneiden und Styling von Haaren.",
+    "dk": "Trends, der omhandler, hvordan man klipper og sætter sit hår.",
+    "en-GB": "Trends surrounding the cutting and styling of hair",
+    "en-US": "Trends surrounding the cutting and styling of hair",
+    "pt-BR": "Tendências relativas a cortes de cabelo e penteados.",
+    "pt-PT": "Tendências relativas a cortes de cabelo e penteados.",
+    "se": "Trender kring att klippa, färga och styla hår.",
+    "zh-Hans": "发型设计的流行趋势"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q327496"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-30T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تزيين الشعر",
+    "de": "Friseur",
+    "dk": "frisurer",
+    "en-GB": "hairstyles",
+    "en-US": "hairstyles",
+    "es": "Peinado",
+    "fr": "Coiffure",
+    "no": "frisyrer",
+    "pt-BR": "penteados",
+    "pt-PT": "penteados",
+    "se": "Frisyrer",
+    "zh-Hans": "发型"
+  },
+  "qcode": "medtop:20001249",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001249",
+  "aid": "iptc_20001249"
+}

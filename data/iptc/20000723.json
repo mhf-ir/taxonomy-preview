@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000719"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Untersuchung der Lebensprozesse, inneren Organe oder Funktionsmechanismen lebender Organismen",
+    "dk": "Undersøgelse af de vitale processer, indre organer eller funktionelle mekanismer i levende organismer.",
+    "en-GB": "The study of the vital processes, internal organs or functional mechanisms of living organisms",
+    "en-US": "The study of the vital processes, internal organs or functional mechanisms of living organisms",
+    "es": "El estudio de los procesos vitales, de los órganos internos o de los mecanismos funcionales de los organismos vivos",
+    "fr": "Etude des processus vitaux, des organes internes ou des mécanismes fonctionnels des organismes vivants",
+    "pt-BR": "Estudo dos processos vitais, órgãos internos ou mecanismos funcionais dos organismos vivos.",
+    "pt-PT": "Estudo dos processos vitais, órgãos internos ou mecanismos funcionais dos organismos vivos.",
+    "se": "Vetenskapen om hur levande organismer, deras organ och vävnader fungerar.",
+    "zh-Hans": "研究生物体的生命过程、内部器官或功能机制的科学"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13004006",
+    "https://www.wikidata.org/entity/Q521"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "فيزيولوجيا (علم وظائف الاعضاء)",
+    "de": "Physiologie",
+    "dk": "fysiologi",
+    "en-GB": "physiology",
+    "en-US": "physiology",
+    "es": "Fisiología",
+    "fr": "Physiologie",
+    "no": "fysiologi",
+    "pt-BR": "fisiologia",
+    "pt-PT": "fisiologia",
+    "se": "Fysiologi",
+    "zh-Hans": "生理学"
+  },
+  "qcode": "medtop:20000723",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000723",
+  "aid": "iptc_20000723"
+}

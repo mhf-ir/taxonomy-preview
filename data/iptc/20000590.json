@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000587"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Artikel über Religionsrechte und Freiheiten, Unterdrückung und Einschüchterung von Gläubigen, Zensur in den Massenmedien, Vorgehensweisen von Regierungen, Journalistenverbände und andere NGOs im Zusammenhang mit Glaubensfreiheit und deren Praxis",
+    "dk": "Retten til at udøve sin religion uden indblanding fra verdslige myndigheder.",
+    "en-GB": "Religious rights and freedoms, pressure and intimidation of believers, censorship in mass media, activities of government bodies, journalistic associations and/or organisations and other NGOs in regard to freedom of belief and practice",
+    "en-US": "Religious rights and freedoms, pressure and intimidation of believers, censorship in mass media, activities of government bodies, journalistic associations and/or organizations and other NGOs in regard to freedom of belief and practice",
+    "pt-BR": "Direitos e liberdades religiosas, pressão e intimidação dos crentes, censura na mídia de massa, atividades de órgãos governamentais, associações e/ou organizações de jornalistas e outras ONG no que diz respeito à liberdade de crença e de prática.",
+    "pt-PT": "Direitos e liberdades religiosas, pressão e intimidação dos crentes, censura nos meios de comunicação de massa, atividades de órgãos governamentais, associações e/ou organizações de jornalistas e outras ONG no que diz respeito à liberdade de crença e de prática.",
+    "se": "Rättighet att utöva vilken religion man vill utan världsliga myndigheters inblandning.",
+    "zh-Hans": "宗教权利和自由、对信徒的压力和恐吓、大众传媒的审查、政府机构、新闻协会和/或组织和其他非政府组织在信仰和实践自由方面的活动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11026000",
+    "https://www.wikidata.org/entity/Q171899"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حرية الديانة",
+    "de": "Religionsfreiheit",
+    "dk": "religionsfrihed",
+    "en-GB": "freedom of religion",
+    "en-US": "freedom of religion",
+    "es": "Libertad de culto",
+    "fr": "Liberté de religion",
+    "no": "religionsfrihet",
+    "pt-BR": "liberdade religiosa",
+    "pt-PT": "liberdade religiosa",
+    "se": "Religionsfrihet",
+    "zh-Hans": "宗教自由"
+  },
+  "qcode": "medtop:20000590",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000590",
+  "aid": "iptc_20000590"
+}

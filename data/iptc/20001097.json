@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer müssen so schnell wir möglich einen bestimmten Kurs auf einem Surfboard zurücklegen",
+    "dk": "Ligner sejlads, men i stedet for at sidde i en båd konkurrerer de stående på et windsurfingbræt og håndterer sejlet med deres hænder.",
+    "en-GB": "Contestants must complete a marked out course as fast as possible on a windsurf board",
+    "en-US": "Contestants must complete a marked out course as fast as possible on a windsurf board",
+    "pt-BR": "Competição de prancha a vela em que os participantes devem completar o mais rápido possível um percurso aquático demarcado.",
+    "pt-PT": "Competição de prancha à vela em que os participantes devem completar o mais rápido possível um percurso aquático demarcado.",
+    "se": "Liknar segling, men i stället för att sitta i en båt så står de tävlande på en windsurfingbräda och hanterar seglet med händerna.",
+    "zh-Hans": "选手操控帆板按规定的路线以最短的时间完成赛程"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15071000",
+    "https://www.wikidata.org/entity/Q191051"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/windsurfingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ركمجة",
+    "de": "Windsurfen",
+    "dk": "vindsurfing",
+    "en-GB": "windsurfing",
+    "en-US": "windsurfing",
+    "es": "Windsurf",
+    "fr": "Planche à voile",
+    "no": "brettseiling",
+    "pt-BR": "windsurf",
+    "pt-PT": "windsurf",
+    "se": "Windsurfing",
+    "zh-Hans": "帆板运动"
+  },
+  "qcode": "medtop:20001097",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001097",
+  "aid": "iptc_20001097"
+}

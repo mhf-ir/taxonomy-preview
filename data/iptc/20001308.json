@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001157"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Kampf- und Selbstverteidigungssport, der Elemente aus Aikido, Boxen, Judo, Karate und Ringen kombiniert",
+    "dk": "Kampsport og selvforsvarsteknik, der indeholder elementer fra andre kampsportsgrene.",
+    "en-GB": "Fighting and self-defence sport that combines elements from aikido, boxing, judo, karate and wrestling",
+    "en-US": "Fighting and self-defense sport that combines elements from aikido, boxing, judo, karate and wrestling",
+    "pt-BR": "Sistema de luta e autodefesa que combina elementos do aikido, boxe, judô, caratê e luta livre.",
+    "pt-PT": "Sistema de luta e autodefesa que combina elementos do aikido, boxe, judo, caraté e luta livre.",
+    "se": "Kombination av flera andra saker som boxning, judo och karate både för självförsvar och tävling.",
+    "zh-Hans": "格斗和自卫运动，结合了合气道，拳击，柔道，空手道和摔跤的元素"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q184733"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كراف مغا",
+    "de": "Krav Maga",
+    "dk": "krav maga",
+    "en-GB": "krav maga",
+    "en-US": "krav maga",
+    "es": "Krav maga",
+    "fr": "Krav maga",
+    "no": "krav maga",
+    "pt-BR": "krav maga",
+    "pt-PT": "krav maga",
+    "se": "Krav maga",
+    "zh-Hans": "马伽术"
+  },
+  "qcode": "medtop:20001308",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001308",
+  "aid": "iptc_20001308"
+}

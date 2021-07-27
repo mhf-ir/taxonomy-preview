@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000942"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer zeigen komplizierte Drehungen und Sprünge während sie auf dem Trampolin springen",
+    "dk": "Konkurrenterne hopper på en trampolin og udfører ti på hinanden følgende øvelser (tricks) i rækkefølge. Bedømt af dommere.",
+    "en-GB": "Competitors perform complicated twists and turns whilst bouncing on the trampoline.",
+    "en-US": "Competitors perform complicated twists and turns while bouncing on the trampoline.",
+    "pt-BR": "Os ginastas executam movimentos e acrobacias saltando sobre um trampolim.",
+    "pt-PT": "Os ginastas executam movimentos e acrobacias saltando sobre um trampolim.",
+    "se": "De tävlande ska hoppa på en en studsmatta och på den utföra tio stycken övningar (trick) i följd.  Bedöms av domare.",
+    "zh-Hans": "运动员在绷床上蹦跳时做复杂的扭转和翻腾动作"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028015",
+    "https://www.wikidata.org/entity/Q465014"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ترامبولين",
+    "de": "Trampolin (Rhythmische Gymnastik)",
+    "dk": "trampolin",
+    "en-GB": "trampoline",
+    "en-US": "trampoline",
+    "es": "Trampolín",
+    "fr": "Trampoline",
+    "no": "trampoline",
+    "pt-BR": "trampolim",
+    "pt-PT": "trampolim",
+    "se": "Trampolin",
+    "zh-Hans": "蹦床"
+  },
+  "qcode": "medtop:20000955",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000955",
+  "aid": "iptc_20000955"
+}

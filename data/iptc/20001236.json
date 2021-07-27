@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000501"
+  ],
+  "created": "2019-06-26T12:00:00+00:00",
+  "definition": {
+    "de": "Trauungszeremonie und die sie umgebenden Veranstaltungen und Feste, wie Hochzeitsempfänge, Verlobungsfeiern, Brautduschen und Junggesellen-/Bachelorettenpartys.",
+    "dk": "Alt, hvad der foregår omkring et bryllup. Foruden selve ceremonien kan det være en reception, en bryllupsfest eller en polterabend.",
+    "en-GB": "Marriage ceremony and the events and parties surrounding it, such as wedding receptions, engagement parties, bridal showers and hen or stag parties",
+    "en-US": "Marriage ceremony and the events and parties surrounding it, such as wedding receptions, engagement parties, bridal showers and bachelor or bachelorette parties",
+    "pt-BR": "Cerimônia de casamento, bem como eventos e festas relacionados, como recepções de casamento, festas de noivado, chás de panela e despedidas de solteiro / solteira.",
+    "pt-PT": "Cerimónia de casamento, bem como eventos e festas relacionados, como receções de casamento, festas de noivado, chás de panela e despedidas de solteiro / solteira.",
+    "se": "Olika aktiviteter kring den ceremoni då två personer gifter sig, kyrkligt eller borgerligt.",
+    "zh-Hans": "结婚典礼及其相关的活动和派对，例如婚宴、订婚派对、新娘送礼会和单身汉/未婚女子派对"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q49836"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-06-26T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حفل زواج",
+    "de": "Hochzeit",
+    "dk": "bryllup",
+    "en-GB": "wedding",
+    "en-US": "wedding",
+    "es": "Boda",
+    "fr": "Mariage",
+    "no": "vielse",
+    "pt-BR": "casamento",
+    "pt-PT": "casamento",
+    "se": "Bröllop",
+    "zh-Hans": "婚礼"
+  },
+  "qcode": "medtop:20001236",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001236",
+  "aid": "iptc_20001236"
+}

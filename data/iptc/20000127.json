@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000126"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Legaler Austausch zwischen Ländern von Kriminellen und Verdächtigen",
+    "dk": "At overføre en mistænkt eller dømt kriminel fra et land til et andet.",
+    "en-GB": "Legal transfer of criminals or suspects between countries",
+    "en-US": "Legal transfer of criminals or suspects between countries",
+    "pt-BR": "Transferência legal de criminosos ou suspeitos de crimes entre países.",
+    "pt-PT": "Transferência legal de criminosos ou suspeitos de crimes entre países.",
+    "se": "Att flytta en brottsmisstänkt eller dömd brottsling från ett land till ett annat.",
+    "zh-Hans": "罪犯或嫌疑犯在国家间的合法转移"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02011002",
+    "https://www.wikidata.org/entity/Q210603"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تسليم",
+    "de": "Auslieferung",
+    "dk": "udlevering",
+    "en-GB": "extradition",
+    "en-US": "extradition",
+    "es": "Extradición",
+    "fr": "Extradition",
+    "no": "utlevering",
+    "pt-BR": "extradição (processos)",
+    "pt-PT": "extradição",
+    "se": "Utlämning",
+    "zh-Hans": "引渡"
+  },
+  "qcode": "medtop:20000127",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000127",
+  "aid": "iptc_20000127"
+}

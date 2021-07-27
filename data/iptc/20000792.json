@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000788"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Menschen, die sich auf sinnliche, erotische oder vergleichbare Weise zu dem eigenen Geschlecht hingezogen fühlen",
+    "dk": "Mennesker, der identificerer sig som homoseksuelle, biseksuelle eller transseksuelle.",
+    "en-GB": "People who identify as lesbian, gay, bisexual, transgender or queer",
+    "en-US": "People who identify as lesbian, gay, bisexual, transgender or queer",
+    "pt-BR": "Pessoas que se identificam como lésbicas, gays, bissexuais ou transexuais.",
+    "pt-PT": "Pessoas que se identificam como lésbicas, gays, bissexuais ou transexuais.",
+    "se": "De som identifierar sig som homosexuella, bisexuella, transpersoner eller queerpersoner.",
+    "zh-Hans": "女同性恋者，男同性恋者，双性恋者或变性者"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14010001",
+    "https://www.wikidata.org/entity/Q17884"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مثليون وسحاقيات",
+    "de": "Homosexuelle",
+    "dk": "LGBT+",
+    "en-GB": "LGBTQ",
+    "en-US": "LGBTQ",
+    "es": "Homosexuales",
+    "fr": "Homosexualité",
+    "no": "LHBT(Q)",
+    "pt-BR": "LGBT",
+    "pt-PT": "LGBT",
+    "se": "HBTQ",
+    "zh-Hans": "非异性恋者"
+  },
+  "qcode": "medtop:20000792",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000792",
+  "aid": "iptc_20000792"
+}

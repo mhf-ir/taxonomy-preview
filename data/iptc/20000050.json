@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000045"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die hörbare Form von Nachrichten, Unterhaltung oder Information, die über Rundfunk oder das Internet verbreitet wird.",
+    "dk": "Programmer, der kun består af lyd og distribueres trådløst eller over internettet.",
+    "en-GB": "Audio content, such as news, entertainment or information, distributed via broadcast or internet",
+    "en-US": "Audio content, such as news, entertainment or information, distributed via broadcast or internet",
+    "es": "Contenido audio, noticias, entretenimiento o información, distribuido a través de ondas de radio o por internet",
+    "fr": "Média proposant des contenus audio, tel que nouvelles, magazines ou émissions de divertissement, transmis par ondes ou par Internet",
+    "pt-BR": "Histórias relativas à rádio como difusora de conteúdo noticioso e  meio de entretenimento.",
+    "pt-PT": "Histórias relativas à rádio como difusora de conteúdo noticioso e  meio de entretenimento.",
+    "se": "Program som bara består av ljud och distribueras trådlöst eller via internet.",
+    "zh-Hans": "通过无线电广播或互联网传播的音频内容，如新闻、娱乐或信息"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01014000",
+    "https://www.wikidata.org/entity/Q273623"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اذاعة",
+    "de": "Radio",
+    "dk": "radio",
+    "en-GB": "radio",
+    "en-US": "radio",
+    "es": "Radio",
+    "fr": "Radio",
+    "no": "radio",
+    "pt-BR": "rádio",
+    "pt-PT": "rádio",
+    "se": "Radio",
+    "zh-Hans": "广播"
+  },
+  "qcode": "medtop:20000050",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000050",
+  "aid": "iptc_20000050"
+}

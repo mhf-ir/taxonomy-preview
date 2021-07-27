@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000256"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alle Sachverhalte der Raffinierung und Verteilung, die sich auf Öl und Gas beziehen",
+    "dk": "Alt relateret til olie og gas fra raffinaderiet til distribution.",
+    "en-GB": "All matters concerning oil and gas, typically refining and distribution activities",
+    "en-US": "All matters concerning oil and gas, typically refining and distribution activities",
+    "pt-BR": "Assuntos relativos ao petróleo e ao gás, tipicamente atividades de refinaria e de distribuição.",
+    "pt-PT": "Assuntos relativos ao petróleo e ao gás, tipicamente atividades de refinaria e de distribuição.",
+    "se": "Allt som rör olja och gas från raffinaderiet till distributionen.",
+    "zh-Hans": "与石油和天然气有关的活动，特别是炼油和分销活动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005003",
+    "https://www.wikidata.org/entity/Q3444730"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-25T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "نفط وغاز/تنقيب وانتاج",
+    "de": "Öl und Gas (Verwertung)",
+    "dk": "olie og gas - nedstrømsaktivitet",
+    "en-GB": "oil and gas - downstream activities",
+    "en-US": "oil and gas - downstream activities",
+    "es": "Distribución de petróleo y gas",
+    "fr": "Distribution de pétrole et gaz",
+    "no": "nedstrømsaktivitet",
+    "pt-BR": "petróleo e gás (distribuição)",
+    "pt-PT": "petróleo e gás (distribuição)",
+    "se": "Olja och gas, leverans",
+    "zh-Hans": "石油和天然气-下游活动"
+  },
+  "qcode": "medtop:20000266",
+  "retired": "2019-07-25T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000266",
+  "aid": "iptc_20000266"
+}

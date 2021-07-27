@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11012000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Regierungseinheiten auf Ebenen, die für mehr als eine Gerichtsbarkeit zuständig sind, wie z.B. Länder der BRD oder Österreich, Kantone der Schweiz",
+    "dk": "Myndigheder, der arbejder på et niveau mellem det lokale og det nationale.",
+    "en-GB": "Authorities at a level above the local and below the national one. Could be named a state, province, department etc.",
+    "en-US": "Authorities at a level above the local and below the national one. Could be named a state, province, department etc.",
+    "pt-BR": "Autoridades acima do nível local e abaixo do nível nacional. Pode tratar-se de estado, província, departamento, região etc.",
+    "pt-PT": "Autoridades acima do nível local e abaixo do nível nacional. Pode tratar-se de estado, província, departamento, região etc.",
+    "se": "Myndigheter som verkar på en nivå mellan den lokala och den nationella.",
+    "zh-Hans": "地方以上各级政府和国家以下各级政府。可以命名为州、省、部门等"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1802419"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سلطة اقليمية",
+    "de": "Bundesland/Kanton",
+    "dk": "region",
+    "en-GB": "regional government and authority",
+    "en-US": "state government and authority",
+    "es": "Autoridades regionales",
+    "fr": "Institutions régionales",
+    "no": "regionalregjering",
+    "pt-BR": "governo e autoridades regionais",
+    "pt-PT": "governo e autoridades regionais",
+    "se": "Regionala myndigheter",
+    "zh-Hans": "地区政府和机构"
+  },
+  "qcode": "medtop:20000618",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000618",
+  "aid": "iptc_20000618"
+}

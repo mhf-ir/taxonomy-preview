@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000690"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Höchster jüdischer Feiertag, beginnt bei Sonnenuntergang vor dem 10. Tischri und dauert bis zum nächsten Sonnenuntergang (September oder Oktober)",
+    "dk": "Forsoningsdag inden for den jødiske religion fejret i efteråret.",
+    "en-GB": "Most solemn of Jewish religious holidays, observed on the 10th day of the lunar month of tishri (in the course of September and October, when Jews seek reconciliation with god",
+    "en-US": "Most solemn of Jewish religious holidays, observed on the 10th day of the lunar month of tishri (in the course of September and October, when Jews seek reconciliation with god",
+    "pt-BR": "O mais solene dos dias santos judaicos, celebrado no 10.º dia do mês lunar de tishri (entre setembro e outubro), quando os judeus buscam a reconciliação com deus.",
+    "pt-PT": "O mais solene dos dias santos judaicos, celebrado no 10.º dia do mês lunar de tishri (entre setembro e outubro), quando os judeus buscam a reconciliação com deus.",
+    "se": "Försoningsdag inom den judiska religionen firad på hösten.",
+    "zh-Hans": "最隆重的犹太宗教节日，在太阴月的第10天庆祝(在9月和10月期间，犹太人寻求与上帝和解)"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12014005",
+    "https://www.wikidata.org/entity/Q132994"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عيد الغفران",
+    "de": "Jom Kippur",
+    "dk": "yom kippur",
+    "en-GB": "Yom Kippur",
+    "en-US": "Yom Kippur",
+    "es": "Yom kippur",
+    "fr": "Yom Kippour",
+    "no": "jom kippúr",
+    "pt-BR": "yom kippur",
+    "pt-PT": "yom kippur",
+    "se": "Jom kippur",
+    "zh-Hans": "赎罪日"
+  },
+  "qcode": "medtop:20000695",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000695",
+  "aid": "iptc_20000695"
+}

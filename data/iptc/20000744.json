@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000742"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Studium der menschlichen Tätigkeit im Laufe der Zeit und der Kulturgeschichte unter Verwendung von Artefakten, die von alten Völkern zurückgelassen wurden",
+    "dk": "Videnskab af menneskelig aktivitet gennem tid og kulturhistorie ved hjælp af artefakter, der er efterladt af gamle folk.",
+    "en-GB": "The study of human activity throughout time and cultural history, using artefacts left behind by ancient peoples",
+    "en-US": "The study of human activity throughout time and cultural history, using artefacts left behind by ancient peoples",
+    "es": "El estudio de la actividad humana a lo largo del tiempo y de la historia cultural a través de artefactos que dejaron los pueblos antiguos",
+    "fr": "Etude de l'activité humaine à travers le temps et l'histoire culturelle, en utilisant des objets laissés par des peuples anciens",
+    "pt-BR": "Estudo da atividade humana ao longo do tempo e da história cultural, usando artefatos deixados por povos antigos.",
+    "pt-PT": "Estudo da atividade humana ao longo do tempo e da história cultural, usando artefactos deixados por povos antigos.",
+    "se": "Vetenskap som med stöd av materiella lämningar studerar äldre tiders mänskliga kultur.",
+    "zh-Hans": "利用古代人留下的文物，研究人类在整个时代和文化史上活动的学科"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01001000",
+    "https://www.wikidata.org/entity/Q23498"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علم آثار",
+    "de": "Archäologie",
+    "dk": "arkæologi",
+    "en-GB": "archaeology",
+    "en-US": "archeology",
+    "es": "Arqueología",
+    "fr": "Archéologie",
+    "no": "arkeologi",
+    "pt-BR": "arqueologia",
+    "pt-PT": "arqueologia",
+    "se": "Arkeologi",
+    "zh-Hans": "考古学"
+  },
+  "qcode": "medtop:20000744",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000744",
+  "aid": "iptc_20000744"
+}

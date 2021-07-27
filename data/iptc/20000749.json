@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13003001"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000742"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wissenschaft der Gesetzgebung und der Philosophie des Rechts",
+    "dk": "Videnskaben om juridiske regler og deres anvendelse.",
+    "en-GB": "The study of legal systems and the philosophy of law",
+    "en-US": "The study of legal systems and the philosophy of law",
+    "pt-BR": "Estudo dos sistemas jurídicos e da filosofia do direito.",
+    "pt-PT": "Estudo dos sistemas jurídicos e da filosofia do direito.",
+    "se": "Vetenskapen om rättsreglerna och deras tillämpning.",
+    "zh-Hans": "研究法律制度和法律哲学的学科"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q4932206"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "دراسة حقوق",
+    "de": "Jura",
+    "dk": "jura",
+    "en-GB": "study of law",
+    "en-US": "study of law",
+    "es": "Derecho",
+    "fr": "Le droit",
+    "no": "juss",
+    "pt-BR": "direito",
+    "pt-PT": "direito",
+    "se": "Juridik",
+    "zh-Hans": "法学"
+  },
+  "qcode": "medtop:20000749",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000749",
+  "aid": "iptc_20000749"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000802"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die unfreiwillige Knechtschaft, außerhalb legaler Inhaftierung wegen krimineller Straftaten, von Männern, Frauen und Kindern, schließt unfreiwillige unbezahlte Arbeit, erzwungenes Verhalten und Kinderarbeit mit ein",
+    "dk": "Systemer med personlig ufrihed og lovløshed, herunder ufrivilligt ulønnet arbejde og børnearbejde.",
+    "en-GB": "The ownership of people as property, and the involuntary servitude of those people to their owners, which includes unpaid labour and coerced actions",
+    "en-US": "The ownership of people as property, and the involuntary servitude of those people to their owners, which includes unpaid labor and coerced actions",
+    "pt-BR": "Submissão involuntária, fora do encarceramento legal por crimes passíveis de punição, de homens, mulheres e crianças, incluindo trabalho involuntário não remunerado, atos de coerção, trabalho infantil.",
+    "pt-PT": "Submissão involuntária, fora do encarceramento legal por crimes passíveis de punição, de homens, mulheres e crianças, incluindo trabalho involuntário não remunerado, atos de coerção, trabalho infantil.",
+    "se": "System med personlig ofrihet och rättslöshet inklusive ofrivilligt obetalt arbete och barnarbete.",
+    "zh-Hans": "男子、妇女和儿童在法定刑事犯监禁之外的非自愿劳役，包括非自愿无偿劳动、胁迫行为、童工"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14021000",
+    "https://www.wikidata.org/entity/Q8463"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عبودية",
+    "de": "Sklaverei",
+    "dk": "slaveri",
+    "en-GB": "slavery",
+    "en-US": "slavery",
+    "es": "Esclavitud",
+    "fr": "Esclavage",
+    "no": "slaveri",
+    "pt-BR": "escravatura",
+    "pt-PT": "escravatura",
+    "se": "Slaveri",
+    "zh-Hans": "奴役"
+  },
+  "qcode": "medtop:20000807",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000807",
+  "aid": "iptc_20000807"
+}

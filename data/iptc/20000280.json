@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Finanzberater, entgegen Börsenhändlern und -beratern",
+    "dk": "Virksomheder, der rådgiver om, hvordan en enkeltperson eller virksomhed skal investere.",
+    "en-GB": "Financial advisers, as opposed to stock dealers or consultants",
+    "en-US": "Financial advisers, as opposed to stock dealers or consultants",
+    "pt-BR": "Conselheiros financeiros.",
+    "pt-PT": "Conselheiros financeiros.",
+    "se": "Företag som ger råd om hur en individ eller ett företag bör investera.",
+    "zh-Hans": "指财务顾问，而不是股票交易商或顾问"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006022",
+    "https://www.wikidata.org/entity/Q557705"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خدمات استثمارية",
+    "de": "Investmentdienst",
+    "dk": "investeringsrådgivning",
+    "en-GB": "investment service",
+    "en-US": "investment service",
+    "es": "Asesoría de inversiones",
+    "fr": "Conseil financier",
+    "no": "finansrådgivere",
+    "pt-BR": "serviços de investimento",
+    "pt-PT": "serviços de investimento",
+    "se": "Ekonomisk rådgivning",
+    "zh-Hans": "投资服务"
+  },
+  "qcode": "medtop:20000280",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000280",
+  "aid": "iptc_20000280"
+}

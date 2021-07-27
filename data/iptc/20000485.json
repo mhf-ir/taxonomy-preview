@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07006000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/07000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Beruf, der ein spezielles Studium in Diagnostik, Behandlung Pflege und Prävention von Krankheiten, Verletzungen und medizinische Bedingungen verlangt.",
+    "dk": "Erhverv, der kræver formel træning i undersøgelsen, diagnose, behandling, pleje og forebyggelse af sygdom, medicinsk tilstand eller skade.",
+    "en-GB": "Profession requiring formal training in the study, diagnosis, treatment, care and prevention of disease, medical condition or injury.",
+    "en-US": "Profession requiring formal training in the study, diagnosis, treatment, care and prevention of disease, medical condition or injury.",
+    "pt-BR": "Profissão que requer formação formal no estudo, diagnóstico, tratamento, cuidado e prevenção de doenças, condições médicas ou lesões.",
+    "pt-PT": "Profissão que requer formação formal no estudo, diagnóstico, tratamento, cuidado e prevenção de doenças, condições médicas ou lesões.",
+    "se": "Profession som kräver formell träning i studiet, diagnosticeringen, behandlingen och förebyggandet av sjukdom eller skada.",
+    "zh-Hans": "需要在研究、诊断、治疗、护理和预防疾病、疾病病情或损伤方面接受正规培训的职业"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q66811410"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000486",
+    "medtop:20000487",
+    "medtop:20000492"
+  ],
+  "prefLabel": {
+    "ar": "مهنة طبية",
+    "de": "Medizin",
+    "dk": "sundhedspersonale",
+    "en-GB": "medical profession",
+    "en-US": "medical profession",
+    "es": "Profesión médica",
+    "fr": "Profession médicale",
+    "no": "helse- og omsorgsyrker",
+    "pt-BR": "profissão médica",
+    "pt-PT": "profissão médica",
+    "se": "Vårdyrken",
+    "zh-Hans": "医疗职业"
+  },
+  "qcode": "medtop:20000485",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000485",
+  "aid": "iptc_20000485"
+}

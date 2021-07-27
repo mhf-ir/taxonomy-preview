@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000430"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Artikel über das Vorkommen von erneuerbaren Energien in der Umwelt, wie Solar, Wind, Wasser, Biomasse und Erdwärme",
+    "dk": "Energikilder, der direkte eller indirekte er baseret på solstråling og derved kontinuerligt fornyes i samme hastighed som de bruges, f.eks. Solenergi, vindkraft, vandkraft og geotermisk energi.",
+    "en-GB": "The environmental impact of renewable energy, including solar, wind, hydro, biomass and geothermal",
+    "en-US": "The environmental impact of renewable energy, including solar, wind, hydro, biomass and geothermal",
+    "pt-BR": "Histórias sobre o impacto ambiental das energias renováveis, incluindo energia solar, eólica, hidrenergia, biomassa e energia geotérmica.",
+    "pt-PT": "Impacto ambiental das energias renováveis, incluindo energia solar, eólica, hidroenergia, biomassa e energia geotérmica.",
+    "se": "Energikällor som direkt eller indirekt baseras på solinstrålning och därigenom fortlöpande förnyas i samma takt som de används, t ex solkraft, vindkraft, vattenkraft och geotermisk energi.",
+    "zh-Hans": "可再生能源对环境的影响，包括太阳能、风能、水能、生物质能发电和地热能"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06001000",
+    "https://www.wikidata.org/entity/Q12705"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "طاقة متجددة",
+    "de": "Erneuerbare Energien",
+    "dk": "vedvarende energi",
+    "en-GB": "renewable energy",
+    "en-US": "renewable energy",
+    "es": "Energías renovables",
+    "fr": "Énergies renouvelables",
+    "no": "fornybar energi",
+    "pt-BR": "energias renováveis",
+    "pt-PT": "energias renováveis",
+    "se": "Förnybar energi",
+    "zh-Hans": "可再生能源"
+  },
+  "qcode": "medtop:20000436",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000436",
+  "aid": "iptc_20000436"
+}

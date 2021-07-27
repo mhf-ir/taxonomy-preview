@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000572"
+  ],
+  "created": "2019-07-30T12:00:00+00:00",
+  "definition": {
+    "de": "Maßnahmen, die ergriffen werden, um das Aussehen des Körpers dauerhaft oder semi-permanent zu verändern, wie Piercing und Tätowierung",
+    "dk": "Kropsudsmykning, der ændrer kroppens udseende. Det kan være i form af piercing eller tatovering.",
+    "en-GB": "Actions taken to permanently or semi-permanently change body appearance, such as piercing and tattooing",
+    "en-US": "Actions taken to permanently or semi-permanently change body appearance, such as piercing and tattooing",
+    "pt-BR": "Ações realizadas para alterar de modo permanente ou semipermanente a aparência do corpo, como piercings e tatuagens.",
+    "pt-PT": "Ações realizadas para alterar de modo permanente ou semipermanente a aparência do corpo, como piercings e tatuagens.",
+    "se": "Intresse i att smycka den egna kroppen, exempelvis med taturering eller piercing.",
+    "zh-Hans": "为永久或半永久改变身体外观而采取的行动，如穿孔和纹身"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q890057"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-30T12:00:00+00:00",
+  "narrower": [
+    "medtop:20001251",
+    "medtop:20001252"
+  ],
+  "prefLabel": {
+    "ar": "تعديل ملامح الجسم",
+    "de": "Körpermodifikation",
+    "dk": "kropsmodifikation",
+    "en-GB": "body modification",
+    "en-US": "body modification",
+    "es": "Modificación corporal",
+    "fr": "Modification corporelle",
+    "no": "kroppsmodifikasjon",
+    "pt-BR": "modificação corporal",
+    "pt-PT": "modificação corporal",
+    "se": "Kroppsdekoration",
+    "zh-Hans": "身体修饰"
+  },
+  "qcode": "medtop:20001250",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001250",
+  "aid": "iptc_20001250"
+}

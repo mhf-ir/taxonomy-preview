@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001123"
+  ],
+  "created": "2016-08-24T12:00:00+00:00",
+  "definition": {
+    "de": "Vom Internationalen Olympischen Komitee organisierte Spiele, die alle 4 Jahre im Sommer oder Winter stattfinden.",
+    "dk": "Sportslege arrangeret af Den Internationale Olympiske Komité og afholdt hvert 4. år om sommeren eller vinteren.",
+    "en-GB": "Games organised by the International Olympic Committee and held each 4 years in summer or winter.",
+    "en-US": "Games organized by the International Olympic Committee and held each 4 years in summer or winter.",
+    "pt-BR": "Evento esportivo internacional organizado pelo Comitê Olímpico Internacional e realizado a cada 4 anos no verão ou inverno.",
+    "pt-PT": "Evento desportivo internacional organizado pelo Comité Olímpico Internacional e realizado a cada 4 anos no verão ou inverno.",
+    "se": "Internationella idrottstävlingar med antik förebild som arrangeras vart fjärde år.",
+    "zh-Hans": "国际奥林匹克运动委员会组织的每4年一次的夏季或秋季的运动会"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q5389"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-08-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "دورة الألعاب الأولمبية",
+    "de": "Olympische Spiele",
+    "dk": "Olympiske Lege (OL)",
+    "en-GB": "Olympic Games",
+    "en-US": "Olympic Games",
+    "es": "Juegos Olímpicos",
+    "fr": "Jeux olympiques",
+    "no": "olympiske leker/OL",
+    "pt-BR": "jogos olímpicos",
+    "pt-PT": "jogos olímpicos",
+    "se": "Olympiska spel",
+    "zh-Hans": "奥林匹克运动会"
+  },
+  "qcode": "medtop:20001177",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001177",
+  "aid": "iptc_20001177"
+}

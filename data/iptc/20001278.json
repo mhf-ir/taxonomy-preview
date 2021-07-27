@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000349"
+  ],
+  "created": "2019-10-07T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Organisation, die sich im Besitz ihrer Mitglieder befindet und von ihnen gemeinsam geführt wird, die den Gewinn oder Nutzen ihrer Arbeit teilen",
+    "dk": "En virksomhed, der ejes og drives af sine medlemmer. Produktionen eller overskuddet deles mellem medlemmerne.",
+    "en-GB": "An organisation which is owned and run jointly by its members, who share the profits or benefits of their work",
+    "en-US": "An organization which is owned and run jointly by its members, who share the profits or benefits of their work",
+    "pt-BR": "Organização que pertence e é administrada conjuntamente por seus membros, que compartilham os lucros ou benefícios de seu trabalho.",
+    "pt-PT": "Organização que pertence e é administrada conjuntamente pelos seus membros, que compartilham os lucros ou benefícios do seu trabalho.",
+    "se": "En organisation eller företag som ägs och drivs gemensamt av sina medlemmar och som delar vinsterna från verksamheten.",
+    "zh-Hans": "一个由其成员共同拥有和经营的组织，成员之间共享工作的利润或利益"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q4539"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "جمعية تعاونية",
+    "de": "Kooperative",
+    "dk": "andelsselskab",
+    "en-GB": "cooperative",
+    "en-US": "cooperative",
+    "es": "Cooperativa",
+    "fr": "Coopérative",
+    "no": "samvirke",
+    "pt-BR": "cooperativa",
+    "pt-PT": "cooperativa",
+    "se": "Kooperativ",
+    "zh-Hans": "合作社"
+  },
+  "qcode": "medtop:20001278",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001278",
+  "aid": "iptc_20001278"
+}

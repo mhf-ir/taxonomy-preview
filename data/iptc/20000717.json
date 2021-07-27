@@ -1,0 +1,58 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/13000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Wissenschaften, die sich mit Materie, Energie und der physikalischen Welt beschäftigen, einschließlich Physik, Biologie, Chemie und Astronomie",
+    "dk": "De videnskaber, der beskæftiger sig med stof, energi og den fysiske verden, herunder fysik, biologi, kemi og astronomi.",
+    "en-GB": "The sciences that deal with matter, energy and the physical world, including physics, biology, chemistry and astronomy",
+    "en-US": "The sciences that deal with matter, energy and the physical world, including physics, biology, chemistry and astronomy",
+    "es": "Ciencias que tienen por objeto la materia, la energía y el mundo físico, incluyendo la física, la biología, la química y la astronomía",
+    "fr": "Sciences traitant de la matière, de l'énergie et du monde physique, et comprenant la physique, la biologie, la chimie et l'astronomie",
+    "pt-BR": "Ciências que lidam com a matéria, a energia e o mundo físico, incluindo a física, a biologia, a química e a astronomia.",
+    "pt-PT": "Ciências que lidam com a matéria, a energia e o mundo físico, incluindo a física, a biologia, a química e a astronomia.",
+    "se": "Den sammanfattande benämningen på de vetenskaper som studerar naturen, dess delar eller verkningar, t ex fysik, kemi, biologi och astronomi.",
+    "zh-Hans": "研究物质、能量和物理世界的科学，包括物理学、生物学、化学和天文学"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13004000",
+    "https://www.wikidata.org/entity/Q7991"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000718",
+    "medtop:20000719",
+    "medtop:20000725",
+    "medtop:20000726",
+    "medtop:20000727",
+    "medtop:20000728",
+    "medtop:20000729",
+    "medtop:20000730",
+    "medtop:20000731"
+  ],
+  "prefLabel": {
+    "ar": "علوم طبيعية",
+    "de": "Naturwissenschaft",
+    "dk": "naturvidenskab",
+    "en-GB": "natural science",
+    "en-US": "natural science",
+    "es": "Ciencias naturales",
+    "fr": "Sciences naturelles",
+    "no": "naturvitenskap",
+    "pt-BR": "ciências naturais",
+    "pt-PT": "ciências naturais",
+    "se": "Naturvetenskap",
+    "zh-Hans": "自然科学"
+  },
+  "qcode": "medtop:20000717",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000717",
+  "aid": "iptc_20000717"
+}

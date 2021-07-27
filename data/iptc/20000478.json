@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000464"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Behandlung der physischen, mentalen oder medizinischen Kondition mit nicht-chirurgischen Mitteln.",
+    "dk": "Behandling af fysiske, mentale eller medicinske tilstande på ikke-kirurgiske måder.",
+    "en-GB": "Treatment of physical, mental or medical conditions by non-surgical means",
+    "en-US": "Treatment of physical, mental or medical conditions by non-surgical means",
+    "pt-BR": "Tratamento de condições físicas, mentais ou médicas através de meios não cirúrgicos.",
+    "pt-PT": "Tratamento de condições físicas, mentais ou médicas através de meios não cirúrgicos.",
+    "se": "Särskild medicinsk eller psykologisk behandling ofta med aktivt deltagande av patienten.",
+    "zh-Hans": "通过非手术手段治疗身体、精神或病情"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07003005",
+    "https://www.wikidata.org/entity/Q179661"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علاج",
+    "de": "Therapie",
+    "dk": "terapi",
+    "en-GB": "therapy",
+    "en-US": "therapy",
+    "es": "Terapia",
+    "fr": "Thérapie",
+    "no": "behandling",
+    "pt-BR": "terapias",
+    "pt-PT": "terapias",
+    "se": "Terapi",
+    "zh-Hans": "治疗"
+  },
+  "qcode": "medtop:20000478",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000478",
+  "aid": "iptc_20000478"
+}

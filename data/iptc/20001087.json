@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Ausdauersport, bei dem die Wettkämpfer erst Schwimmen, dann Radfahren und dann auf der Straße laufen. Je nach Wettbewerb variieren die Distanzen, die olympische Version erfordert 1,5 km, 40 km und 10 km.",
+    "dk": "En udholdenheds multisport, hvor konkurrenterne først svømmer, cykler og derefter løber. Afstande varierer afhængigt af konkurrencen.",
+    "en-GB": "An endurance multi-sport where competitors first swim, then cycle and then run a road race. Distances vary according to the competition.",
+    "en-US": "An endurance multi-sport where competitors first swim, then cycle and then run a road race. Distances vary according to the competition.",
+    "pt-BR": "Prova de resistência que inclui três disciplinas diferentes - natação, ciclismo e corrida a pé - executadas em cadeia. As distâncias variam de acordo com a competição.",
+    "pt-PT": "Prova de resistência que inclui três disciplinas diferentes - natação, ciclismo e corrida a pé - executadas em cadeia. As distâncias variam de acordo com a competição.",
+    "se": "Kombinationstävling där de tävlande först simmar en sträcka, sedan cyklar en sträcka och slutligen springer. Totala längden kan variera mellan olika tävlingar.",
+    "zh-Hans": "一项比拼耐力的多形式运动，选手首先比赛游泳，然后比骑自行车，最后进行公路赛跑。距离根据比赛有所不同"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15066000",
+    "https://www.wikidata.org/entity/Q10980"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ترياثلون او سباق ثلاثي",
+    "de": "Triathlon",
+    "dk": "triatlon",
+    "en-GB": "triathlon",
+    "en-US": "triathlon",
+    "es": "Triatlón",
+    "fr": "Triathlon",
+    "no": "triatlon",
+    "pt-BR": "triatlo",
+    "pt-PT": "triatlo",
+    "se": "Triathlon",
+    "zh-Hans": "铁人三项"
+  },
+  "qcode": "medtop:20001087",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001087",
+  "aid": "iptc_20001087"
+}

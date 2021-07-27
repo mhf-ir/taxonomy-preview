@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000400"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jede Form der Ausbildung auf verschiedenen Ebenen, neben der Grundausbildung.",
+    "dk": "Alle former for uddannelse ud over grunduddannelse på forskellige uddannelsesniveauer.",
+    "en-GB": "Any form of education beyond basic education of several levels",
+    "en-US": "Any form of education beyond basic education of several levels",
+    "pt-BR": "Qualquer forma de educação que vai além da escolaridade básica.",
+    "pt-PT": "Qualquer forma de educação que vai além da escolaridade básica.",
+    "se": "All form av utbildning utöver grundutbildningen på olika utbildningsnivåer.",
+    "zh-Hans": "各级基础教育以外的任何形式的教育"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05002000",
+    "https://www.wikidata.org/entity/Q765192"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000403"
+  ],
+  "prefLabel": {
+    "ar": "تعليم اضافي",
+    "de": "Weiterbildung",
+    "dk": "videreuddannelse",
+    "en-GB": "further education",
+    "en-US": "further education",
+    "es": "Estudios adicionales",
+    "fr": "Enseignement post-scolaire",
+    "no": "videreutdannelse",
+    "pt-BR": "educação contínua",
+    "pt-PT": "educação contínua",
+    "se": "Vidareutbildning",
+    "zh-Hans": "继续教育"
+  },
+  "qcode": "medtop:20000402",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000402",
+  "aid": "iptc_20000402"
+}

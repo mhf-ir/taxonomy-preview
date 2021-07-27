@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000107"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Vorgang, bei dem Schuld oder Unschuld, richtig oder falsch festgesetzt und geklärt wird",
+    "dk": "Den retslige procedure, der afgør skyldsspørgsmål og udmåler en evt. straf.",
+    "en-GB": "The process by which evidence is presented and guilt, innocence or culpability is determined",
+    "en-US": "The process by which evidence is presented and guilt, innocence or culpability is determined",
+    "pt-BR": "Processo mediante o qual culpado ou inocente, certo ou errado é determinado e julgado.",
+    "pt-PT": "Processo mediante o qual se determina e julga a culpa ou a inocência, o certo e o errado.",
+    "se": "Proceduren då ett rättsfall tas upp i en domstol.",
+    "zh-Hans": "判断和决定有罪或无罪，或对或错的过程"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02008000",
+    "https://www.wikidata.org/entity/Q8016240"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000112",
+    "medtop:20000113",
+    "medtop:20000114",
+    "medtop:20000115",
+    "medtop:20000134"
+  ],
+  "prefLabel": {
+    "ar": "محاكمة",
+    "de": "Prozess (Gericht)",
+    "dk": "straffesag",
+    "en-GB": "trial (court)",
+    "en-US": "trial (court)",
+    "es": "Juicio",
+    "fr": "Procès",
+    "no": "rettssak",
+    "pt-BR": "julgamentos",
+    "pt-PT": "julgamentos",
+    "se": "Rättegång",
+    "zh-Hans": "审判"
+  },
+  "qcode": "medtop:20000111",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000111",
+  "aid": "iptc_20000111"
+}

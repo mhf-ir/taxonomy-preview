@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Ballsportart mit zwei Teams je 11 Spielern und einem gebogenen Stock. Das Ziel ist so viele Tore zu machen wie möglich",
+    "dk": "Holdsport mellem to ellevemandshold. Spilles på græs med bold og bøjede klubber.",
+    "en-GB": "A ball sport involving two teams of 11 players using curved sticks. The aim is to score as many goals as possible.",
+    "en-US": "A ball sport involving two teams of 11 players using curved sticks. The aim is to score as many goals as possible.",
+    "pt-BR": "Jogo de bola envolvendo duas equipes de 11 jogadores que usam tacos curvos na ponta inferior para bater uma bola pequena e dura. O objetivo é marcar o maior número de gols.",
+    "pt-PT": "Jogo de bola envolvendo duas equipas de 11 jogadores que usam tacos curvos na ponta inferior para bater uma bola pequena e dura. O objetivo é marcar o maior número de golos.",
+    "se": "Lagsport mellan elvamannalag. Spelas på gräs med boll och böjda klubbor.",
+    "zh-Hans": "集体球类运动。两个球队每队11人，使用曲面球棍，进球越多越好"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15024000",
+    "https://www.wikidata.org/entity/Q1455"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "هوكي",
+    "de": "Feldhockey",
+    "dk": "hockey",
+    "en-GB": "field hockey",
+    "en-US": "field hockey",
+    "es": "Hockey sobre césped",
+    "fr": "Hockey sur gazon",
+    "no": "landhockey",
+    "pt-BR": "hóquei em campo",
+    "pt-PT": "hóquei em campo",
+    "se": "Landhockey",
+    "zh-Hans": "曲棍球"
+  },
+  "qcode": "medtop:20000933",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000933",
+  "aid": "iptc_20000933"
+}

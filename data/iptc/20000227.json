@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000225"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verbindung zwischen Computern, die den Austausch von Daten ermöglichen",
+    "dk": "Kommunikationsnetværk specielt designet til datatransmission.",
+    "en-GB": "The interconnectivity between hardware that provides the medium for the transmission of data.",
+    "en-US": "The interconnectivity between hardware that provides the medium for the transmission of data.",
+    "pt-BR": "Interconexão entre os componentes de hardware que estabelece um meio de transmissão de dados.",
+    "pt-PT": "Interconexão entre os componentes de hardware que estabelece um meio de transmissão de dados.",
+    "se": "Kommunikations­nät som är sär­skilt av­sett för över­föring av data.",
+    "zh-Hans": "提供数据传输媒介的硬件之间的互连"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04003002",
+    "https://www.wikidata.org/entity/Q10336440"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ربط شبكات",
+    "de": "Netzwerk",
+    "dk": "datanetværk",
+    "en-GB": "computer networking",
+    "en-US": "computer networking",
+    "es": "Interconexión",
+    "fr": "Réseaux de communication",
+    "no": "datanettverk",
+    "pt-BR": "conexão em rede",
+    "pt-PT": "ligação em rede",
+    "se": "Datanätverk",
+    "zh-Hans": "计算机网络"
+  },
+  "qcode": "medtop:20000227",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000227",
+  "aid": "iptc_20000227"
+}

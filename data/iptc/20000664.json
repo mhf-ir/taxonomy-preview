@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000659"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Oberbegriff für christliche Kirchen und religiöse Gemeinschaften, entstanden aus der Reformation des 16. Jahrhunderts",
+    "dk": "Generel betegnelse for kristne kirker og religiøse samfund, der udviklede sig gennem reformeringen i det 16. århundrede.",
+    "en-GB": "General term for Christian churches and religious communities which developed through the reformation in the 16th century",
+    "en-US": "General term for Christian churches and religious communities which developed through the reformation in the 16th century",
+    "pt-BR": "Termo genérico para igrejas cristãs e comunidades religiosas que se formaram durante a Reforma Protestante do séc. XVI.",
+    "pt-PT": "Termo genérico para igrejas cristãs e comunidades religiosas que se formaram durante a Reforma Protestante do séc. XVI.",
+    "se": "En kristen riktning som uppkom genom utbrytning ur den katolska kyrkan och omfattar lutheraner och reformerta.",
+    "zh-Hans": "泛指16世纪通过宗教改革而发展起来的基督教教堂和宗教团体"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12009001",
+    "https://www.wikidata.org/entity/Q23540"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000665",
+    "medtop:20000666",
+    "medtop:20000667",
+    "medtop:20000668",
+    "medtop:20000669",
+    "medtop:20000670"
+  ],
+  "prefLabel": {
+    "ar": "بروتستانت",
+    "de": "Evangelische Kirche",
+    "dk": "protestant",
+    "en-GB": "Protestant",
+    "en-US": "Protestant",
+    "es": "Protestante",
+    "fr": "Protestantisme",
+    "no": "protestantisme",
+    "pt-BR": "protestante",
+    "pt-PT": "protestante",
+    "se": "Protestantism",
+    "zh-Hans": "新教"
+  },
+  "qcode": "medtop:20000664",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000664",
+  "aid": "iptc_20000664"
+}

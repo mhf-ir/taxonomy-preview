@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/07000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Spezielle Gesundheitsorganisationen, inklusive professionelle Zusammenschlüsse, non-profit und internationale Gruppen.",
+    "dk": "Specifikke organisationer fokuseret på sundhedsvæsen, såsom patientforeninger, faglige organisationer og internationale grupper.",
+    "en-GB": "Specific health organisations, including professional associations, non-profit and international groups",
+    "en-US": "Specific health organizations, including professional associations, non-profit and international groups",
+    "pt-BR": "Organizações de saúde específicas, incluindo associações profissionais, organismos sem fins lucrativos e grupos internacionais.",
+    "pt-PT": "Organizações de saúde específicas, incluindo associações profissionais, organismos sem fins lucrativos e grupos internacionais.",
+    "se": "Specifika organsationer inriktade på hälso- och sjukvård, såsom yrkesorganisationer och internationella grupperingar.",
+    "zh-Hans": "特定的卫生组织，包括专业协会、非营利性国际组织"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07004000",
+    "https://www.wikidata.org/entity/Q5691113"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "منظمات صحية",
+    "de": "Gesundheitsorganisation",
+    "dk": "sundhedsorganisation",
+    "en-GB": "health organisations",
+    "en-US": "health organizations",
+    "es": "Organizaciones de salud",
+    "fr": "Organisations de santé",
+    "no": "helseorganisasjon",
+    "pt-BR": "organizações de saúde",
+    "pt-PT": "organizações de saúde",
+    "se": "Hälsovårdsorganisationer",
+    "zh-Hans": "卫生组织"
+  },
+  "qcode": "medtop:20000463",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000463",
+  "aid": "iptc_20000463"
+}

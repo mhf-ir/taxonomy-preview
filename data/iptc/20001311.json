@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001157"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Aus der Sowjetunion stammender Kampfsportstil, der als eine Form des Amateur-Wrestlings anerkannt ist",
+    "dk": "Sovjettisk kampsport, der minder om brydning.",
+    "en-GB": "Style of martial art originating in the Soviet Union that is recognised as a form of amateur wrestling",
+    "en-US": "Style of martial art originating in the Soviet Union that is recognized as a form of amateur wrestling",
+    "pt-BR": "Estilo de arte marcial originário da União Soviética que é reconhecido como uma forma de luta livre amadora.",
+    "pt-PT": "Estilo de arte marcial originário da União Soviética que é reconhecido como uma forma de luta livre amadora.",
+    "se": "Brottningsliknande sport med rötter i Sovjetunionen.",
+    "zh-Hans": "起源于苏联的一种武术形式，被认为是业余摔跤的一种形式"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q106500"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "قتال السامبو",
+    "de": "Sambo",
+    "dk": "sambo",
+    "en-GB": "sambo (martial art)",
+    "en-US": "sombo (martial art)",
+    "es": "Sambo (arte marcial)",
+    "fr": "Sambo (art martial)",
+    "no": "sambo",
+    "pt-BR": "sambo",
+    "pt-PT": "sambo",
+    "se": "Sambo",
+    "zh-Hans": "桑搏"
+  },
+  "qcode": "medtop:20001311",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001311",
+  "aid": "iptc_20001311"
+}

@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13019000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/13000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Anwendung der biologisch basierten Wissenschaft auf medizinische Gebiete wie Forschung, Gesundheitsmonitoring oder medizinische Behandlung",
+    "dk": "Anvendelse af biologibaseret forskning inden for medicinske områder, såsom forskning, kontrol af sundhedsmæssige tilstande eller medicinsk behandling.",
+    "en-GB": "The application of biology-based science to medical fields such as research, health monitoring or medical treatment",
+    "en-US": "The application of biology-based science to medical fields such as research, health monitoring or medical treatment",
+    "es": "Aplicación de la ciencia basada en la biología a campos médicos como la investigación, los controles de salud o el tratamiento médico",
+    "fr": "Application de la science basée sur la biologie à des domaines médicaux tels que la recherche, les contrôles de santé ou le traitement médical",
+    "pt-BR": "Aplicação da ciência baseada na biologia em áreas médicas, como investigação, monitoramento de saúde ou tratamento médico.",
+    "pt-PT": "Aplicação da ciência baseada na biologia em áreas médicas, como investigação, monitoramento de saúde ou tratamento médico.",
+    "se": "Applicerandet av biologibaserad forskning på medicinska områden, såsom forskning, kontroll av hälsotillstånd eller medicinsk behandling.",
+    "zh-Hans": "以生物学为基础的科学在医学领域的应用，如研究、健康监测或医疗"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q16745563"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000711"
+  ],
+  "prefLabel": {
+    "ar": "علم الطب الحيوي",
+    "de": "Biomedizin",
+    "dk": "biomedicinsk videnskab",
+    "en-GB": "biomedical science",
+    "en-US": "biomedical science",
+    "es": "Ciencias biomédicas",
+    "fr": "Sciences biomédicales",
+    "no": "biomedisinsk vitenskap",
+    "pt-BR": "ciência biomédica",
+    "pt-PT": "ciência biomédica",
+    "se": "Biomedicin",
+    "zh-Hans": "生物医学科学"
+  },
+  "qcode": "medtop:20000710",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000710",
+  "aid": "iptc_20000710"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000031"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Entwurf und Gestaltung von Gebäuden, Denkmälern und deren Umgebung",
+    "dk": "Den mere visuelle del af beslutningen om, hvordan bygninger, monumenter og anlagte områder skal se ud.",
+    "en-GB": "The design of buildings, monuments and the spaces around them",
+    "en-US": "The design of buildings, monuments and the spaces around them",
+    "es": "El diseño de edificios, monumentos y de los espacios que los rodean",
+    "fr": "Conception des bâtiments, des monuments et des espaces qui les entourent",
+    "pt-BR": "Construção de edifícios, monumentos e espaços envolventes.",
+    "pt-PT": "Arte de projetar e construir edifícios, monumentos e espaços envolventes.",
+    "se": "Den mer visuella delen av att bestämma hur byggnadsverk, monument och anlagda områden ska se ut.",
+    "zh-Hans": "建筑物、纪念碑及其周围空间的设计"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01002000",
+    "https://www.wikidata.org/entity/Q12271"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "هندسة معمارية",
+    "de": "Architektur",
+    "dk": "arkitektur",
+    "en-GB": "architecture",
+    "en-US": "architecture",
+    "es": "Arquitectura",
+    "fr": "Architecture",
+    "no": "arkitektur",
+    "pt-BR": "arquitetura",
+    "pt-PT": "arquitetura",
+    "se": "Arkitektur",
+    "zh-Hans": "建筑设计"
+  },
+  "qcode": "medtop:20000032",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000032",
+  "aid": "iptc_20000032"
+}

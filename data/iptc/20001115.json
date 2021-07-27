@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15073000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001108"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkampf, an dem die besten Wettkämpfer oder Teams eines Landes teilnehmen. Meisterschaft genannt",
+    "dk": "Mesterskaber, hvor atleter eller hold fra et bestemt land kan deltage.",
+    "en-GB": "A competition where individuals or teams from one country may participate. Called a *Championship*",
+    "en-US": "A competition where individuals or teams from one country may participate. Called a *Championship*",
+    "pt-BR": "Competição em que podem participar indivíduos ou equipes de um país. Designa-se por *Campeonato*.",
+    "pt-PT": "Competição em que podem participar indivíduos ou equipas de um país. Designa-se por *Campeonato*.",
+    "se": "Mästerskap där atleter eller lag från ett visst land kan delta.",
+    "zh-Hans": "全国的个人或团体参加的本国家范围内的锦标赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3270632"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بطولة وطنية",
+    "de": "Nationale Meisterschaft",
+    "dk": "nationalt mesterskab",
+    "en-GB": "national championship",
+    "en-US": "national championship",
+    "es": "Campeonato nacional",
+    "fr": "Championnat national",
+    "no": "nasjonalt mesterskap",
+    "pt-BR": "campeonato nacional",
+    "pt-PT": "campeonato nacional",
+    "se": "Nationella mästerskap",
+    "zh-Hans": "全国锦标赛"
+  },
+  "qcode": "medtop:20001115",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001115",
+  "aid": "iptc_20001115"
+}

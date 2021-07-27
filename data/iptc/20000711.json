@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000710"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alle Aspekte des menschlichen Verständnisses sowie der methodischen Erforschung der Natur-, Form- und Sozialwissenschaften, wie Astronomie, Linguistik oder Ökonomie",
+    "dk": "Den videnskabelige manipulation af levende organismer og biologiske processer til videnskabelige, medicinske eller landbrugsmæssige formål.",
+    "en-GB": "The scientific manipulation of living organisms and biological processes for scientific, medical or agricultural purposes",
+    "en-US": "The scientific manipulation of living organisms and biological processes for scientific, medical or agricultural purposes",
+    "es": "Manipulación científica de organismos vivos y procesos biológicos para fines científicos, médicos o agrícolas",
+    "fr": "Manipulation scientifique d'organismes vivants et de processus biologiques à des fins scientifiques, médicales ou agricoles",
+    "pt-BR": "Manipulação científica de organismos vivos e processos biológicos para fins científicos, médicos ou agrícolas.",
+    "pt-PT": "Manipulação científica de organismos vivos e processos biológicos para fins científicos, médicos ou agrícolas.",
+    "se": "Det vetenskapliga manipulerandet av levande organismer och biologiska processer i vetenskapligt, medicinskt eller jordbrukande syfte.",
+    "zh-Hans": "以科学、医学或农业为目的，对生物体和生物学过程的科学操作"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13019000",
+    "https://www.wikidata.org/entity/Q7108"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علم التكنولوجيا الحيوية",
+    "de": "Biotechnologie",
+    "dk": "bioteknologi",
+    "en-GB": "biotechnology",
+    "en-US": "biotechnology",
+    "es": "Biotecnología",
+    "fr": "Biotechnologie",
+    "no": "bioteknologi",
+    "pt-BR": "biotecnologia",
+    "pt-PT": "biotecnologia",
+    "se": "Bioteknologi",
+    "zh-Hans": "生物技术"
+  },
+  "qcode": "medtop:20000711",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000711",
+  "aid": "iptc_20000711"
+}

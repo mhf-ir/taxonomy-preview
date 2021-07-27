@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000464"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kontrollierter Konsum von Nahrungsmitteln",
+    "dk": "Sammensætning af kost over en længere periode, især dem, der er fastlagt af medicinske grunde.",
+    "en-GB": "Controlled food consumption",
+    "en-US": "Controlled food consumption",
+    "pt-BR": "Consumo controlado de comida.",
+    "pt-PT": "Consumo controlado de comida.",
+    "se": "Sammansättning av kost under längre period, särskilt sådan som är fastställd av medicinska skäl.",
+    "zh-Hans": "控制食品摄入"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07003003",
+    "https://www.wikidata.org/entity/Q26869695"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000466"
+  ],
+  "prefLabel": {
+    "ar": "نظام غذائي",
+    "de": "Diät",
+    "dk": "diæt",
+    "en-GB": "diet",
+    "en-US": "diet",
+    "es": "Dieta",
+    "fr": "Régime",
+    "no": "kosthold",
+    "pt-BR": "dieta",
+    "pt-PT": "dieta",
+    "se": "Diet",
+    "zh-Hans": "节食"
+  },
+  "qcode": "medtop:20000465",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000465",
+  "aid": "iptc_20000465"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000470"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Diagnostische, Behandlung und Prävention von Krankheiten, basierend auf modernen wissenschaftlichen Forschungen der westlichen Welt",
+    "dk": "Praksis med diagnose, behandling og forebyggelse af sygdom baseret på moderne videnskabelig forskning på den vestlige halvkugle.",
+    "en-GB": "The practice of diagnosis, treatment and prevention of disease based on modern scientific research in the western hemisphere.",
+    "en-US": "The practice of diagnosis, treatment and prevention of disease based on modern scientific research in the western hemisphere.",
+    "pt-BR": "Prática de diagnóstico, tratamento e prevenção de doenças baseada na investigação científica moderna do hemisfério ocidental.",
+    "pt-PT": "Prática de diagnóstico, tratamento e prevenção de doenças baseada na investigação científica moderna do hemisfério ocidental.",
+    "se": "Utövandet av diagnosticering, behandling och förebyggande av sjukdomar baserat på vetenskaplig forskning i den västra hemisfären.",
+    "zh-Hans": "基于西半球现代科学研究的疾病诊断，治疗和预防实践"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07007003",
+    "https://www.wikidata.org/entity/Q691640"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "غرب",
+    "de": "Schulmedizin",
+    "dk": "vestlig medicin",
+    "en-GB": "western medicine",
+    "en-US": "western medicine",
+    "es": "Medicina occidental",
+    "fr": "Médecine occidentale",
+    "no": "kunnskapsbasert medisin",
+    "pt-BR": "medicina ocidental",
+    "pt-PT": "medicina ocidental",
+    "se": "Västerländsk medicin",
+    "zh-Hans": "西医"
+  },
+  "qcode": "medtop:20000474",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000474",
+  "aid": "iptc_20000474"
+}

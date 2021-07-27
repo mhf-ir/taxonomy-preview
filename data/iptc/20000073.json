@@ -1,0 +1,54 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11002003"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/16000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Organisierte Aktivitäten um einen Konflikt oder Krieg zu beenden, üblicherweise unter Einsatz von Friedensverhandlungen und Friedensvereinbarungen",
+    "dk": "Foranstaltninger til afslutning af en krig eller konflikt, ofte gennem fredsforhandlinger eller -aftaler.",
+    "en-GB": "Organized actions to end a war or conflict, usually involving peace negotiations and agreements",
+    "en-US": "Organized actions to end a war or conflict, usually involving peace negotiations and agreements",
+    "es": "Acciones organizadas para poner fin a una guerra o conflicto, generalmente con negociaciones y acuerdos de paz",
+    "fr": "Actions organisées pour mettre fin à une guerre ou à un conflit, impliquant généralement des négociations de paix et des accords",
+    "pt-BR": "Ações organizadas para pôr fim a uma guerra ou conflito, que envolvem geralmente negociações de paz e acordos.",
+    "pt-PT": "Ações organizadas para pôr fim a uma guerra ou conflito, que envolvem geralmente negociações de paz e acordos.",
+    "se": "Åtgärder för att göra slut på ett krig eller en konflikt, ofta genom fredssamtal eller -avtal.",
+    "zh-Hans": "有组织的结束战争或冲突的行动，通常包括和平谈判和协议"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2632158"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000074",
+    "medtop:20000075",
+    "medtop:20000076"
+  ],
+  "prefLabel": {
+    "ar": "عملية سلام",
+    "de": "Friedensprozess",
+    "dk": "fredsproces",
+    "en-GB": "peace process",
+    "en-US": "peace process",
+    "es": "Proceso de paz",
+    "fr": "Processus de paix",
+    "no": "fredsbygging",
+    "pt-BR": "processo de paz",
+    "pt-PT": "processo de paz",
+    "se": "Fredsprocess",
+    "zh-Hans": "和平进程"
+  },
+  "qcode": "medtop:20000073",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000073",
+  "aid": "iptc_20000073"
+}

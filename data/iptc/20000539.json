@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000538"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Einrichtungen, die von Einzelnen besucht werden, aufgrund gemeinsamer Interessen.",
+    "dk": "Organisation med medlemmer, der deler en interesse.",
+    "en-GB": "Organisations joined by individuals because of similar interests",
+    "en-US": "organizations joined by individuals because of similar interests",
+    "pt-BR": "Organizações a que as pessoas aderem por partilharem interesses similares.",
+    "pt-PT": "Organizações a que as pessoas aderem por partilharem interesses similares.",
+    "se": "Organisationer med medlemmar som delar ett intresse.",
+    "zh-Hans": "个人出于类似兴趣而加入的组织"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10008000",
+    "https://www.wikidata.org/entity/Q48204"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نادي وجمعية",
+    "de": "Verein",
+    "dk": "klub og forening",
+    "en-GB": "club and association",
+    "en-US": "club and association",
+    "es": "Clubes y asociaciones",
+    "fr": "Associations et clubs",
+    "no": "forening",
+    "pt-BR": "clubes e associações",
+    "pt-PT": "clubes e associações",
+    "se": "Klubbar och föreningar",
+    "zh-Hans": "俱乐部和协会"
+  },
+  "qcode": "medtop:20000539",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000539",
+  "aid": "iptc_20000539"
+}

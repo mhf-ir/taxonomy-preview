@@ -1,0 +1,66 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/04000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gruppierung der Wirtschaftszweige durch Produkte oder Dienstleistungen",
+    "dk": "Gruppering af økonomiske aktiviteter efter produkt eller service.",
+    "en-GB": "Grouping of economic activities by products or services.",
+    "en-US": "Grouping of economic activities by products or services.",
+    "pt-BR": "Agrupamento de atividades econômicas por produtos ou serviços.",
+    "pt-PT": "Agrupamento de atividades económicas por produtos ou serviços.",
+    "se": "Gruppering av ekonomiska aktiviteter indelade efter produkter eller tjänster.",
+    "zh-Hans": "按产品或服务分组的经济活动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3958441"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000210",
+    "medtop:20000217",
+    "medtop:20000225",
+    "medtop:20000235",
+    "medtop:20000243",
+    "medtop:20000252",
+    "medtop:20000256",
+    "medtop:20000271",
+    "medtop:20000294",
+    "medtop:20000304",
+    "medtop:20000316",
+    "medtop:20000322",
+    "medtop:20000331",
+    "medtop:20000337",
+    "medtop:20001160",
+    "medtop:20001170",
+    "medtop:20001244"
+  ],
+  "prefLabel": {
+    "ar": "قطاع اقتصادي",
+    "de": "Branchen",
+    "dk": "økonomisk sektor",
+    "en-GB": "economic sector",
+    "en-US": "economic sector",
+    "es": "Sector económico",
+    "fr": "Secteurs économiques",
+    "no": "økonomisk sektor",
+    "pt-BR": "setor econômico",
+    "pt-PT": "setor económico",
+    "se": "Näringsliv",
+    "zh-Hans": "经济门类"
+  },
+  "qcode": "medtop:20000209",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000209",
+  "aid": "iptc_20000209"
+}

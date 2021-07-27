@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/11000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Nicht gewalttätige Beziehungen zwischen zwei Staaten in Form von Verhandlungen, Verträgen und persönliche Treffen",
+    "dk": "Ikke-voldelige forhold mellem nationer gennem forhandling, traktat, diplomati eller personlige møder.",
+    "en-GB": "Non-violent relations between nations through negotiation, treaty, or personal meetings",
+    "en-US": "Non-violent relations between nations through negotiation, treaty, or personal meetings",
+    "pt-BR": "Relações não violentas entre nações através de negociações, tratados ou reuniões pessoais.",
+    "pt-PT": "Relações não violentas entre nações através de negociações, tratados ou reuniões pessoais.",
+    "se": "Staters utrikespolitik och ömsesidiga relationer, t ex förhandlingar, avtal och personliga möten.",
+    "zh-Hans": "国家间通过谈判、条约或私人会议建立的非暴力关系"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q166542",
+    "http://cv.iptc.org/newscodes/subjectcode/11002002"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000639",
+    "medtop:20000642",
+    "medtop:20000643",
+    "medtop:20000644",
+    "medtop:20000645",
+    "medtop:20001316"
+  ],
+  "prefLabel": {
+    "ar": "معاهدات ومنظمات دولية",
+    "de": "Internationale Beziehung",
+    "dk": "international forbindelse",
+    "en-GB": "international relations",
+    "en-US": "international relations",
+    "es": "Relaciones internacionales",
+    "fr": "Relations internationales",
+    "no": "internasjonal politikk",
+    "pt-BR": "relações internacionais",
+    "pt-PT": "relações internacionais",
+    "se": "Internationella relationer",
+    "zh-Hans": "国际关系"
+  },
+  "qcode": "medtop:20000638",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000638",
+  "aid": "iptc_20000638"
+}

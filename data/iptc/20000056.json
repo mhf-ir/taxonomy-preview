@@ -1,0 +1,54 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/16000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Auseinandersetzungen zwischen gegensätzlichen Gruppen, unter Einsatz von Waffen",
+    "dk": "Tvister mellem væbnede tropper, ikke nødvendigvis formelle krige.",
+    "en-GB": "Disputes between opposing groups involving the use of weapons, but not necessarily formally declared wars",
+    "en-US": "Disputes between opposing groups involving the use of weapons, but not necessarily formally declared wars",
+    "es": "Conflictos entre grupos opuestos que involucran el uso de armas, pero no necesariamente guerras declaradas",
+    "fr": "Conflits entre groupes opposés impliquant l'utilisation d'armes, pas nécessairement des guerres déclarées",
+    "pt-BR": "Disputas entre grupos opostos, envolvendo o uso de armas, mas não sendo guerra declarada.",
+    "pt-PT": "Disputas entre grupos opostos, envolvendo o uso de armas, mas não sendo guerra declarada.",
+    "se": "Dispyter mellan väpnade trupper, inte nödvändigtvis formella krig.",
+    "zh-Hans": "敌对团体之间的争端涉及使用武器，但不一定是正式宣战"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16002000",
+    "https://www.wikidata.org/entity/Q350604"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000057",
+    "medtop:20000058",
+    "medtop:20000060",
+    "medtop:20000061",
+    "medtop:20000062"
+  ],
+  "prefLabel": {
+    "ar": "نزاع مسلح",
+    "de": "Bewaffneter Konflikt",
+    "dk": "væbnet konflikt",
+    "en-GB": "armed conflict",
+    "en-US": "armed conflict",
+    "es": "Conflictos armados",
+    "fr": "Conflit armé",
+    "no": "væpnet konflikt",
+    "pt-BR": "conflito armado",
+    "pt-PT": "conflito armado",
+    "se": "Militära konflikter",
+    "zh-Hans": "武装冲突"
+  },
+  "qcode": "medtop:20000056",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000056",
+  "aid": "iptc_20000056"
+}

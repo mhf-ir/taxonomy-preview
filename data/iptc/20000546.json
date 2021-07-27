@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10001000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000540"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Spiel, was logische Fragen und Probleme löst",
+    "dk": "Krydsord og andre logiske gåder.",
+    "en-GB": "A game played solving logic problems for entertainment",
+    "en-US": "A game played solving logic problems for entertainment",
+    "pt-BR": "Jogo de entretenimento que consiste na resolução de um problema lógico.",
+    "pt-PT": "Jogo de entretenimento que consiste na resolução de um problema lógico.",
+    "se": "Korsord och andra logiska gåtor.",
+    "zh-Hans": "为娱乐而进行的解决逻辑问题的游戏"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3177897"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "احجية",
+    "de": "Puzzle",
+    "dk": "kryds og gåder",
+    "en-GB": "puzzle",
+    "en-US": "puzzle",
+    "es": "Rompecabezas",
+    "fr": "Casse-tête",
+    "no": "puslespill",
+    "pt-BR": "quebra-cabeça",
+    "pt-PT": "quebra-cabeças",
+    "se": "Kryss och pyssel",
+    "zh-Hans": "猜谜游戏"
+  },
+  "qcode": "medtop:20000546",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000546",
+  "aid": "iptc_20000546"
+}

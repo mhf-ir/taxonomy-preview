@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ziel- und Weitwerfen mit Angelgeräten",
+    "dk": "Alle former for konkurrencer, som omhandler lystfiskeri.",
+    "en-GB": "Using fishing equipment to hit a target and score points",
+    "en-US": "Using fishing equipment to hit a target and score points",
+    "pt-BR": "Uso de equipamento de pesca para atingir um alvo e marcar pontos.",
+    "pt-PT": "Uso de equipamento de pesca para atingir um alvo e marcar pontos.",
+    "se": "De tävlande använder kastspön, samma som när man fiskar, men med en vikt i stället för drag. Det gäller att träffa olika markerade mål och samla poäng.",
+    "zh-Hans": "用捕鱼工具击中目标而得分"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15079000",
+    "https://www.wikidata.org/entity/Q933235"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "رمي",
+    "de": "Casting (Angeln)",
+    "dk": "fiskekonkurrence",
+    "en-GB": "casting (fishing)",
+    "en-US": "casting (fishing)",
+    "es": "Lanzamiento (pesca)",
+    "fr": "Casting (pêche)",
+    "no": "casting",
+    "pt-BR": "casting (pesca)",
+    "pt-PT": "casting (pesca)",
+    "se": "Casting",
+    "zh-Hans": "钓鱼"
+  },
+  "qcode": "medtop:20000883",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000883",
+  "aid": "iptc_20000883"
+}

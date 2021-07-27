@@ -1,0 +1,66 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/11000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das regulierende System eines Landes",
+    "dk": "Systemet for styring af et land.",
+    "en-GB": "The system for ruling a country",
+    "en-US": "The system for ruling a country",
+    "pt-BR": "Sistema que administra um país.",
+    "pt-PT": "Sistema que administra um país.",
+    "se": "Systemet för att styra ett land.",
+    "zh-Hans": "统治国家的组织"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11006000",
+    "https://www.wikidata.org/entity/Q7188"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000594",
+    "medtop:20000597",
+    "medtop:20000598",
+    "medtop:20000605",
+    "medtop:20000606",
+    "medtop:20000607",
+    "medtop:20000609",
+    "medtop:20000610",
+    "medtop:20000611",
+    "medtop:20000612",
+    "medtop:20000613",
+    "medtop:20000614",
+    "medtop:20000615",
+    "medtop:20000618",
+    "medtop:20001173",
+    "medtop:20001259",
+    "medtop:20001260",
+    "medtop:20001261",
+    "medtop:20001262"
+  ],
+  "prefLabel": {
+    "ar": "حكومة",
+    "de": "Regierung",
+    "dk": "regering og Folketing",
+    "en-GB": "government",
+    "en-US": "government",
+    "es": "Gobierno",
+    "fr": "Gouvernement",
+    "no": "styresmakt",
+    "pt-BR": "governo",
+    "pt-PT": "governo",
+    "se": "Regering och riksdag",
+    "zh-Hans": "政府"
+  },
+  "qcode": "medtop:20000593",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000593",
+  "aid": "iptc_20000593"
+}

@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/06000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Umweltangelegenheiten bezogen auf die Ausbeutung der natürlichen Ressourcen durch die menschliche Verwertung.",
+    "dk": "Miljøspørgsmål i forbindelse med udnyttelse af naturressourcer.",
+    "en-GB": "Environmental issues related to the exploitation of natural resources",
+    "en-US": "Environmental issues related to the exploitation of natural resources",
+    "pt-BR": "Questões ambientais relativas à exploração de recursos naturais.",
+    "pt-PT": "Questões ambientais relativas à exploração de recursos naturais.",
+    "se": "Miljöfrågor som rör användbara tillgångar i naturen.",
+    "zh-Hans": "与自然资源开发相关的环境问题"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06006000",
+    "https://www.wikidata.org/entity/Q188460"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000431",
+    "medtop:20000432",
+    "medtop:20000435",
+    "medtop:20000436",
+    "medtop:20000437"
+  ],
+  "prefLabel": {
+    "ar": "موارد طبيعية",
+    "de": "Ressourcen",
+    "dk": "naturressource",
+    "en-GB": "natural resources",
+    "en-US": "natural resources",
+    "es": "Recursos naturales",
+    "fr": "Ressources naturelles",
+    "no": "naturressurs",
+    "pt-BR": "recursos naturais",
+    "pt-PT": "recursos naturais",
+    "se": "Naturresurser",
+    "zh-Hans": "自然资源"
+  },
+  "qcode": "medtop:20000430",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000430",
+  "aid": "iptc_20000430"
+}

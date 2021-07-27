@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000509"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Derjenige, der Arbeiter beschäftigt und ihre Löhne und andere Vergütungen zahlt.",
+    "dk": "Den person, der beskæftiger arbejdstagere og betaler lønninger og andre fordele til arbejdstagerne.",
+    "en-GB": "People and organisations that pay employees to provide services",
+    "en-US": "People and organizations that pay employees to provide services",
+    "pt-BR": "Pessoa que emprega trabalhadores e paga salários e outros benefícios.",
+    "pt-PT": "Pessoa que emprega trabalhadores e paga salários e outros benefícios.",
+    "se": "Juridisk eller fysisk person som betalar en annan person, arbetstagaren, lön för att få visst arbete utfört.",
+    "zh-Hans": "雇佣工人并向工人支付工资和其他福利的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09015000",
+    "https://www.wikidata.org/entity/Q3053337"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "رب العمل",
+    "de": "Arbeitgeber",
+    "dk": "arbejdsgiver",
+    "en-GB": "employer",
+    "en-US": "employer",
+    "es": "Empleadores",
+    "fr": "Employeur",
+    "no": "arbeidsgiver",
+    "pt-BR": "empregador",
+    "pt-PT": "empregador",
+    "se": "Arbetsgivare",
+    "zh-Hans": "雇主"
+  },
+  "qcode": "medtop:20000513",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000513",
+  "aid": "iptc_20000513"
+}

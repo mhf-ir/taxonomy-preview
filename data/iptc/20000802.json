@@ -1,0 +1,56 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14025002"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/14000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Menschliche Lebensbedingungen",
+    "dk": "Mangler i levevilkårene for en befolkning, der berører så mange mennesker, at staten eller individuelle organisationer må gribe ind.",
+    "en-GB": "Issues related to human rights, human welfare and other areas of societal concern",
+    "en-US": "Issues related to human rights, human welfare and other areas of societal concern",
+    "pt-BR": "Problemas que afetam a vida dos indivíduos.",
+    "pt-PT": "Problemas que afetam a vida dos indivíduos.",
+    "se": "Brister i en befolknings levnadsförhållanden som gäller så många människor att staten eller enskilda organisationer anses böra ingripa.",
+    "zh-Hans": "影响个人生活的问题"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1920219"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000803",
+    "medtop:20000804",
+    "medtop:20000805",
+    "medtop:20000806",
+    "medtop:20000807",
+    "medtop:20001193",
+    "medtop:20001284"
+  ],
+  "prefLabel": {
+    "ar": "مشكلة اجتماعية",
+    "de": "Soziales Problem",
+    "dk": "socialt problem",
+    "en-GB": "social problem",
+    "en-US": "social problem",
+    "es": "Problemas sociales",
+    "fr": "Problèmes sociaux",
+    "no": "sosialt problem",
+    "pt-BR": "problemas sociais",
+    "pt-PT": "problemas sociais",
+    "se": "Sociala problem",
+    "zh-Hans": "社会问题"
+  },
+  "qcode": "medtop:20000802",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000802",
+  "aid": "iptc_20000802"
+}

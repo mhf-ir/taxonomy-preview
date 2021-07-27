@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000171"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Anzeichen dass ein Unternehmen finanziell in Bedrängnis ist, aber noch nicht Insolvenz angemeldet hat",
+    "dk": "Indikationer om, at et selskab har økonomiske vanskeligheder, men endnu ikke har indgivet konkurs.",
+    "en-GB": "Indications that a company is financially distressed  but not having filed for bankruptcy yet",
+    "en-US": "Indications that a company is financially distressed but not having filed for bankruptcy yet",
+    "pt-BR": "Notícias sobre empresas com dificuldades financeiras mas que ainda não declararam falência.",
+    "pt-PT": "Notícias sobre empresas com dificuldades financeiras mas que ainda não declararam falência.",
+    "se": "Indikationer på att ett företag har det finansiellt svårt, men inte har ansökt om konkurs ännu.",
+    "zh-Hans": "公司财务状况不佳但尚未申请破产"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016017",
+    "https://www.wikidata.org/entity/Q1785212"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شركة منكوبة ماليا",
+    "de": "Unternehmenskrise",
+    "dk": "økonomisk nødstedt virksomhed",
+    "en-GB": "financially distressed company",
+    "en-US": "financially distressed company",
+    "es": "Empresas con problemas financieros",
+    "fr": "Entreprise en difficulté",
+    "no": "konkurstruet selskap",
+    "pt-BR": "empresa com dificuldades financeiras",
+    "pt-PT": "empresa com dificuldades financeiras",
+    "se": "Finansiella svårigheter",
+    "zh-Hans": "财务困境"
+  },
+  "qcode": "medtop:20000182",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000182",
+  "aid": "iptc_20000182"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000696"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Ein christlicher religiöser Ritus, bei dem man einer Person Weihwasser auf die Stirn spritzt oder sie in Wasser taucht, was Reinigung und Aufnahme in die Kirche symbolisiert.",
+    "dk": "En kristen ceremoni, hvor man dypper en person i vand som et symbol på renselse og dens indtræden i den kristne kirke.",
+    "en-GB": "A Christian religious rite involving the sprinkling of holy water onto a person's forehead or of immersion them in water, symbolizing purification and admission to the Church",
+    "en-US": "A Christian religious rite involving the sprinkling of holy water onto a person's forehead or of immersion them in water, symbolizing purification and admission to the Church",
+    "pt-BR": "Rito religioso cristão, realizado através da aspersão de água benta na testa de uma pessoa ou de sua imersão na água, simbolizando a purificação e a admissão na Igreja.",
+    "pt-PT": "Rito religioso cristão, realizado através da aspersão de água benta na testa de uma pessoa ou da sua imersão na água, simbolizando a purificação e a admissão na Igreja.",
+    "se": "Kristen ritual där en person får heligt vatten på sig, eller nedsänks i heligt vatten. Ska representera upptagandet i den kyrliga gemenskapen. Ofta i samband med namngivning.",
+    "zh-Hans": "又译受洗、施洗，一种基督教仪式，通过把圣水撒向受洗者的额头或将受洗者浸入水中来象征净化并成为教徒"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q35856"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "العمادة",
+    "de": "Taufe",
+    "dk": "dåb",
+    "en-GB": "baptism",
+    "en-US": "baptism",
+    "es": "Bautismo",
+    "fr": "Baptême",
+    "no": "dåp",
+    "pt-BR": "batismo",
+    "pt-PT": "batismo",
+    "se": "Dop",
+    "zh-Hans": "洗礼"
+  },
+  "qcode": "medtop:20001273",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001273",
+  "aid": "iptc_20001273"
+}

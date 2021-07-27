@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000337"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verkehrsberichte und/oder Warnhinweise",
+    "dk": "Trafikmeldinger.",
+    "en-GB": "Traffic reports and/or warnings",
+    "en-US": "Traffic reports and/or warnings",
+    "pt-BR": "Informações e/ou alertas sobre o trânsito.",
+    "pt-PT": "Informações e/ou alertas sobre o trânsito.",
+    "se": "Samtidig rörelse på begränsad yta av ett antal transportmedel längs särskilt inrättade färdvägar till lands, till sjöss eller i luften.",
+    "zh-Hans": "交通报告或警告"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10007001",
+    "https://www.wikidata.org/entity/Q4323994"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حركة سير",
+    "de": "Verkehrsbericht",
+    "dk": "trafik",
+    "en-GB": "traffic",
+    "en-US": "traffic",
+    "es": "Tráfico",
+    "fr": "Information routière",
+    "no": "trafikk",
+    "pt-BR": "trânsito",
+    "pt-PT": "trânsito",
+    "se": "Trafik",
+    "zh-Hans": "交通"
+  },
+  "qcode": "medtop:20000342",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000342",
+  "aid": "iptc_20000342"
+}

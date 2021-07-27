@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000651"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Die Führer innerhalb einer politischen Partei",
+    "dk": "Ledelsen i et politisk partis landsorganisation eller folketingsgruppe.",
+    "en-GB": "The leaders within a political party",
+    "en-US": "The leaders within a political party",
+    "pt-BR": "Os líderes de um partido político.",
+    "pt-PT": "Os líderes de um partido político.",
+    "se": "Partiledare, språkrör mm som leder och företräder ett politiskt parti.",
+    "zh-Hans": "政党领导人"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1553195"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "قادة سياسيون",
+    "de": "Parteivorsitzende",
+    "dk": "partiledelse",
+    "en-GB": "political leadership",
+    "en-US": "political leadership",
+    "es": "Dirigentes políticos",
+    "fr": "Dirigeants politiques",
+    "no": "partileder (politisk)",
+    "pt-BR": "liderança política",
+    "pt-PT": "liderança política",
+    "se": "Politiskt ledarskap",
+    "zh-Hans": "政治领导"
+  },
+  "qcode": "medtop:20001312",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001312",
+  "aid": "iptc_20001312"
+}

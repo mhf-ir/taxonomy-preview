@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15021000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000913"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sprung von einer hohen Plattform",
+    "dk": "Dykkere springer fra en høj platform.",
+    "en-GB": "Divers take off from a high platform",
+    "en-US": "Divers take off from a high platform",
+    "pt-BR": "Os atletas saltam para a água de uma plataforma fixa elevada.",
+    "pt-PT": "Os atletas saltam para a água de uma plataforma fixa elevada.",
+    "se": "Simhopp från hög höjd, vanligen 10 meter.",
+    "zh-Hans": "在高的跳台上进行的跳水项目"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q16014286"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/platformheight"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "الغطس من لوح ثابت",
+    "de": "Plattform",
+    "dk": "udspring fra platform",
+    "en-GB": "platform diving",
+    "en-US": "platform diving",
+    "es": "Salto de plataforma",
+    "fr": "Plongeon plate-forme",
+    "no": "tårnstuping",
+    "pt-BR": "saltos de plataforma",
+    "pt-PT": "saltos de plataforma",
+    "se": "Höga hopp",
+    "zh-Hans": "跳台跳水"
+  },
+  "qcode": "medtop:20000914",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000914",
+  "aid": "iptc_20000914"
+}

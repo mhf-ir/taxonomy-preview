@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/13000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Studium von Struktur, Raum, Veränderung und Zahl in abstrakter Form, oft unter Verwendung symbolischer Logik und Sprache, einschließlich Themen wie Geometrie, Algebra oder Trigonometrie",
+    "dk": "Undersøgelse af struktur, rum, ændring og antal i abstrakt, ofte ved hjælp af symbolisk logik og sprog, og inkluderer emner som geometri, algebra eller trigonometri.",
+    "en-GB": "The study of structure, space, change and number in abstract, often using symbolic logic and language, and including subjects such as geometry, algebra or trigonometry",
+    "en-US": "The study of structure, space, change and number in abstract, often using symbolic logic and language, and including subjects such as geometry, algebra or trigonometry",
+    "es": "Estudio concreto o abstracto de números, formas, estructuras, espacio, basado en razonamientos lógicos, a menudo utilizando un lenguaje simbólico, e incluyendo temas como la geometría, el álgebra o la trigonometría",
+    "fr": "Etude concrète ou abstraite des nombres, des formes, des structures, de l'espace, basée sur des raisonnements logiques, utilisant souvent un langage symbolique, et incluant des sujets tels que la géométrie, l'algèbre ou la trigonométrie",
+    "pt-BR": "Estudo da estrutura, espaço, mudança e número em abstrato, muitas vezes usando lógica e linguagem simbólicas, incluindo disciplinas como a geometria, a álgebra ou a trigonometria.",
+    "pt-PT": "Estudo da estrutura, espaço, mudança e número em abstrato, muitas vezes usando lógica e linguagem simbólicas, incluindo disciplinas como a geometria, a álgebra ou a trigonometria.",
+    "se": "Vetenskapen om struktur, volym, förändring och abstrakta tal, ofta genom användning av symbolisk logik och språk och inkluderande ämnen såsom trigonometri, geometri och algebra.",
+    "zh-Hans": "对抽象的结构、空间、变化和数字的研究，通常使用符号逻辑和语言，包括几何学、代数或三角学"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13018000",
+    "https://www.wikidata.org/entity/Q395"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رياضيات",
+    "de": "Mathematik",
+    "dk": "matematik",
+    "en-GB": "mathematics",
+    "en-US": "mathematics",
+    "es": "Matemática",
+    "fr": "Mathématiques",
+    "no": "matematikk",
+    "pt-BR": "matemática",
+    "pt-PT": "matemática",
+    "se": "Matematik",
+    "zh-Hans": "数学"
+  },
+  "qcode": "medtop:20000715",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000715",
+  "aid": "iptc_20000715"
+}

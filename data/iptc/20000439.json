@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000437"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Fließende Wassermassen durch Land begrenzt, die aus Quellen in der Erde entstehen, sich durch Landflächen schlängeln und mit anderen Wasserläufen verbinden. Kleine Formen sind Bäche, Rinnsale und Ströme.",
+    "dk": "Bevægelse af vandområder afgrænset af jord, der strækker sig fra jordkilder og bugter gennem landområder for at samle sig med andre vandområder. I mindre former er de bæk, klinker, vandløb osv..",
+    "en-GB": "Moving water areas bounded by land that extend from earth sources and meander through land areas to join with other water areas. In smaller forms they are creeks, rivulets, streams etc",
+    "en-US": "Moving water areas bounded by land that extend from earth sources and meander through land areas to join with other water areas. In smaller forms they are creeks, rivulets, streams etc",
+    "pt-BR": "Água corrente limitada por terra, que se estende das nascentes e serpenteia por terra até se unir a outras massas de água. Inclui formas mais pequenas, como afluentes, regatos, ribeirões etc.",
+    "pt-PT": "Água corrente limitada por terra, que se estende das nascentes e serpenteia por terra até se unir a outras massas de água. Inclui formas mais pequenas, como afluentes, regatos, ribeiros, etc.",
+    "se": "Större rinnande vattendrag med i stort sett parallella sidor, vanligtvis med funktionen att avvattna en sjö eller dylikt.",
+    "zh-Hans": "以陆地为界的流动水域，其从源头延伸，蜿蜒流过陆地，与其他水域汇合。较小的形式是小河、溪流等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06006006",
+    "https://www.wikidata.org/entity/Q4022"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انهار",
+    "de": "Fluß",
+    "dk": "flod og å",
+    "en-GB": "rivers",
+    "en-US": "rivers",
+    "es": "Ríos",
+    "fr": "Rivières",
+    "no": "elv",
+    "pt-BR": "rios",
+    "pt-PT": "rios",
+    "se": "Floder, älvar och åar",
+    "zh-Hans": "河流"
+  },
+  "qcode": "medtop:20000439",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000439",
+  "aid": "iptc_20000439"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/11000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Missverständnis zwischen politischen Gruppen, in der Regel organisiert, die manchmal in Verhaftungen münden.",
+    "dk": "Personer med udtalelser, der afviger fra det gældende eller officielt gældende.",
+    "en-GB": "Disagreement between political groups, usually organised and sometimes resulting in imprisonment of the dissenters",
+    "en-US": "Disagreement between political groups, usually organized and sometimes resulting in imprisonment of the dissenters",
+    "pt-BR": "Desacordo entre grupos políticos, geralmente organizado, por vezes resultando na prisão dos dissidentes.",
+    "pt-PT": "Desacordo entre grupos políticos, geralmente organizado, por vezes resultando na prisão dos dissidentes.",
+    "se": "Personer med åsikter som avviker från de förhärskande eller officiellt gällande.",
+    "zh-Hans": "政治团体之间的分歧，通常是有组织的，有时会导致持不同政见者被监禁"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q7210284",
+    "http://cv.iptc.org/newscodes/subjectcode/16003003"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انشقاق سياسي",
+    "de": "Politische Unruhen",
+    "dk": "politisk uoverensstemmelse",
+    "en-GB": "political dissent",
+    "en-US": "political dissent",
+    "es": "Disidencia política",
+    "fr": "Dissidence",
+    "no": "politisk dissens",
+    "pt-BR": "dissidência política",
+    "pt-PT": "dissidência política",
+    "se": "Politiska dissidenter",
+    "zh-Hans": "政治分歧"
+  },
+  "qcode": "medtop:20000648",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000648",
+  "aid": "iptc_20000648"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000143"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: Concept medtop:20000165 was merged into this one as their semantics were not sufficiently different. Note 2016-08-24: typo in name fixed"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unfälle mit Zügen",
+    "dk": "Ulykke eller hændelse, der involverer jernbanekøretøjer.",
+    "en-GB": "An accident or incident involving trains.",
+    "en-US": "An accident or incident involving trains.",
+    "pt-BR": "Acidente envolvendo trens.",
+    "pt-PT": "Acidente envolvendo comboios.",
+    "se": "Oönskade händelser med rälsburna fordon.",
+    "zh-Hans": "涉及火车的意外事故"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03010002",
+    "https://www.wikidata.org/entity/Q19403959"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-08-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حادث قطار",
+    "de": "Bahnunglück",
+    "dk": "jernbaneulykke",
+    "en-GB": "railway accident and incident",
+    "en-US": "railway accident and incident",
+    "es": "Accidente ferroviario",
+    "fr": "Accident ferroviaire",
+    "no": "togulykker",
+    "pt-BR": "acidente ferroviário",
+    "pt-PT": "acidente ferroviário",
+    "se": "Tågolyckor",
+    "zh-Hans": "铁路事故"
+  },
+  "qcode": "medtop:20000146",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000146",
+  "aid": "iptc_20000146"
+}

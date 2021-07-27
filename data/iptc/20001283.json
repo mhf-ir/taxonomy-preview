@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2019-11-20T12:00:00+00:00",
+  "definition": {
+    "de": "Die illegale Beförderung von Menschen von einem Land oder Gebiet in ein anderes. Wenn das Ergebnis Zwangsarbeit oder sexuelle Ausbeutung ist, gilt das Verbrechen als Menschenhandel.",
+    "dk": "Ulovlig transport af mennesker over landegrænser. Hvis det sker ufrivilligt, regnes det for trafficking.",
+    "en-GB": "The illegal transporting of people from one country or area to another. When the result is forced labour or sexual exploitation, the crime is considered trafficking.",
+    "en-US": "The illegal transporting of people from one country or area to another. When the result is forced labor or sexual exploitation, the crime is considered trafficking.",
+    "pt-BR": "Transporte ilegal de pessoas de um país ou local para outro. Quando o resultado é trabalho forçado ou exploração sexual, o crime é considerado tráfico.",
+    "pt-PT": "Transporte ilegal de pessoas de um país ou local para outro. Quando o resultado é trabalho forçado ou exploração sexual, o crime é considerado tráfico.",
+    "se": "Olaglig förflyttning av människor från ett land till ett annat. Om människorna dessutom tvingas till arbete eller utnyttjas sexuellt rubriceras det som trafficking.",
+    "zh-Hans": "将自然人从一国或地区非法运送至另一国或地区的行为。如果涉及强迫劳动或性剥削等犯罪则为贩卖人口"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q181784"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-11-20T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الاتجار بالبشر",
+    "de": "Menschenhandel",
+    "dk": "menneskesmugling og trafficking",
+    "en-GB": "human smuggling and trafficking",
+    "en-US": "human smuggling and trafficking",
+    "es": "Trata de personas",
+    "fr": "Trafic d'êtres humains",
+    "no": "menneskehandel",
+    "pt-BR": "contrabando e tráfico de pessoas",
+    "pt-PT": "contrabando e tráfico de pessoas",
+    "se": "Människosmuggling och trafficking",
+    "zh-Hans": "偷运及贩卖人口"
+  },
+  "qcode": "medtop:20001283",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001283",
+  "aid": "iptc_20001283"
+}

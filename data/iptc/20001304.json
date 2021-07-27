@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001301"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Anerkennung der Karriere eines Sportlers, wie z. B. die Aufnahme in eine Ruhmeshalle",
+    "dk": "Æresbevisning eller hæder, som tildeles en atlet eller et hold på baggrund af dennes præstationer.",
+    "en-GB": "Recognition of an athlete's career, such as induction into a hall of fame",
+    "en-US": "Recognition of an athlete's career, such as induction into a hall of fame",
+    "pt-BR": "Prêmio ou honra atribuídos a um atleta em reconhecimento de sua carreira.",
+    "pt-PT": "Prémio ou honra atribuídos a um atleta em reconhecimento da sua carreira.",
+    "se": "Erkännande av en idrottspersons framgångar som årets idrottare, eller inval i någon Hall of fame.",
+    "zh-Hans": "对运动员职业生涯的认可，如进入名人堂"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q15229207"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "جائزة رياضية",
+    "de": "sportliche Preise",
+    "dk": "sportskåring",
+    "en-GB": "sports award",
+    "en-US": "sports award",
+    "es": "Premio deportivo",
+    "fr": "Prix sportif",
+    "no": "idrettsutmerkelse",
+    "pt-BR": "prêmio esportivo",
+    "pt-PT": "prémio desportivo",
+    "se": "Sportutmärkelser",
+    "zh-Hans": "体育奖"
+  },
+  "qcode": "medtop:20001304",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001304",
+  "aid": "iptc_20001304"
+}

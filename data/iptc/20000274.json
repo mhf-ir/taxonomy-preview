@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unternehmen, die Bargeld lagern, übermitteln, empfangen und verteilen",
+    "dk": "Tjenester til opbevaring, transmission, modtagelse og levering af kontanter.",
+    "en-GB": "Services for storing, transmitting, receiving and delivering money",
+    "en-US": "Services for storing, transmitting, receiving and delivering money",
+    "pt-BR": "Serviços de guarda, transmissão, recepção e entrega de dinheiro.",
+    "pt-PT": "Serviços de guarda, transmissão, receção e entrega de dinheiro.",
+    "se": "Företag som förvarar, överför, tar emot eller delar ut pengar.",
+    "zh-Hans": "提供货币的存储、运输、接收和支付的服务行业"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006002",
+    "https://www.wikidata.org/entity/Q3435731"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عمل مصرفي",
+    "de": "Bank",
+    "dk": "bank",
+    "en-GB": "banking",
+    "en-US": "banking",
+    "es": "Servicios bancarios",
+    "fr": "Banque",
+    "no": "bankvirksomhet",
+    "pt-BR": "banca",
+    "pt-PT": "banca",
+    "se": "Banker",
+    "zh-Hans": "银行业"
+  },
+  "qcode": "medtop:20000274",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000274",
+  "aid": "iptc_20000274"
+}

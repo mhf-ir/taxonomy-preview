@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "https://www.wikidata.org/entity/Q219554"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Action-Sportart, bei der sich eine Person die Kraft des Windes zunutze macht, um sich auf einem Brett, Snowboard oder Skiern über Wasser, Land oder Schnee fortzubewegen. Variationen des Sports werden Kiteboarding/Kitesurfen, Snowkiting oder Landkiting genannt.",
+    "dk": "Sport, hvor man iført en faldskærm bruger vinden til at bevæge sig fremad med. Kitesurfing ved kysterne er den mest populære form.",
+    "en-GB": "Action sport where a person harnesses the power of the wind to propel themselves across water, land or snow on a board, snowboard or skis. Variations of the sport are called kiteboarding/kitesurfing, snowkiting or landkiting.",
+    "en-US": "Action sport where a person harnesses the power of the wind to propel themselves across water, land or snow on a board, snowboard or skis. Variations of the sport are called kiteboarding/kitesurfing, snowkiting or landkiting.",
+    "pt-BR": "Esporte radical em que o praticante aproveita a força do vento para se impulsionar na água, em terra ou na neve sobre uma prancha ou esquis. Variações desse esporte incluem kitesurf/kiteboard, snowkite ou landkite.",
+    "pt-PT": "Desporto radical em que o praticante aproveita a força do vento para se impulsionar na água, em terra ou na neve sobre uma prancha ou esquis. Variações deste desporto incluem kitesurf/kiteboard, snowkite ou landkite.",
+    "se": "De tävlande står på en lite bräda på vatten och dras fram av en drake som de kan styra för att utföra trick.",
+    "zh-Hans": "一类体育运动，人们借助风力推动自己在划板、滑雪板或雪橇上穿越水面、地面或雪地。这项运动的按种类分为风筝冲浪、雪地风筝或陆地风筝"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تزلج شراعي",
+    "de": "Kiten",
+    "dk": "kiting",
+    "en-GB": "kiting",
+    "en-US": "kiting",
+    "es": "Kiteboarding",
+    "fr": "Kiteboarding",
+    "no": "kiting",
+    "pt-BR": "kite",
+    "pt-PT": "kite",
+    "se": "Kitesurf",
+    "zh-Hans": "风筝运动"
+  },
+  "qcode": "medtop:20001306",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001306",
+  "aid": "iptc_20001306"
+}

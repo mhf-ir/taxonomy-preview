@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2019-07-25T12:00:00+00:00",
+  "definition": {
+    "de": "Die Bereitstellung grundlegender Dienstleistungen, einschließlich der Wasserversorgung und Abfallentsorgung für die Öffentlichkeit.",
+    "dk": "Virksomhed, der leverer offentlig forsyning i form af el, vand og varme eller som sørger for renovation og kloak.",
+    "en-GB": "The providing of basic services including supplying water and waste removal to the public",
+    "en-US": "The providing of basic services including supplying water and waste removal to the public",
+    "pt-BR": "Prestação de serviços básicos, como fornecimento de água e remoção de resíduos ao público.",
+    "pt-PT": "Prestação de serviços básicos, como fornecimento de água e remoção de resíduos ao público.",
+    "se": "Grundläggande service från det offentliga mot innevånarna, exempelvis vatten, sophämtning mm.",
+    "zh-Hans": "为市民提供基本服务，包括供水及清除废物"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q58891990"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-25T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000269",
+    "medtop:20000270",
+    "medtop:20001291"
+  ],
+  "prefLabel": {
+    "ar": "خدمات عامة",
+    "de": "Versorgungsunternehmen",
+    "dk": "forsyningsvirksomheder",
+    "en-GB": "utilities",
+    "en-US": "utilities",
+    "es": "Servicios comunitarios",
+    "fr": "Services des collectivités (eau, gaz, électricité)",
+    "no": "offentlige tjenester",
+    "pt-BR": "serviços públicos",
+    "pt-PT": "serviços públicos",
+    "se": "Samhällsservice",
+    "zh-Hans": "公用事业"
+  },
+  "qcode": "medtop:20001244",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001244",
+  "aid": "iptc_20001244"
+}

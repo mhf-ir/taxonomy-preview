@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000514"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Maßnahme, um neue Sachkenntnisse zu erwerben, wenn die bestehenden nicht mehr länger verwendbar sind.",
+    "dk": "Uddannelse fra et erhverv til et andet, helst for voksne.",
+    "en-GB": "Providing a worker training in new skills when his old skills are no longer applicable",
+    "en-US": "Providing a worker training in new skills when his old skills are no longer applicable",
+    "pt-BR": "Dotar um trabalhador de novos conhecimentos e competências quando os antigos já não são aplicáveis.",
+    "pt-PT": "Dotar um trabalhador de novas competências quando as antigas já não são aplicáveis.",
+    "se": "Utbildning från ett yrkesområde till ett annat, företrädesvis för vuxna.",
+    "zh-Hans": "当老技能不再适用，为员工提供新技能培训"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09007000",
+    "https://www.wikidata.org/entity/Q3505966"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اعادة تدريب",
+    "de": "Umschulung",
+    "dk": "omskoling",
+    "en-GB": "retraining",
+    "en-US": "retraining",
+    "es": "Reconversión",
+    "fr": "Reconversion",
+    "no": "gjenopplæring",
+    "pt-BR": "reconversão",
+    "pt-PT": "reconversão",
+    "se": "Omskolning",
+    "zh-Hans": "再培训"
+  },
+  "qcode": "medtop:20000516",
+  "retired": "2019-10-07T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000516",
+  "aid": "iptc_20000516"
+}

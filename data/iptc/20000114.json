@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000111"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Streitigkeiten, die vor Gericht gebracht werden, um von einer Jury entschieden zu werden",
+    "dk": "Tvistafgørelse imellem to parter ved en domstol.",
+    "en-GB": "Taking disputed issues to court for settlement by judge and/or jury",
+    "en-US": "Taking disputed issues to court for settlement by judge and/or jury",
+    "pt-BR": "Levar a tribunal assuntos que se disputam para resolução por meio de juiz e/ou júri.",
+    "pt-PT": "Levar a tribunal assuntos que se disputam para resolução por meio de juiz e/ou júri.",
+    "se": "Om två parter är oense, utan att något brottsligt är inblandat, och inte kan komma överens kan det avgöras i en speciell form av rättsprocess.",
+    "zh-Hans": "将争议问题提交法院，由法官或陪审团解决"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02008001",
+    "https://www.wikidata.org/entity/Q697327"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نزاع",
+    "de": "Rechtsstreit",
+    "dk": "civilretssag",
+    "en-GB": "litigation",
+    "en-US": "litigation",
+    "es": "Litigios",
+    "fr": "Contentieux",
+    "no": "rettstvist",
+    "pt-BR": "litígio",
+    "pt-PT": "litígio",
+    "se": "Tvistemål",
+    "zh-Hans": "起诉"
+  },
+  "qcode": "medtop:20000114",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000114",
+  "aid": "iptc_20000114"
+}

@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Lokale, regionale, nationale und internationale Übungen der Stärke oder zur Erlangung von Stärke, und die Beziehung zwischen regierenden Einheiten und Staaten",
+    "dk": "Lokal, regional, national og international magtudøvelse såvel som forholdet mellem stater og regeringer. Forsvar, diplomati, valg, hjælpearbejde, flygtninge, regering, parlament, partier, offentligt budget, nationale og internationale aftaler.",
+    "en-GB": "Local, regional, national and international exercise of power, or struggle for power, and the relationships between governing bodies and states.",
+    "en-US": "Local, regional, national and international exercise of power, or struggle for power, and the relationships between governing bodies and states.",
+    "pt-BR": "Exercício do poder local, regional, nacional e internacional ou luta pelo poder e relações entre governos e estados.",
+    "pt-PT": "Exercício do poder local, regional, nacional e internacional ou luta pelo poder e relações entre governos e estados.",
+    "se": "Lokal, regional, nationell, och internationell maktutövning, samt relationer mellan stater och regeringar. Försvar, diplomati, val, hjälparbete, flyktingar, regering, riksdag, partier, offentlig budget, nationella och internationella avtal.",
+    "zh-Hans": "地方、区域、国家和国际权力的行使，或权力斗争，以及领导机构与国家之间的关系"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q7163",
+    "http://cv.iptc.org/newscodes/subjectcode/11000000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000574",
+    "medtop:20000587",
+    "medtop:20000593",
+    "medtop:20000621",
+    "medtop:20000638",
+    "medtop:20000646",
+    "medtop:20000647",
+    "medtop:20000648",
+    "medtop:20000649"
+  ],
+  "prefLabel": {
+    "ar": "سياسة",
+    "de": "Politik",
+    "dk": "politik",
+    "en-GB": "politics",
+    "en-US": "politics",
+    "es": "Política",
+    "fr": "Politique",
+    "no": "politikk",
+    "pt-BR": "política",
+    "pt-PT": "política",
+    "se": "Politik",
+    "zh-Hans": "政治"
+  },
+  "qcode": "medtop:11000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/11000000",
+  "aid": "iptc_11000000"
+}

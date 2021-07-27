@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000717"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Erforschung der Entstehung, Entwicklung, Organisation und Struktur des Universums",
+    "dk": "Undersøgelsen af universets oprindelse, evolution, organisering og struktur.",
+    "en-GB": "The study of the origin, evolution, organisation and structure of the universe",
+    "en-US": "The study of the origin, evolution, organization and structure of the universe",
+    "es": "El estudio del origen, la evolución, la organización y la estructura del universo",
+    "fr": "Etude de l'origine, de l'évolution, de l'organisation et de la structure de l'univers",
+    "pt-BR": "Estudo da origem, evolução, organização e estrutura do universo.",
+    "pt-PT": "Estudo da origem, evolução, organização e estrutura do universo.",
+    "se": "Vetenskapen om universums storskaliga byggnad, uppkomst och utveckling.",
+    "zh-Hans": "研究宇宙起源、演化、组织和结构的学科"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13001003",
+    "https://www.wikidata.org/entity/Q338"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علم الكون",
+    "de": "Kosmologie",
+    "dk": "kosmologi",
+    "en-GB": "cosmology",
+    "en-US": "cosmology",
+    "es": "Cosmología",
+    "fr": "Cosmologie",
+    "no": "kosmologi",
+    "pt-BR": "cosmologia",
+    "pt-PT": "cosmologia",
+    "se": "Kosmologi",
+    "zh-Hans": "宇宙学"
+  },
+  "qcode": "medtop:20000726",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000726",
+  "aid": "iptc_20000726"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000243"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Lampen, Stifte und Schreibwaren, Geschirr, Uhren, Brillen etc.",
+    "dk": "Produkter, der kun er beregnet til at blive brugt i en kort periode.",
+    "en-GB": "Products meant to only be used for a short period of time",
+    "en-US": "Products meant to only be used for a short period of time",
+    "pt-BR": "Produtos para serem usados por um breve período de tempo.",
+    "pt-PT": "Produtos para serem usados por um breve período de tempo.",
+    "se": "Varor som förbrukas förhållandevis snabbt, t ex tändare, pennor och glas.",
+    "zh-Hans": "仅在短时间内使用的产品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04007011",
+    "https://www.wikidata.org/entity/Q1681365"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سلع غير معمرة",
+    "de": "Gebrauchsgüter",
+    "dk": "Ikke-varigt forbrugsgode",
+    "en-GB": "non-durable good",
+    "en-US": "non-durable good",
+    "es": "Artículos perecederos",
+    "fr": "Biens de consommation courante",
+    "no": "dagligvare",
+    "pt-BR": "bens não duráveis",
+    "pt-PT": "bens não-duradouros",
+    "se": "Förbrukningsvaror",
+    "zh-Hans": "非耐用品"
+  },
+  "qcode": "medtop:20000251",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000251",
+  "aid": "iptc_20000251"
+}

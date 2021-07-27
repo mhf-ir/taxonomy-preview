@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/02000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "System, das eingesetzt wird zum Umgang mit Kriminalität und Kriminellen",
+    "dk": "De organer i et samfund, der hjælper med at opretholde loven og straffe dem, der krænker loven.",
+    "en-GB": "The system of courts of law",
+    "en-US": "The system of courts of law",
+    "pt-BR": "Sistema estabelecido para administrar as leis e aqueles que as infringem.",
+    "pt-PT": "Sistema estabelecido para administrar as leis e aqueles que as infringem.",
+    "se": "De instanser i ett samhälle som bidrar till att upprätthålla lagen och straffa dem som bryter mot lagen.",
+    "zh-Hans": "为管理法律和违法者而建立的制度"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q105985",
+    "http://cv.iptc.org/newscodes/subjectcode/02002000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000107",
+    "medtop:20000116",
+    "medtop:20000118"
+  ],
+  "prefLabel": {
+    "ar": "سلطة قضائية",
+    "de": "Justiz",
+    "dk": "retsvæsen",
+    "en-GB": "judiciary",
+    "en-US": "judiciary",
+    "es": "Magistratura",
+    "fr": "Système judiciaire",
+    "no": "rettsvesen",
+    "pt-BR": "judiciário (sistema de justiça)",
+    "pt-PT": "judicial (sistema de justiça)",
+    "se": "Rättssystem",
+    "zh-Hans": "司法"
+  },
+  "qcode": "medtop:20000106",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000106",
+  "aid": "iptc_20000106"
+}

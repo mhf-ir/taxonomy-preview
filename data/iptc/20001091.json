@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wird in einem Wasserbecken ausgetragen von zwei Teams mit jeweils 7 Spielern, die sich im Wasser befinden und nur eine Hand benutzen dürfen, um den Ball zu werfen oder mit diesem schwimmen müssen, bevor sie ihn in das gegnerische Netz werfen, um Punkte zu machen",
+    "dk": "Holdsport som spilles i et vandbassin mellem to holds af syv personer. Spillere får lov til at svømme og skubbe bolden fremad, eller aflevere til en medspiller med den ene hånd. Målet er at få bolden ind i modstanderens mål.",
+    "en-GB": "Played in a pool between two teams of 7, who must stay afloat and can only use one hand to pass the ball or swim with it before trying to throw it into the opponents net to score goals.",
+    "en-US": "Played in a pool between two teams of 7, who must stay afloat and can only use one hand to pass the ball or swim with it before trying to throw it into the opponents net to score goals.",
+    "pt-BR": "Esporte náutico praticado em piscina e disputador por duas equipes de 7 nadadores, que só podem usar uma mão para passar a bola ou nadar com ela antes de arremessar ao gol adversário.",
+    "pt-PT": "Desporto náutico praticado em piscina e disputador por duas equipas de 7 nadadores, que só podem usar uma mão para passar a bola ou nadar com ela antes de arremessar à baliza adversária.",
+    "se": "Lagsport som utspelas i en vattenbassäng mellan sjumannalag. Spelarna får simma och driva bollen framåt, eller passa till en medspelare med en hand. Målet är att få in bollen i motståndarnas mål.",
+    "zh-Hans": "两支队伍每队七人在泳池中比赛。运动员必须浮在水面用一只手传球或带球游动。要将球尽力投进对方球网得分"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15068000",
+    "https://www.wikidata.org/entity/Q7707"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كرة المياه",
+    "de": "Wasserball",
+    "dk": "vandpolo",
+    "en-GB": "water polo",
+    "en-US": "water polo",
+    "es": "Polo acuático",
+    "fr": "Water polo",
+    "no": "vannpolo",
+    "pt-BR": "polo aquático",
+    "pt-PT": "polo aquático",
+    "se": "Vattenpolo",
+    "zh-Hans": "水球"
+  },
+  "qcode": "medtop:20001091",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001091",
+  "aid": "iptc_20001091"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000621"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Regeln und ausführenden Organe, national und international, die Interessenskonflikte regulieren und für gute Praktizierbarkeit sorgen",
+    "dk": "Regler og organisationer, både nationale og internationale, der bruges til at løse interessekonflikter og skabe gode regler i en del af erhvervslivet.",
+    "en-GB": "The rules and bodies, both national and international, that govern conflict of interest and good practice regulations.",
+    "en-US": "The rules and bodies, both national and international, that govern conflict of interest and good practice regulations.",
+    "pt-BR": "Normas e entidades, nacionais e internacionais, que regem os conflitos de interesse e as regulações de boas práticas.",
+    "pt-PT": "Normas e entidades, nacionais e internacionais, que regem os conflitos de interesse e as regulações de boas práticas.",
+    "se": "Regler och organisationer, både nationella och internationella, som används för att lösa intressekonflikter och skapa bra regleringar inom en del av näringslivet.",
+    "zh-Hans": "管理利益冲突和良好做法规则的国家和国际规则及机构"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11022000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000637"
+  ],
+  "prefLabel": {
+    "ar": "سياسة تنظيمية وتنظيم",
+    "de": "Regulierungsbehörde",
+    "dk": "regulering af industri",
+    "en-GB": "regulation of industry",
+    "en-US": "regulation of industry",
+    "es": "Mediador",
+    "fr": "Médiateur",
+    "no": "industriregulering",
+    "pt-BR": "autoridades reguladoras",
+    "pt-PT": "autoridades reguladoras",
+    "se": "Branschlagstiftning",
+    "zh-Hans": "行业规制"
+  },
+  "qcode": "medtop:20000636",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000636",
+  "aid": "iptc_20000636"
+}

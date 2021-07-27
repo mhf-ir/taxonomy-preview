@@ -1,0 +1,75 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000344"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wirtschaftsraum auf nationaler oder internationaler Ebene",
+    "dk": "Større økonomiske spørgsmål på nationalt eller højere niveau.",
+    "en-GB": "Broad scale economics at the world or national level",
+    "en-US": "Broad scale economics at the world or national level",
+    "pt-BR": "Economia em grande escala, a nível mundial ou nacional.",
+    "pt-PT": "Economia em grande escala, a nível mundial ou nacional.",
+    "se": "Storskaliga ekonomiska frågor på nationell eller högre nivå.",
+    "zh-Hans": "世界或国家层面上的广义经济学"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008000",
+    "https://www.wikidata.org/entity/Q39680"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000347",
+    "medtop:20000348",
+    "medtop:20000349",
+    "medtop:20000350",
+    "medtop:20000351",
+    "medtop:20000354",
+    "medtop:20000355",
+    "medtop:20000356",
+    "medtop:20000357",
+    "medtop:20000358",
+    "medtop:20000363",
+    "medtop:20000364",
+    "medtop:20000365",
+    "medtop:20000366",
+    "medtop:20000367",
+    "medtop:20000368",
+    "medtop:20000369",
+    "medtop:20000370",
+    "medtop:20000371",
+    "medtop:20000372",
+    "medtop:20000373",
+    "medtop:20000378",
+    "medtop:20000379",
+    "medtop:20000380",
+    "medtop:20000381",
+    "medtop:20000382",
+    "medtop:20000383",
+    "medtop:20000384"
+  ],
+  "prefLabel": {
+    "ar": "اقتصادات كلية",
+    "de": "Volkswirtschaft",
+    "dk": "makroøkonomi",
+    "en-GB": "macro economics",
+    "en-US": "macro economics",
+    "es": "Macroeconomía",
+    "fr": "Macro-économie",
+    "no": "makroøkonomi",
+    "pt-BR": "macroeconomia",
+    "pt-PT": "macroeconomia",
+    "se": "Makroekonomi",
+    "zh-Hans": "宏观经济"
+  },
+  "qcode": "medtop:20000346",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000346",
+  "aid": "iptc_20000346"
+}

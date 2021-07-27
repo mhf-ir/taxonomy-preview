@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000464"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Körperliche Kondition",
+    "dk": "En persons kropslige kondition og vedligeholdelsen af den.",
+    "en-GB": "The measure of the body's ability to function efficiently and effectively during work and leisure activities.",
+    "en-US": "The measure of the body's ability to function efficiently and effectively during work and leisure activities.",
+    "pt-BR": "Capacidade do corpo de funcionar de forma eficiente e eficaz durante as atividades de trabalho e lazer.",
+    "pt-PT": "Capacidade do corpo de funcionar de forma eficiente e eficaz durante as atividades de trabalho e lazer.",
+    "se": "Kroppens fysiska tillstånd hos en person.",
+    "zh-Hans": "衡量身体在工作和休闲活动中有效运作的能力"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07016000",
+    "https://www.wikidata.org/entity/Q309252"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "لياقة بدنية",
+    "de": "Fitness",
+    "dk": "fysisk kondition",
+    "en-GB": "physical fitness",
+    "en-US": "physical fitness",
+    "es": "Estado físico",
+    "fr": "État physique",
+    "no": "trim og trening",
+    "pt-BR": "condição física",
+    "pt-PT": "condição física",
+    "se": "Fysisk kondition",
+    "zh-Hans": "身体素质"
+  },
+  "qcode": "medtop:20000475",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000475",
+  "aid": "iptc_20000475"
+}

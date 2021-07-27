@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000210"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zucht von Wasserpflanzen und -tieren zum Gebrauch unter kontrollierten Bedingungen",
+    "dk": "Dyrkning i vand af fisk, skaldyr og alger.",
+    "en-GB": "Growing plants or animals in water for human consumption",
+    "en-US": "Growing plants or animals in water for human consumption",
+    "pt-BR": "Produção de plantas ou animais em água para consumo humano.",
+    "pt-PT": "Produção de plantas ou animais em água para consumo humano.",
+    "se": "Odling i vatten av fisk, skaldjur och alger.",
+    "zh-Hans": "供人类消费的水生植物或动物"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04001006",
+    "https://www.wikidata.org/entity/Q188989"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مزارع سمك",
+    "de": "Aquakultur",
+    "dk": "akvakultur",
+    "en-GB": "aquaculture",
+    "en-US": "aquaculture",
+    "es": "Acuicultura",
+    "fr": "Aquaculture",
+    "no": "akvakultur",
+    "pt-BR": "aquacultura",
+    "pt-PT": "aquacultura",
+    "se": "Vattenodling",
+    "zh-Hans": "水产养殖"
+  },
+  "qcode": "medtop:20000211",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000211",
+  "aid": "iptc_20000211"
+}

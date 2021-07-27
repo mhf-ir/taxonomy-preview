@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000810"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unterstützung des Sterbens einer kranken Person",
+    "dk": "Bevidst hjælp til en anden persons død i håbløs sygdom.",
+    "en-GB": "The practice of humanely ending the life of a person suffering from a terminal illness",
+    "en-US": "The practice of humanely ending the life of a person suffering from a terminal illness",
+    "pt-BR": "Ajuda à morte de uma pessoa com uma doença terminal.",
+    "pt-PT": "Ajuda à morte de uma pessoa com uma doença terminal.",
+    "se": "Medvetet påskyndande av annan persons död vid hopplös sjukdom.",
+    "zh-Hans": "协助绝症病人的死亡"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14005000",
+    "https://www.wikidata.org/entity/Q100159"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000812"
+  ],
+  "prefLabel": {
+    "ar": "قتل رحيم",
+    "de": "Sterbehilfe",
+    "dk": "aktiv dødshjælp",
+    "en-GB": "euthanasia",
+    "en-US": "euthanasia",
+    "es": "Eutanasia",
+    "fr": "Euthanasie",
+    "no": "eutanasi",
+    "pt-BR": "eutanásia",
+    "pt-PT": "eutanásia",
+    "se": "Dödshjälp",
+    "zh-Hans": "安乐死"
+  },
+  "qcode": "medtop:20000811",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000811",
+  "aid": "iptc_20000811"
+}

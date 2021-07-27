@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000461"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Örtliche medizinische Einrichtung oder Arztpraxis in Verbindung mit einer allgemeinmedizinischen Praxis, die mit einem oder mehreren Ärzten besetzt ist, sich auf ambulante Behandlung konzentriert oder Empfehlungen für den Besuch eines Facharztes oder Krankenhauses ausspricht",
+    "dk": "Sundhedsklinik eller lægehus, hvor mennesker med medicinske problemer kan søge indledende kontakt med sundhedsvæsenet. Enten til direkte handling eller henvisning til videre behandling.",
+    "en-GB": "Local medical facility or doctor's office associated with a general medicine practice, staffed by one or many doctors, focusing on outpatient treatment or giving recommendations to visit a specialist or hospital",
+    "en-US": "Local medical facility or doctor's office associated with a general medicine practice, staffed by one or many doctors, focusing on outpatient treatment or giving recommendations to visit a specialist or hospital",
+    "pt-BR": "Unidade médica local ou consultório médico associado a uma prática de medicina geral, com um ou vários médicos, que se dedica ao tratamento ambulatorial ou reencaminha para um especialista ou hospital.",
+    "pt-PT": "Unidade médica local ou consultório médico associado a uma prática de medicina geral, com um ou vários médicos, que se dedica ao tratamento ambulatório ou reencaminha para um especialista ou hospital.",
+    "se": "Vårdinrättningar där personer med medicinska problem kan söka en första kontakt med sjukvården. Antingen för direkt åtgärde eller remiss för vidare behandling.",
+    "zh-Hans": "由一名或多名医生组成的与普通医疗业务有关的本地医疗机构或医生办公室，主要负责门诊治疗或提出去专科医院或医院就诊的建议"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1774898"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عيادة",
+    "de": "Gesundheitsklinik",
+    "dk": "sundhedsklinik og lægehus",
+    "en-GB": "healthcare clinic",
+    "en-US": "healthcare clinic",
+    "es": "Clínica",
+    "fr": "Clinique",
+    "no": "helseklinikk",
+    "pt-BR": "centro de saúde",
+    "pt-PT": "centro de saúde",
+    "se": "Primärvård",
+    "zh-Hans": "诊所"
+  },
+  "qcode": "medtop:20001229",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001229",
+  "aid": "iptc_20001229"
+}

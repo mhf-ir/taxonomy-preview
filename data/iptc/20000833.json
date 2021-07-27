@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer springen so hoch wie möglich über eine Latte, die höher gehängt wird, wenn eine Höhe erreicht ist",
+    "dk": "Konkurrenterne opbygger hastigheden over en kort sprint og springer så højt som muligt over en vandret bjælke.",
+    "en-GB": "Competitors build up speed over a short sprint and then jump as high as possible over a horizontal bar",
+    "en-US": "Competitors build up speed over a short sprint and then jump as high as possible over a horizontal bar",
+    "pt-BR": "Prova em que os atletas saltam o mais alto possível sobre uma barra horizontal, que é subida a cada ronda de saltos. Ganha quem atingir a marca mais alta.",
+    "pt-PT": "Prova em que os atletas saltam o mais alto possível sobre uma barra horizontal, que é subida a cada ronda de saltos. Ganha quem atingir a marca mais alta.",
+    "se": "De tävlande försöker hoppa över en horisontell pinne som vilar på ett stativ.",
+    "zh-Hans": "选手短距助跑后尽可能高地跳过横杆"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005019",
+    "https://www.wikidata.org/entity/Q165704"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "قفز عالي",
+    "de": "Hochsprung",
+    "dk": "højdespring",
+    "en-GB": "high jump",
+    "en-US": "high jump",
+    "es": "Salto de altura",
+    "fr": "Saut en hauteur",
+    "no": "høydehopp",
+    "pt-BR": "salto em altura",
+    "pt-PT": "salto em altura",
+    "se": "Höjdhopp",
+    "zh-Hans": "跳高"
+  },
+  "qcode": "medtop:20000833",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000833",
+  "aid": "iptc_20000833"
+}

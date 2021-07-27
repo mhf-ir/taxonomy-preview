@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer springen von einem festen oder Sprungbrett und werden von sieben Richtern in einer Skala von 10 Punkten für akrobatische Figuren bewertet",
+    "dk": "Dykkere springer fra en fast platform eller vippe og vurderes af syv dommere, der giver karakterer op til ti for deres akrobatiske træk.",
+    "en-GB": "Competitors dive off a fixed or spring board and are assessed by seven judges giving marks up to ten for their acrobatic moves.",
+    "en-US": "Competitors dive off a fixed or spring board and are assessed by seven judges giving marks up to ten for their acrobatic moves.",
+    "pt-BR": "Os atletas mergulham de uma plataforma fixa ou de um trampolim e são avaliados por sete juízes, que atribuem notas de 0 a 10 a cada salto.",
+    "pt-PT": "Os atletas mergulham de uma plataforma fixa ou de um trampolim e são avaliados por sete juízes, que atribuem notas de 0 a 10 a cada salto.",
+    "se": "De tävlande hoppar från trampolin eller fast ställning på olika höjder och utför olika konster på vägen ner. Deras hopp bedöms av domare.",
+    "zh-Hans": "选手从跳台或跳板跳入水中。7名裁判根据运动员的技术动作打分，最高10分"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15021000",
+    "https://www.wikidata.org/entity/Q7735"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000914",
+    "medtop:20000915",
+    "medtop:20000916"
+  ],
+  "prefLabel": {
+    "ar": "غطس",
+    "de": "Turm- und Brettspringen",
+    "dk": "udspring",
+    "en-GB": "diving",
+    "en-US": "diving",
+    "es": "Clavado",
+    "fr": "Plongeon",
+    "no": "stup",
+    "pt-BR": "saltos ornamentais",
+    "pt-PT": "saltos para a água",
+    "se": "Simhopp",
+    "zh-Hans": "跳水"
+  },
+  "qcode": "medtop:20000913",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000913",
+  "aid": "iptc_20000913"
+}

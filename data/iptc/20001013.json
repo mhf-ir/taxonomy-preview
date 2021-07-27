@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Fallschirmsprung Wettbewerbe: Punktlandungen, Spannweite, Einzel und im Team",
+    "dk": "Faldskærmsudspringeren hopper ud af et fly med faldskærm og laver kunst i luften eller præcisionslandinger. Individuelt eller i hold.",
+    "en-GB": "Jumping from an aeroplane using a parachute, competitions are precision landings, voltige, individual and team",
+    "en-US": "Jumping from an airplane using a parachute, competitions are precision landings, voltige, individual and team",
+    "pt-BR": "Saltar de um avião usando um paraquedas. Competições de paraquedismo: precisão de aterragem, volteio, individual ou por equipes.",
+    "pt-PT": "Saltar de um avião usando um paraquedas. Competições de paraquedismo: precisão de aterragem, volteio, individual ou por equipas.",
+    "se": "De tävlande hoppar ut från ett flygplan och har fallskärm och gör konster i luften eller precisionslandar. Individuellt eller i lag.",
+    "zh-Hans": "使用降落伞从飞机上跳下。比赛分定点和特技，个人和集体"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15001001",
+    "https://www.wikidata.org/entity/Q193210"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "هبوط بالمظلات",
+    "de": "Fallschirmspringen",
+    "dk": "faldskærmsudspring",
+    "en-GB": "parachuting",
+    "en-US": "parachuting",
+    "es": "Paracaidismo",
+    "fr": "Parachutisme",
+    "no": "fallskjermhopping",
+    "pt-BR": "paraquedismo",
+    "pt-PT": "paraquedismo",
+    "se": "Fallskärmshoppning",
+    "zh-Hans": "跳伞"
+  },
+  "qcode": "medtop:20001013",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001013",
+  "aid": "iptc_20001013"
+}

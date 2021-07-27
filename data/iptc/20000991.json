@@ -1,0 +1,56 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rennen mit Autos",
+    "dk": "Fællesbetegnelse for konkurrencer med forskellige typer af biler.",
+    "en-GB": "Racing with cars",
+    "en-US": "Racing with cars",
+    "pt-BR": "Corridas de veículos motorizados de quatro rodas.",
+    "pt-PT": "Corridas de veículos motorizados de quatro rodas.",
+    "se": "Samlingsbegrepp för tävlingar med olika typer av bilar.",
+    "zh-Hans": "汽车比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15039000",
+    "https://www.wikidata.org/entity/Q5386"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/motorcarracingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000992",
+    "medtop:20000993",
+    "medtop:20000994",
+    "medtop:20000995",
+    "medtop:20000996",
+    "medtop:20000997"
+  ],
+  "prefLabel": {
+    "ar": "سباق الزوارق السريعة",
+    "de": "Motorsport",
+    "dk": "motorløb",
+    "en-GB": "motor car racing",
+    "en-US": "motor car racing",
+    "es": "Automovilismo",
+    "fr": "Automobile",
+    "no": "bilsport",
+    "pt-BR": "corrida de automóveis",
+    "pt-PT": "corrida de automóveis",
+    "se": "Motorsport",
+    "zh-Hans": "赛车"
+  },
+  "qcode": "medtop:20000991",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000991",
+  "aid": "iptc_20000991"
+}

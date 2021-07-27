@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/14000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Menschen, die ihr Heimatland verlassen, alle Beziehung zu ihrem Heimatland abbrechen und deren Verbindungen mit anderen Emigranten",
+    "dk": "Mennesker, der forlader deres oprindelsesland, deres forhold til deres oprindelsesland og deres tilknytning til andre emigranter.",
+    "en-GB": "Leaving one's country of residence to settle permanently elsewhere",
+    "en-US": "Leaving one's country of residence to settle permanently elsewhere",
+    "pt-BR": "Pessoas que deixam seu país de origem; sua relação com seu país de origem e associação com outros emigrantes.",
+    "pt-PT": "Pessoas que deixam o seu país de origem; a sua relação com o seu país de origem e associação com outros emigrantes.",
+    "se": "Personer som lämnar sitt ursprungsland, dessa personers relation till ursprungslandet och andra personer som har lämnat ursprungslandet.",
+    "zh-Hans": "离开原籍国的人、他们与原籍国的关系以及他们与其他移民的联系"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14003004",
+    "https://www.wikidata.org/entity/Q187668"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مغتربون",
+    "de": "Auswanderer",
+    "dk": "emigrant",
+    "en-GB": "emigration",
+    "en-US": "emigration",
+    "es": "Emigrantes",
+    "fr": "Émigrés",
+    "no": "utvandring",
+    "pt-BR": "emigrantes",
+    "pt-PT": "emigrantes",
+    "se": "Emigranter",
+    "zh-Hans": "移民"
+  },
+  "qcode": "medtop:20000772",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000772",
+  "aid": "iptc_20000772"
+}

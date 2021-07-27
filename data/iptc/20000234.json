@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000225"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Austausch von Informationen mit Mitteln außerhalb der direkten verdrahteten Schaltung",
+    "dk": "Overførsel af information på andre måder end via kabler.",
+    "en-GB": "Transmission of information through means other than point-to-point wired hook-ups",
+    "en-US": "Transmission of information through means other than point-to-point wired hook-ups",
+    "pt-BR": "Transmissão de informação sem utilizar fios ou cabos conectados.",
+    "pt-PT": "Transmissão de informação sem utilizar fios ou cabos conectados.",
+    "se": "Överföring av information på andra sätt än genom kablar.",
+    "zh-Hans": "除点对点有线连接以外的其他传输信息方式"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04003009",
+    "https://www.wikidata.org/entity/Q249"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تكنولوجيا اتصالات لاسلكية",
+    "de": "Wireless-Technologie",
+    "dk": "trådløs teknologi",
+    "en-GB": "wireless technology",
+    "en-US": "wireless technology",
+    "es": "Tecnología inalámbrica",
+    "fr": "Technologies mobiles",
+    "no": "trådløs kommunikasjon",
+    "pt-BR": "tecnologia sem fio",
+    "pt-PT": "tecnologia sem fios",
+    "se": "Trådlös teknik",
+    "zh-Hans": "无线技术"
+  },
+  "qcode": "medtop:20000234",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000234",
+  "aid": "iptc_20000234"
+}

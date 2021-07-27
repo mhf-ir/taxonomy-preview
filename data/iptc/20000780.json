@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/14000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Personengruppe, die durch Blut oder Heirat miteinander verwandt ist",
+    "dk": "En gruppe af personer, der er forbundet via blod eller via ægteskab.",
+    "en-GB": "A group of people related genetically or by a legal bond, or who consider themselves part of a familial unit regardless of genetic or legal status",
+    "en-US": "A group of people related genetically or by a legal bond, or who consider themselves part of a familial unit regardless of genetic or legal status",
+    "pt-BR": "Grupo de indivíduos relacionados por laços de sangue e casamento.",
+    "pt-PT": "Grupo de indivíduos relacionados por laços de sangue e casamento.",
+    "se": "En grupp individer med relation via släktskap eller juridiska bindningar, exempelvis vigsel.",
+    "zh-Hans": "有血缘或婚姻关系的一群人"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q8436",
+    "http://cv.iptc.org/newscodes/subjectcode/14006000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000781",
+    "medtop:20000782",
+    "medtop:20000783",
+    "medtop:20000784",
+    "medtop:20000786",
+    "medtop:20000787"
+  ],
+  "prefLabel": {
+    "ar": "اسرة",
+    "de": "Familie",
+    "dk": "familie",
+    "en-GB": "family",
+    "en-US": "family",
+    "es": "Familia",
+    "fr": "Famille",
+    "no": "familie",
+    "pt-BR": "família",
+    "pt-PT": "família",
+    "se": "Familjefrågor",
+    "zh-Hans": "家庭"
+  },
+  "qcode": "medtop:20000780",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000780",
+  "aid": "iptc_20000780"
+}

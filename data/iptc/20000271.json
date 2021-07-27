@@ -1,0 +1,74 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unternehmen die vermitteln, beschützen Geldgeschäfte begleiten, oder Unterstützung anbieten für kommerzielle Unternehmen",
+    "dk": "Tjenester, der overfører, beskytter eller holder styr på penge og andre finansielle instrumenter eller leverer backup til kommercielle virksomheder.",
+    "en-GB": "Services  that transmit, safeguard, keep track of money or provide backup to commercial enterprises",
+    "en-US": "Services that transmit, safeguard, keep track of money or provide backup to commercial enterprises",
+    "pt-BR": "Serviços que transmitem, protegem, acompanham o dinheiro ou fornecem apoio a empresas comerciais.",
+    "pt-PT": "Serviços que transmitem, protegem, acompanham o dinheiro ou fornecem apoio a empresas comerciais.",
+    "se": "Tjänster som överför, vaktar eller håller koll på pengar och andra finansiella instrument eller utgör backup för kommersiella företag.",
+    "zh-Hans": "为商业企业传输、保管、跟踪资金或提供支援的服务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006000",
+    "https://www.wikidata.org/entity/Q837171"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000272",
+    "medtop:20000273",
+    "medtop:20000274",
+    "medtop:20000275",
+    "medtop:20000276",
+    "medtop:20000277",
+    "medtop:20000278",
+    "medtop:20000279",
+    "medtop:20000280",
+    "medtop:20000281",
+    "medtop:20000282",
+    "medtop:20000283",
+    "medtop:20000284",
+    "medtop:20000285",
+    "medtop:20000286",
+    "medtop:20000287",
+    "medtop:20000288",
+    "medtop:20000289",
+    "medtop:20000290",
+    "medtop:20000291",
+    "medtop:20000292",
+    "medtop:20000293",
+    "medtop:20001136",
+    "medtop:20001162",
+    "medtop:20001163",
+    "medtop:20001164",
+    "medtop:20001294"
+  ],
+  "prefLabel": {
+    "ar": "خدمات مال واعمال",
+    "de": "Dienstleistung",
+    "dk": "finans- og servicesektor",
+    "en-GB": "financial and business service",
+    "en-US": "financial and business service",
+    "es": "Servicios financieros y comerciales",
+    "fr": "Services",
+    "no": "finanstjenester",
+    "pt-BR": "serviços financeiros",
+    "pt-PT": "serviços financeiros",
+    "se": "Finans- och affärstjänster",
+    "zh-Hans": "金融及商业服务"
+  },
+  "qcode": "medtop:20000271",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000271",
+  "aid": "iptc_20000271"
+}

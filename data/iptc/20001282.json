@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2019-10-07T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Mannschaftssportart, die üblicherweise von Schlittschuhläufern mit einem geraden Stock auf dem Eis ausgeübt wird. Die Spieler passen und schießen einen Gummiring, um ihn im gegnerischen Tor zu platzieren.",
+    "dk": "En holdsport, der spilles på is. Spillerne er udstyret med helt lige stave og skal forsøge at få en gummring i modstandernes mål.",
+    "en-GB": "A team sport usually played on ice by skaters using a straight stick. Players pass and shoot a rubber ring in order to place it in the opponent's goal",
+    "en-US": "A team sport usually played on ice by skaters using a straight stick. Players pass and shoot a rubber ring in order to place it in the opponent's goal",
+    "pt-BR": "Esporte de equipe praticado geralmente no gelo por patinadores usando um taco sem curvatura. Os jogadores passam e atiram um anel de borracha para colocá-lo no gol do adversário.",
+    "pt-PT": "Desporto de equipa praticado geralmente no gelo por patinadores usando um taco sem curvatura. Os jogadores passam e atiram um anel de borracha para colocá-lo na baliza do adversário.",
+    "se": "Spelas på en vanlig hockeyrink men spelarna har käppar istället för klubbor och man spelar med en ring istället för en puck.",
+    "zh-Hans": "一项团队运动，选手使用直杆在冰面滑行击打橡胶圈，目的是将橡胶圈打入对方球门"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1972786"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "رينغيت",
+    "de": "Ringette",
+    "dk": "ringette",
+    "en-GB": "ringette",
+    "en-US": "ringette",
+    "es": "Ringette",
+    "fr": "Ringuette",
+    "no": "ringette",
+    "pt-BR": "ringette",
+    "pt-PT": "ringette",
+    "se": "Ringette",
+    "zh-Hans": "冰圈运动"
+  },
+  "qcode": "medtop:20001282",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001282",
+  "aid": "iptc_20001282"
+}

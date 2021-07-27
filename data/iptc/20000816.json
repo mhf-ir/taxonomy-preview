@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12006000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000808"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sexualverhalten von Einzelnen oder Gruppen",
+    "dk": "Individer eller gruppers seksuelle adfærd.",
+    "en-GB": "The manner in which people express their sexuality in physical acts",
+    "en-US": "The manner in which people express their sexuality in physical acts",
+    "pt-BR": "Comportamento sexual de indivíduos ou grupos.",
+    "pt-PT": "Comportamento sexual de indivíduos ou grupos.",
+    "se": "Individers eller grupper sexuella beteende.",
+    "zh-Hans": "个体或群体的性行为"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q608"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سلوك جنسي",
+    "de": "SexuellesVerhalten",
+    "dk": "seksuel adfærd",
+    "en-GB": "sexual behaviour",
+    "en-US": "sexual behavior",
+    "es": "Comportamiento sexual",
+    "fr": "Comportement sexuel",
+    "no": "seksualliv",
+    "pt-BR": "comportamento sexual",
+    "pt-PT": "comportamento sexual",
+    "se": "Sexuellt beteende",
+    "zh-Hans": "性行为"
+  },
+  "qcode": "medtop:20000816",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000816",
+  "aid": "iptc_20000816"
+}

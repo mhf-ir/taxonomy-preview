@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000171"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Nachrichten über aktuelle Einreichungen von Zahlungsunfähigkeit",
+    "dk": "Vurdering af en virksomheds økonomiske status og evne til at afvikle lån.",
+    "en-GB": "News about actual bankruptcy filings.",
+    "en-US": "News about actual bankruptcy filings.",
+    "pt-BR": "Notícias sobre declarações de bancarrota.",
+    "pt-PT": "Notícias sobre declarações de bancarrota.",
+    "se": "Nyheter om konkursansökningar.",
+    "zh-Hans": "关于实际破产申请的新闻"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016007",
+    "https://www.wikidata.org/entity/Q152074"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "افلاس",
+    "de": "Insolvenz",
+    "dk": "konkurs",
+    "en-GB": "bankruptcy",
+    "en-US": "bankruptcy",
+    "es": "Quiebra",
+    "fr": "Défaillance d'entreprise",
+    "no": "konkurs",
+    "pt-BR": "falência",
+    "pt-PT": "falência",
+    "se": "Konkurser",
+    "zh-Hans": "破产"
+  },
+  "qcode": "medtop:20000174",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000174",
+  "aid": "iptc_20000174"
+}

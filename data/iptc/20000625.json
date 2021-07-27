@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04017001"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000345"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Regierung als Besitzer von Firmen, komplett oder in Teilen",
+    "dk": "Virksomheder som ejes af staten og agerer på et marked på markedsvilkår.",
+    "en-GB": "The government as owner of companies, either complete or partial",
+    "en-US": "The government as owner of companies, either complete or partial",
+    "pt-BR": "O governo como proprietário de empresas, com capital exclusivo ou parcial do estado.",
+    "pt-PT": "O governo como proprietário de empresas, com capital exclusivo ou parcial do estado.",
+    "se": "Företag som ägs eller delägs av staten.",
+    "zh-Hans": "政府作为公司的所有者，不论是完全的还是部分的"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q270791"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شركة مملوكة للحكومة",
+    "de": "Staatseigentum",
+    "dk": "statsejet virksomhed",
+    "en-GB": "state-owned enterprise",
+    "en-US": "state-owned enterprise",
+    "es": "Empresas estatales",
+    "fr": "Entreprise d'Etat",
+    "no": "statlig selskap",
+    "pt-BR": "empresa estatal",
+    "pt-PT": "empresas estatais",
+    "se": "Statligt ägda företag",
+    "zh-Hans": "国有企业"
+  },
+  "qcode": "medtop:20000625",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000625",
+  "aid": "iptc_20000625"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001152"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Turner zeigen einen nicht unterbrochenen Schwung über ein Pferd mit Handgriffen unter Einsatz von Balance und Kraft",
+    "dk": "Gymnast udfører en uafbrudt svingbevægelse med benene over en *hest* ved hjælp af balance og styrke.",
+    "en-GB": "Gymnasts perform an uninterrupted swing motion over a handled horse using balance and strength",
+    "en-US": "Gymnasts perform an uninterrupted swing motion over a handled horse using balance and strength",
+    "pt-BR": "Prova masculina em que os ginastas executam uma sequência ininterrupta de movimentos, balançando o corpo sobre um cavalo com alças, combinando equilíbrio e força.",
+    "pt-PT": "Prova masculina em que os ginastas executam uma sequência ininterrupta de movimentos, balançando o corpo sobre um cavalo de arções, combinando equilíbrio e força.",
+    "zh-Hans": "运动员在马鞍马上通过平衡和力量做不间断的摆越和转体动作"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028003",
+    "https://www.wikidata.org/entity/Q840330"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حصان المقابض",
+    "de": "Seitpferd (Kunstturnen)",
+    "dk": "bensving",
+    "en-GB": "pommel horse (artistic gymnastics)",
+    "en-US": "pommel horse (artistic gymnastics)",
+    "es": "Potro con arcos (gimnasia artística)",
+    "fr": "Cheval d'arçon",
+    "no": "bøylehest (turn)",
+    "pt-BR": "cavalo com alças",
+    "pt-PT": "cavalo de arções",
+    "se": "Bygelhäst",
+    "zh-Hans": "鞍马（竞技体操）"
+  },
+  "qcode": "medtop:20000950",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000950",
+  "aid": "iptc_20000950"
+}

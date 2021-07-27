@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer laufen über rauen Untergrund und nicht auf einer Bahn",
+    "dk": "En løbedisciplin indenfor atletikken, hvor atleter konkurrerer i et terræn, som er anderledes end landevejen eller atletikbanen.",
+    "en-GB": "Competitors run over rough ground and not on a track",
+    "en-US": "Competitors run over rough ground and not on a track",
+    "pt-BR": "Os atletas correm em terreno acidentado e não em uma pista.",
+    "pt-PT": "Os atletas correm em terreno acidentado e não numa pista.",
+    "se": "Lopp längs en utmärkt väg över blandad terräng.",
+    "zh-Hans": "参赛者在崎岖的道路上而不是在跑道上的赛跑"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q500050"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سباق الضواحي",
+    "de": "Geländelauf",
+    "dk": "crossløb",
+    "en-GB": "cross-country run",
+    "en-US": "cross-country run",
+    "es": "Cross-country",
+    "fr": "Cross-country",
+    "no": "terrengløp",
+    "pt-BR": "corrida de cross-country",
+    "pt-PT": "corrida de corta-mato",
+    "se": "Terränglöpning",
+    "zh-Hans": "越野跑"
+  },
+  "qcode": "medtop:20000828",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000828",
+  "aid": "iptc_20000828"
+}

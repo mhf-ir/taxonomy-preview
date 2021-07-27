@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Spiel ähnlich dem Volleyball, bei dem man nicht unbedingt die Hände benutzen muss. Benutzt wird ein Rattanball",
+    "dk": "En sydøstasiatiske holdsport svarende til volleyball, hvor man bruger fødderne, knæene, brystet eller hovedet til at røre bolden.",
+    "en-GB": "A game like volleyball where hands must not be used, using a ball made of rattan",
+    "en-US": "A game like volleyball where hands must not be used, using a ball made of rattan",
+    "pt-BR": "Jogo semelhante ao vôlei mas em que não se usam as mãos e a bola é feita de ratã ou de bambu.",
+    "pt-PT": "Jogo semelhante ao voleibol mas em que não se usam as mãos e a bola é feita de ratã ou de bambu.",
+    "se": "En sydostasiatisk lagsport som liknar volleyboll där man använder fötterna, knäna, bröstet eller huvudet för att vidröra bollen.",
+    "zh-Hans": "类似排球的运动，但不能用手。球是藤条做的"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15098000",
+    "https://www.wikidata.org/entity/Q188818"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سيباك تاكرو",
+    "de": "Sepak Takraw",
+    "dk": "sepak takraw",
+    "en-GB": "sepak takraw",
+    "en-US": "sepak takraw",
+    "es": "Sepak takraw",
+    "fr": "Sepak takraw",
+    "no": "Sepak takraw",
+    "pt-BR": "sepak takraw",
+    "pt-PT": "sepak takraw",
+    "se": "Sepak takraw",
+    "zh-Hans": "藤球"
+  },
+  "qcode": "medtop:20001047",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001047",
+  "aid": "iptc_20001047"
+}

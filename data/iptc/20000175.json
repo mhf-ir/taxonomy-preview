@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000183"
+  ],
+  "changeNote": {
+    "en-GB": "2019-12-13: Moved from medtop:20000171 to medtop:20000183"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Aktienrückkaufprogramme. Dies sollte von Aktienbewegung getrennt werden",
+    "dk": "Program, hvor et selskab genkøber aktier i sit eget selskab fra aktionærerne.",
+    "en-GB": "Stock buyback programmes. This should be kept distinct from Stock Activity.",
+    "en-US": "Stock buyback programs. This should be kept distinct from Stock Activity.",
+    "pt-BR": "Notícias sobre programas de recompra de ações. Deve ser mantido distinto de atividade bolsista (ver abaixo).",
+    "pt-PT": "Notícias sobre programas de recompra de ações. Deve ser mantido distinto de atividade bolsista (ver abaixo).",
+    "se": "Program där ett bolag köper tillbaka aktier i det egna bolaget från aktieägarna.",
+    "zh-Hans": "股票回购计划，需与股市动态区分开"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016009",
+    "https://www.wikidata.org/entity/Q939290"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اعادة شراء",
+    "de": "Aktienrückkauf",
+    "dk": "tilbagekøb",
+    "en-GB": "buyback",
+    "en-US": "buyback",
+    "es": "Recompra de acciones",
+    "fr": "Rachat d'actions",
+    "no": "gjenkjøp",
+    "pt-BR": "recompra",
+    "pt-PT": "recompra",
+    "se": "Aktieåterköp",
+    "zh-Hans": "回购"
+  },
+  "qcode": "medtop:20000175",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000175",
+  "aid": "iptc_20000175"
+}

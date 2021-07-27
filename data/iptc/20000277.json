@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unternehmen, die Dienstleistungen anbieten im Zusammenhang mit dem Tod",
+    "dk": "Virksomheder, der leverer tjenester til håndtering af afdøde personer.",
+    "en-GB": "Companies that provide services for disposal of the dead",
+    "en-US": "Companies that provide services for disposal of the dead",
+    "pt-BR": "Empresas que fornecem serviços funerários.",
+    "pt-PT": "Empresas que fornecem serviços funerários.",
+    "se": "Företag som tillhandahåller tjänster för hantering av avlidna personer.",
+    "zh-Hans": "提供死者处置服务的公司"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006015"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خدمة دفن الموتى",
+    "de": "Bestattungsinstitut",
+    "dk": "bedemandsforretning og krematorium",
+    "en-GB": "funeral parlour and crematorium",
+    "en-US": "funeral home and crematorium",
+    "es": "Servicios funerarios y de crematorio",
+    "fr": "Pompes funèbres",
+    "no": "begravelsesbyrå og krematorium",
+    "pt-BR": "agência funerária e crematório",
+    "pt-PT": "agência funerária e crematório",
+    "se": "Begravningsfirmor",
+    "zh-Hans": "殡仪馆和火葬场"
+  },
+  "qcode": "medtop:20000277",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000277",
+  "aid": "iptc_20000277"
+}

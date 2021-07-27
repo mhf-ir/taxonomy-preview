@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000294"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Hersteller von Gewehren, Kanonen, Panzern und Schiffen etc. für militärische und nicht-militärische Sicherheitsdienste",
+    "dk": "Produktion af våben, tanks, kanoner, skibe og mere til brug af militære og ikke-militære forsvarsstyrker.",
+    "en-GB": "Manufacturers of guns, tanks, cannons, ships etc for the military and non-military protection services",
+    "en-US": "Manufacturers of guns, tanks, cannons, ships etc for the military and non-military protection services",
+    "pt-BR": "Fabricantes de armas, tanques, canhões, barcos etc. para os serviços de proteção militar e não militar.",
+    "pt-PT": "Fabricantes de armas, tanques, canhões, barcos, etc. para os serviços de proteção militar e não militar.",
+    "se": "Produktion av vapen, stridsvagnar, kanoner, fartyg med mera för användning av militära och icke-militära försvarsstyrkor.",
+    "zh-Hans": "枪支、坦克、大炮、船舶等军事和非军事防卫武器"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04011003",
+    "https://www.wikidata.org/entity/Q392933"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تجهيرات دفاعية",
+    "de": "Rüstungsindustrie",
+    "dk": "forsvarsudstyr",
+    "en-GB": "defence equipment",
+    "en-US": "defense equipment",
+    "es": "Equipos de defensa",
+    "fr": "Industrie de défense",
+    "no": "våpenindustri",
+    "pt-BR": "indústria da defesa",
+    "pt-PT": "indústria da defesa",
+    "se": "Försvarsindustri",
+    "zh-Hans": "国防装备"
+  },
+  "qcode": "medtop:20000297",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000297",
+  "aid": "iptc_20000297"
+}

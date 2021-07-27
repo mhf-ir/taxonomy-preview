@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000030"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Gattung von Musiktheater, in der das Singen und Tanzen ein wesentlicher Teil des Erzählens einer Geschichte sind.",
+    "dk": "Teater, hvor musik og sang er en vigtig del af selve historien.",
+    "en-GB": "A genre of music theatre in which singing and dancing play an essential part of the storytelling",
+    "en-US": "A genre of music theatre in which singing and dancing play an essential part of the storytelling",
+    "es": "Género teatral en el cual el canto y el baile son parte esencial de la narración",
+    "fr": "Genre théâtral dans lequel le chant et la danse jouent un rôle essentiel dans la narration",
+    "pt-BR": "Gênero de teatro musical no qual o canto e a dança são parte essencial da narrativa.",
+    "pt-PT": "Género de teatro musical no qual o canto e a dança são parte essencial da narrativa.",
+    "se": "Teater där musik och sång är en betydelsefull del av själva historieberättandet.",
+    "zh-Hans": "一种舞台音乐剧类型，其中唱歌和跳舞是叙事的重要组成部分"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2743"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2012-10-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مسرح موسيقي",
+    "de": "Musical",
+    "dk": "musical",
+    "en-GB": "musical",
+    "en-US": "musical",
+    "es": "Musical",
+    "fr": "Comédie musicale",
+    "no": "musikal",
+    "pt-BR": "musical",
+    "pt-PT": "musical",
+    "se": "Musikal",
+    "zh-Hans": "歌舞剧"
+  },
+  "qcode": "medtop:20001133",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001133",
+  "aid": "iptc_20001133"
+}

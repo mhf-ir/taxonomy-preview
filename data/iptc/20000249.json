@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000243"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ledertaschen, Schmuck, gehobene Mode, Accessoires etc.",
+    "dk": "Varer, der sælges til en høj pris, såsom lædertasker og smykker.",
+    "en-GB": "Leather bags, jewellery, haute couture, accessories etc",
+    "en-US": "Leather bags, jewelry, haute couture, accessories etc",
+    "pt-BR": "Bolsa de couro, joias, alta-costura, acessórios etc.",
+    "pt-PT": "Carteiras em pele, joias, alta-costura, acessórios, etc.",
+    "se": "Varor som säljs till ett högt pris, t ex läderväskor och smycken.",
+    "zh-Hans": "皮包、珠宝、高级时装、配饰等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04007010",
+    "https://www.wikidata.org/entity/Q949715"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سلع فاخرة",
+    "de": "Luxusgüter",
+    "dk": "luksusvare",
+    "en-GB": "luxury good",
+    "en-US": "luxury good",
+    "es": "Artículos de lujo",
+    "fr": "Luxe",
+    "no": "luksusartikler",
+    "pt-BR": "bens de luxo",
+    "pt-PT": "bens de luxo",
+    "se": "Lyxvaror",
+    "zh-Hans": "奢侈品"
+  },
+  "qcode": "medtop:20000249",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000249",
+  "aid": "iptc_20000249"
+}

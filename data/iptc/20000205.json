@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016030"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ankündigung neuer Produkte und Dienstleistungen",
+    "dk": "Et produkt eller en tjeneste, der ikke tidligere er blevet tilbudt markedet.",
+    "en-GB": "The introduction of products or services that are either new to the market",
+    "en-US": "The introduction of products or services that are either new to the market",
+    "pt-BR": "A introdução de novos produtos ou serviços no mercado.",
+    "pt-PT": "A introdução de novos produtos ou serviços no mercado.",
+    "se": "En vara eller tjänst som inte tidigare har erbjudits marknaden.",
+    "zh-Hans": "引入市场的新产品或新服务"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1395034"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "منتج او خدمة جديدة",
+    "de": "Neue Produkte",
+    "dk": "nyt produkt eller service",
+    "en-GB": "new product or service",
+    "en-US": "new product or service",
+    "es": "Nuevo producto o servicio",
+    "fr": "Nouveau produit ou nouveau service",
+    "no": "nye produkter eller tjenester",
+    "pt-BR": "novo produto ou serviço",
+    "pt-PT": "novo produto ou serviço",
+    "se": "Ny produkt eller tjänst",
+    "zh-Hans": "新产品或服务"
+  },
+  "qcode": "medtop:20000205",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000205",
+  "aid": "iptc_20000205"
+}

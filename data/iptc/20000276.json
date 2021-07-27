@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Dienst, der Menschen unterstützt einen Arbeitsplatz zu finden und für Firmen Arbeitskräfte vermittelt",
+    "dk": "Tjenester, der hjælper folk med at finde et job og hjælpe virksomheder med at finde arbejde.",
+    "en-GB": "A service helping people find jobs, and companies to find workers",
+    "en-US": "A service helping people find jobs, and companies to find workers",
+    "pt-BR": "Serviço que ajuda as pessoas a encontrar emprego e as empresas a encontrar empregados.",
+    "pt-PT": "Serviço que ajuda as pessoas a encontrar emprego e as empresas a encontrar empregados.",
+    "se": "Tjänster som hjälper personer att hitta ett arbete och som hjälper företag att hitta arbetskraft.",
+    "zh-Hans": "帮助人们找到工作，帮助公司找到工人的服务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006004",
+    "https://www.wikidata.org/entity/Q261362"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "وكالات توظيف",
+    "de": "Arbeitsvermittlung",
+    "dk": "arbejdsformidling",
+    "en-GB": "employment agency",
+    "en-US": "employment agency",
+    "es": "Agencias de empleo",
+    "fr": "Services d'aide à la recherche d'emploi",
+    "no": "arbeidsformidling",
+    "pt-BR": "agência de emprego",
+    "pt-PT": "agência de emprego",
+    "se": "Bemanningsföretag",
+    "zh-Hans": "职业介绍所"
+  },
+  "qcode": "medtop:20000276",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000276",
+  "aid": "iptc_20000276"
+}

@@ -1,0 +1,55 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000942"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Mischung aus Tanz und turnerischen Figuren",
+    "dk": "Blanding af dans og gymnastiske træk.",
+    "en-GB": "Mixture of dance and gymnastic moves",
+    "en-US": "Mixture of dance and gymnastic moves",
+    "pt-BR": "Modalidade esportiva que alia a dança a movimentos de ginástica.",
+    "pt-PT": "Modalidade desportiva que alia a dança a movimentos de ginástica.",
+    "se": "De tävlande utför olika rörelser och bedöms av domare. Både individuellt och i trupp,med fem olika handredskap (band, boll, käglor, rep och tunnband) och fristående (utan redskap).",
+    "zh-Hans": "结合体操和舞蹈动作"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028009",
+    "https://www.wikidata.org/entity/Q61465"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/rhythmgymtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-11T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000943",
+    "medtop:20000945",
+    "medtop:20000947",
+    "medtop:20000952",
+    "medtop:20000954"
+  ],
+  "prefLabel": {
+    "ar": "جمباز ايقاعي",
+    "de": "Rhythmische Gymnastik",
+    "dk": "rytmisk gymnastik",
+    "en-GB": "rhythmic gymnastics",
+    "en-US": "rhythmic gymnastics",
+    "es": "Gimnasia rítmica",
+    "fr": "Gymnastique rythmique",
+    "no": "rytmisk gymnastikk",
+    "pt-BR": "rítmica",
+    "pt-PT": "rítmica",
+    "se": "Rytmisk sportgymnastik",
+    "zh-Hans": "艺术体操"
+  },
+  "qcode": "medtop:20000951",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000951",
+  "aid": "iptc_20000951"
+}

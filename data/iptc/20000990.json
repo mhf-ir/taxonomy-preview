@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15046000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rennen zwischen Motorbooten",
+    "dk": "Fællesbetegnelse til løb med motorbåde på vandet.",
+    "en-GB": "Racing with boats with engines",
+    "en-US": "Racing with boats with engines",
+    "pt-BR": "Corrida de embarcações motorizadas.",
+    "pt-PT": "Corrida de embarcações motorizadas.",
+    "se": "Samlingsbegrepp för tävlingar med motorbåtar på vatten.",
+    "zh-Hans": "带发动机的赛艇比赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1545308"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "زورق سريع",
+    "de": "Motorboot",
+    "dk": "motorbådssport",
+    "en-GB": "motorboat racing",
+    "en-US": "motorboat racing",
+    "es": "Motor regata",
+    "fr": "Bateau à moteur",
+    "no": "båtsport",
+    "pt-BR": "corrida de barcos a motor",
+    "pt-PT": "corrida de barcos a motor",
+    "se": "Båtsport",
+    "zh-Hans": "摩托艇比赛"
+  },
+  "qcode": "medtop:20000990",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000990",
+  "aid": "iptc_20000990"
+}

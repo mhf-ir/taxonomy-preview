@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/16000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kundgebungen, Streiks, Demonstrationen, Ausschreitungen oder ein anderer Aufruhr in der Bevölkerung, meist aus Protest gegen die Regierung oder gegen die Politik oder gegen Aktionen einer anderen Organisation",
+    "dk": "Uro blandt befolkningen, der kommer til udtryk ved strejker, oprør, demonstrationer eller sabotage.",
+    "en-GB": "Rallies, strikes, demonstrations, riots or other disturbances by a population, often in protest to a government or other organization's policies or actions",
+    "en-US": "Rallies, strikes, demonstrations, riots or other disturbances by a population, often in protest to a government or other organization's policies or actions",
+    "es": "Reuniones, huelgas, manifestaciones, disturbios u otras perturbaciones organizadas por una población para protestar por las políticas o acciones de un gobierno u otra organización",
+    "fr": "Rassemblements, grèves, manifestations, émeutes ou autres perturbations menées par une population, souvent pour protester contre les politiques ou les actions d'un gouvernement ou d'une autre organisation",
+    "pt-BR": "Insatisfação entre a população geral, conforme comprovado por comícios, greves, manifestações ou sabotagens.",
+    "pt-PT": "Insatisfação entre a população manifestada por comícios, greves, manifestações ou sabotagens.",
+    "se": "Missnöje bland befolkningen som yttrar sig som strejker, massmöten, demonstrationer eller sabotage.",
+    "zh-Hans": "群众集会、罢工、示威、骚乱或其他动乱，通常是为了抗议政府或其他组织的政策或行动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16003000",
+    "https://www.wikidata.org/entity/Q686984"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000066",
+    "medtop:20000067",
+    "medtop:20000068",
+    "medtop:20000069"
+  ],
+  "prefLabel": {
+    "ar": "اضطرابات اهلية",
+    "de": "Unruhen",
+    "dk": "civil urolighed",
+    "en-GB": "civil unrest",
+    "en-US": "civil unrest",
+    "es": "Disturbios",
+    "fr": "Troubles civils",
+    "no": "demonstrasjoner og opptøyer",
+    "pt-BR": "agitação civil",
+    "pt-PT": "agitação civil",
+    "se": "Oroligheter",
+    "zh-Hans": "内乱"
+  },
+  "qcode": "medtop:20000065",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000065",
+  "aid": "iptc_20000065"
+}

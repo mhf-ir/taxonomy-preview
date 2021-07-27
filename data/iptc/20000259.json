@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001243"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Destilliertes Petroleumprodukt schwerer als Benzin nicht nur für LKWs, Seemotoren, sondern auch in spezieller Form zum Heizen.",
+    "dk": "Brændstof til dieselmotorer og opvarmningsanlæg, der består af relativt flygtige fyringsolier, såsom tung olie.",
+    "en-GB": "A distilled petroleum product heavier than gasoline used not only for trucks, marine engines, but in certain forms for home heating",
+    "en-US": "A distilled petroleum product heavier than gasoline used not only for trucks, marine engines, but in certain forms for home heating",
+    "pt-BR": "Produto petrolífero destilado, mais pesado do que a gasolina, utilizado para caminhões, motores de barcos e certos sistemas de calefação.",
+    "pt-PT": "Produto petrolífero destilado, mais pesado do que a gasolina, utilizado para camiões, motores de barcos e certos sistemas de calefação.",
+    "se": "Bränsle för dieselmotorer och värmeanläggningar bestående av relativt svårflyktiga brännoljor, t ex tjockolja.",
+    "zh-Hans": "一种比汽油重的蒸馏石油产品，不仅用于卡车、船用发动机，而且以某些形式用于家庭取暖"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005013",
+    "https://www.wikidata.org/entity/Q38423"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ديزل",
+    "de": "Diesel",
+    "dk": "dieselbrændstof",
+    "en-GB": "diesel fuel",
+    "en-US": "diesel fuel",
+    "es": "Combustible diesel",
+    "fr": "Gazole",
+    "no": "diesel",
+    "pt-BR": "gasóleo",
+    "pt-PT": "gasóleo",
+    "se": "Diesel",
+    "zh-Hans": "柴油"
+  },
+  "qcode": "medtop:20000259",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000259",
+  "aid": "iptc_20000259"
+}

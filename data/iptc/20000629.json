@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000626"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Politik einer Regierung in Bezug auf die indigene Bevölkerung",
+    "dk": "Politikker, der påvirker statens forhold til nationale mindretal.",
+    "en-GB": "Government policies toward indigenous peoples",
+    "en-US": "Government policies toward indigenous peoples",
+    "pt-BR": "Políticas governamentais relativas a povos indígenas.",
+    "pt-PT": "Políticas governamentais relativas a povos indígenas.",
+    "se": "Politik som påverkar statens förhållande till nationella minoriteter.",
+    "zh-Hans": "政府对原住民的政策"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11016005"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سكان اصليون",
+    "de": "Politik gegenüber indigener Bevölkerung",
+    "dk": "politik for indfødte",
+    "en-GB": "policy towards indigenous people",
+    "en-US": "policy towards indigenous people",
+    "es": "Indígenas",
+    "fr": "Autochtones",
+    "no": "urfolkspolitikk",
+    "pt-BR": "política para os povos indígenas",
+    "pt-PT": "política para os povos indígenas",
+    "se": "Minoritetspolitik",
+    "zh-Hans": "对原住民政策"
+  },
+  "qcode": "medtop:20000629",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000629",
+  "aid": "iptc_20000629"
+}

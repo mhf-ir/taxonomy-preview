@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000129"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Öffentliche Kräfte, die Gesetze durchsetzen, Kriminalität erfassen und vorbeugen, um die öffentliche Ordnung zu sichern",
+    "dk": "En institution i samfundet, der sikrer, at orden opretholdes, og at kriminalitet forhindres og efterforskes.",
+    "en-GB": "Civil force of a national, regional or local government that is responsible for the prevention and detection of crime and the maintenance of public order",
+    "en-US": "Civil force of a national, regional or local government that is responsible for the prevention and detection of crime and the maintenance of public order",
+    "pt-BR": "Agentes do sistema legal cuja missão é a aplicação das leis para a manutenção da ordem.",
+    "pt-PT": "Agentes do estado que têm por missão zelar pelo cumprimento da lei, proteger as pessoas e a propriedade e manter a ordem pública.",
+    "se": "En instans i samhället som ser till att ordningen upprätthålls, att brottslighet förhindras och utreds när den inträffar.",
+    "zh-Hans": "国家、地区或地方政府中负责防止、侦查犯罪和维护公共秩序的民事力量"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02003000",
+    "https://www.wikidata.org/entity/Q35535"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "شرطة",
+    "de": "Polizei",
+    "dk": "politi",
+    "en-GB": "police",
+    "en-US": "police",
+    "es": "Policía",
+    "fr": "Police",
+    "no": "politi",
+    "pt-BR": "polícia",
+    "pt-PT": "polícia",
+    "se": "Polis",
+    "zh-Hans": "警察"
+  },
+  "qcode": "medtop:20000133",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000133",
+  "aid": "iptc_20000133"
+}

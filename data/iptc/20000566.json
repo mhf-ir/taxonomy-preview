@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000550"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Interesse für alte und moderne Autos",
+    "dk": "Interesse for nye og gamle biler.",
+    "en-GB": "Interest in new and classic cars",
+    "en-US": "Interest in new and classic cars",
+    "pt-BR": "Interesse por carros novos e clássicos.",
+    "pt-PT": "Interesse por carros novos e clássicos.",
+    "se": "Intresse för nya och gamla bilar.",
+    "zh-Hans": "对新车和老爷车的兴趣"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شغف بالسيارات",
+    "de": "Auto",
+    "dk": "bilentusiasme",
+    "en-GB": "automobile enthusiasm",
+    "en-US": "automobile enthusiasm",
+    "es": "Afición por el automóvil",
+    "fr": "Amateur d'automobile",
+    "no": "bilinteresse",
+    "pt-BR": "entusiasmo automobilístico",
+    "pt-PT": "interesse automobilístico",
+    "se": "Bilar",
+    "zh-Hans": "汽车爱好"
+  },
+  "qcode": "medtop:20000566",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000566",
+  "aid": "iptc_20000566"
+}

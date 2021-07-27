@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001244"
+  ],
+  "created": "2020-08-05T12:00:00+00:00",
+  "definition": {
+    "de": "Das Geschäft der Wärme- oder Kälteversorgung von Privatwohnungen und gewerblichen Gebäuden",
+    "dk": "Levering af varme eller køling til private eller offentlige ejendomme.",
+    "en-GB": "The business of supplying heat or cooling to private residences and commercial buildings",
+    "en-US": "The business of supplying heat, cooling and ventilation to private residences and commercial buildings",
+    "pt-BR": "Negócio de fornecimento de calor ou refrigeração para residências privadas e edifícios comerciais.",
+    "pt-PT": "Negócio de fornecimento de calor ou refrigeração para residências privadas e edifícios comerciais.",
+    "se": "Verksamhet som tillhandahåller värme, ventilation och luftkonditionering till privata hem och företag.",
+    "zh-Hans": "为住宅或商业楼宇提供热制冷服务"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1798773"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تدفئة وتبريد",
+    "de": "Heizung und Kühlung",
+    "dk": "fjernvarme og fjernkøling",
+    "en-GB": "heating and cooling",
+    "en-US": "heating, ventilation, and air conditioning",
+    "es": "Calefacción y aire acondicionado",
+    "fr": "Chauffage et climatisation",
+    "no": "varme og ventilasjon",
+    "pt-BR": "climatização",
+    "pt-PT": "climatização",
+    "se": "Värme och ventilation",
+    "zh-Hans": "供热和制冷"
+  },
+  "qcode": "medtop:20001291",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001291",
+  "aid": "iptc_20001291"
+}

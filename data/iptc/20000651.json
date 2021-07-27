@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000649"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Umfasst sowohl formelle und informelle politische Zusammenschlüsse.",
+    "dk": "Sammenslutning eller gruppe af vælgere, der optræder i valg under særlig udpegning såvel som mere uformelle politiske formationer.",
+    "en-GB": "Covers both formally recognised and informal political associations",
+    "en-US": "Covers both formally recognized and informal political associations",
+    "pt-BR": "Inclui associações políticas formalmente reconhecidas e informais.",
+    "pt-PT": "Inclui associações políticas formalmente reconhecidas e informais.",
+    "se": "Sammanslutning eller grupp av väljare som uppträder i val under särskild beteckning samt mer informella politiska formationer.",
+    "zh-Hans": "包括正式认可的和非正式的政治协会"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11010000",
+    "https://www.wikidata.org/entity/Q7278"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "narrower": [
+    "medtop:20001312"
+  ],
+  "prefLabel": {
+    "ar": "احزب وحركات",
+    "de": "Partei",
+    "dk": "politisk parti og bevægelse",
+    "en-GB": "political parties and movements",
+    "en-US": "political parties and movements",
+    "es": "Partidos políticos",
+    "fr": "Partis politiques",
+    "no": "politisk parti",
+    "pt-BR": "partidos e movimentos políticos",
+    "pt-PT": "partidos e movimentos políticos",
+    "se": "Politiska partier och rörelser",
+    "zh-Hans": "政党和运动"
+  },
+  "qcode": "medtop:20000651",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000651",
+  "aid": "iptc_20000651"
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15022000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000923"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Pferdesport Veranstaltungen mit Pferden in Trapez, bei dem einzelne Fahrzeuge einen Kurs fahren",
+    "dk": "Hestekonkurrence, hvor en ekvipager med en eller flere heste kommer rundt på en forhindringsbane i en arena.",
+    "en-GB": "Equestrian events involving horses being driven in harness,  single vehicle around a course.",
+    "en-US": "Equestrian events involving horses being driven in harness, single vehicle around a course.",
+    "pt-BR": "Eventos equestres em que cavalos atrelados a um veículo são conduzidos por um percurso.",
+    "pt-PT": "Eventos equestres em que cavalos atrelados a um veículo são conduzidos por um percurso.",
+    "se": "Hästtävling där ett ekipage med en eller flera hästar ska ta sig runt en hinderbana i en arena.",
+    "zh-Hans": "驾驶配有马具的单匹马车沿赛道进行的比赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1194269"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic equestrianism + sports facet equestriantype."
+  },
+  "prefLabel": {
+    "ar": "القيادة",
+    "de": "Fahrsport",
+    "dk": "hestevognskørsel",
+    "en-GB": "horse driving",
+    "en-US": "horse driving",
+    "es": "Atelaje",
+    "fr": "Attelage",
+    "no": "travsport",
+    "pt-BR": "atrelagem",
+    "pt-PT": "atrelagem",
+    "se": "Sportkörning",
+    "zh-Hans": "驾驭马车比赛"
+  },
+  "qcode": "medtop:20000928",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000928",
+  "aid": "iptc_20000928"
+}

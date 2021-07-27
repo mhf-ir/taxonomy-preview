@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000038"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Form menschlicher Kommunikation, entweder gesprochen oder geschrieben, in der Wörter in einer strukturierten und allgemein gebräuchlichen Form verwendet werden",
+    "dk": "Metode til menneskelig kommunikation, enten talt eller skrevet, bestående af ord, der bruges på en struktureret og konventionel måde.",
+    "en-GB": "The method of human communication, either spoken or written, consisting of words that are used in a structured and conventional way",
+    "en-US": "The method of human communication, either spoken or written, consisting of words that are used in a structured and conventional way",
+    "es": "Método de comunicación humana, hablado o escrito, que consiste en palabras que se utilizan de una manera estructurada y convencional",
+    "fr": "Méthode de communication humaine, orale ou écrite, composée de mots utilisés de manière structurée et conventionnelle",
+    "pt-BR": "Meio através do qual as pessoas comunicam umas com as outras.",
+    "pt-PT": "Meio através do qual as pessoas comunicam umas com as outras.",
+    "se": "En metod för mänsklig kommunikation, antingen skriftlig eller muntlig, som består av ord som sätts samman på ett sätt som utvecklats över tid inom en grupp människor som därmed kan kommunicera med varandra.",
+    "zh-Hans": "人类交流的方法，包括口头与书面形式"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01008000",
+    "https://www.wikidata.org/entity/Q315"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "لغة",
+    "de": "Sprache",
+    "dk": "sprog",
+    "en-GB": "language",
+    "en-US": "language",
+    "es": "Lenguaje",
+    "fr": "Langue",
+    "no": "språk",
+    "pt-BR": "língua",
+    "pt-PT": "linguagem",
+    "se": "Språk",
+    "zh-Hans": "语言"
+  },
+  "qcode": "medtop:20000042",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000042",
+  "aid": "iptc_20000042"
+}

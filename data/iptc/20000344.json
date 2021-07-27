@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/04000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Inhalte grundsätzlicher Art über Handel und Ökonomie",
+    "dk": "Sager relateret til handel og økonomi.",
+    "en-GB": "Content of a general nature about trade and the economy",
+    "en-US": "Content of a general nature about trade and the economy",
+    "pt-BR": "Conteúdo geral sobre comércio e economia.",
+    "pt-PT": "Conteúdo geral sobre comércio e economia.",
+    "se": "Saker som rör handel och ekonomin.",
+    "zh-Hans": "关于贸易和经济的一般性内容"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q159810",
+    "http://cv.iptc.org/newscodes/subjectcode/04017000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000346",
+    "medtop:20001171"
+  ],
+  "prefLabel": {
+    "ar": "اقتصاد",
+    "de": "Wirtschaft",
+    "dk": "økonomi",
+    "en-GB": "economy",
+    "en-US": "economy",
+    "es": "Economía",
+    "fr": "Économie",
+    "no": "økonomi",
+    "pt-BR": "economia (geral)",
+    "pt-PT": "economia (geral)",
+    "se": "Ekonomi",
+    "zh-Hans": "经济"
+  },
+  "qcode": "medtop:20000344",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000344",
+  "aid": "iptc_20000344"
+}

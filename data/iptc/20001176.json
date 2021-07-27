@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2016-04-05T12:00:00+00:00",
+  "definition": {
+    "de": "Eine im Rugby (England) entwickelte Form des Fussballs, die mit einem ovalen Ball gespielt wird, der getreten, getragen und von Hand zu Hand weitergereicht werden kann. Punkte werden erzielt, wenn eine Mannschaft den Ball über die Torlinie der anderen Mannschaft trägt oder den Ball zwischen zwei Torpfosten kickt.",
+    "dk": "En form for fodbold udviklet i Rugby (England) spillet med en oval bold, der kan sparkes, bæres og sendes fra hånd til hånd. Der scores point, når det ene hold bærer bolden over det andet holds mållinje eller sparker bolden mellem to målposter.",
+    "en-GB": "A form of football developed in Rugby (England) played with an oval ball that may be kicked, carried and passed from hand to hand. Points are scored when one team carries the ball over the other team's goal line or kicks the ball between two goal posts.",
+    "en-US": "A form of football developed in Rugby (England) played with an oval ball that may be kicked, carried and passed from hand to hand. Points are scored when one team carries the ball over the other team's goal line or kicks the ball between two goal posts.",
+    "pt-BR": "Tipo de futebol desenvolvido em Rugby (Inglaterra) jogado com uma bola oval que pode ser chutada, carregada e passada de mão em mão. Os pontos são marcados quando uma equipe coloca a bola sobre a linha de meta da outra equipe ou chuta a bola entre os dois postes da baliza.",
+    "pt-PT": "Tipo de futebol desenvolvido em Rugby (Inglaterra) jogado com uma bola oval que pode ser chutada, carregada e passada de mão em mão. Os pontos são marcados quando uma equipa coloca a bola sobre a linha de meta da outra equipa ou chuta a bola entre os dois postes da baliza.",
+    "se": "En engelsk sport där två lag spelar på en bana där de passar och springer med en oval boll. Poäng får lagen genom att placera bollen i motståndarnas målzon eller sparka den mellan målstolparna.",
+    "zh-Hans": "英式橄榄球。椭圆形的的球可以踢球、带球以及用手传球。带球过对方底线或踢球进对方门柱内得分"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q5378"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-05T12:00:00+00:00",
+  "narrower": [
+    "medtop:20001035",
+    "medtop:20001036",
+    "medtop:20001037"
+  ],
+  "prefLabel": {
+    "ar": "اتحاد الرغبي",
+    "de": "Rugby",
+    "dk": "rugby",
+    "en-GB": "rugby",
+    "en-US": "rugby",
+    "es": "Rugby",
+    "fr": "Rugby",
+    "no": "rugby",
+    "pt-BR": "rúgbi",
+    "pt-PT": "râguebi",
+    "se": "Rugby",
+    "zh-Hans": "英式橄榄球联盟"
+  },
+  "qcode": "medtop:20001176",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001176",
+  "aid": "iptc_20001176"
+}

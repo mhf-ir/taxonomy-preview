@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000574"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Individuen, die sich zur Wahl stellen",
+    "dk": "Enkeltpersoner, der er valgt til at stille op for deres respektive partier eller til valg.",
+    "en-GB": "Individuals who are chosen to stand for office",
+    "en-US": "Individuals who are chosen to stand for office",
+    "pt-BR": "Indivíduos escolhidos para se candidatarem a cargos públicos.",
+    "pt-PT": "Indivíduos escolhidos para se candidatarem a cargos públicos.",
+    "se": "Personer som ställer upp i ett val.",
+    "zh-Hans": "被选来竞选公职的个人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11003001",
+    "https://www.wikidata.org/entity/Q19772737"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مرشحون سياسيون",
+    "de": "Kandidat",
+    "dk": "politisk kandidat",
+    "en-GB": "political candidates",
+    "en-US": "political candidates",
+    "es": "Candidatos políticos",
+    "fr": "Candidats",
+    "no": "valgkandidat",
+    "pt-BR": "candidatos políticos",
+    "pt-PT": "candidatos políticos",
+    "se": "Politiska kandidater",
+    "zh-Hans": "政治候选人"
+  },
+  "qcode": "medtop:20000582",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000582",
+  "aid": "iptc_20000582"
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000960"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rennen mit Pferd und Reiter über acht Hindernisse, wovon vier unterschiedlich sein müssen, wie Sprung über Wasser, Sprossenzäune, Schlammwände etc.",
+    "dk": "Hestevæddeløb, hvor ryttere på heste skal krydse otte forhindringer, hvoraf mindst fire skal være forskellige.",
+    "en-GB": "A mounted horse race over at least eight classic obstacles, four of which must be different, such as the water jump, spruce fences, mud walls etc.",
+    "en-US": "A mounted horse race over at least eight classic obstacles, four of which must be different, such as the water jump, spruce fences, mud walls etc.",
+    "pt-BR": "Corrida de cavalo montado com pelo menos 8 obstáculos clássicos, quatro dos quais são diferentes, como salto sobre água, cerca, vala etc.",
+    "pt-PT": "Corrida de cavalo montado com pelo menos 8 obstáculos clássicos, quatro dos quais são diferentes, como salto sobre água, cerca, vala, etc.",
+    "se": "Hästtävling där ryttare och hästar och ska över åtta hinder, varav minst fyra ska vara olika.",
+    "zh-Hans": "骑马比赛，设有8个经典的障碍。其中4个必须不同，包括跳水池，木栅栏，泥墙等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15030002",
+    "https://www.wikidata.org/entity/Q2300237"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic horse racing + sports facet equestriantype."
+  },
+  "prefLabel": {
+    "ar": "موانع",
+    "de": "Hindernissrennen",
+    "dk": "hesteforhindringsløb",
+    "en-GB": "steeple chase",
+    "en-US": "steeple chase",
+    "es": "Carrera de obstáculos",
+    "fr": "Course d'obstacles",
+    "no": "hinderløp",
+    "pt-BR": "corrida de obstáculos",
+    "pt-PT": "corrida de obstáculos",
+    "se": "Steeplechase",
+    "zh-Hans": "马术障碍赛"
+  },
+  "qcode": "medtop:20000963",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000963",
+  "aid": "iptc_20000963"
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02006002"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000122"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Regelungen aus dem Unternehmensrecht",
+    "dk": "Regler, der udspringer af selskabs- og erhvervsret.",
+    "en-GB": "laws that guide the conduct and organization of business corporations",
+    "en-US": "laws that guide the conduct and organization of business corporations",
+    "pt-BR": "Regras que derivam do direito empresarial.",
+    "pt-PT": "Regras que derivam do direito empresarial.",
+    "se": "Bestämmelser som främst har med lagstiftning kring företag att göra.",
+    "zh-Hans": "指导商业组织行为和组织的法律/指导商业公司行为和组织的规则"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q428148"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000123"
+  ],
+  "prefLabel": {
+    "ar": "تنظيم",
+    "de": "Verordnung",
+    "dk": "regulering",
+    "en-GB": "regulations",
+    "en-US": "regulations",
+    "es": "Regulación",
+    "fr": "Réglementation",
+    "no": "regulering",
+    "pt-BR": "regulação",
+    "pt-PT": "regulação",
+    "se": "Regler",
+    "zh-Hans": "法规"
+  },
+  "qcode": "medtop:20000124",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000124",
+  "aid": "iptc_20000124"
+}

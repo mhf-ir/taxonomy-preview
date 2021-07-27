@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000141"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: English name changed"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jedes ungeplante Ereignis mit ungewollten Konsequenzen im Zusammenhang mit radioaktiven Materialien",
+    "dk": "Uventet begivenhed på steder, der involvere produktion af atomkraft.",
+    "en-GB": "Any unplanned event that causes unwanted consequences involving radioactive materials",
+    "en-US": "Any unplanned event that causes unwanted consequences involving radioactive materials",
+    "pt-BR": "Acidente envolvendo materiais radioativos.",
+    "pt-PT": "Acidente envolvendo materiais radioativos.",
+    "se": "Oönskade händelser på ställen som ingår i produktion av kärnkraft.",
+    "zh-Hans": "涉及放射性物质的意外事故"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03008000",
+    "https://www.wikidata.org/entity/Q1620824"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حادث نووي",
+    "de": "Atomunglück",
+    "dk": "atomulykke",
+    "en-GB": "nuclear accident and incident",
+    "en-US": "nuclear accident and incident",
+    "es": "Accidente nuclear",
+    "fr": "Accident nucléaire",
+    "no": "atomulykker",
+    "pt-BR": "acidente nuclear",
+    "pt-PT": "acidente nuclear",
+    "se": "Kärnkraftsolyckor",
+    "zh-Hans": "核事故"
+  },
+  "qcode": "medtop:20000142",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000142",
+  "aid": "iptc_20000142"
+}

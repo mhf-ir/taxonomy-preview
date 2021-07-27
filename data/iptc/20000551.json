@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10005000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000538"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Arbeitsfreie Zeit zur Erholung und Regeneration",
+    "dk": "Periode hvor man afholder fri fra skole eller arbejde, ofte betalt af arbejdsgiveren ifølge overenskomst.",
+    "en-GB": "Time spent not at work for rest and relaxation",
+    "en-US": "Time spent not at work for rest and relaxation",
+    "pt-BR": "Tempo de descanso e relaxamento passado fora do trabalho.",
+    "pt-PT": "Tempo de descanso e relaxamento passado fora do trabalho.",
+    "se": "Arbetstagares årliga, av arbetsgivaren betalda, ledighet för rekreation.",
+    "zh-Hans": "用于休息和放松的非工作时间"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q116213"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000552",
+    "medtop:20001270"
+  ],
+  "prefLabel": {
+    "ar": "عطلة",
+    "de": "Urlaub",
+    "dk": "ferie",
+    "en-GB": "holiday",
+    "en-US": "vacation",
+    "es": "Vacaciones",
+    "fr": "Vacances",
+    "no": "ferie",
+    "pt-BR": "férias",
+    "pt-PT": "férias",
+    "se": "Semester",
+    "zh-Hans": "假日"
+  },
+  "qcode": "medtop:20000551",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000551",
+  "aid": "iptc_20000551"
+}

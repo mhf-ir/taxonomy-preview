@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000525"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Teile der Tarifverträge und Tarifverhandlungen, die sich auf die Vergütung beziehen.",
+    "dk": "Aftale om kompensation for udført arbejde.",
+    "en-GB": "Element of contracts and contract discussions centring on remuneration",
+    "en-US": "Element of contracts and contract discussions centering on remuneration",
+    "pt-BR": "Elementos e discussões contratuais sobre remuneração.",
+    "pt-PT": "Elementos e discussões contratuais sobre remuneração.",
+    "se": "Avtal om ersättning för utfört arbete.",
+    "zh-Hans": "合同的要素和合同讨论的焦点是报酬"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09002001",
+    "https://www.wikidata.org/entity/Q6821213"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عقد عمل/رواتب",
+    "de": "Gehaltstarifvertrag",
+    "dk": "aftalebrud - løn",
+    "en-GB": "contract issue-wages",
+    "en-US": "contract issue-wages",
+    "es": "Contratos/pagos",
+    "fr": "Accords salariaux",
+    "no": "lønn",
+    "pt-BR": "questões contratuais de salário",
+    "pt-PT": "questões contratuais de salário",
+    "se": "Löneavtal",
+    "zh-Hans": "工资合同"
+  },
+  "qcode": "medtop:20000527",
+  "retired": "2019-10-07T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000527",
+  "aid": "iptc_20000527"
+}

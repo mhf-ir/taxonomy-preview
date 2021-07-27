@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000587"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rechte des Einzelnen im Bürgerlichen Recht.",
+    "dk": "De rettigheder som borgerne i en stat har, ofte indskrevet i landets grundlov.",
+    "en-GB": "Rights of individuals under civil law",
+    "en-US": "Rights of individuals under civil law",
+    "pt-BR": "Direitos dos indivíduos no plano civil.",
+    "pt-PT": "Direitos dos indivíduos no plano civil.",
+    "se": "De rättigheter som medborgarna i en stat har, oftast inskrivna i landets grundlagar.",
+    "zh-Hans": "民法规定的个人权利"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02007001",
+    "https://www.wikidata.org/entity/Q191600"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-02-19T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حقوق مدنية",
+    "de": "Zivilrecht",
+    "dk": "borgerrettighed",
+    "en-GB": "civil rights",
+    "en-US": "civil rights",
+    "es": "Derechos civiles",
+    "fr": "Droits civiques",
+    "no": "borgerrettigheter",
+    "pt-BR": "direitos civis",
+    "pt-PT": "direitos civis",
+    "se": "Medborgerliga rättigheter",
+    "zh-Hans": "公民权"
+  },
+  "qcode": "medtop:20000120",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000120",
+  "aid": "iptc_20000120"
+}

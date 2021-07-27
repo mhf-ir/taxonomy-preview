@@ -1,0 +1,28 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2021-07-12T12:00:00+00:00",
+  "definition": {
+    "en-GB": "Taking place on a flatwater course, multiple canoes take off at once and race each other to the finish",
+    "en-US": "Taking place on a flatwater course, multiple canoes take off at once and race each other to the finish"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1141850"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-07-12T12:00:00+00:00",
+  "prefLabel": {
+    "en-GB": "canoe sprint",
+    "en-US": "canoe sprint"
+  },
+  "qcode": "medtop:20001331",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001331",
+  "aid": "iptc_20001331"
+}

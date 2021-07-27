@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016028"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000188"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Einstellungen und Veränderungen in den Vorständen der Geschäftsführung",
+    "dk": "Nyheder om administrerende direktør og andre ledende stillinger i en virksomhed, herunder nye ansættelser og ændringer.",
+    "en-GB": "Company executive officers including appointments and changes",
+    "en-US": "Company executive officers including appointments and changes",
+    "pt-BR": "Administradores de empresas, incluindo compromissos e mudanças.",
+    "pt-PT": "Administradores de empresas, incluindo compromissos e mudanças.",
+    "se": "Nyheter om vd och andra ledande befattningar i ett företag, inklusive nyutnämningar och förändringar.",
+    "zh-Hans": "公司行政人员的任命和变动等"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2462658"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ادارة",
+    "de": "Vorstand",
+    "dk": "ledelse",
+    "en-GB": "management",
+    "en-US": "management",
+    "es": "Dirección",
+    "fr": "Dirigeants d'entreprise",
+    "no": "næringslivsleder",
+    "pt-BR": "administração",
+    "pt-PT": "administração",
+    "se": "Företagsledning",
+    "zh-Hans": "管理层"
+  },
+  "qcode": "medtop:20000190",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000190",
+  "aid": "iptc_20000190"
+}

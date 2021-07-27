@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sportart, bei der zwei Spieler oder vier im Doppel mit einem Schläger ausgestattet, einen Ball über ein Netz auf die gegnerische Seite des Feldes schlagen. Ziel ist es diesen so zu platzieren, dass er unerreicht innerhalb der Linie auf den Boden geht, damit werden Punkte erreicht",
+    "dk": "Deltagerne slår en lille bold med en ketsjer og skal ramme modstanderens halvdel. Et net adskiller banehalvdelene. Forskellige underlag i forskellige konkurrencer. Spillet spilles individuelt eller i par og i flere sæt, der består af flere partier.",
+    "en-GB": "A sport where two players, four in doubles, equipped with a racket compete by hitting the ball over a net into the opponent's side of the court with the aim of putting it out of reach within the regulation lines, thus winning points.",
+    "en-US": "A sport where two players, four in doubles, equipped with a racket compete by hitting the ball over a net into the opponent's side of the court with the aim of putting it out of reach within the regulation lines, thus winning points.",
+    "pt-BR": "Esporte em que 2 jogadores, ou 4 em pares, se defrontam em quadra dividida por rede, rebatendo com raquete uma bola de borracha para a área adversária.",
+    "pt-PT": "Desporto em que 2 jogadores, ou 4 em pares, se defrontam em campo dividido por rede, batendo com raquete uma bola de borracha para a área adversária.",
+    "se": "De tävlande slår med en racket en boll och ska träffa motståndarens planhalva. Ett nät skiljer planhalvorna åt. Olika underlag i olika tävlingar. Matchen spelasindividuellt eller i par och i flera set, som består av flera game.",
+    "zh-Hans": "一种体育运动，两名运动员进行单打或四名运动员进行双打，球员手持球拍，将球越过网打到对方场地的那一侧，目的是将球打到规则线以内而让对方球员接不到球，从而得分"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15065000",
+    "https://www.wikidata.org/entity/Q847"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مضرب",
+    "de": "Tennis",
+    "dk": "tennis",
+    "en-GB": "tennis",
+    "en-US": "tennis",
+    "es": "Tenis",
+    "fr": "Tennis",
+    "no": "tennis",
+    "pt-BR": "tênis",
+    "pt-PT": "ténis",
+    "se": "Tennis",
+    "zh-Hans": "网球"
+  },
+  "qcode": "medtop:20001085",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001085",
+  "aid": "iptc_20001085"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000446"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verschiedene Stadien von Krankheit, Leiden oder Verletzung.",
+    "dk": "Forskellige niveauer af sygdomme eller skader.",
+    "en-GB": "Various stages of disease, illness or injury",
+    "en-US": "Various stages of disease, illness or injury",
+    "pt-BR": "Estados de evolução de doenças ou feridas.",
+    "pt-PT": "Estados de evolução de doenças ou feridas.",
+    "se": "Olika nivåer av sjukdom eller skada.",
+    "zh-Hans": "不同阶段的疾病或损伤"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07018000",
+    "https://www.wikidata.org/entity/Q12136"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شروط طبية",
+    "de": "Krankheitsverlauf",
+    "dk": "medicinsk tilstand",
+    "en-GB": "medical conditions",
+    "en-US": "medical conditions",
+    "es": "Condiciones médicas",
+    "fr": "État de santé",
+    "no": "sykdom",
+    "pt-BR": "condições médicas",
+    "pt-PT": "condições médicas",
+    "se": "Medicinska tillstånd",
+    "zh-Hans": "病况"
+  },
+  "qcode": "medtop:20000457",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000457",
+  "aid": "iptc_20000457"
+}

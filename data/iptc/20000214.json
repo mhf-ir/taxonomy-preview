@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000210"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Herstellung, Sammlung und Verarbeitung von Baumbeständen für die zukünftige Nutzung",
+    "dk": "Skovbrugsvirksomheder, der anvendes til produktion af træ til efterfølgende forarbejdning og brug.",
+    "en-GB": "Production and collection and preparation of wood products for future use",
+    "en-US": "Production and collection and preparation of wood products for future use",
+    "pt-BR": "Produção, recolha e preparação de produtos de madeira para uso futuro.",
+    "pt-PT": "Produção, recolha e preparação de produtos de madeira para uso futuro.",
+    "se": "Verksamhet där skog utnyttjas för produktion av virke för efterföljande bearbetning och användning.",
+    "zh-Hans": "生产、收集和制备木材"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04001003",
+    "https://www.wikidata.org/entity/Q38112"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "احراج واخشاب",
+    "de": "Forstwirtschaft",
+    "dk": "skovbrug og træ",
+    "en-GB": "forestry and timber",
+    "en-US": "forestry and timber",
+    "es": "Silvicultura y explotación forestal",
+    "fr": "Exploitation forestière",
+    "no": "skogbruk",
+    "pt-BR": "exploração florestal e silvicultura",
+    "pt-PT": "exploração florestal e silvicultura",
+    "se": "Skogsbruk",
+    "zh-Hans": "林业和木材"
+  },
+  "qcode": "medtop:20000214",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000214",
+  "aid": "iptc_20000214"
+}

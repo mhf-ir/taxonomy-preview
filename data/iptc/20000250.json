@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000252"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Waren, die auf dem Postweg verkauft und versendet werden",
+    "dk": "Varer solgt gennem og leveret pr. post.",
+    "en-GB": "Items sold through and delivered by mail",
+    "en-US": "Items sold through and delivered by mail",
+    "pt-BR": "Artigos vendidos e entregues por correio.",
+    "pt-PT": "Artigos vendidos e entregues por correio.",
+    "se": "Varor som säljs genom och leveras med hjälp av posten.",
+    "zh-Hans": "通过邮件销售和递送的物品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04007004",
+    "https://www.wikidata.org/entity/Q425779"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شراء بالبريد",
+    "de": "Versandhandel",
+    "dk": "postordre",
+    "en-GB": "mail order",
+    "en-US": "mail order",
+    "es": "Venta por correo",
+    "fr": "Vente par correspondance",
+    "no": "postordresalg",
+    "pt-BR": "vendas por correio",
+    "pt-PT": "vendas por correio",
+    "se": "Postorder",
+    "zh-Hans": "邮购"
+  },
+  "qcode": "medtop:20000250",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000250",
+  "aid": "iptc_20000250"
+}

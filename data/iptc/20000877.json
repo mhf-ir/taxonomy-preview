@@ -1,0 +1,57 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15015000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkampf mit Kanus, die meistens kniend mit einem Einzel-Stechpaddel fortbewegt werden",
+    "dk": "Konkurrence i kanoer, hvor konkurrenterne normalt sidder på knæene og padler med en ensidet padle.",
+    "en-GB": "Competition involving canoes which are generally kneeled and paddled with a single-bladed paddle",
+    "en-US": "Competition involving canoes which are generally kneeled and paddled with a single-bladed paddle",
+    "pt-BR": "Competição que envolve canoas e em que os participantes remam com um remo simples.",
+    "pt-PT": "Competição que envolve canoas e em que os participantes remam com uma pagaia simples.",
+    "se": "Tävling i farkoster där de tävlande normalt står på knä och paddlar med en ensidig paddel.",
+    "zh-Hans": "有关划艇的比赛，通常用单叶桨跪着划桨"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q20856109"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/canoekayaktype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000878",
+    "medtop:20000879",
+    "medtop:20000880",
+    "medtop:20000881",
+    "medtop:20000882"
+  ],
+  "prefLabel": {
+    "ar": "كانو كاياك",
+    "de": "Kanu",
+    "dk": "kano",
+    "en-GB": "canoeing",
+    "en-US": "canoeing",
+    "es": "Canotaje",
+    "fr": "Canoë",
+    "no": "kanopadling",
+    "pt-BR": "canoagem",
+    "pt-PT": "canoagem",
+    "se": "Kanot (kanadensare)",
+    "zh-Hans": "划艇"
+  },
+  "qcode": "medtop:20000877",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000877",
+  "aid": "iptc_20000877"
+}

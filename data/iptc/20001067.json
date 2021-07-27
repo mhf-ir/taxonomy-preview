@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zeitrennen, ausgeübt von zwei Läufern zur gleichen Zeit auf einer ovalen Eisbahn",
+    "dk": "Tidskørsel, hvor to skøjteløbere med specielle langdistance skøjter, løber på en oval isbane og skifter mellem inderbane og yderbane.",
+    "en-GB": "Timed races competed by two or more skaters at a time on an oval ice track",
+    "en-US": "Timed races competed by two skaters at a time on an oval ice track",
+    "pt-BR": "Corridas disputadas por 2 patinadores em pista oval de gelo.",
+    "pt-PT": "Corridas disputadas por 2 patinadores em pista oval de gelo.",
+    "se": "Två tävlande i taget åker runt en oval isbana med speciella längdåkningsskridskor på fötterna. De tävlande växlar mellan innerbana och ytterbana. Lopp av olika längd.",
+    "zh-Hans": "两个或两个以上的滑冰运动员同时在椭圆形冰道上进行的计时比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15056000",
+    "https://www.wikidata.org/entity/Q192431"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تزلج سريع",
+    "de": "Eisschnelllauf",
+    "dk": "hurtigløb på skøjter",
+    "en-GB": "speed skating",
+    "en-US": "speed skating",
+    "es": "Patinaje de velocidad",
+    "fr": "Patinage de vitesse",
+    "no": "skøyter",
+    "pt-BR": "patinação (velocidade)",
+    "pt-PT": "patinagem (velocidade)",
+    "se": "Skridsko",
+    "zh-Hans": "速度滑冰"
+  },
+  "qcode": "medtop:20001067",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001067",
+  "aid": "iptc_20001067"
+}

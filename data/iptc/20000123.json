@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000124"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kartellaktivitäten und Regelungen des Monopols",
+    "dk": "Regler, der vedrører konkurrence mellem virksomheder, såsom regler mod monopoler og lignede.",
+    "en-GB": "laws to promote competition between companies for the benefit of consumers",
+    "en-US": "laws to promote competition between companies for the benefit of consumers",
+    "pt-BR": "Histórias relativas a atividades antitruste, regulações de monopólio etc.",
+    "pt-PT": "Histórias relativas a atividades antitrust, regulações de monopólio, etc.",
+    "se": "Saker som gäller konkurrens mellan företag, såsom regler mot monopol och truster.",
+    "zh-Hans": "反垄断活动、对垄断行为的规制等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016004",
+    "https://www.wikidata.org/entity/Q326498"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "قضية مكافحة احتكار",
+    "de": "Kartellfragen",
+    "dk": "konkurrenceregel",
+    "en-GB": "antitrust regulations",
+    "en-US": "antitrust regulations",
+    "es": "Legislación antitrust",
+    "fr": "Droit de la concurrence",
+    "no": "konkurranselov",
+    "pt-BR": "antitruste",
+    "pt-PT": "antitrust",
+    "se": "Konkurrensfrågor",
+    "zh-Hans": "反垄断"
+  },
+  "qcode": "medtop:20000123",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000123",
+  "aid": "iptc_20000123"
+}

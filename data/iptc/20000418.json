@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/06000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Signifikante Änderungen bei der Messung von Klima (wie Temperatur, Niederschlag oder Wind) über einen ausgedehnten Zeitraum",
+    "dk": "Klimaændringer (temperatur, nedbør, vind) på et enkelt sted, i en region eller på jorden som helhed over en længere periode.",
+    "en-GB": "Significant change in measures of climate (such as temperature, precipitation, or wind) lasting for an extended period",
+    "en-US": "Significant change in measures of climate (such as temperature, precipitation, or wind) lasting for an extended period",
+    "pt-BR": "Mudança significativa nas medições médias relativas ao clima (como temperatura, precipitação ou vento), que se mantém por um período longo.",
+    "pt-PT": "Mudança significativa nas medições médias relativas ao clima (como temperatura, precipitação ou vento), que se mantém por um período longo.",
+    "se": "Förändring hos klimatet (temperatur, nederbörd, vind) på en enstaka plats, i en region eller på jorden som helhet, över en längre period.",
+    "zh-Hans": "持续较长时间的气候测量值(如温度、降水或风)的显著变化"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q125928",
+    "http://cv.iptc.org/newscodes/subjectcode/17002000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000419"
+  ],
+  "prefLabel": {
+    "ar": "تبدل مناخي",
+    "de": "Klimaveränderung",
+    "dk": "klimaforandring",
+    "en-GB": "climate change",
+    "en-US": "climate change",
+    "es": "Cambio climático",
+    "fr": "Changement climatique",
+    "no": "klimaendringer",
+    "pt-BR": "alterações climáticas",
+    "pt-PT": "alterações climáticas",
+    "se": "Klimatförändringar",
+    "zh-Hans": "气候变化"
+  },
+  "qcode": "medtop:20000418",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000418",
+  "aid": "iptc_20000418"
+}

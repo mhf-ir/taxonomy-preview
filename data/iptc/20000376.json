@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000373"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Internationale Streitigkeiten über Handelsbeschränkungen, Kartelle, Dumping etc.",
+    "dk": "International konflikt om handelshindringer, karteloperationer, prisdumping og mere.",
+    "en-GB": "International dispute over trade barriers, cartels, dumping etc.",
+    "en-US": "International dispute over trade barriers, cartels, dumping etc.",
+    "pt-BR": "Disputas internacionais sobre barreiras ao comércio, cartéis e dumping.",
+    "pt-PT": "Disputas internacionais sobre barreiras ao comércio, cartéis e dumping.",
+    "se": "Internationell dispyt om handelshinder, kartellverksamhet, prisdumpning med mera.",
+    "zh-Hans": "国际争端如贸易壁垒，贸易纠纷、卡特尔、倾销等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008015",
+    "https://www.wikidata.org/entity/Q692412"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نزاع تجاري",
+    "de": "Handeslstreitigkeit",
+    "dk": "handelstvist",
+    "en-GB": "trade dispute",
+    "en-US": "trade dispute",
+    "es": "Litigio comercial",
+    "fr": "Conflit commercial",
+    "no": "handelstvist",
+    "pt-BR": "disputa comercial",
+    "pt-PT": "disputa comercial",
+    "se": "Handelstvist",
+    "zh-Hans": "贸易争端"
+  },
+  "qcode": "medtop:20000376",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000376",
+  "aid": "iptc_20000376"
+}

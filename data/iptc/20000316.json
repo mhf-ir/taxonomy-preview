@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Produktion und Raffinieren von Erzen in Metalle",
+    "dk": "Berigelse af malm til produktion af metaller.",
+    "en-GB": "Production and refining of ores into metals",
+    "en-US": "Production and refining of ores into metals",
+    "pt-BR": "Produção e refinação de minerais em metais.",
+    "pt-PT": "Produção e refinação de minerais em metais.",
+    "se": "Anrikning av malm för att producera metaller",
+    "zh-Hans": "将矿石生产和提炼成金属"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04012000",
+    "https://www.wikidata.org/entity/Q11467"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000317",
+    "medtop:20000318",
+    "medtop:20000319",
+    "medtop:20000320",
+    "medtop:20000321"
+  ],
+  "prefLabel": {
+    "ar": "معادن وثروات معدنية",
+    "de": "Metall und Mineralien",
+    "dk": "metal og mineral",
+    "en-GB": "metal and mineral",
+    "en-US": "metal and mineral",
+    "es": "Metales y minerales",
+    "fr": "Métaux et minéraux",
+    "no": "metaller og mineraler",
+    "pt-BR": "minérios e metais",
+    "pt-PT": "minérios e metais",
+    "se": "Metaller och mineraler",
+    "zh-Hans": "金属和矿产"
+  },
+  "qcode": "medtop:20000316",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000316",
+  "aid": "iptc_20000316"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Ballspiel mit den Händen, bestehend aus zwei Teams mit jeweils sieben Spielern, die versuchen den Ball in das gegnerische Tor zu werfen",
+    "dk": "Et boldspil ved brug af hænderne mellem to hold på syv spillere, der prøver at kaste bolden i modstanderens mål.",
+    "en-GB": "A ball game using the hands contested by two teams of seven trying to throw the ball into the opponents goal.",
+    "en-US": "A ball game using the hands contested by two teams of seven trying to throw the ball into the opponents goal.",
+    "pt-BR": "Jogo de bola de duas equipes de 7 jogadores que tentam introduzir a bola no gol do adversário através de passes apenas com as mãos.",
+    "pt-PT": "Jogo de bola de duas equipas de 7 jogadores que tentam introduzir a bola na baliza do adversário através de passes apenas com as mãos.",
+    "se": "Två lag med sju spelare i varje passar en boll och försöker göra mål. Planen är cirka 40 meter lång och har ett rundat område framför målet där endast målvakten får vara. Normal matchtid är 2x30 minuter.",
+    "zh-Hans": "两只每队七人的队伍比赛，仅能用手的球类比赛。尽力要将球投入对方球门"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15029000",
+    "https://www.wikidata.org/entity/Q8418"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كرة اليد (فريق)",
+    "de": "Handball (Team)",
+    "dk": "håndbold",
+    "en-GB": "handball (team)",
+    "en-US": "handball (team)",
+    "es": "Balonmano",
+    "fr": "Handball",
+    "no": "håndball",
+    "pt-BR": "handebol",
+    "pt-PT": "andebol",
+    "se": "Handboll",
+    "zh-Hans": "手球"
+  },
+  "qcode": "medtop:20000958",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000958",
+  "aid": "iptc_20000958"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000170"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Die Geschäftspraktiken eines Unternehmens spiegeln eine verantwortungsvolle Sozial-, Ethik- und Umweltpolitik wider",
+    "dk": "En virksomheds forretningspraksis, der afspejler ansvarlige sociale, etiske og miljømæssige politikker.",
+    "en-GB": "A company's business practices reflecting responsible social, ethical and environmental policies",
+    "en-US": "A company's business practices reflecting responsible social, ethical and environmental policies",
+    "pt-BR": "Práticas comerciais de uma empresa que refletem políticas sociais, éticas e ambientais responsáveis.",
+    "pt-PT": "Práticas comerciais de uma empresa que refletem políticas sociais, éticas e ambientais responsáveis.",
+    "se": "Ett företags riktlinjer för ansvarsfullt arbete mot samhälle, etik och miljö.",
+    "zh-Hans": "反映公司承担社会、道德和环境责任的行为"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q218600"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "المسؤولية الاجتماعية للشركات",
+    "de": "Soziale Verantwortung von Unternehmen",
+    "dk": "CSR (virksomheds sociale ansvar)",
+    "en-GB": "corporate social responsibility",
+    "en-US": "corporate social responsibility",
+    "es": "Responsabilidad social corporativa",
+    "fr": "Responsabilité sociétale des entreprises",
+    "no": "virksomhetens sosiale ansvar",
+    "pt-BR": "responsabilidade social corporativa",
+    "pt-PT": "responsabilidade social corporativa",
+    "se": "Hållbarhet",
+    "zh-Hans": "企业社会责任"
+  },
+  "qcode": "medtop:20001230",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001230",
+  "aid": "iptc_20001230"
+}

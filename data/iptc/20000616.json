@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000615"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Untere Kammer der Legislative.",
+    "dk": "Den direkte valgte del af et parlament.",
+    "en-GB": "Lower chamber of a legislative body, such as the US House of Representatives or UK House of Commons",
+    "en-US": "Lower chamber of a legislative body, such as the US House of Representatives or UK House of Commons",
+    "pt-BR": "Câmara inferior de um órgão legislativo, como a Câmara dos Deputados do Brasil, a Câmara dos Representantes dos EUA ou a Câmara dos Comuns do Reino Unido.",
+    "pt-PT": "Câmara inferior de um órgão legislativo, como a Câmara dos Deputados do Brasil, a Câmara dos Representantes dos EUA ou a Câmara dos Comuns do Reino Unido.",
+    "se": "Den direktvalda delen av ett parlament.",
+    "zh-Hans": "立法机构的下议院"
+  },
+  "editorialNote": {
+    "en-GB": "Note to translators: the examples in the English definition should be converted to relevant examples in countries which speak the target language."
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11009002",
+    "https://www.wikidata.org/entity/Q375928"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مجلس النواب",
+    "de": "Unterhaus",
+    "dk": "nedre hus (parlament)",
+    "en-GB": "lower house (legislature)",
+    "en-US": "lower house (legislature)",
+    "es": "Cámara baja",
+    "fr": "Chambre basse",
+    "no": "underhus",
+    "pt-BR": "câmara baixa (legislatura)",
+    "pt-PT": "câmara baixa (legislatura)",
+    "se": "Andra kammaren",
+    "zh-Hans": "下议院（议会）"
+  },
+  "qcode": "medtop:20000616",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000616",
+  "aid": "iptc_20000616"
+}

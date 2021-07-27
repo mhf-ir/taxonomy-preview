@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000148"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verbrennung und Zerstörung von Materialien durch eine Verbindung von großer Hitze und Sauerstoff",
+    "dk": "Stor brand, der ikke er under kontrol, og som er opstået ved en ulykke eller er ulovligt antændt.",
+    "en-GB": "Fires started by an accidental or unknown source. For wildfires, use wildfire. For fires started with a criminal intent, use arson.",
+    "en-US": "Fires started by an accidental or unknown source. For wildfires, use wildfire. For fires started with a criminal intent, use arson.",
+    "pt-BR": "Queima e combustão de materiais, mediante a combinação de calor elevado e oxigênio.",
+    "pt-PT": "Queima e combustão de materiais, mediante a combinação de calor elevado e oxigénio.",
+    "se": "Större eld som inte är under kontroll och som uppstått genom en olyckshändelse eller är olovligt anlagd.",
+    "zh-Hans": "由意外或未知来源引发的火灾。对于野火，宜入“野火”。如果火灾是出于犯罪目的，宜入“纵火”"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03004000",
+    "https://www.wikidata.org/entity/Q3196"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001202"
+  ],
+  "prefLabel": {
+    "ar": "حريق",
+    "de": "Feuer",
+    "dk": "ild",
+    "en-GB": "fire",
+    "en-US": "fire",
+    "es": "Incendios",
+    "fr": "Incendie",
+    "no": "brann",
+    "pt-BR": "incêndios",
+    "pt-PT": "incêndios",
+    "se": "Brand",
+    "zh-Hans": "火灾"
+  },
+  "qcode": "medtop:20000150",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000150",
+  "aid": "iptc_20000150"
+}

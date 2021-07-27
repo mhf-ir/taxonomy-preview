@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine geheime internationale Gemeinschaft, die auf den Prinzipien von Brüderlichkeit, Wohltätigkeit und gegenseitiger Hilfe basiert.",
+    "dk": "Et hemmeligt internationalt samfund baseret på principperne om broderskab, velgørenhed og gensidig hjælp.",
+    "en-GB": "A secret international society based on the principles of brotherhood, charity and mutual aid",
+    "en-US": "A secret international society based on the principles of brotherhood, charity and mutual aid",
+    "pt-BR": "Sociedade secreta internacional baseada nos princípios de irmandade, caridade e ajuda mútua.",
+    "pt-PT": "Sociedade secreta internacional baseada nos princípios de irmandade, caridade e ajuda mútua.",
+    "se": "Den verksamhet som bedrivs av hemliga ordenssällskap som vill verka för medlemmarnas personliga utveckling till bättre människor.",
+    "zh-Hans": "一个以兄弟情谊、慈善和互助原则为基础的秘密国际组织"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12003000",
+    "https://www.wikidata.org/entity/Q41726"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ماسونية",
+    "de": "Freimaurer",
+    "dk": "frimureri",
+    "en-GB": "Freemasonry",
+    "en-US": "Freemasonry",
+    "es": "Masonería",
+    "fr": "Franc-maçonnerie",
+    "no": "frimureri",
+    "pt-BR": "maçonaria",
+    "pt-PT": "maçonaria",
+    "se": "Frimureri",
+    "zh-Hans": "共济会"
+  },
+  "qcode": "medtop:20000675",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000675",
+  "aid": "iptc_20000675"
+}

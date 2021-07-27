@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000877"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Einsitzer Kanu (offenes Boot) mit Wettkämpfern die ein Einzelpaddel benutzen",
+    "dk": "Et-sædet kano.",
+    "en-GB": "One-seater canoe (open boat with competitor using a single bladed paddle",
+    "en-US": "One-seater canoe (open boat with competitor using a single bladed paddle",
+    "pt-BR": "Canoa de 1 lugar (embarcação aberta para uma pessoa que rema com remo simples).",
+    "pt-PT": "Canoa de 1 lugar (embarcação aberta para uma pessoa que rema com pagaia simples).",
+    "zh-Hans": "单座赛艇。开放式的赛艇，参赛者使用单叶桨"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15015008"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كانو فردي",
+    "de": "C1 (Kanu)",
+    "dk": "C1 (kano)",
+    "en-GB": "C1 (canoeing)",
+    "en-US": "C1 (canoeing)",
+    "es": "C1 (canotaje)",
+    "fr": "C1 (canoë)",
+    "no": "C1 (kanopadling)",
+    "pt-BR": "C1",
+    "pt-PT": "C1",
+    "se": "C1",
+    "zh-Hans": "单人划艇"
+  },
+  "qcode": "medtop:20000878",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000878",
+  "aid": "iptc_20000878"
+}

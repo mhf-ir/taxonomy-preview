@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13002000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000756"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Untersuchung, Planung, Entwicklung und Bau von Bauwerken wie Gebäuden, Brücken, Tunneln, Bewässerungs- und Abwassersystemen, Straßen oder Eisenbahnen",
+    "dk": "Videnskab, design, udvikling og konstruktion af strukturer såsom bygninger, broer, tunneler, kunstvandings- og kloaksystemer, veje og jernbaner.",
+    "en-GB": "The study, design, development and construction of structures such as buildings, bridges, tunnels, irrigation and sewage systems, streets or railroads",
+    "en-US": "The study, design, development and construction of structures such as buildings, bridges, tunnels, irrigation and sewage systems, streets or railroads",
+    "es": "El estudio, diseño, desarrollo y construcción de estructuras tales como edificios, puentes, túneles, sistemas de irrigación y alcantarillado, calles o ferrocarriles",
+    "fr": "Etude, conception, développement et construction de structures telles que des bâtiments, des ponts, des tunnels, des systèmes d'irrigation et d'égouts, des rues ou des voies ferrées",
+    "pt-BR": "Estudo, projeto, desenvolvimento e construção de estruturas como edifícios, pontes, túneis, sistemas de irrigação, sistemas de esgoto, ruas ou ferrovias.",
+    "pt-PT": "Estudo, projeto, desenvolvimento e construção de estruturas como edifícios, pontes, túneis, sistemas de irrigação, sistemas de esgoto, ruas ou vias férreas.",
+    "se": "Vetenskap, design, utveckling och konstruktion av strukturer såsom byggnader, broar, tunnlar, bevattnings- och avloppssystem, vägar och järnvägar.",
+    "zh-Hans": "研究、设计、开发和建造建筑物、桥梁、隧道、灌溉和污水系统、街道或铁路等结构"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q77590"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "هندسة مدنية",
+    "de": "Ingenieurwesen",
+    "dk": "ingeniørvidenskab",
+    "en-GB": "civil engineering",
+    "en-US": "civil engineering",
+    "es": "Ingeniería civil",
+    "fr": "Ingénierie civile",
+    "no": "byggeteknikk",
+    "pt-BR": "engenharia civil",
+    "pt-PT": "engenharia civil",
+    "se": "Väg- och vattenbyggnadsteknik",
+    "zh-Hans": "土木工程"
+  },
+  "qcode": "medtop:20000760",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000760",
+  "aid": "iptc_20000760"
+}

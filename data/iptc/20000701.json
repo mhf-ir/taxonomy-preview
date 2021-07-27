@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000697"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein erkennbares Gebäude als Ort für den Gottesdienst",
+    "dk": "Generelt en bygning, der kan identificeres som et sted for tilbedelse.",
+    "en-GB": "Generally an edifice identifiable as a place of worship",
+    "en-US": "Generally an edifice identifiable as a place of worship",
+    "pt-BR": "Em geral, edifício identificável como local de culto.",
+    "pt-PT": "Em geral, edifício identificável como local de culto.",
+    "se": "En byggnad som används för olika religiösa riter.",
+    "zh-Hans": "通常指进行礼拜的场所"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q44539"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "معبد",
+    "de": "Tempel",
+    "dk": "tempel",
+    "en-GB": "temple",
+    "en-US": "temple",
+    "es": "Templo",
+    "fr": "Temple",
+    "no": "tempel",
+    "pt-BR": "templo",
+    "pt-PT": "templo",
+    "se": "Tempel",
+    "zh-Hans": "寺庙"
+  },
+  "qcode": "medtop:20000701",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000701",
+  "aid": "iptc_20000701"
+}

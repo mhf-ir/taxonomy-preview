@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2014-11-07T12:00:00+00:00",
+  "definition": {
+    "de": "Verschiedene Wettbewerbe mit Rollschuhen, Inline-Skates und Skateboards.",
+    "dk": "Forskellige typer konkurrencer, hvor konkurrenterne har rulleskøjter på fødderne.",
+    "en-GB": "Various competitions using wheeled equipment such as roller skates, inline skates, and skateboards.",
+    "en-US": "Various competitions using wheeled equipment such as roller skates, inline skates, and skateboards.",
+    "pt-BR": "Várias competições que usam equipamento sobre patins, como patins de rodas, patins em linha ou esqueites.",
+    "pt-PT": "Várias competições que usam equipamento sobre patins, como patins de rodas, patins em linha ou skates.",
+    "se": "Olika sorters tävlingar där de tävlande har rullskridskor på fötterna.",
+    "zh-Hans": "多项使用带轮设备的运动。例如，轮滑，单排轮，滑板"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2164355"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-11-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20001025",
+    "medtop:20001156"
+  ],
+  "prefLabel": {
+    "ar": "رياضات التزحلق",
+    "de": "Roller-Sport",
+    "dk": "rullesport",
+    "en-GB": "roller sports",
+    "en-US": "roller sports",
+    "es": "Patinaje",
+    "fr": "Roller sports",
+    "no": "rulleskøyter",
+    "pt-BR": "esportes sobre patins",
+    "pt-PT": "desportos sobre patins",
+    "se": "Rullskridskosport",
+    "zh-Hans": "轮滑运动"
+  },
+  "qcode": "medtop:20001155",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001155",
+  "aid": "iptc_20001155"
+}

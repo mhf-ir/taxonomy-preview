@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der Weg des Lebens, der durch Konfuzius propagiert wurde im 6.-5. Jahrhundert vor Christus und den die chinesische Bevölkerung seit mehr als 2000 Jahren befolgt. Die Einflüsse haben sich ausgedehnt nach Korea, Japan und Vietnam.",
+    "dk": "En kinesisk visdom og social lære, der er baseret på idéer fra tænkeren Confucius.",
+    "en-GB": "The way of life propagated by Confucius in the 6th-5th century BC and followed by the Chinese people for more than 2000 years. Its influence has extended to Korea, Japan, and Vietnam.",
+    "en-US": "The way of life propagated by Confucius in the 6th-5th century BC and followed by the Chinese people for more than 2000 years. Its influence has extended to Korea, Japan, and Vietnam.",
+    "pt-BR": "Doutrina de vida propagada por Confúcio no séc. VI-V A.C. e seguida pelo povo chinês por mais de 2000 anos. Sua influência se estendeu até a Coreia, o Japão e o Vietnã.",
+    "pt-PT": "Doutrina de vida propagada por Confúcio no séc. VI-V a.C. e seguida pelo povo chinês há mais de 2000 anos. A sua influência estendeu-se até à Coreia, ao Japão e ao Vietname.",
+    "se": "En kinesisk vishets- och samhällslära, baserad på idéer från tänkaren Konfucius.",
+    "zh-Hans": "孔子在公元前6-5世纪传播的生活方式，中国人沿袭了2000多年。 它的影响已经扩展到韩国、日本和越南"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12022000",
+    "https://www.wikidata.org/entity/Q9581"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كونفوشية",
+    "de": "Konfuzianismus",
+    "dk": "konfucianisme",
+    "en-GB": "Confucianism",
+    "en-US": "Confucianism",
+    "es": "Confucianismo",
+    "fr": "Confucianisme",
+    "no": "konfusianisme",
+    "pt-BR": "confucionismo",
+    "pt-PT": "confucionismo",
+    "se": "Konfucianism",
+    "zh-Hans": "儒家思想"
+  },
+  "qcode": "medtop:20000673",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000673",
+  "aid": "iptc_20000673"
+}

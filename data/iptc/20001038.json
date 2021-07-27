@@ -1,0 +1,58 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Segelboot Rennen auf einer Rute die durch Bojen gekennzeichnet ist",
+    "dk": "Fællesbetegnelse for konkurrencer med både omkring en markeret bane, hvor bådene drives af vinden ved hjælp af sejl. Mange forskellige bådtyper og banelængder.",
+    "en-GB": "Sailing boat racing over a route",
+    "en-US": "Sailing boat racing over a route",
+    "pt-BR": "Corrida de barcos a vela em percurso assinalado com boias.",
+    "pt-PT": "Corrida de barcos à vela em percurso assinalado com boias.",
+    "se": "Samlingsbegrepp för tävlingar med båtar kring en uppmärkt bana där båtarna drivs av vinden med hjälp av segel. Många olika båttyper och banlängder.",
+    "zh-Hans": "赛道帆船比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15050000",
+    "https://www.wikidata.org/entity/Q14085739"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/sailingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001039",
+    "medtop:20001040",
+    "medtop:20001041",
+    "medtop:20001042",
+    "medtop:20001043",
+    "medtop:20001044",
+    "medtop:20001045",
+    "medtop:20001046"
+  ],
+  "prefLabel": {
+    "ar": "سباق القوارب الشرعية",
+    "de": "Segeln",
+    "dk": "sejlsport",
+    "en-GB": "sailing",
+    "en-US": "sailing",
+    "es": "Vela",
+    "fr": "Voile",
+    "no": "seiling",
+    "pt-BR": "vela",
+    "pt-PT": "vela",
+    "se": "Segling",
+    "zh-Hans": "帆船赛"
+  },
+  "qcode": "medtop:20001038",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001038",
+  "aid": "iptc_20001038"
+}

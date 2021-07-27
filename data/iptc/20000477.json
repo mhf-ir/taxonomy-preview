@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000476"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Medikamente, die erzeugt werden um gegen Krankheiten immun zu werden.",
+    "dk": "Medicin designet til at skabe immunitet mod sygdomme.",
+    "en-GB": "Medications designed to create immunity to diseases",
+    "en-US": "Medications designed to create immunity to diseases",
+    "pt-BR": "Medicamentos desenvolvidos para criar imunidade a doenças.",
+    "pt-PT": "Medicamentos desenvolvidos para criar imunidade a doenças.",
+    "se": "Skydd mot viss sjukdom, vilket består av försvagat smittämne som i liten dos införs i kroppen, som därvid utvecklar antikroppar mot denna sjukdom.",
+    "zh-Hans": "旨在产生对疾病免疫力的药物"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07008001",
+    "https://www.wikidata.org/entity/Q134808"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "لقاحات",
+    "de": "Impfung",
+    "dk": "vaccine",
+    "en-GB": "vaccines",
+    "en-US": "vaccines",
+    "es": "Vacunas",
+    "fr": "Vaccins",
+    "no": "vaksine",
+    "pt-BR": "vacinas",
+    "pt-PT": "vacinas",
+    "se": "Vacciner",
+    "zh-Hans": "疫苗"
+  },
+  "qcode": "medtop:20000477",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000477",
+  "aid": "iptc_20000477"
+}

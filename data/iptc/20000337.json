@@ -1,0 +1,55 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "changeNote": {
+    "en-GB": "2016-04-05: definition slightly changed"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mittel von einem Ort zum anderen zu gelangen, ohne zu laufen",
+    "dk": "Forskellige måder at flytte mennesker og varer på fra et sted til et andet.",
+    "en-GB": "The means of getting people or goods from one place to the other without walking",
+    "en-US": "The means of getting people or goods from one place to the other without walking",
+    "pt-BR": "Meios que permitem chegar de um lugar a outro sem caminhar.",
+    "pt-PT": "Meios que permitem chegar de um lugar a outro sem caminhar.",
+    "se": "Olika sätt att förflytta folk och varor från en plats till en annan.",
+    "zh-Hans": "不用步行就能把人或货物从一个地方运到另一个地方的方法"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04015000",
+    "https://www.wikidata.org/entity/Q7590"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-05T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000338",
+    "medtop:20000340",
+    "medtop:20000341",
+    "medtop:20000342",
+    "medtop:20000343"
+  ],
+  "prefLabel": {
+    "ar": "نقل",
+    "de": "Transport",
+    "dk": "transport",
+    "en-GB": "transport",
+    "en-US": "transport",
+    "es": "Transporte",
+    "fr": "Transports",
+    "no": "transport",
+    "pt-BR": "transportes",
+    "pt-PT": "transportes",
+    "se": "Transport",
+    "zh-Hans": "运输"
+  },
+  "qcode": "medtop:20000337",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000337",
+  "aid": "iptc_20000337"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000077"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Entfernen oder Entschärfen von Waffen, wie Landminen oder Streubomben, die nach einem Krieg oder bewaffneten Konflikt auf öffentlichem Grund noch vorhanden sind.",
+    "dk": "Fjernelse eller neutralisering af miner og klyngebomber efter en krig eller konflikt.",
+    "en-GB": "The removal or neutralisation of ordnance such as landmines or cluster bombs that may remain after a war or armed conflict on public ground",
+    "en-US": "The removal or neutralization of ordnance such as landmines or cluster bombs that may remain after a war or armed conflict on public ground",
+    "es": "Remoción o inhabilitación de municiones tales como minas antipersonal o bombas de racimo que pueden permanecer después de una guerra o conflicto armado en terreno público",
+    "fr": "Enlèvement ou neutralisation de munitions telles que les mines antipersonnel ou les bombes à sous-munitions qui peuvent subsister après une guerre ou un conflit armé sur un terrain public",
+    "pt-BR": "Remoção ou neutralização de elementos que permanecem ativos após o fim de guerras ou conflitos armados, como minas terrestres ou bombas de fragmentação.",
+    "pt-PT": "Remoção ou neutralização de elementos que permanecem ativos após o fim de guerras ou conflitos armados, como minas terrestres ou bombas de fragmentação.",
+    "se": "Borttagande eller neutraliserande av minor och klusterbomber efter ett krig eller en konflikt.",
+    "zh-Hans": "清除战争或武装冲突后可能留在地面上的军械，如地雷或集束炸弹"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14026000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ازالة الغام",
+    "de": "Kampfmittelbeseitigung",
+    "dk": "ammunitionsrydning",
+    "en-GB": "ordnance clearance",
+    "en-US": "ordnance clearance",
+    "es": "Desminado",
+    "fr": "Déminage",
+    "no": "rydding av miner/bomber/eksplosiver",
+    "pt-BR": "neutralização de material bélico",
+    "pt-PT": "neutralização de material bélico",
+    "se": "Minröjning/Röjning av krigsmateriel",
+    "zh-Hans": "军火清理"
+  },
+  "qcode": "medtop:20000079",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000079",
+  "aid": "iptc_20000079"
+}

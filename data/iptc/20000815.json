@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000808"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Akustische oder bildliche Darstellungen von verschiedenartigen im Zusammenhang mit Sexualität stehenden Taten, außerhalb der gesellschaftlich akzeptierten Normen",
+    "dk": "Tekster eller billeder, der beskriver sex på en sådan måde, at enhver, der læser eller ser på billederne, skal være seksuelt ophidset.",
+    "en-GB": "The depiction of sexually explicit acts in various media renditions, such as video or photos, often considered obscene or immoral",
+    "en-US": "The depiction of sexually explicit acts in various media renditions, such as video or photos, often considered obscene or immoral",
+    "pt-BR": "Representações visuais, audiovisuais ou textuais de vários atos relacionados ao sexo e considerados fora dos padrões aceitos pela comunidade.",
+    "pt-PT": "Representações visuais, audiovisuais ou textuais de vários atos relacionados com sexo e considerados fora dos padrões aceites pela comunidade.",
+    "se": "Texter eller bilder som beskriver sex på ett sådant sätt att den som läser eller tittar på bilderna ska bli sexuellt upphetsad.",
+    "zh-Hans": "在公认的社会标准之外，对各种与性有关的行为进行音频、视频或文本描述。"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14011000",
+    "https://www.wikidata.org/entity/Q291"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اباحة",
+    "de": "Pornografie",
+    "dk": "pornografi",
+    "en-GB": "pornography",
+    "en-US": "pornography",
+    "es": "Pornografía",
+    "fr": "Pornographie",
+    "no": "pornografi",
+    "pt-BR": "pornografia",
+    "pt-PT": "pornografia",
+    "se": "Pornografi",
+    "zh-Hans": "色情"
+  },
+  "qcode": "medtop:20000815",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000815",
+  "aid": "iptc_20000815"
+}

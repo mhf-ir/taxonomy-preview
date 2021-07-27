@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000788"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Menschen, die das Alter der juristischen Volljährigkeit erreicht haben",
+    "dk": "Personer, der har opnået en myndighedsalder på 18 år.",
+    "en-GB": "People above an age set by law that entitles them to full liability and certain privileges such as the legal right to drink alcoholic beverages and to vote",
+    "en-US": "People above an age set by law that entitles them to full liability and certain privileges such as the legal right to drink alcoholic beverages and to vote",
+    "pt-BR": "Pessoas acima da idade definida por lei para adquirir responsabilidade total.",
+    "pt-PT": "Pessoas acima da idade definida por lei para adquirir responsabilidade total.",
+    "se": "Personer som har uppnått myndighetsåldern, 18 år.",
+    "zh-Hans": "达到法定成年年龄的承担全部责任的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14024004",
+    "https://www.wikidata.org/entity/Q9584157"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "راشدون",
+    "de": "Erwachsener",
+    "dk": "voksen",
+    "en-GB": "adults",
+    "en-US": "adults",
+    "es": "Adultos",
+    "fr": "Adultes",
+    "no": "voksen",
+    "pt-BR": "adultos",
+    "pt-PT": "adultos",
+    "se": "Vuxna",
+    "zh-Hans": "成年人"
+  },
+  "qcode": "medtop:20000789",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000789",
+  "aid": "iptc_20000789"
+}

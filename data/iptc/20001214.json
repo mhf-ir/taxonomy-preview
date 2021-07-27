@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000400"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Schulen, die von privaten Fonds und Organisationen unterhalten werden",
+    "dk": "En type skole, der ikke administreres af lokale, regionale eller nationale myndigheder. Den private skole forbeholder sig retten til at vælge de studerende, der er optaget på skolen og finansieres af gebyrer snarere end offentlig finansiering.",
+    "en-GB": "Schools maintained by private funds and organisations",
+    "en-US": "Schools maintained by private funds and organizations",
+    "pt-BR": "Escolas financiadas por organizações e fundos privados.",
+    "pt-PT": "Escolas financiadas por organizações e fundos privados.",
+    "se": "En typ av skola som inte administreras av lokala, regionala eller nationella myndigheter. Privatskolan förbehåller sig rätten att välja de elever som tas in på skolan och finansieras genom avgifter snarare än offentlig finansiering",
+    "zh-Hans": "由私人基金和组织开办的学校"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q423208"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مدرسة خاصة",
+    "de": "Privatschulen",
+    "dk": "privatskole",
+    "en-GB": "private schools",
+    "en-US": "private schools",
+    "es": "Escuelas privadas",
+    "fr": "Écoles privées",
+    "no": "privatskole",
+    "pt-BR": "escolas privadas",
+    "pt-PT": "escolas privadas",
+    "se": "Privatskola",
+    "zh-Hans": "私立学校"
+  },
+  "qcode": "medtop:20001214",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001214",
+  "aid": "iptc_20001214"
+}

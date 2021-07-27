@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Reihe von Wettbewerben, die mit einer fliegenden Kunststoffwurfscheibe gespielt werden. Die genauen Regeln für die Wurfscheiben variieren je nach Wettbewerb, aber verwendet werden unzerbrechliche aus solidem Kunststoff gefertigte Scheiben, deren Aussehen nie verändert ist. Manchmal auch Frisbee genannt",
+    "dk": "Et gruppe begivenheder, hvor spillet spilles med en frisbee, som kastes med hånden.",
+    "en-GB": "A group of events all played with a flying plastic disc. The exact regulation for the disc is different in  different events but it has to be unbroken of solid plastic and a production model with no modification. Flying disc is sometimes called Frisbee.",
+    "en-US": "A group of events all played with a flying plastic disc. The exact regulation for the disc is different in different events but it has to be unbroken of solid plastic and a production model with no modification. Flying disc is sometimes called Frisbee.",
+    "pt-BR": "Grupo de provas disputadas com um disco voador de plástico.",
+    "pt-PT": "Grupo de provas disputadas com um disco voador de plástico.",
+    "se": "Flera olika grenar som alla spelas med en rund plastskiva som kallas disc. Det finns två laggrenar och sju individuella grenar. Störst är laggrenen Ultimate där spelarna passar discen för att göra mål i målzonen och individuella grenen disc golf.",
+    "zh-Hans": "都使用塑料飞盘的一类运动项目。各项运动所使用飞盘的规则不尽相同，但必须是实心的完整的塑料材质且没有改装的产品。飞盘也叫飞碟"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15077000",
+    "https://www.wikidata.org/entity/Q27672886"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/flyingdisctype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "الصحن الطائر",
+    "de": "Frisbee",
+    "dk": "frisbee",
+    "en-GB": "flying disc",
+    "en-US": "flying disc",
+    "es": "Disco volador",
+    "fr": "Frisbee",
+    "no": "frisbee",
+    "pt-BR": "frisbee",
+    "pt-PT": "disco voador",
+    "se": "Frisbee",
+    "zh-Hans": "飞盘"
+  },
+  "qcode": "medtop:20000938",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000938",
+  "aid": "iptc_20000938"
+}

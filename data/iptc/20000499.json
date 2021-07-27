@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/08000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Nicht-sportliche Leistung eines Einzelnen oder einer Gruppe, die neue Rekorde aufstellt, wie Rekord im Bücherlesen oder Luft anhalten.",
+    "dk": "Resultater, der overgår tidligere udført, og som normalt kan angives i antal eller tid, men som ikke er relateret til sport.",
+    "en-GB": "Non-sport achievement by an individual or group that sets a new record, such as most books read or holding one's breath the longest",
+    "en-US": "Non-sport achievement by an individual or group that sets a new record, such as most books read or holding one's breath the longest",
+    "pt-BR": "Proeza não esportiva, realizada por um indivíduo ou por um grupo, que estabelece um novo recorde, como o maior número de livros lidos, respiração sustida durante mais tempo etc.",
+    "pt-PT": "Proeza não desportiva, realizada por um indivíduo ou por um grupo, que estabelece um novo recorde, como o maior número de livros lidos, respiração sustida durante mais tempo, etc.",
+    "se": "Resultat som överträffar tidigare presterade och som oftast kan anges i siffror, men som inte har med sport att göra.",
+    "zh-Hans": "个人或团体取得的非体育运动纪录。如最大书籍阅读量、最长屏住呼吸等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/08006001",
+    "https://www.wikidata.org/entity/Q1241356"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "رقم قياسي",
+    "de": "Rekord",
+    "dk": "rekord",
+    "en-GB": "record and achievement",
+    "en-US": "record and achievement",
+    "es": "Récord",
+    "fr": "Record",
+    "no": "rekord",
+    "pt-BR": "recordes e proezas",
+    "pt-PT": "recordes e proezas",
+    "se": "Rekord",
+    "zh-Hans": "纪录和成绩"
+  },
+  "qcode": "medtop:20000499",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000499",
+  "aid": "iptc_20000499"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000065"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gewaltfrei und öffentlich geäußerte Kritik an einer Sache, Idee oder Politik in Form einer Massenveranstaltung.",
+    "dk": "Offentlig kollektiv meningstilkendegivelse i form af en masseforsamling og/eller march med slagord på plakater og bannere.",
+    "en-GB": "A non-violent public show of support for or opposition to a cause, idea or policy, in the form of a mass meeting or march",
+    "en-US": "A non-violent public show of support for or opposition to a cause, idea or policy, in the form of a mass meeting or march",
+    "es": "Demostración pública no violenta de apoyo u oposición a una causa, idea o política en la forma de una reunión masiva o marcha",
+    "fr": "Manifestation publique non-violente de soutien ou d'opposition à une cause, une idée ou une politique, sous la forme d'une réunion de masse ou d'une marche",
+    "pt-BR": "Demonstração pública de sentimentos ou opiniões através de concentrações ou marchas de caráter político e/ou social.",
+    "pt-PT": "Demonstração pública de sentimentos ou opiniões através de concentrações ou marchas de caráter político e/ou social.",
+    "se": "Typ av offentlig kollektiv meningsyttring, särskilt i form av massmarsch med slagord på plakat och banderoller.",
+    "zh-Hans": "以群众集会或游行的形式，非暴力地公开表示对某一主张、思想或政策的支持或反对"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16008000",
+    "https://www.wikidata.org/entity/Q175331"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تظاهرة",
+    "de": "Demonstration",
+    "dk": "demonstration",
+    "en-GB": "demonstration",
+    "en-US": "demonstration",
+    "es": "Manifestaciones",
+    "fr": "Manifestation",
+    "no": "demonstrasjoner",
+    "pt-BR": "manifestação",
+    "pt-PT": "manifestação",
+    "se": "Demonstrationer",
+    "zh-Hans": "示威游行"
+  },
+  "qcode": "medtop:20000066",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000066",
+  "aid": "iptc_20000066"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000430"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rohstoffe wie Kohle, Gas, Wind, Sonne, die genutzt werden um Wärme, Elektrizität und Strom zu erzeugen.",
+    "dk": "Ressourcer som kul, gas, vind, sollys osv., Der bruges til at generere varme, elektricitet og strøm.",
+    "en-GB": "Such resources as coal, gas, wind, sunlight etc., used to generate heat, electricity and power",
+    "en-US": "Such resources as coal, gas, wind, sunlight etc., used to generate heat, electricity and power",
+    "pt-BR": "Recursos como carvão, gás, vento, luz solar etc., usados para produzir calor, eletricidade e energia.",
+    "pt-PT": "Recursos como carvão, gás, vento, luz solar, etc., usados para produzir calor, eletricidade e energia.",
+    "se": "Resurser såsom kol, gas, vind, solljus och så vidare, som används för att generera värme och el.",
+    "zh-Hans": "指用于生成热、电和动力的资源，如煤、天然气、风能、阳光等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06006009",
+    "https://www.wikidata.org/entity/Q1522115"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "موارد طاقة",
+    "de": "Rohstoff",
+    "dk": "energiressource",
+    "en-GB": "energy resources",
+    "en-US": "energy resources",
+    "es": "Recursos energéticos",
+    "fr": "Énergie",
+    "no": "energikilde",
+    "pt-BR": "recursos energéticos",
+    "pt-PT": "recursos energéticos",
+    "se": "Energiresurser",
+    "zh-Hans": "能源资源"
+  },
+  "qcode": "medtop:20000431",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000431",
+  "aid": "iptc_20000431"
+}

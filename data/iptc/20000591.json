@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000587"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rechte und Freiheiten der Massenmedien, Druck und Einschüchterung von Journalisten, Zensur, Aktivitäten der Regierung, Journalistenverbände und/oder Organisationen die für die Pressefreiheit kämpfen",
+    "dk": "Lovbestemt ret til frit at udtrykke tanker og meninger i trykt form, hvorved en anden end forfatteren holdes ansvarlig for publikationen.",
+    "en-GB": "Mass media rights and freedoms, pressure and intimidation of the journalists, censorship in mass media, activities of government bodies, journalistic associations and/or organisations and other NGOs in regards to press freedom",
+    "en-US": "Mass media rights and freedoms, pressure and intimidation of the journalists, censorship in mass media, activities of government bodies, journalistic associations and/or organizations and other NGOs in regards to press freedom",
+    "pt-BR": "Direitos e liberdades da mídia de massa, pressão e intimidação dos jornalistas, censura na mídia de massa, atividades de órgãos governamentais, associações e/ou organizações de jornalistas e outras ONG em relação à liberdade de imprensa.",
+    "pt-PT": "Direitos e liberdades dos meios de comunicação de massa, pressão e intimidação dos jornalistas, censura nos meios de comunicação de massa, atividades de órgãos governamentais, associações e/ou organizações de jornalistas e outras ONG em relação à liberdade de imprensa.",
+    "se": "Lagstadgad rätt att fritt uttrycka tankar och åsikter i tryckt form, varvid ofta någon annan person än skribenten hålls ansvarig för publiceringen.",
+    "zh-Hans": "大众传媒的权利和自由、对记者的压力和恐吓、大众传媒的审查、政府机构、记者协会和/或组织以及其他非政府组织在新闻自由方面的活动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11025000",
+    "https://www.wikidata.org/entity/Q22688"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حرية الصحافة",
+    "de": "Pressefreiheit",
+    "dk": "pressefrihed",
+    "en-GB": "freedom of the press",
+    "en-US": "freedom of the press",
+    "es": "Libertad de prensa",
+    "fr": "Liberté de la presse",
+    "no": "trykkefrihet",
+    "pt-BR": "liberdade de imprensa",
+    "pt-PT": "liberdade de imprensa",
+    "se": "Tryckfrihet",
+    "zh-Hans": "新闻自由"
+  },
+  "qcode": "medtop:20000591",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000591",
+  "aid": "iptc_20000591"
+}

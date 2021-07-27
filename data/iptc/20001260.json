@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Eine legislative Untergruppe, die sich auf einen bestimmten Bereich oder eine bestimmte Aktion konzentriert",
+    "dk": "En underafdeling af en lovgivende forsamling, der beskæftiger sig med et særligt emne eller geografisk område.",
+    "en-GB": "A legislative sub-group that focuses on a specific area or action",
+    "en-US": "A legislative sub-group that focuses on a specific area or action",
+    "pt-BR": "Subgrupo legislativo que se centra em uma área ou ação específica.",
+    "pt-PT": "Subgrupo legislativo que se centra numa área ou ação específica.",
+    "se": "En grupp som satts samman med representanter för olika partier för att fokusera på en viss fråga.",
+    "zh-Hans": "专注于特定领域或行动的立法小组"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2986700"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "لجان برلمانية",
+    "de": "politische Ausschüsse",
+    "dk": "politisk udvalg",
+    "en-GB": "political committees",
+    "en-US": "political committees",
+    "es": "Comisiones parlamentarias",
+    "fr": "Commissions parlementaires",
+    "no": "politiske komitéer",
+    "pt-BR": "comissão parlamentar",
+    "pt-PT": "comissão parlamentar",
+    "se": "Politiska kommittéer",
+    "zh-Hans": "政治委员会"
+  },
+  "qcode": "medtop:20001260",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001260",
+  "aid": "iptc_20001260"
+}

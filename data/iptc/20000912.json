@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zwei Spieler werfen mit kleinen Pfeilen auf eine runde Scheibe, die in Segmente mit verschiedenen Zahlenwerten aufgeteilt ist",
+    "dk": "Individuel konkurrence eller holdkonkurrence, hvor deltagerne kaster pile på et pilebræt med et specielt mønster.",
+    "en-GB": "The sport in which small darts are thrown at a dartboard, a circular target divided into numbered sections.",
+    "en-US": "The sport in which small darts are thrown at a dartboard, a circular target divided into numbered sections.",
+    "pt-BR": "Os jogadores competem atirando dardos de metal a um alvo circular na parede, dividido em segmentos numerados.",
+    "pt-PT": "Os jogadores competem atirando dardos de metal a um alvo circular na parede, dividido em segmentos numerados.",
+    "se": "Individuell eller lagtävling där de tävlande kastar pilar på en piltavla med ett speciellt mönster. Man börjar på 501 eller 301 och måste komma ner till exakt 0 för att vinna.",
+    "zh-Hans": "向镖靶投掷小飞镖的运动，圆形镖靶分为得分值不同的区域"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15100000",
+    "https://www.wikidata.org/entity/Q131471"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رمي النبلة",
+    "de": "Dart",
+    "dk": "dart",
+    "en-GB": "darts",
+    "en-US": "darts",
+    "es": "Dardos",
+    "fr": "Fléchettes",
+    "no": "darts",
+    "pt-BR": "dardos",
+    "pt-PT": "dardos",
+    "se": "Dart",
+    "zh-Hans": "飞镖"
+  },
+  "qcode": "medtop:20000912",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000912",
+  "aid": "iptc_20000912"
+}

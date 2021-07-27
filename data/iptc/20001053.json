@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15051004"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001049"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schießwettkampf mit einer Schnellfeuerpistole",
+    "dk": "En skydedisciplin, hvor man anvender haglgevær.",
+    "en-GB": "Shooting event using a shotgun",
+    "en-US": "Shooting event using a shotgun",
+    "pt-BR": "Prova de tiro com espingarda.",
+    "pt-PT": "Prova de tiro com espingarda.",
+    "se": "En sportskyttegren där man använder ett hagelgevär.",
+    "zh-Hans": "使用猎枪的射击活动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q96293020"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic sport shooting + sports facet shootingtype."
+  },
+  "prefLabel": {
+    "ar": "رماية ببندقية الصيد",
+    "de": "Schnellfeuerpistole",
+    "dk": "skeetskydning",
+    "en-GB": "shotgun shooting",
+    "en-US": "shotgun shooting",
+    "es": "Escopeta",
+    "fr": "Tir au fusil",
+    "no": "hagleskyting",
+    "pt-BR": "espingarda",
+    "pt-PT": "espingarda",
+    "se": "Hagelgevär",
+    "zh-Hans": "猎枪射击"
+  },
+  "qcode": "medtop:20001053",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001053",
+  "aid": "iptc_20001053"
+}

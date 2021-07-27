@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001157"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: broader term changed"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Japanische traditionelle Kampfsportart mit einem Bambusbogen und Pfeilen, manchmal auch japanisches Bogenschießen genannt",
+    "dk": "Japansk kampsport med en bue lavet af bambus.",
+    "en-GB": "Japanese traditional martial art using a bamboo bow and arrows, sometimes called Japanese archery",
+    "en-US": "Japanese traditional martial art using a bamboo bow and arrows, sometimes called Japanese archery",
+    "pt-BR": "Arte marcial tradicional japonesa que usa um arco de bambu e flechas.",
+    "pt-PT": "Arte marcial tradicional japonesa que usa um arco de bambu e flechas.",
+    "se": "Japansk stridskonst med en pilbåge gjord av bambu.",
+    "zh-Hans": "日本传统武术，使用竹制的弓和箭。有时也叫日本射箭项目"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15096000",
+    "https://www.wikidata.org/entity/Q273125"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كيودو",
+    "de": "Kyodo",
+    "dk": "kyudo",
+    "en-GB": "kyudo",
+    "en-US": "kyudo",
+    "es": "Kiudo",
+    "fr": "Kyudo",
+    "no": "kyudo",
+    "pt-BR": "kyudo",
+    "pt-PT": "kyudo",
+    "se": "Japanskt bågskytte",
+    "zh-Hans": "弓道"
+  },
+  "qcode": "medtop:20000985",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000985",
+  "aid": "iptc_20000985"
+}

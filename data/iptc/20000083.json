@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Absichtliches in Brand stecken mit krimineller Intention",
+    "dk": "Med forsættelighed at brænde noget af, som man ikke har ret til.",
+    "en-GB": "The intentional setting of fires with criminal intent",
+    "en-US": "The intentional setting of fires with criminal intent",
+    "pt-BR": "Incêndio intencional, de origem criminosa.",
+    "pt-PT": "Incêndio intencional, de origem criminosa.",
+    "se": "Att medvetet tända eld på något som man inte har rätt att elda upp.",
+    "zh-Hans": "故意放火或恶意烧毁建筑、财产等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02001008",
+    "https://www.wikidata.org/entity/Q327541"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حريق متعمد",
+    "de": "Brandstiftung",
+    "dk": "forsætlig brandstiftelse",
+    "en-GB": "arson",
+    "en-US": "arson",
+    "es": "Incendio premeditado",
+    "fr": "Incendie volontaire",
+    "no": "brannstiftelse",
+    "pt-BR": "incêndio criminoso",
+    "pt-PT": "fogo posto",
+    "se": "Anlagd brand",
+    "zh-Hans": "纵火"
+  },
+  "qcode": "medtop:20000083",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000083",
+  "aid": "iptc_20000083"
+}

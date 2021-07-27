@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000400"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Universitätsvorbereitung für die 16 bis 18 oder 19-jährigen mit Abiturabschluss.",
+    "dk": "En skoleform til teoretisk uddannelse mellem grundskole og universitet.",
+    "en-GB": "Pre-university level education for adolescents",
+    "en-US": "Pre-university level education for adolescents",
+    "pt-BR": "Educação pré-universitária, entre 15 e 17-18 anos.",
+    "pt-PT": "Educação pré-universitária, entre 15 e 17-18 anos.",
+    "se": "En skolform för teoretisk utbildning mellan grundskola och universitet eller högskola.",
+    "zh-Hans": "青少年大学前的教育"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05005003",
+    "https://www.wikidata.org/entity/Q9826"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مدارس ثانوية",
+    "de": "Gymnasium",
+    "dk": "gymnasium",
+    "en-GB": "high schools",
+    "en-US": "high schools",
+    "es": "Liceo o secundaria",
+    "fr": "Lycées",
+    "no": "videregående skole",
+    "pt-BR": "escolas de ensino médio",
+    "pt-PT": "escolas secundárias",
+    "se": "Gymnasium",
+    "zh-Hans": "高级中学"
+  },
+  "qcode": "medtop:20000404",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000404",
+  "aid": "iptc_20000404"
+}

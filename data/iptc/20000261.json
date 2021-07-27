@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000256"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Energiebranche, nicht auf einen bestimmten Bereich konzentriert",
+    "dk": "Produktion af energi uden fokus på nogen bestemt sektor.",
+    "en-GB": "The energy industry, not focused on any specific sector",
+    "en-US": "The energy industry, not focused on any specific sector",
+    "pt-BR": "A indústria da energia, não focada num setor específico.",
+    "pt-PT": "A indústria da energia, não focada num setor específico.",
+    "se": "Produktionen av energi utan fokus på någon speciell sektor.",
+    "zh-Hans": "能源行业，不特指任何特定领域"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2151621"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-25T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "صناعة الطاقة",
+    "de": "Energie",
+    "dk": "energiindustri",
+    "en-GB": "energy industry",
+    "en-US": "energy industry",
+    "es": "Energía",
+    "fr": "Énergie",
+    "no": "kraftindustri",
+    "pt-BR": "indústria da energia",
+    "pt-PT": "indústria da energia",
+    "se": "Energiindustri",
+    "zh-Hans": "能源行业"
+  },
+  "qcode": "medtop:20000261",
+  "retired": "2019-07-25T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000261",
+  "aid": "iptc_20000261"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008016"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Preissteigerung",
+    "dk": "Økonomisk udvikling, der manifesterer sig i den kontinuerlige generelle stigning i prisniveauet og dermed forringelsen af den monetære værdi.",
+    "en-GB": "A rise in prices",
+    "en-US": "A rise in prices",
+    "pt-BR": "Subida dos preços.",
+    "pt-PT": "Subida dos preços.",
+    "se": "Ekonomisk utveckling som yttrar sig i fortlöpande allmän höjning av prisnivån och därmed försämring av penningvärdet.",
+    "zh-Hans": "物价上涨"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q35865"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تضخم",
+    "de": "Inflation",
+    "dk": "inflation",
+    "en-GB": "inflation",
+    "en-US": "inflation",
+    "es": "Inflación",
+    "fr": "Inflation",
+    "no": "inflasjon",
+    "pt-BR": "inflação",
+    "pt-PT": "inflação",
+    "se": "Inflation",
+    "zh-Hans": "通货膨胀"
+  },
+  "qcode": "medtop:20000370",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000370",
+  "aid": "iptc_20000370"
+}

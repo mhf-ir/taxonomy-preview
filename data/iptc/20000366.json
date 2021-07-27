@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alles was im eigenen Land hergestellt und produziert und überallhin verkauft und versendet wird",
+    "dk": "Hvad der er produceret eller fremstillet i eet land og sendt og solgt i et andet land.",
+    "en-GB": "What is produced or manufactured in your country and sent and sold elsewhere",
+    "en-US": "What is produced or manufactured in your country and sent and sold elsewhere",
+    "pt-BR": "Aquilo que é produzido ou manufaturado em um país e é enviado para fora para ser vendido.",
+    "pt-PT": "Aquilo que é produzido ou manufaturado num país e é enviado para fora para ser vendido.",
+    "se": "Organiserad utförsel av varor eller tjänster från det egna landet till utlandet.",
+    "zh-Hans": "在本国生产或制造并被送往其他国家销售的（产品或服务）"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008031",
+    "https://www.wikidata.org/entity/Q182722"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صادرات",
+    "de": "Export",
+    "dk": "eksport",
+    "en-GB": "exports",
+    "en-US": "exports",
+    "es": "Exportaciones",
+    "fr": "Exportations",
+    "no": "eksport",
+    "pt-BR": "exportações",
+    "pt-PT": "exportações",
+    "se": "Export",
+    "zh-Hans": "出口"
+  },
+  "qcode": "medtop:20000366",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000366",
+  "aid": "iptc_20000366"
+}

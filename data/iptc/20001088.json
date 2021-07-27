@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zwei Teams ziehen gegeneinander an einem Tau",
+    "dk": "To hold trækker i et reb. Holdet, der formår at trække modstanderne til deres side, har vundet.",
+    "en-GB": "Two teams pulling against each other on a rope",
+    "en-US": "Two teams pulling against each other on a rope",
+    "pt-BR": "Duas equipes puxam de cada lado de uma corda.",
+    "pt-PT": "Uma equipa tenta derrubar a equipa adversária, puxando uma corda.",
+    "se": "Två lag drar i ett rep. Det lag som lyckas dra motståndarna över till sin sida har vunnit.",
+    "zh-Hans": "两组人通过绳索互相向己方拉拽双方"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15080000",
+    "https://www.wikidata.org/entity/Q102843"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شد الحبل",
+    "de": "Tauziehen",
+    "dk": "tovtrækning",
+    "en-GB": "tug-of-war",
+    "en-US": "tug-of-war",
+    "es": "Tira y afloja con cuerda",
+    "fr": "Tir à la corde",
+    "no": "tautrekking",
+    "pt-BR": "cabo de guerra",
+    "pt-PT": "jogo da corda",
+    "se": "Dragkamp",
+    "zh-Hans": "拔河"
+  },
+  "qcode": "medtop:20001088",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001088",
+  "aid": "iptc_20001088"
+}

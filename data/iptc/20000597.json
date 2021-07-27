@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Für gewöhnlich ein schriftliches Dokument, was das Funktionieren einer Regierung und die Rechte der Bürger darin festschreibt",
+    "dk": "Et sæt juridiske bestemmelser, der specificerer, hvordan et bestemt land skal styres.",
+    "en-GB": "Usually a written document setting forth the operations of a government and the rights of the citizens therein",
+    "en-US": "Usually a written document setting forth the operations of a government and the rights of the citizens therein",
+    "pt-BR": "Geralmente, documento escrito que estabelece as operações de um governo e os direitos dos cidadãos.",
+    "pt-PT": "Geralmente, um documento escrito que estabelece os direitos e os deveres dos cidadãos e a organização política do estado, definindo os poderes e funções dos poderes legislativo, executivo e judicial.",
+    "se": "En samling rättsliga bestämmelser som anger hur ett visst land skall styras.",
+    "zh-Hans": "通常是一种书面文件，规定了政府的运作和公民的权利"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11015000",
+    "https://www.wikidata.org/entity/Q7755"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "دستور",
+    "de": "Verfassung (Gesetz)",
+    "dk": "grundlov",
+    "en-GB": "constitution (law)",
+    "en-US": "constitution (law)",
+    "es": "Constitución",
+    "fr": "Constitution",
+    "no": "grunnlov",
+    "pt-BR": "constituição",
+    "pt-PT": "constituição",
+    "se": "Författning",
+    "zh-Hans": "宪法（法律）"
+  },
+  "qcode": "medtop:20000597",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000597",
+  "aid": "iptc_20000597"
+}

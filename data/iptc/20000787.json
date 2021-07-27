@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000780"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zwei oder mehrere Personen in einer hierarchischen familiären Beziehung",
+    "dk": "To eller flere individer med et hierarkisk familieforhold.",
+    "en-GB": "The caring for and support of a child's physical, emotional, developmental and social needs from birth to adulthood",
+    "en-US": "The caring for and support of a child's physical, emotional, developmental and social needs from birth to adulthood",
+    "pt-BR": "Dois ou mais indivíduos com uma relação familiar hierárquica.",
+    "pt-PT": "Dois ou mais indivíduos com uma relação familiar hierárquica.",
+    "se": "Personer som är far eller mor till ett visst barn och som har rätt att utöva den rättsliga vårdnaden om detta barn.",
+    "zh-Hans": "两个或两个以上有亲子家庭关系的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14006001",
+    "https://www.wikidata.org/entity/Q5362237"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اباء وابناء",
+    "de": "Eltern und Kind",
+    "dk": "forælder og barn",
+    "en-GB": "parenting",
+    "en-US": "parenting",
+    "es": "Padres e hijos",
+    "fr": "Relation parent-enfant",
+    "no": "foreldre og barn",
+    "pt-BR": "pais e filhos",
+    "pt-PT": "pais e filhos",
+    "se": "Föräldrar",
+    "zh-Hans": "父母和子女"
+  },
+  "qcode": "medtop:20000787",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000787",
+  "aid": "iptc_20000787"
+}

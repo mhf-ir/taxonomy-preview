@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000788"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Menschen in dem Alter von 13 bis 19",
+    "dk": "Personer i en alder mellem barndom og voksen alder.",
+    "en-GB": "Young people between the ages that describe childhood and adulthood",
+    "en-US": "Young people between the ages that describe childhood and adulthood",
+    "pt-BR": "Pessoas que estão numa idade entre a infância e a idade adulta.",
+    "pt-PT": "Pessoas que estão numa idade entre a infância e a idade adulta.",
+    "se": "Personer i en ålder mellan barn och mogen ålder.",
+    "zh-Hans": "处于儿童和成年之间的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14024003",
+    "https://www.wikidata.org/entity/Q1492760"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مراهقون",
+    "de": "Jugendlicher",
+    "dk": "teenager",
+    "en-GB": "teenagers",
+    "en-US": "teenagers",
+    "es": "Adolescentes",
+    "fr": "Adolescents",
+    "no": "tenåring",
+    "pt-BR": "adolescentes",
+    "pt-PT": "adolescentes",
+    "se": "Tonåringar",
+    "zh-Hans": "青少年"
+  },
+  "qcode": "medtop:20000798",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000798",
+  "aid": "iptc_20000798"
+}

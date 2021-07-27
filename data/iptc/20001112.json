@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15073000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001108"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkampf, an dem die besten Wettkämpfer und Teams verschiedener Länder teilnehmen. Meisterschaft genannt",
+    "dk": "Mesterskaber, hvor atleter eller hold fra forskellige lande kan deltage.",
+    "en-GB": "A competition where individuals or teams from different countries may participate. Called a *Championship*",
+    "en-US": "A competition where individuals or teams from different countries may participate. Called a *Championship*",
+    "pt-BR": "Competição em que podem participar indivíduos ou equipes de diferentes países. Designa-se por *Campeonato*.",
+    "pt-PT": "Competição em que podem participar indivíduos ou equipas de diferentes países. Designa-se por *Campeonato*.",
+    "se": "Mästerskap där atleter eller lag från olika länder kan delta.",
+    "zh-Hans": "个人或团体代表国家参加的国际范围内的锦标赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1344963"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بطولة دولية",
+    "de": "Internationale Meisterschaft",
+    "dk": "internationalt mesterskab",
+    "en-GB": "international championship",
+    "en-US": "international championship",
+    "es": "Campeonato internacional",
+    "fr": "Championnat intercontinental",
+    "no": "internasjonalt mesterskap",
+    "pt-BR": "campeonato internacional",
+    "pt-PT": "campeonato internacional",
+    "se": "Internationella mästerskap",
+    "zh-Hans": "国际锦标赛"
+  },
+  "qcode": "medtop:20001112",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001112",
+  "aid": "iptc_20001112"
+}

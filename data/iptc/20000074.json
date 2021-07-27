@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11002003"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000073"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Person oder Organisation, die einen Friedensprozess einleitet und begleitet",
+    "dk": "Person eller organisation, der initierer og implementerer en fredsproces.",
+    "en-GB": "Person or organisation initiating and carrying out a peace process",
+    "en-US": "Person or organization initiating and carrying out a peace process",
+    "es": "Persona u organización que inicia y lidera un proceso de paz",
+    "fr": "Personne ou organisation initiant et menant un processus de paix",
+    "pt-BR": "Pessoa ou organização que inicia ou desenvolve um processo de paz.",
+    "pt-PT": "Pessoa ou organização que inicia ou desenvolve um processo de paz.",
+    "se": "Person eller organisation som initierar och genomför en fredsprocess.",
+    "zh-Hans": "发起并执行和平进程的个人或组织"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "موفد سلام",
+    "de": "Friedensverhandlung",
+    "dk": "fredsmægler",
+    "en-GB": "peace envoy",
+    "en-US": "peace envoy",
+    "es": "Enviado de paz",
+    "fr": "Émissaire de la paix",
+    "no": "fredsmegler",
+    "pt-BR": "enviado de paz",
+    "pt-PT": "enviado de paz",
+    "se": "Fredsmäklare",
+    "zh-Hans": "和平特使"
+  },
+  "qcode": "medtop:20000074",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000074",
+  "aid": "iptc_20000074"
+}

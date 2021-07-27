@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000733"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Untersuchung der Natur, der Eigenschaften und der Wechselwirkungen der Elementarteilchen, die die Materie ausmachen",
+    "dk": "Videnskaben for de mindste bestanddele af stof, deres struktur og deres interaktion.",
+    "en-GB": "The study of the nature, properties and interactions of the elementary particles that constitute matter",
+    "en-US": "The study of the nature, properties and interactions of the elementary particles that constitute matter",
+    "es": "El estudio de la naturaleza, de las propiedades e interacciones de las partículas elementales que constituyen la materia",
+    "fr": "Etude de la nature, des propriétés et des interactions des particules élémentaires constituant la matière",
+    "pt-BR": "Estudo da natureza, das propriedades e das interações das partículas elementares que constituem matéria.",
+    "pt-PT": "Estudo da natureza, das propriedades e das interações das partículas elementares que constituem matéria.",
+    "se": "Vetenskapen om materiens minsta beståndsdelar, dessas struktur och inbördes växelverkan.",
+    "zh-Hans": "对构成物质的基本粒子的性质、性质和相互作用的研究"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13001004",
+    "https://www.wikidata.org/entity/Q18334"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "فيزياء الجزيئات",
+    "de": "Teilchenphysik",
+    "dk": "partikelfysik",
+    "en-GB": "particle physics",
+    "en-US": "particle physics",
+    "es": "Partículas físicas",
+    "fr": "Physique des particules",
+    "no": "partikkelfysikk",
+    "pt-BR": "física de partículas",
+    "pt-PT": "física de partículas",
+    "se": "Partikelfysik",
+    "zh-Hans": "粒子物理"
+  },
+  "qcode": "medtop:20000734",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000734",
+  "aid": "iptc_20000734"
+}

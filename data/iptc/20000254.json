@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000243"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Spielzeug für Kinder",
+    "dk": "Salg af legetøj.",
+    "en-GB": "Children's plaything",
+    "en-US": "Children's plaything",
+    "pt-BR": "Objetos com os quais as crianças brincam.",
+    "pt-PT": "Objetos com os quais as crianças brincam.",
+    "se": "Föremål som är avsett att användas vid lek.",
+    "zh-Hans": "儿童玩具"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04007012",
+    "https://www.wikidata.org/entity/Q11422"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "لعب",
+    "de": "Spielwaren",
+    "dk": "legetøj",
+    "en-GB": "toy",
+    "en-US": "toy",
+    "es": "Juguetes",
+    "fr": "Jouets",
+    "no": "leketøy",
+    "pt-BR": "brinquedos",
+    "pt-PT": "brinquedos",
+    "se": "Leksaker",
+    "zh-Hans": "玩具"
+  },
+  "qcode": "medtop:20000254",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000254",
+  "aid": "iptc_20000254"
+}

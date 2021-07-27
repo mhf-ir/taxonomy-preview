@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000385"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Markt, auf dem Geld erhältlich ist zu bestimmten Leihkonditionen",
+    "dk": "Marked, hvor penge kan lånes til fast rente.",
+    "en-GB": "The market where money is available to borrow, at certain rates of interest",
+    "en-US": "The market where money is available to borrow, at certain rates of interest",
+    "pt-BR": "Mercado onde o dinheiro está disponível para empréstimos, a determinadas taxas de juro.",
+    "pt-PT": "Mercado onde o dinheiro está disponível para empréstimos, a determinadas taxas de juro.",
+    "se": "Marknad där pengar kan lånas till bestämda räntesatser.",
+    "zh-Hans": "可按一定利率借钱的市场"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008012",
+    "https://www.wikidata.org/entity/Q627543"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000393"
+  ],
+  "prefLabel": {
+    "ar": "سوق القروض",
+    "de": "Kreditmarkt",
+    "dk": "lånemarked",
+    "en-GB": "loan market",
+    "en-US": "loan market",
+    "es": "Mercado de préstamos",
+    "fr": "Marché monétaire",
+    "no": "pengemarked",
+    "pt-BR": "mercado de empréstimos",
+    "pt-PT": "mercado de empréstimos",
+    "se": "Lånemarknad",
+    "zh-Hans": "贷款市场"
+  },
+  "qcode": "medtop:20000392",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000392",
+  "aid": "iptc_20000392"
+}

@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/04000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Oganisierte Körperschaften, die Aktien, Währungen, Rohstoffe und andere Güter kaufen und verkaufen.",
+    "dk": "Organiseret handel med aktier, valutaer, råvarer med mere.",
+    "en-GB": "Organised entities for buying and selling stocks, currencies, commodities and other goods",
+    "en-US": "Organized entities for buying and selling stocks, currencies, commodities and other goods",
+    "pt-BR": "Entidades organizadas para a compra e venda de ações, divisas, matérias-primas e outros bens.",
+    "pt-PT": "Entidades organizadas para a compra e venda de ações, divisas, matérias-primas e outros bens.",
+    "se": "Organiserad handel med aktier, valutor, råvaror med mera.",
+    "zh-Hans": "有组织地买卖股票、货币、大宗商品和其他商品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04009000",
+    "https://www.wikidata.org/entity/Q179076"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000386",
+    "medtop:20000390",
+    "medtop:20000391",
+    "medtop:20000392",
+    "medtop:20000394",
+    "medtop:20000396"
+  ],
+  "prefLabel": {
+    "ar": "سوق ومبادلة",
+    "de": "Markt und Börse",
+    "dk": "marked og børsvæsen",
+    "en-GB": "market and exchange",
+    "en-US": "market and exchange",
+    "es": "Mercados y bolsas",
+    "fr": "Marchés",
+    "no": "børs",
+    "pt-BR": "mercado e bolsa",
+    "pt-PT": "mercado e bolsa",
+    "se": "Marknader och börser",
+    "zh-Hans": "市场和交易"
+  },
+  "qcode": "medtop:20000385",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000385",
+  "aid": "iptc_20000385"
+}

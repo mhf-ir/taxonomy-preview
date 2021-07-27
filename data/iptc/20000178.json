@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000171"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jede Steigerung des Umsatzergebnisses",
+    "dk": "Alle offentliggørelser af finansielle resultater. Der er ikke tale om regnskabsaflægning, men blot om indtjening eller salgstal.",
+    "en-GB": "Any release of earnings results.",
+    "en-US": "Any release of earnings results.",
+    "pt-BR": "Todo comunicado sobre os lucros de uma empresa.",
+    "pt-PT": "Qualquer comunicado sobre os lucros de uma empresa.",
+    "se": "Rapporter om företags finansiella resultat.",
+    "zh-Hans": "任何盈利结果的发布"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016018",
+    "https://www.wikidata.org/entity/Q5326940"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ارباح",
+    "de": "Gewinn",
+    "dk": "finansielle resultater",
+    "en-GB": "earnings",
+    "en-US": "earnings",
+    "es": "Beneficios",
+    "fr": "Résultats",
+    "no": "resultat",
+    "pt-BR": "lucros",
+    "pt-PT": "lucros",
+    "se": "Finansiella resultat",
+    "zh-Hans": "收益"
+  },
+  "qcode": "medtop:20000178",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000178",
+  "aid": "iptc_20000178"
+}

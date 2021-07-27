@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/14000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Probleme, die eine Reihe von Individuen in ihrem täglichen Leben betreffen, wie Unterkunft, Nahrung, Erziehung, persönliche Beziehungen",
+    "dk": "Forhold, under hvilke mennesker lever, med hensyn til bolig, vandforsyning, tilgængelighed af uddannelse.",
+    "en-GB": "The circumstances or state of affairs affecting a person's life, welfare and relations with others in a society",
+    "en-US": "The circumstances or state of affairs affecting a person's life, welfare and relations with others in a society",
+    "pt-BR": "Condições em que as pessoas vivem no que diz respeito a habitação, abastecimento de água, disponibilidade de educação.",
+    "pt-PT": "Condições em que as pessoas vivem no que diz respeito a habitação, abastecimento de água, disponibilidade de educação.",
+    "se": "Det tillstånd folk lever i gällande bostad, vattentillgång, möjlighet till utbildning med mera.",
+    "zh-Hans": "人们在住房、供水、受教育机会等方面的生活条件"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14025001",
+    "https://www.wikidata.org/entity/Q189970"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000800",
+    "medtop:20000801"
+  ],
+  "prefLabel": {
+    "ar": "وضع اجتماعي",
+    "de": "Soziale Bedingung",
+    "dk": "sociale forhold",
+    "en-GB": "social condition",
+    "en-US": "social condition",
+    "es": "Condiciones sociales",
+    "fr": "Condition sociale",
+    "no": "sosial status",
+    "pt-BR": "condição social",
+    "pt-PT": "condição social",
+    "se": "Social situation",
+    "zh-Hans": "社会环境"
+  },
+  "qcode": "medtop:20000799",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000799",
+  "aid": "iptc_20000799"
+}

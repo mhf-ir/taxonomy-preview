@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000411"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Menschen, die ihr Wissen anderen vermitteln",
+    "dk": "Person, der er professionelt engageret i undervisning, mest i skole eller i skolelignende former.",
+    "en-GB": "People with knowledge who can impart that knowledge to others",
+    "en-US": "People with knowledge who can impart that knowledge to others",
+    "pt-BR": "Pessoas dotadas de conhecimento e de meios e técnicas para o transmitir a outros.",
+    "pt-PT": "Pessoas dotadas de conhecimento e de meios e técnicas para o transmitir a outros.",
+    "se": "Person som yrkesmässigt ägnar sig åt undervisning, mest i skola eller under skolliknande former.",
+    "zh-Hans": "有知识并能够把这些知识传授给别人的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05010002",
+    "https://www.wikidata.org/entity/Q37226"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مدرسون",
+    "de": "Lehrender",
+    "dk": "lærer",
+    "en-GB": "teachers",
+    "en-US": "teachers",
+    "es": "Profesores",
+    "fr": "Enseignants",
+    "no": "lærer",
+    "pt-BR": "professores",
+    "pt-PT": "professores",
+    "se": "Lärare",
+    "zh-Hans": "老师"
+  },
+  "qcode": "medtop:20000416",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000416",
+  "aid": "iptc_20000416"
+}

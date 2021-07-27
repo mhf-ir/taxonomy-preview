@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000053"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Einsatz von biologischen Kampfstoffen, um Angst innerhalb der Bevölkerung auszulösen",
+    "dk": "Biologiske angreb for at øge frygt hos mennesker.",
+    "en-GB": "Attacks using biological agents intended to raise the level of fear within a population",
+    "en-US": "Attacks using biological agents intended to raise the level of fear within a population",
+    "es": "Ataques donde se usan agentes biológicos, con el propósito de generar pánico y terror en una población",
+    "fr": "Attaques où sont utilisés des agents biologiques, destinées à provoquer un effet de panique au sein d'une population",
+    "pt-BR": "Ataques com utilização de substâncias biológicas ou químicas para aumentar o nível de medo da população, com ou sem mortes.",
+    "pt-PT": "Ataques com utilização de substâncias biológicas ou químicas para aumentar o nível de medo da população, com ou sem mortes.",
+    "se": "Attacker med biologiska ämnen för att öka rädslan hos folk.",
+    "zh-Hans": "为了提高人群的恐惧程度而使用生物制剂进行攻击的行为"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16005001",
+    "https://www.wikidata.org/entity/Q854975"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "عمل ارهاب بيولوجي",
+    "de": "Bioterrorismus",
+    "dk": "bioterrorisme",
+    "en-GB": "act of bioterrorism",
+    "en-US": "act of bioterrorism",
+    "es": "Acto de bioterrorismo",
+    "fr": "Bioterrorisme",
+    "no": "bioterrorisme",
+    "pt-BR": "atos de bioterrorismo",
+    "pt-PT": "atos de bioterrorismo",
+    "se": "Biologisk terrorism",
+    "zh-Hans": "生物恐怖主义活动"
+  },
+  "qcode": "medtop:20000054",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000054",
+  "aid": "iptc_20000054"
+}

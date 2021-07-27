@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000487"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Eine medizinische Spezialisierung, die sich auf Erkrankungen des Bewegungsapparats konzentriert",
+    "dk": "Sundhedspleje, der tager sig af ting, der vedrører kroppens led og mobilitet.",
+    "en-GB": "A medical specialisation that focuses on conditions involving the musculoskeletal system",
+    "en-US": "A medical specialization that focuses on conditions involving the musculoskeletal system",
+    "pt-BR": "Especialidade médica que se dedica ao estudo e tratamento dos problemas que envolvem o sistema musculoesquelético.",
+    "pt-PT": "Especialidade médica que se dedica ao estudo e tratamento dos problemas que envolvem o sistema musculoesquelético.",
+    "se": "Sjukvård som tar hand om saker som gäller kroppens leder och rörlighet.",
+    "zh-Hans": "专注于肌肉骨骼系统疾病的医学专科"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q216685"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "جراحة العظام",
+    "de": "Orthopädie",
+    "dk": "ortopædi",
+    "en-GB": "orthopaedics",
+    "en-US": "orthopedics",
+    "es": "Ortopedia",
+    "fr": "Orthopédie",
+    "no": "ortopedi",
+    "pt-BR": "ortopedia",
+    "pt-PT": "ortopedia",
+    "se": "Ortopedi",
+    "zh-Hans": "骨科"
+  },
+  "qcode": "medtop:20001222",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001222",
+  "aid": "iptc_20001222"
+}

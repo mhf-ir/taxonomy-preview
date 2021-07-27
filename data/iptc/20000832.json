@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Einzelwettkampf der Frauen, umfasst 7 Disziplinen über 2 Tage: 1. Tag - 100 m Hürden, Hochsprung, Kugelstoßen, 200 Meter. 2. Tag - Weitsprung, Speerwerfen, 800 Meter",
+    "dk": "En atletikgren for kvinder med syv discipliner over to dage. Det bedste resultat i hver disciplin giver en sammenlignelig score, og den deltager med højeste sum vinder.",
+    "en-GB": "Competition involving seven separate disciplines over two days. 1st day - 100m hurdles, high jump, shot put, 200 metres. 2nd day - long-jump, javelin, 800 metres",
+    "en-US": "Competition involving seven separate disciplines over two days. 1st day - 100m hurdles, high jump, shot put, 200 meters. 2nd day - long-jump, javelin, 800 meters",
+    "pt-BR": "Competição individual feminina que consiste em acumular pontos em 7 provas diferentes durante 2 dias. 1º dia: 100m barreiras, salto em altura, arremesso de peso e 200m. 2º dia: salto em distância, lançamento de dardo e 800m.",
+    "pt-PT": "Competição individual feminina que consiste em acumular pontos em 7 provas diferentes durante 2 dias. 1º dia: 100m barreiras, salto em altura, lançamento do peso e 200m. 2º dia: salto em comprimento, lançamento do dardo e 800m.",
+    "se": "Friidrottsgren för kvinnor med sju grenar under två dagar. Bästa resultatet i varje gren ger en jämförbar poäng och högsta summa vinner.",
+    "zh-Hans": "一项有七个不同项目的比赛，分两天完成。第一天：100米跨栏，跳高，铅球和200米跑。第二天：跳远，标枪和800米跑"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005042",
+    "https://www.wikidata.org/entity/Q243264"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سباعي",
+    "de": "Siebenkampf",
+    "dk": "syvkamp",
+    "en-GB": "heptathlon",
+    "en-US": "heptathlon",
+    "es": "Heptatlón",
+    "fr": "Heptathlon",
+    "no": "sjukamp",
+    "pt-BR": "heptatlo",
+    "pt-PT": "heptatlo",
+    "se": "Sjukamp",
+    "zh-Hans": "七项全能"
+  },
+  "qcode": "medtop:20000832",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000832",
+  "aid": "iptc_20000832"
+}

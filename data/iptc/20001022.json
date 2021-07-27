@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001017"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rodeo Disziplin",
+    "dk": "At fange kalve ved hjælp af en lasso, oprindeligt skabt til at fange kalve til mærkning og lignende.",
+    "en-GB": "Rodeo discipline",
+    "en-US": "Rodeo discipline",
+    "pt-BR": "Disciplina de rodeio.",
+    "pt-PT": "Disciplina de rodeio.",
+    "se": "Infångning av kalvar med hjälp av en lasso, från början skapad för att fånga in kalvar för märkning och dylikt.",
+    "zh-Hans": "一种牛仔竞技比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15074002",
+    "https://www.wikidata.org/entity/Q5019578"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "روديو ربط العجل",
+    "de": "Calf Roping",
+    "dk": "calf roping",
+    "en-GB": "calf roping",
+    "en-US": "calf roping",
+    "es": "Calf roping (rodeo)",
+    "fr": "Calf roping (rodéo)",
+    "no": "lasso (kalv)",
+    "pt-BR": "calf roping",
+    "pt-PT": "calf roping",
+    "se": "Lasso (kalvar)",
+    "zh-Hans": "套牛犊"
+  },
+  "qcode": "medtop:20001022",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001022",
+  "aid": "iptc_20001022"
+}

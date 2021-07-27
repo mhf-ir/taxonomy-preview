@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000603"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Sicherheitsvorstellungen ein Land und seine Grenzen zu schützen, genauso wie das Wohlergehen der Bürger",
+    "dk": "Arbejdet med at sikre en stat og dens grænser mod udefra- og indefrakommende trusler og bevare borgernes trivsel.",
+    "en-GB": "The philosophy of securing a nation and its borders, as well as the well-being of its citizens",
+    "en-US": "The philosophy of securing a nation and its borders, as well as the well-being of its citizens",
+    "pt-BR": "Filosofia de proteger o país, suas fronteiras e o bem-estar de seus cidadãos.",
+    "pt-PT": "Filosofia de proteger o país, as suas fronteiras e o bem-estar dos seus cidadãos.",
+    "se": "Arbetet med att säkra en stat och dess gränser samt att upprätthålla medborgarnas välmående.",
+    "zh-Hans": "保障一个国家及其边界以及公民幸福的理念"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11001002",
+    "https://www.wikidata.org/entity/Q258307"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "امن قومي",
+    "de": "Nationale Sicherheit",
+    "dk": "national sikkerhed",
+    "en-GB": "national security",
+    "en-US": "national security",
+    "es": "Seguridad nacional",
+    "fr": "Sécurité nationale",
+    "no": "sikkerhetspolitikk",
+    "pt-BR": "segurança nacional",
+    "pt-PT": "segurança nacional",
+    "se": "Nationell säkerhet",
+    "zh-Hans": "国家安全"
+  },
+  "qcode": "medtop:20000604",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000604",
+  "aid": "iptc_20000604"
+}

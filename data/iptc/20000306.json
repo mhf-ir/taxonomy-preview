@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000304"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Geschäft gebundene Medien zu produzieren und zu verkaufen, sowohl Belletristik als auch Sachliteratur",
+    "dk": "Kommercielle virksomheder, der producerer og sælger bøger, både fiktion og ikke-fiktion.",
+    "en-GB": "The business of producing and selling bound media, whether fiction or non-fiction",
+    "en-US": "The business of producing and selling bound media, whether fiction or non-fiction",
+    "pt-BR": "Negócio de produção e venda de publicações, seja de ficção ou de não ficção.",
+    "pt-PT": "Negócio de produção e venda de publicações, seja de ficção ou de não ficção.",
+    "se": "Den kommersiella verksamhet som producerar och säljer böcker, både skönlitteratur och facklitteratur.",
+    "zh-Hans": "生产和销售各种小说或非小说作品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04010002",
+    "https://www.wikidata.org/entity/Q56560668"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صناعة الكتب",
+    "de": "Verlag",
+    "dk": "bogbranche",
+    "en-GB": "book industry",
+    "en-US": "book industry",
+    "es": "Libros",
+    "fr": "Édition",
+    "no": "forlagsbransjen",
+    "pt-BR": "mercado livreiro",
+    "pt-PT": "mercado livreiro",
+    "se": "Förlagsindustrin",
+    "zh-Hans": "图书业"
+  },
+  "qcode": "medtop:20000306",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000306",
+  "aid": "iptc_20000306"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000331"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Anbieter von Reisen, sowohl vor Ort, als auch in Städte oder in andere Länder",
+    "dk": "Virksomheder, der sælger rejser i form af transport, indkvartering og aktiviteter.",
+    "en-GB": "Operators of trips either locally, as around town, or to other countries",
+    "en-US": "Operators of trips either locally, as around town, or to other countries",
+    "pt-BR": "Operadores de viagens, seja localmente, seja em outros países.",
+    "pt-PT": "Operadores de viagens, seja localmente, seja em outros países.",
+    "se": "Företag som paketerar resor i form av transport, boende och aktiviteter.",
+    "zh-Hans": "安排本地（如城镇周围）或到其他国家旅行的公司"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04014005",
+    "https://www.wikidata.org/entity/Q133744"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تنظيم رحلات",
+    "de": "Reiseveranstalter",
+    "dk": "rejsearrangør",
+    "en-GB": "tour operator",
+    "en-US": "tour operator",
+    "es": "Operadores de turismo",
+    "fr": "Voyagiste",
+    "no": "turoperatør",
+    "pt-BR": "operadores turísticos",
+    "pt-PT": "operadores turísticos",
+    "se": "Researrangörer",
+    "zh-Hans": "旅行社"
+  },
+  "qcode": "medtop:20000336",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000336",
+  "aid": "iptc_20000336"
+}

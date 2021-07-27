@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15051003"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001049"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schießwettkampf mit einem Luftgewehr und einer Scheibe, die sich seitwärts bewegt",
+    "dk": "En skydedisciplin, med luftpistol mod bevægelige mål på forskellige lange målbaner og på tid.",
+    "en-GB": "Shooting event with an airgun and a target that moves sideways",
+    "en-US": "Shooting event with an airgun and a target that moves sideways",
+    "pt-BR": "Prova de tiro com uma arma de pressão e um alvo que se move para os lados.",
+    "pt-PT": "Prova de tiro com uma arma ar comprimido e um alvo que se move para os lados.",
+    "se": "En sportskyttegren för luftpistol med rörliga mål på olika långa målbanor och med olika långa visningstider.",
+    "zh-Hans": "用气枪射击的比赛。目标相对于射手左右移动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q40679812"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic sport shooting + sports facet shootingtype."
+  },
+  "prefLabel": {
+    "ar": "رماية هدف متحرك",
+    "de": "Laufende Scheibe",
+    "dk": "skydning efter bevægeligt mål",
+    "en-GB": "running target shooting",
+    "en-US": "running target shooting",
+    "es": "Blanco en movimiento",
+    "fr": "Tir à la cible mobile",
+    "no": "løpende blink",
+    "pt-BR": "alvo móvel",
+    "pt-PT": "alvo móvel",
+    "se": "Running target",
+    "zh-Hans": "跑靶射击"
+  },
+  "qcode": "medtop:20001052",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001052",
+  "aid": "iptc_20001052"
+}

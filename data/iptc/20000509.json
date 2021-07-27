@@ -1,0 +1,60 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/09000000"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09003000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Arbeit für eine Organisation, in der Selbstständigkeit oder auch ehrenamtlich",
+    "dk": "Arbejder for en organisation, et individ eller er selvstændig, herunder frivilligt arbejde.",
+    "en-GB": "The state of having work, usually paid, for a company, organisation, or individual",
+    "en-US": "The state of having work, usually paid, for a company, organization, or individual",
+    "pt-BR": "Trabalho para uma organização, para um indivíduo ou por conta própria, incluindo trabalho voluntário.",
+    "pt-PT": "Trabalho para uma organização, para um indivíduo ou por conta própria, incluindo trabalho voluntário.",
+    "se": "En avtalad rättighet för någon att mot betalning utföra vissa arbetsuppgifter för arbetsgivare under kortare eller vanligen under längre tid.",
+    "zh-Hans": "为机构、个人或自雇工作，包括义务工作"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q656365"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000339",
+    "medtop:20000510",
+    "medtop:20000511",
+    "medtop:20000512",
+    "medtop:20000513",
+    "medtop:20000514",
+    "medtop:20000517",
+    "medtop:20000518",
+    "medtop:20001206",
+    "medtop:20001276",
+    "medtop:20001277"
+  ],
+  "prefLabel": {
+    "ar": "توظيف",
+    "de": "Beschäftigung",
+    "dk": "ansættelse",
+    "en-GB": "employment",
+    "en-US": "employment",
+    "es": "Empleo",
+    "fr": "Emploi",
+    "no": "ansettelse",
+    "pt-BR": "emprego",
+    "pt-PT": "emprego",
+    "se": "Anställning",
+    "zh-Hans": "就业"
+  },
+  "qcode": "medtop:20000509",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000509",
+  "aid": "iptc_20000509"
+}

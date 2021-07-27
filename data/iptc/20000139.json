@@ -1,0 +1,55 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/03000000"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: Concept medtop:20000160 was merged into this one as their semantics were not sufficiently different"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jedes ungeplante Ereignis mit ungewollten Konsequenzen",
+    "dk": "Pludselig uventet hændelser, der forsager konsekvenser eller kræver øjeblikkelig handling for at forhindre alvorlige konsekvenser.",
+    "en-GB": "A sudden, unexpected event that causes unwanted consequences or requires immediate action",
+    "en-US": "A sudden, unexpected event that causes unwanted consequences or requires immediate action",
+    "pt-BR": "Qualquer evento inesperado e repentino com consequências indesejadas e que requer medidas imediatas para evitar consequências sérias.",
+    "pt-PT": "Qualquer evento inesperado e repentino com consequências indesejadas e que requer medidas imediatas para evitar consequências sérias.",
+    "se": "Mer eller mindre akuta oönskade händelser.",
+    "zh-Hans": "突发、意料外的事件，如不采取立即行动可能造成严重后果"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q171558",
+    "http://cv.iptc.org/newscodes/subjectcode/03013000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000140",
+    "medtop:20000141",
+    "medtop:20000143",
+    "medtop:20000161",
+    "medtop:20001321"
+  ],
+  "prefLabel": {
+    "ar": "حادث",
+    "de": "Unglück",
+    "dk": "ulykke og nødsituation",
+    "en-GB": "accident and emergency incident",
+    "en-US": "accident and emergency incident",
+    "es": "Accidente",
+    "fr": "Accident",
+    "no": "ulykker",
+    "pt-BR": "acidente (geral)",
+    "pt-PT": "acidente (geral)",
+    "se": "Olyckor och akuta händelser",
+    "zh-Hans": "事故和突发事件"
+  },
+  "qcode": "medtop:20000139",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000139",
+  "aid": "iptc_20000139"
+}

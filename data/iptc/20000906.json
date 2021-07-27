@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000892"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rennen, was in Teams stattfindet, die sich qualifizieren über die Kombination der Zeiten eines Tages",
+    "dk": "Cykelkonkurrencer, der afgøres over en række etaper over flere dage. Tiderne tilføjes fra hver dags konkurrence, og den, der har den laveste tid, når alle etaper køres, vinder.",
+    "en-GB": "Race disputed by teams with the classifications determined by the combined times over a day",
+    "en-US": "Race disputed by teams with the classifications determined by the combined times over a day",
+    "pt-BR": "Corrida disputada por equipes em que as classificações são determinadas pelos resultados combinados de cada dia.",
+    "pt-PT": "Corrida disputada por equipas em que as classificações são determinadas pelos resultados combinados de cada dia.",
+    "se": "Cykeltävlingar som avgörs över ett antal etapper under flera dagar. Tiderna adderas från varje dags tävling och den som har lägst tid när alla etapper körts vinner.",
+    "zh-Hans": "集体自行车竞技比赛。根据一天之内每队合计完成时间分级计算胜负"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15019013",
+    "https://www.wikidata.org/entity/Q1318941"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic cycling + sports facet racetype"
+  },
+  "prefLabel": {
+    "ar": "سباق دراجات على الطريق",
+    "de": "Etappenrennen",
+    "dk": "etapeløb",
+    "en-GB": "cycling staging race",
+    "en-US": "cycling staging race",
+    "es": "Carrera por etapas",
+    "fr": "Course à étapes",
+    "no": "etapperitt",
+    "pt-BR": "corrida por etapas",
+    "pt-PT": "corrida por etapas",
+    "se": "Etapplopp",
+    "zh-Hans": "自行车分段赛"
+  },
+  "qcode": "medtop:20000906",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000906",
+  "aid": "iptc_20000906"
+}

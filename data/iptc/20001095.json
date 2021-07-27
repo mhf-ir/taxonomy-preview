@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001093"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kräftemessen, bei dem die Wettkämpfer ein Gewicht so schwer wie möglich heben",
+    "dk": "En styrketest, hvor konkurrenter løfter en så tung vægt som muligt.",
+    "en-GB": "A strength test where competitors lift as heavy a weight as possible",
+    "en-US": "A strength test where competitors lift as heavy a weight as possible",
+    "pt-BR": "Teste de força em que os atletas tentam levantar o máximo de peso possível.",
+    "pt-PT": "Teste de força em que os atletas tentam levantar o máximo de peso possível.",
+    "se": "Påminner om traditionell tyngdlyftning men här tävlar man i stället i knäböj, bänkpress och marklyft. De tävlande har tre försök per gren. Högsta vikt per gren räknas.",
+    "zh-Hans": "参赛者尽量举起最大重量"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15070016",
+    "https://www.wikidata.org/entity/Q213796"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic weightlifting+ sports facet weightliftingtype."
+  },
+  "prefLabel": {
+    "ar": "اثقال القوة",
+    "de": "Kraftdreikampf",
+    "dk": "styrkeløft",
+    "en-GB": "powerlifting",
+    "en-US": "powerlifting",
+    "es": "Powerlifting",
+    "fr": "Force athlétique",
+    "no": "styrkeløft",
+    "pt-BR": "levantamento de peso básico",
+    "pt-PT": "levantamento de peso",
+    "se": "Styrkelyft",
+    "zh-Hans": "力量举重"
+  },
+  "qcode": "medtop:20001095",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001095",
+  "aid": "iptc_20001095"
+}

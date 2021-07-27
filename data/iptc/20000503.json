@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/08000000"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/08003004"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ungeschicktes Verhalten von Menschen",
+    "dk": "Dum, menneskelig fejl.",
+    "en-GB": "Silly or stupid human errors",
+    "en-US": "Silly or stupid human errors",
+    "pt-BR": "Erros humanos idiotas ou estúpidos.",
+    "pt-PT": "Erros humanos idiotas ou estúpidos.",
+    "se": "Dumma mänskliga misstag.",
+    "zh-Hans": "愚蠢的人为事故"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q5937752"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-12T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "خطأ بشري",
+    "de": "Missgeschick",
+    "dk": "menneskeligt uheld",
+    "en-GB": "human mishap",
+    "en-US": "human mishap",
+    "es": "Desgracia humana",
+    "fr": "Mésaventures",
+    "no": "menneskelig feil",
+    "pt-BR": "desaires",
+    "pt-PT": "desaires",
+    "se": "Mänsklig olycka",
+    "zh-Hans": "人类事故"
+  },
+  "qcode": "medtop:20000503",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000503",
+  "aid": "iptc_20000503"
+}

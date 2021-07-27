@@ -1,0 +1,60 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/13000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Studium und Praxis industrieller oder angewandter Wissenschaften wie Physik, Hydrodynamik oder Thermodynamik",
+    "dk": "Undersøgelse og anvendelse af industrielle eller anvendte videnskaber såsom teknisk fysik, hydrodynamik og termodynamik.",
+    "en-GB": "The study and practice of industrial or applied sciences such as physics, hydrodynamics or thermodynamics",
+    "en-US": "The study and practice of industrial or applied sciences such as physics, hydrodynamics or thermodynamics",
+    "es": "El estudio y la práctica de las ciencias industriales o aplicadas, como la física, la hidrodinámica o la termodinámica",
+    "fr": "Etude et pratique des sciences industrielles ou appliquées telles que la physique, l'hydrodynamique ou la thermodynamique",
+    "pt-BR": "Estudo e prática de ciências industriais ou aplicadas, como a física, a hidrodinâmica ou a termodinâmica.",
+    "pt-PT": "Estudo e prática de ciências industriais ou aplicadas, como a física, a hidrodinâmica ou a termodinâmica.",
+    "se": "Studiet och bruket av industriella eller tillämpade vetenskaper såsom teknisk fysik, hydrodynamik och termodynamik.",
+    "zh-Hans": "工业或应用科学的研究和实践，如物理学、流体力学或热力学"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q11016"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000716",
+    "medtop:20000757",
+    "medtop:20000759",
+    "medtop:20000760",
+    "medtop:20000761",
+    "medtop:20000762",
+    "medtop:20000763",
+    "medtop:20000764",
+    "medtop:20000765"
+  ],
+  "prefLabel": {
+    "ar": "تكنولوجيا وهندسة",
+    "de": "Technologie und Technik",
+    "dk": "teknologi og teknik",
+    "en-GB": "technology and engineering",
+    "en-US": "technology and engineering",
+    "es": "Tecnología e ingeniería",
+    "fr": "Technologie et ingénierie",
+    "no": "teknologi",
+    "pt-BR": "tecnologia e engenharia",
+    "pt-PT": "tecnologia e engenharia",
+    "se": "Teknik och ingenjörskonst",
+    "zh-Hans": "技术和工程"
+  },
+  "qcode": "medtop:20000756",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000756",
+  "aid": "iptc_20000756"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000657"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der Gaube dass der Mensch ein spirituelles Wesen ist, ausgestattet mit Fähigkeiten, hinter den für gewöhnlich sichtbaren, er ist in der Lage seine eigenen Probleme zu lösen, Großes zu schaffen und dauerhaftes Glück zu erlangen.",
+    "dk": "Scientology er en nyreligiøs bevægelse startet omkring 1951 af den amerikanskfødte forfatter L. Ron Hubbard med oprindelse i hans Dianetik.",
+    "en-GB": "Believe that man is a spiritual being endowed with abilities well beyond those which he normally envisages",
+    "en-US": "Believe that man is a spiritual being endowed with abilities well beyond those which he normally envisages",
+    "pt-BR": "Crença de que o homem é um ser espiritual dotado de capacidades que vão além do que ele normalmente considera.",
+    "pt-PT": "Crença de que o homem é um ser espiritual dotado de capacidades que vão além do que ele normalmente considera.",
+    "se": "En psykologiserande, delvis kommersiell frälsningsrörelse, kännetecknad av idéer om självförverkligande genom personlig andlig kraft.",
+    "zh-Hans": "相信人是一种精神上的存在，被赋予的能力远远超出他通常所能想象的"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12002002",
+    "https://www.wikidata.org/entity/Q131036"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علموية",
+    "de": "Scientology",
+    "dk": "Scientology",
+    "en-GB": "Scientology",
+    "en-US": "Scientology",
+    "es": "Cientología",
+    "fr": "Scientologie",
+    "no": "scientologi",
+    "pt-BR": "cientologia",
+    "pt-PT": "cientologia",
+    "se": "Scientologi",
+    "zh-Hans": "山达基教"
+  },
+  "qcode": "medtop:20000682",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000682",
+  "aid": "iptc_20000682"
+}

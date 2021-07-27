@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Dienste und Produkte rund um die Hochzeit",
+    "dk": "Varer og tjenester til at gennemføre en vielse med tilhørende festligheder.",
+    "en-GB": "Services and products related to the wedding industry",
+    "en-US": "Services and products related to the wedding industry",
+    "pt-BR": "Serviços e produtos relacionados à indústria do casamento.",
+    "pt-PT": "Serviços e produtos relacionados com a indústria do casamento.",
+    "se": "Varor och tjänster för att genomföra en vigsel med tillhörande festligheter.",
+    "zh-Hans": "与婚庆行业相关的服务和产品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006017",
+    "https://www.wikidata.org/entity/Q25421835"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خدمات زواج",
+    "de": "Hochzeitsservice",
+    "dk": "bryllupsservice",
+    "en-GB": "wedding service",
+    "en-US": "wedding service",
+    "es": "Servicios de boda",
+    "fr": "Services matrimoniaux",
+    "no": "bryllupsservice",
+    "pt-BR": "serviços de casamento",
+    "pt-PT": "serviços de casamento",
+    "se": "Bröllopstjänster",
+    "zh-Hans": "婚礼服务"
+  },
+  "qcode": "medtop:20000293",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000293",
+  "aid": "iptc_20000293"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000717"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Studium von Himmelsobjekten durch direkte Beobachtung und theoretische Modelle",
+    "dk": "Undersøgelse af himmelobjekter gennem direkte observation og teoretiske modeller.",
+    "en-GB": "The study of celestial objects through direct observation and theoretical models",
+    "en-US": "The study of celestial objects through direct observation and theoretical models",
+    "es": "El estudio de objetos celestes a través de la observación directa y de modelos teóricos",
+    "fr": "Etude des objets célestes réalisée par une observation directe et des modèles théoriques",
+    "pt-BR": "Estudo de objetos celestes através da observação direta e de modelos teóricos.",
+    "pt-PT": "Estudo de objetos celestes através da observação direta e de modelos teóricos.",
+    "se": "Kunskapen om och det vetenskapliga studiet av himlakroppar och andra naturföreteelser utanför planeten jorden.",
+    "zh-Hans": "通过直接观测和理论模型研究天体的科学"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13004007",
+    "https://www.wikidata.org/entity/Q333"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "فلك",
+    "de": "Astronomie",
+    "dk": "astronomi",
+    "en-GB": "astronomy",
+    "en-US": "astronomy",
+    "es": "Astronomía",
+    "fr": "Astronomie",
+    "no": "astronomi",
+    "pt-BR": "astronomia",
+    "pt-PT": "astronomia",
+    "se": "Astronomi",
+    "zh-Hans": "天文学"
+  },
+  "qcode": "medtop:20000718",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000718",
+  "aid": "iptc_20000718"
+}

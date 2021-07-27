@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Tanzwettbewerb, wo Paare in Technik und Interpretation bewertet werden",
+    "dk": "Dansende par udfører forskellige typer dansestilarter og bedømmes af dommere.",
+    "en-GB": "Dancing competition where couples are judged on technique and interpretation.",
+    "en-US": "Dancing competition where couples are judged on technique and interpretation.",
+    "pt-BR": "Competição de dança em que os pares são avaliados pela técnica e pela interpretação.",
+    "pt-PT": "Competição de dança em que os pares são avaliados pela técnica e pela interpretação.",
+    "se": "Dansande par utför olika typer av dansstilar och bedöms av domare.",
+    "zh-Hans": "舞蹈比赛，根据一对选手的技巧和诠释来评判"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15020000",
+    "https://www.wikidata.org/entity/Q1415387"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "رقص رياضي",
+    "de": "Tanzen",
+    "dk": "sportsdans",
+    "en-GB": "competitive dancing",
+    "en-US": "competitive dancing",
+    "es": "Danza deportiva",
+    "fr": "Danse sportive",
+    "no": "dans",
+    "pt-BR": "dança rítmica",
+    "pt-PT": "dança rítmica",
+    "se": "Danssport",
+    "zh-Hans": "竞技舞蹈"
+  },
+  "qcode": "medtop:20000911",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000911",
+  "aid": "iptc_20000911"
+}

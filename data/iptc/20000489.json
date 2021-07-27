@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000487"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Krankheiten der weiblichen Sexual- und Fortpflanzungsorgane",
+    "dk": "Specialitet i kvindelige reproduktionsorganer.",
+    "en-GB": "Specialty of female reproductive organs",
+    "en-US": "Specialty of female reproductive organs",
+    "pt-BR": "Especialidade que se ocupa dos órgãos reprodutores femininos.",
+    "pt-PT": "Especialidade que se ocupa dos órgãos reprodutores femininos.",
+    "se": "Medicinskt kunskapsområde som omfattar sjukdomar i de kvinnliga könsorganen.",
+    "zh-Hans": "女性生殖器官的医学专科"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07014005",
+    "https://www.wikidata.org/entity/Q80015"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "توليد/طب نسائي",
+    "de": "Gynäkologie",
+    "dk": "obstetrik/gynækologi",
+    "en-GB": "obstetrics/gynaecology",
+    "en-US": "obstetrics/gynecology",
+    "es": "Obstetricia / ginecología",
+    "fr": "Gynécologie",
+    "no": "gynekologi",
+    "pt-BR": "obstetrícia/ginecologia",
+    "pt-PT": "obstetrícia / ginecologia",
+    "se": "Gynekologi",
+    "zh-Hans": "妇产科"
+  },
+  "qcode": "medtop:20000489",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000489",
+  "aid": "iptc_20000489"
+}

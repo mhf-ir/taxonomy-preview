@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000621"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Politik einer Regierung kulturelle Themen betreffend",
+    "dk": "Politik, der påvirker kulturlivet.",
+    "en-GB": "Government policies affecting cultural affairs",
+    "en-US": "Government policies affecting cultural affairs",
+    "pt-BR": "Políticas governamentais relativas a assuntos culturais.",
+    "pt-PT": "Políticas governamentais relativas a assuntos culturais.",
+    "se": "Politik som påverkar kulturlivet.",
+    "zh-Hans": "影响文化事务的政府政策"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1711347"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سياسة ثقافية",
+    "de": "Kulturpolitik",
+    "dk": "kulturpolitik",
+    "en-GB": "cultural policies",
+    "en-US": "cultural policies",
+    "es": "Política cultural",
+    "fr": "Politique culturelle",
+    "no": "kulturpolitikk",
+    "pt-BR": "política cultural",
+    "pt-PT": "política cultural",
+    "se": "Kulturpolitik",
+    "zh-Hans": "文化政策"
+  },
+  "qcode": "medtop:20001132",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001132",
+  "aid": "iptc_20001132"
+}

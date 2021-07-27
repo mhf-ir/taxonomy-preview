@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000405"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Institution der Lehre auf höherer Ebene, geeignet um Doktoren- und Professorentitel etc. zu verleihen.",
+    "dk": "Forskning og videregående uddannelse inden for de vigtigste traditionelle vidensområder.",
+    "en-GB": "Institutions of higher learning capable of providing doctorate degrees",
+    "en-US": "Institutions of higher learning capable of providing doctorate degrees",
+    "pt-BR": "Instituições de ensino superior capazes de atribuir grau de doutorado.",
+    "pt-PT": "Instituições de ensino superior capazes de atribuir grau de doutoramento.",
+    "se": "Inrättning för forskning och högre eftergymnasial utbildning inom de viktigaste traditionella kunskapsområdena.",
+    "zh-Hans": "能提供博士学位的高等学校"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05007000",
+    "https://www.wikidata.org/entity/Q3918"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "جامعة",
+    "de": "Universität",
+    "dk": "universitet",
+    "en-GB": "university",
+    "en-US": "university",
+    "es": "Universidad",
+    "fr": "Université",
+    "no": "universitet",
+    "pt-BR": "universidades",
+    "pt-PT": "universidades",
+    "se": "Universitet",
+    "zh-Hans": "大学"
+  },
+  "qcode": "medtop:20000407",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000407",
+  "aid": "iptc_20000407"
+}

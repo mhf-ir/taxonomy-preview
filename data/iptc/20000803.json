@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000802"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Misshandlung einer oder mehrerer Individuen durch andere, durch unmenschliche Behandlung, sexuelle und mentale Beleidigungen, Entzug von Sinneswahrnehmungen und körperlichen Bedürfnissen, körperliche Misshandlung wie Schläge mit eingeschlossen, oder andere Formen der Folter",
+    "dk": "At behandle en eller flere personer nedsættende ved at angribe dem i ord eller gennem handling.",
+    "en-GB": "Actions that intentionally harm another person or people, often on an ongoing basis, such as psychological or mental abuse, negligence, physical or sexual abuse and torture",
+    "en-US": "Actions that intentionally harm another person or people, often on an ongoing basis, such as psychological or mental abuse, negligence, physical or sexual abuse and torture",
+    "pt-BR": "Comportamento violento ou cruel contra um ou mais indivíduos, através de tratamento desumano, incluindo abuso sexual ou mental, privação de sentidos, de necessidades físicas, abusos físicos, incluindo espancamentos e outras formas de tortura.",
+    "pt-PT": "Comportamento violento ou cruel contra um ou mais indivíduos, através de tratamento desumano, incluindo abuso sexual ou mental, privação de sentidos, de necessidades físicas, abusos físicos, incluindo espancamentos e outras formas de tortura.",
+    "se": "Att behandla en eller flera personer nedsättande genom att angripa den personliga hedern i ord eller genom handling.",
+    "zh-Hans": "一人或多人受到他人的虐待，包括性虐待或精神虐待、剥夺感官能力，剥夺生理需要、包括殴打在内的身体虐待和其他形式的酷刑"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14022000",
+    "https://www.wikidata.org/entity/Q600571"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سلوك غير لائق",
+    "de": "Misshandlung",
+    "dk": "stødende eller krænkende opførsel",
+    "en-GB": "abusive behaviour",
+    "en-US": "abusive behavior",
+    "es": "Conducta abusiva",
+    "fr": "Harcèlement",
+    "no": "overgrep",
+    "pt-BR": "maus-tratos",
+    "pt-PT": "maus-tratos",
+    "se": "Kränkande beteende",
+    "zh-Hans": "虐待行为"
+  },
+  "qcode": "medtop:20000803",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000803",
+  "aid": "iptc_20000803"
+}

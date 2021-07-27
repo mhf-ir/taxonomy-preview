@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001056"
+  ],
+  "created": "2014-01-20T12:00:00+00:00",
+  "definition": {
+    "de": "Wettkampf der Skilanglauf und Skispringen kombiniert",
+    "dk": "En kombination, hvor skiløberne både konkurrerer i langrend og skihop.",
+    "en-GB": "Competition combining cross-country skiing and ski jumping",
+    "en-US": "Competition combining cross-country skiing and ski jumping",
+    "pt-BR": "Competição de dois dias que combina saltos de esqui e esqui de fundo.",
+    "pt-PT": "Competição de dois dias que combina saltos de esqui e esqui de fundo.",
+    "se": "En kombination där de tävlande dels åker längdskidor och dels tävlar i backhoppning.",
+    "zh-Hans": "组合了越野滑雪和跳台滑雪的比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15043013",
+    "https://www.wikidata.org/entity/Q201965"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Was retired but reinstated in August 2019"
+  },
+  "prefLabel": {
+    "ar": "تزلج مركب",
+    "de": "Nordische Kombination",
+    "dk": "nordisk kombineret",
+    "en-GB": "Nordic combined",
+    "en-US": "Nordic combined",
+    "es": "Combinada nórdica",
+    "fr": "Combiné nordique",
+    "no": "kombinert",
+    "pt-BR": "combinado nórdico",
+    "pt-PT": "combinado nórdico",
+    "se": "Nordisk kombination",
+    "zh-Hans": "北欧两项"
+  },
+  "qcode": "medtop:20001150",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001150",
+  "aid": "iptc_20001150"
+}

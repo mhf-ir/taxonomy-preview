@@ -1,0 +1,58 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2015-08-27T12:00:00+00:00",
+  "definition": {
+    "de": "Kampfkünste sind kodifizierte Systeme und Traditionen von Kampfpraktiken, die aus einer Vielzahl von Gründen praktiziert werden: Selbstverteidigung, Wettkampf, körperliche Gesundheit und Fitness, Unterhaltung sowie geistige, körperliche und spirituelle Entwicklung.",
+    "dk": "Kampsport praktiseres af forskellige årsager: selvforsvar, konkurrence, fysisk sundhed og fitness, underholdning, såvel som mental, fysisk og åndelig udvikling.",
+    "en-GB": "Martial arts are codified systems and traditions of combat practices, which are practiced for a variety of reasons: self-defence, competition, physical health and fitness, entertainment, as well as mental, physical, and spiritual development.",
+    "en-US": "Martial arts are codified systems and traditions of combat practices, which are practiced for a variety of reasons: self-defense, competition, physical health and fitness, entertainment, as well as mental, physical, and spiritual development.",
+    "pt-BR": "Sistemas codificados e tradições de práticas de combate,  praticadas por uma variedade de razões: autodefesa, competição, saúde e condicionamento físico, entretenimento, bem como desenvolvimento mental, físico e espiritual.",
+    "pt-PT": "Sistemas codificados e tradições de práticas de combate,  praticadas por uma variedade de razões: autodefesa, competição, saúde e condição física, entretenimento, bem como desenvolvimento mental, físico e espiritual.",
+    "se": "Samlingsnamn för sporter som innehåller eller förbereder för någon form av närstrid, kontrollerade i utövandet, med regler och förbud, krav på skyddsutrustning och ofta bedömning i form av ett poängsystem.",
+    "zh-Hans": "武术是一种成套路体系的传统技击项目。可用于防身、比赛、强体、健身、娱乐以及身心健康、悟性开发等"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q11417"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000969",
+    "medtop:20000977",
+    "medtop:20000983",
+    "medtop:20000984",
+    "medtop:20000985",
+    "medtop:20001009",
+    "medtop:20001084",
+    "medtop:20001102",
+    "medtop:20001231",
+    "medtop:20001308",
+    "medtop:20001310",
+    "medtop:20001311"
+  ],
+  "prefLabel": {
+    "ar": "الفنون القتالية",
+    "de": "Kampfsport",
+    "dk": "kampsport",
+    "en-GB": "martial arts",
+    "en-US": "martial arts",
+    "es": "Artes marciales",
+    "fr": "Arts martiaux",
+    "no": "kampkunst",
+    "pt-BR": "artes marciais",
+    "pt-PT": "artes marciais",
+    "se": "Kampsport",
+    "zh-Hans": "武术"
+  },
+  "qcode": "medtop:20001157",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001157",
+  "aid": "iptc_20001157"
+}

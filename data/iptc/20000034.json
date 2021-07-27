@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000031"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Form der bildenden Künste die sich auf die Verwendung von Bleistiften, Filzstiften, Federn und Tinte sowie Holzkohle konzentriert",
+    "dk": "En form for visuel kunst, hvor penne, farveblyanter og lignende bruges.",
+    "en-GB": "A form of visual arts using mediums such as pencils, markers, pen and ink, charcoal",
+    "en-US": "A form of visual arts using mediums such as pencils, markers, pen and ink, charcoal",
+    "es": "Forma de arte visual que utiliza medios tales como lápices, rotuladores, pluma y tinta o carbón",
+    "fr": "Forme d'art visuel réalisé avec des outils tels que crayons, marqueurs, plume et encre, fusain",
+    "pt-BR": "Forma de arte visual que usa materiais como lápis, marcadores, caneta e tinta, carvão.",
+    "pt-PT": "Forma de arte visual que usa materiais como lápis, marcadores, caneta e tinta, carvão.",
+    "se": "En form av visuell konst där pennor, kritor och liknande används.",
+    "zh-Hans": "一种使用铅笔、记号笔、钢笔和墨水、木炭等媒介创作的视觉艺术形式"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2921001"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رسم",
+    "de": "Zeichnen",
+    "dk": "tegning",
+    "en-GB": "drawing",
+    "en-US": "drawing",
+    "es": "Dibujo",
+    "fr": "Dessin",
+    "no": "tegnekunst",
+    "pt-BR": "desenho",
+    "pt-PT": "desenho",
+    "se": "Teckning",
+    "zh-Hans": "素描"
+  },
+  "qcode": "medtop:20000034",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000034",
+  "aid": "iptc_20000034"
+}

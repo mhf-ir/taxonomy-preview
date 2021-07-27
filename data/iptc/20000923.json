@@ -1,0 +1,55 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sport, der ein Pferd und einen Reiter umfasst",
+    "dk": "Samlingskoncept til konkurrencer med hest og rytter.",
+    "en-GB": "Horse-based sport disciplines governed by the International Federation for Equestrian Sports, such as dressage, eventing, show jumping and vaulting",
+    "en-US": "Horse-based sport disciplines governed by the International Federation for Equestrian Sports, such as dressage, eventing, show jumping and vaulting",
+    "pt-BR": "Disciplinas esportivas com cavalos regulamentadas pela Federação Equestre Internacional, como adestramento, concurso completo de equitação, salto de obstáculos e volteio.",
+    "pt-PT": "Disciplinas desportivas com cavalos regulamentadas pela Federação Equestre Internacional, como dressage, concurso completo de equitação, salto de obstáculos e volteio.",
+    "se": "Samlingsbegrepp för tävlingar med häst och ryttare.",
+    "zh-Hans": "国际马术联合会组织的马术比赛。包括盛装舞步马术，三日赛（综合全能马术比赛），表演跳跃和跨障"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15022000",
+    "https://www.wikidata.org/entity/Q902378"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/equestriantype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-08-05T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000924",
+    "medtop:20000925",
+    "medtop:20000926",
+    "medtop:20000927",
+    "medtop:20000928"
+  ],
+  "prefLabel": {
+    "ar": "فروسية",
+    "de": "Pferdesport",
+    "dk": "ridesport",
+    "en-GB": "equestrian",
+    "en-US": "equestrian",
+    "es": "Equitación",
+    "fr": "Équitation",
+    "no": "hestesport",
+    "pt-BR": "hipismo",
+    "pt-PT": "hipismo",
+    "se": "Ridsport",
+    "zh-Hans": "马术"
+  },
+  "qcode": "medtop:20000923",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000923",
+  "aid": "iptc_20000923"
+}

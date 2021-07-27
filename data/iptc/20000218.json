@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000217"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Tätigkeiten, die Technologien verwenden, um Probleme und Lösungen von lebenden Organismen zu erforschen",
+    "dk": "Den tekniske udnyttelse af celler og cellulære komponenter til at producere eller ændre produkter, der bruges i blandt andet sundhedspleje, fødevarestyring og landbrug.",
+    "en-GB": "The business of using engineering technology to study and solve problems of living organisms",
+    "en-US": "The business of using engineering technology to study and solve problems of living organisms",
+    "pt-BR": "Uso de engenharia tecnológica para estudar e resolver problemas dos organismos vivos.",
+    "pt-PT": "Uso de engenharia tecnológica para estudar e resolver problemas dos organismos vivos.",
+    "se": "Det tekniska utnyttjandet av celler och cellbeståndsdelar för att framställa eller modifiera produkter, som används inom samhällssektorer som hälsovård, livsmedelshantering och jordbruk.",
+    "zh-Hans": "利用工程技术研究和解决生物问题的业务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04002001",
+    "https://www.wikidata.org/entity/Q90298876"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تجارة تكنولوجيا حيوية",
+    "de": "Biotechnologie",
+    "dk": "bioteknologisk virksomhed",
+    "en-GB": "biotechnology business",
+    "en-US": "biotechnology business",
+    "es": "Biotecnología",
+    "fr": "Entreprise de biotechnologie",
+    "no": "bioteknologibransjen",
+    "pt-BR": "biotecnologia",
+    "pt-PT": "biotecnologia",
+    "se": "Bioteknik",
+    "zh-Hans": "生物技术"
+  },
+  "qcode": "medtop:20000218",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000218",
+  "aid": "iptc_20000218"
+}

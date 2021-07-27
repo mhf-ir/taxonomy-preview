@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000951"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Turner arbeiten mit spektakulären, langen Bändern eine vorbereitete Bewegungsfolge ab",
+    "dk": "Gymnasten udfører øvelser i kast og dans med vimpel .",
+    "en-GB": "Gymnasts work through a pre-arranged routine whilst manipulating a spectacular length of ribbon.",
+    "en-US": "Gymnasts work through a pre-arranged routine while manipulating a spectacular length of ribbon.",
+    "pt-BR": "Exercício de ginástica rítmica em que as ginastas realizam uma coreografia no solo usando uma fita.",
+    "pt-PT": "Exercício de ginástica rítmica em que as ginastas realizam uma coreografia no solo usando uma fita.",
+    "zh-Hans": "根据预先编排的动作舞动长度惊人的缎带"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028012",
+    "https://www.wikidata.org/entity/Q748773"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الشريط",
+    "de": "Bänder (Rhythmische Gymnastik)",
+    "dk": "vimpel",
+    "en-GB": "ribbon (rhythmic gymnastics)",
+    "en-US": "ribbon (rhythmic gymnastics)",
+    "es": "Cinta (gimnasia rítmica)",
+    "fr": "Ruban",
+    "no": "vimpel (rytmisk gymnastikk)",
+    "pt-BR": "fita",
+    "pt-PT": "fita",
+    "se": "Band",
+    "zh-Hans": "带操（艺术体操）"
+  },
+  "qcode": "medtop:20000952",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000952",
+  "aid": "iptc_20000952"
+}

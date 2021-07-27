@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/14000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Studium der Menschen, und hier ihr Leben und ihre Beziehungen",
+    "dk": "Undersøgelsen af mennesker, og hvor de bor, og hvordan de interagerer.",
+    "en-GB": "The study of human populations and their characteristics, for example statistics or trends around aging populations in a particular geographic region",
+    "en-US": "The study of human populations and their characteristics, for example statistics or trends around aging populations in a particular geographic region",
+    "pt-BR": "Estudo dos povos, do lugar onde habitam e do modo como interagem.",
+    "pt-PT": "Estudo dos povos, do lugar onde habitam e do modo como interagem.",
+    "se": "Vetenskapen om mänskliga befolkningars struktur och utveckling, särskilt kvantitativt.",
+    "zh-Hans": "研究人们和他们生活的地方、如何相互沟通"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14003000",
+    "https://www.wikidata.org/entity/Q37732"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000774"
+  ],
+  "prefLabel": {
+    "ar": "علم سكان",
+    "de": "Bevölkerungsentwicklung",
+    "dk": "demografi",
+    "en-GB": "demographics",
+    "en-US": "demographics",
+    "es": "Demografía",
+    "fr": "Démographie",
+    "no": "demografi",
+    "pt-BR": "demografia",
+    "pt-PT": "demografia",
+    "se": "Demografi",
+    "zh-Hans": "人口统计"
+  },
+  "qcode": "medtop:20000770",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000770",
+  "aid": "iptc_20000770"
+}

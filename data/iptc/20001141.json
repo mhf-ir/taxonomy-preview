@@ -1,0 +1,41 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000396"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Bemerkenswerte Kursbewegungen einer bestimmten Aktie.",
+    "dk": "Bemærkelsesværdige kursbevægelser på en bestemt aktie.",
+    "en-GB": "Remarkable price movements of a particular stock.",
+    "en-US": "Remarkable price movements of a particular stock.",
+    "pt-BR": "Movimentos de preço assinaláveis de determinada ação.",
+    "pt-PT": "Movimentos de preço assinaláveis de determinada ação.",
+    "se": "Anmärkningsvärd prisrörelse hos en specifik aktie.",
+    "zh-Hans": "特定股票价格的显著波动"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2012-10-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ارتفاع سعر أسهم",
+    "de": "Gefragte Aktie",
+    "dk": "populære aktier",
+    "en-GB": "hot stock",
+    "en-US": "hot stock",
+    "es": "Hot stock",
+    "fr": "Actions en hausse (hot stock)",
+    "no": "populære aksjer",
+    "pt-BR": "hot stock",
+    "pt-PT": "hot stock",
+    "se": "Aktierusning",
+    "zh-Hans": "热门股票"
+  },
+  "qcode": "medtop:20001141",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001141",
+  "aid": "iptc_20001141"
+}

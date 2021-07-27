@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000396"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Empfehlung eines Analysten für bestimmte Aktien. Kann das Kursziel des Analysten für die Aktie beinhalten.",
+    "dk": "En analytikers anbefalinger for bestemte aktier. Kan inkludere analytikerens prismål for aktien.",
+    "en-GB": "An analyst's recommendation for particular stocks. May include the analyst*s price target for the stock.",
+    "en-US": "An analyst's recommendation for particular stocks. May include the analyst*s price target for the stock.",
+    "pt-BR": "Recomendação de um analista para ações específicas. Pode incluir o preço-alvo do analista para uma ação.",
+    "pt-PT": "Recomendação de um analista para ações específicas. Pode incluir o preço-alvo do analista para uma ação.",
+    "se": "En analytikers rekommendation kring en specifik aktie.",
+    "zh-Hans": "分析师对特定股票的推荐。可能包括分析师对该股的目标价"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2012-10-04T12:00:00+00:00",
+  "narrower": [
+    "medtop:20001138",
+    "medtop:20001139",
+    "medtop:20001140"
+  ],
+  "prefLabel": {
+    "ar": "توصية في البورصة",
+    "de": "Aktienempfehlung",
+    "dk": "aktieanbefaling",
+    "en-GB": "stock recommendation",
+    "en-US": "stock recommendation",
+    "es": "Recomendación de acciones",
+    "fr": "Recommandation boursière",
+    "no": "aksjeanbefaling",
+    "pt-BR": "recomendação de ações",
+    "pt-PT": "recomendação de ações",
+    "se": "Aktieråd",
+    "zh-Hans": "股票建议"
+  },
+  "qcode": "medtop:20001137",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001137",
+  "aid": "iptc_20001137"
+}

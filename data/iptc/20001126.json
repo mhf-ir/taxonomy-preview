@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/15000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kommerzielle Einrichtungen für Sportereignisse",
+    "dk": "Kommerciel facilitet til sportsbegivenhed.",
+    "en-GB": "Gymnasiums, stadiums, arenas or facilities where sports events take place",
+    "en-US": "Commercial facility for sporting event",
+    "pt-BR": "Construção (edifício, estrutura ou recinto) devidamente preparada para receber eventos esportivos.",
+    "pt-PT": "Construção (edifício, estrutura ou recinto) devidamente preparada para receber eventos desportivos.",
+    "se": "Kommersiell fastighet för idrottsevenemang.",
+    "zh-Hans": "进行体育活动的体育馆、体育场、竞技场或其他场地设施"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1076486"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "منشأة رياضية",
+    "de": "Sportstätte",
+    "dk": "sportsarena",
+    "en-GB": "sport venue",
+    "en-US": "sport venue",
+    "es": "Infraestructuras deportivas",
+    "fr": "Site sportif",
+    "no": "idrettsanlegg",
+    "pt-BR": "instalação esportiva",
+    "pt-PT": "instalação desportiva",
+    "se": "Idrottsarenor",
+    "zh-Hans": "体育场馆"
+  },
+  "qcode": "medtop:20001126",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001126",
+  "aid": "iptc_20001126"
+}

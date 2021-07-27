@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000594"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Individuen, meist gewählt, die im öffentlichen Dienst stehen oder öffentliche Interessen vertreten.",
+    "dk": "Personer der arbejder inden for den offentlige administration.",
+    "en-GB": "Individuals, usually elected, who are in public service or commonly in the public eye.",
+    "en-US": "Individuals, usually elected, who are in public service or commonly in the public eye.",
+    "pt-BR": "Pessoas, geralmente eleitas para cargos políticos, que estão no serviço público ou frequentemente na opinião pública.",
+    "pt-PT": "Pessoas, geralmente eleitas para cargos políticos, que estão no serviço público ou frequentemente na opinião pública.",
+    "se": "Personer, oftast valda, som jobbar i offentlig verksamhet.",
+    "zh-Hans": "在公共服务领域或公众视野中的个人，通常由选举产生"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11006008",
+    "https://www.wikidata.org/entity/Q599151"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "شخصيات حكومية وموظفون رسميون",
+    "de": "Ministerialbeamte",
+    "dk": "offentlig embedsmand",
+    "en-GB": "public officials",
+    "en-US": "public officials",
+    "es": "Funcionarios públicos",
+    "fr": "Hauts fonctionnaires",
+    "no": "byråkrat",
+    "pt-BR": "detentores de cargos públicos",
+    "pt-PT": "detentores de cargos públicos",
+    "se": "Valda representanter",
+    "zh-Hans": "政府官员"
+  },
+  "qcode": "medtop:20000596",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000596",
+  "aid": "iptc_20000596"
+}

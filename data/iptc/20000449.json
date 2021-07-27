@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07002000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000448"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Epidemie ist ein sich in einer Gemeinschaft rasch verbreitender Zustand, eine Plage ist eine meist tödliche Krankheit mit epidemischer Verbreitung.",
+    "dk": "Fremkomsten af et stort antal infektionssygdomme i en bestemt befolkning.",
+    "en-GB": "An epidemic is a rapidly spreading condition in a community.",
+    "en-US": "An epidemic is a rapidly spreading condition in a community.",
+    "pt-BR": "Uma epidemia é uma condição que se espalha rapidamente numa comunidade.",
+    "pt-PT": "Uma epidemia é uma condição que se espalha rapidamente numa comunidade.",
+    "se": "Uppkomst av stort antal fall av smittsam sjukdom hos viss befolkning.",
+    "zh-Hans": "一种迅速蔓延可以传染众多人口的疾病"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q44512"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000450",
+    "medtop:20001218"
+  ],
+  "prefLabel": {
+    "ar": "وبائي",
+    "de": "Epidemie",
+    "dk": "epidemi",
+    "en-GB": "epidemic",
+    "en-US": "epidemic",
+    "es": "Epidemias",
+    "fr": "Épidémie",
+    "no": "epidemi",
+    "pt-BR": "epidemia",
+    "pt-PT": "epidemia",
+    "se": "Epidemier",
+    "zh-Hans": "流行病"
+  },
+  "qcode": "medtop:20000449",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000449",
+  "aid": "iptc_20000449"
+}

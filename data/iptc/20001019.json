@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001017"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rodeo Disziplin",
+    "dk": "Konkurrence, hvor rytteren rider sin hest på en bane på tid.",
+    "en-GB": "Rodeo discipline",
+    "en-US": "Rodeo discipline",
+    "pt-BR": "Disciplina de rodeio.",
+    "pt-PT": "Disciplina de rodeio.",
+    "se": "Tävling där ryttaren rider sin häst på en bana på tid.",
+    "zh-Hans": "一种牛仔竞技比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15074001",
+    "https://www.wikidata.org/entity/Q2529836"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سباق البراميل",
+    "de": "Barrel Racing",
+    "dk": "barrel racing",
+    "en-GB": "barrel racing",
+    "en-US": "barrel racing",
+    "es": "Barrel racing",
+    "fr": "Barrel racing (rodéo)",
+    "no": "tønneløp",
+    "pt-BR": "barrel racing",
+    "pt-PT": "barrel racing",
+    "se": "Barrel racing",
+    "zh-Hans": "绕桶赛"
+  },
+  "qcode": "medtop:20001019",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001019",
+  "aid": "iptc_20001019"
+}

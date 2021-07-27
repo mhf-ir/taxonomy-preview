@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000626"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Öffentliche oder private Aktionen, die zur Entwicklung einer Region durchgeführt werden.",
+    "dk": "Politikker, der sigter mod at sikre lige vilkår for udviklingen af samfundet i forskellige dele af et land.",
+    "en-GB": "Public or private actions carried out to develop a region.",
+    "en-US": "Public or private actions carried out to develop a region.",
+    "pt-BR": "Ações públicas ou privadas realizadas com o objetivo de  desenvolver uma região.",
+    "pt-PT": "Ações públicas ou privadas realizadas com o objetivo de  desenvolver uma região.",
+    "se": "Politik som syftar till att trygga likvärdiga förutsättningar för samhällsutvecklingen i olika delar av ett land.",
+    "zh-Hans": "为发展某一地区而采取的公共或私人行动"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q482379"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سياسة التنمية الاقليمية",
+    "de": "regionale Entwicklungspolitik",
+    "dk": "regional udviklingspolitik",
+    "en-GB": "regional development policy",
+    "en-US": "regional development policy",
+    "es": "Política de desarrollo regional",
+    "fr": "Politique d'aménagement du territoire",
+    "no": "distriktspolitikk",
+    "pt-BR": "política de desenvolvimento regional",
+    "pt-PT": "política de desenvolvimento regional",
+    "se": "Regionalpolitik",
+    "zh-Hans": "区域发展政策"
+  },
+  "qcode": "medtop:20001174",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001174",
+  "aid": "iptc_20001174"
+}

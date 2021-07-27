@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03010004"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000162"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: This concept was merged into concept medtop:20000145 as their semantics were not sufficiently different"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Notfall mit Wasserfahrzeugen",
+    "dk": "En hændelse, der involverer maritime fartøjer.",
+    "en-GB": "Incident involving marine vessels.",
+    "en-US": "Incident involving marine vessels.",
+    "pt-BR": "Acidente que envolve embarcações marítimas.",
+    "pt-PT": "Acidente que envolve embarcações marítimas.",
+    "zh-Hans": "涉及海运船舶的事件"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حادثة بحرية",
+    "de": "Schiffsnotfall",
+    "dk": "maritim hændelse",
+    "en-GB": "maritime incident",
+    "en-US": "maritime incident",
+    "es": "Incidentes marítimos",
+    "fr": "Incident maritime",
+    "no": "maritim ulykke",
+    "pt-BR": "acidente marítimo",
+    "pt-PT": "acidente marítimo",
+    "zh-Hans": "海上事件"
+  },
+  "qcode": "medtop:20000164",
+  "retired": "2015-08-27T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000164",
+  "aid": "iptc_20000164"
+}

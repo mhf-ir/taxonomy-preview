@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2014-11-07T12:00:00+00:00",
+  "definition": {
+    "de": "Wettbewerb zwischen zwei Spielern mit einem Schachbrett mit 16 Spielsteinen auf jeder Seite, die je nach ihrer Identität spezifische Bewegungsspielräume haben",
+    "dk": "Brætspil mellem to spillere, der har 16 brikker hver, når spillet starter. Skiftevis laver hver modstander et træk og bevæger sig efter forskellige mønstre. Den, der sætter modstanderens konge mat, så den ikke kan flytte sig, vinder.",
+    "en-GB": "Competition between two players using a chequered board with 16 pieces to each side, each with specific ranges of movement depending on their identity",
+    "en-US": "Competition between two players using a checkered board with 16 pieces to each side, each with specific ranges of movement depending on their identity",
+    "pt-BR": "Jogo de estratégia entre dois jogadores no qual se utiliza um tabuleiro dividido em casas alternadamente claras e escuras, com 16 peças para cada jogador, que se jogam com movimentos específicos que dependem da sua identidade.",
+    "pt-PT": "Jogo de estratégia entre dois jogadores no qual se utiliza um tabuleiro dividido em casas alternadamente claras e escuras, com 16 peças para cada jogador, que se jogam com movimentos específicos que dependem da sua identidade.",
+    "se": "Brädspel mellan två spelare som har 16 pjäser var när partiet startar. Olika pjäser får flytta enligt olika mönster. Den som ställer motståndarens kung så den inte kan flytta vinner. Om ingen spelare lyckas med det kan det sluta oavgjort, vilket kallas remi.",
+    "zh-Hans": "两个棋手使用由方格组成的棋盘进行比赛，棋盘每方各有16枚棋子，每个棋子的移动规则视其身份而定"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q718"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-11-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "شطرنج",
+    "de": "Schach",
+    "dk": "skak",
+    "en-GB": "chess",
+    "en-US": "chess",
+    "es": "Ajedrez",
+    "fr": "Échecs",
+    "no": "sjakk",
+    "pt-BR": "xadrez",
+    "pt-PT": "xadrez",
+    "se": "Schack",
+    "zh-Hans": "国际象棋"
+  },
+  "qcode": "medtop:20001154",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001154",
+  "aid": "iptc_20001154"
+}

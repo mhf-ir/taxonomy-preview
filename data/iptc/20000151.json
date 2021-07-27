@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000148"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zerstörerische Ereignisse verursacht durch die Natur, wie Hurrikan, Erdbeben, Flut etc.",
+    "dk": "Ødelæggende hændelse der er forudsaget af begivenheder i naturen, som orkan, jordskælv og oversvømmelse.",
+    "en-GB": "Destructive incidents caused by nature, such as earthquakes and floods",
+    "en-US": "Destructive incidents caused by nature, such as earthquakes and floods",
+    "pt-BR": "Incidentes destrutivos causados pela natureza - furacões, sismos, inundações etc.",
+    "pt-PT": "Incidentes destrutivos causados pela natureza - furacões, sismos, inundações, etc.",
+    "se": "Olika former av olyckor och skador som orsakas av händelser i naturen.",
+    "zh-Hans": "由自然本身造成的破坏性事件，例如飓风、地震、洪水等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03015001",
+    "https://www.wikidata.org/entity/Q8065"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000152",
+    "medtop:20000153",
+    "medtop:20000154",
+    "medtop:20000155",
+    "medtop:20000157",
+    "medtop:20000159"
+  ],
+  "prefLabel": {
+    "ar": "كوارث طبيعية",
+    "de": "Naturkatastrophe",
+    "dk": "naturkatastrofe",
+    "en-GB": "natural disaster",
+    "en-US": "natural disaster",
+    "es": "Desastre natural",
+    "fr": "Catastrophe naturelle",
+    "no": "naturkatastrofer",
+    "pt-BR": "desastre natural",
+    "pt-PT": "desastre natural",
+    "se": "Naturkatastrofer",
+    "zh-Hans": "自然灾害"
+  },
+  "qcode": "medtop:20000151",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000151",
+  "aid": "iptc_20000151"
+}

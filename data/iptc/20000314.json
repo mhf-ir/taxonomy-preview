@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000304"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Geschäft mit der Übertragung von Nachrichten, Unterhaltung und Informationen durch Satelliten oder Kabelfernsehen",
+    "dk": "Kommercielle virksomheder, der leverer tv ved hjælp af satellit eller kabel transmission.",
+    "en-GB": "The business of transmitting  news, entertainment and information via satellite or cable television services",
+    "en-US": "The business of transmitting news, entertainment and information via satellite or cable television services",
+    "pt-BR": "Transmissão de notícias, entretenimento e informação via satélite ou serviços de televisão a cabo.",
+    "pt-PT": "Transmissão de notícias, entretenimento e informação via satélite ou serviços de televisão por cabo.",
+    "se": "Den kommersiella verksamhet som tillhandahåller tv med hjälp av satellit- eller kabelöverföring.",
+    "zh-Hans": "通过卫星或有线电视服务传送新闻、娱乐和信息的业务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04010009",
+    "https://www.wikidata.org/entity/Q11058702"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خدمة اقمار اصطناعية وكابل",
+    "de": "Satellit und Kabelservice",
+    "dk": "satellit- og kabeltjeneste",
+    "en-GB": "satellite and cable service",
+    "en-US": "satellite and cable service",
+    "es": "Servicios satelitales y de cable",
+    "fr": "Diffuseurs par câble ou satellite",
+    "no": "Satellitt- og kabel-tv leverandør",
+    "pt-BR": "serviços de satélite e de cabo",
+    "pt-PT": "serviços de satélite e de cabo",
+    "se": "Satellit- och kabelleverantörer",
+    "zh-Hans": "卫星电视和有线电视服务"
+  },
+  "qcode": "medtop:20000314",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000314",
+  "aid": "iptc_20000314"
+}

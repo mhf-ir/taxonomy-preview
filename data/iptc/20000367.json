@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Finanzielle und andere Unterstützung durch eine Regierung, in der Regel Unterstützung einer anderen Regierung.",
+    "dk": "Overførsel af ressourcer til fattige lande på gunstige vilkår med det formål at bidrage til udvikling.",
+    "en-GB": "Supply of financial and other help by one government, usually to another",
+    "en-US": "Supply of financial and other help by one government, usually to another",
+    "pt-BR": "Fornecimento de ajuda financeira ou de outro tipo de um governo, geralmente a outro governo.",
+    "pt-PT": "Fornecimento de ajuda financeira ou de outro tipo de um governo, geralmente a outro governo.",
+    "se": "Överföring av resurser till fattiga länder på förmånliga villkor med syftet att bidra till utveckling.",
+    "zh-Hans": "由政府提供的财政和其他帮助，通常是向另一个政府"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008007",
+    "https://www.wikidata.org/entity/Q12002754"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مساعدات حكومية",
+    "de": "Subvention",
+    "dk": "udviklingsbistand",
+    "en-GB": "government aid",
+    "en-US": "government aid",
+    "es": "Ayuda estatal",
+    "fr": "Aide publique",
+    "no": "statsstøtte",
+    "pt-BR": "ajuda governamental",
+    "pt-PT": "ajuda governamental",
+    "se": "Statligt bistånd",
+    "zh-Hans": "政府援助"
+  },
+  "qcode": "medtop:20000367",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000367",
+  "aid": "iptc_20000367"
+}

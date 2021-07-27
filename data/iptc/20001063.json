@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zwei Spieler benutzen einen Queue und eine weiße Kugel, um die anderen farbigen Kugeln in der richtigen Reihenfolge einzulochen",
+    "dk": "En variant af billard med baller på et bord, der skal pottes i en bestemt rækkefølge.",
+    "en-GB": "A cue sport with balls on a table to be potted in a specific order",
+    "en-US": "A cue sport with balls on a table to be potted in a specific order",
+    "pt-BR": "Esporte de taco e bolas disputado sobre uma mesa e com uma ordem específica para as jogar.",
+    "pt-PT": "Desporto de taco e bolas disputado sobre uma mesa e com uma ordem específica para as jogar.",
+    "se": "En form av biljard, där målet är att vinna fler frames (upplägg av alla bollar på bordet) än motståndaren, vilket ger matchvinst.",
+    "zh-Hans": "用杆按固定顺序击台面上的球进袋"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15010006",
+    "https://www.wikidata.org/entity/Q11015"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/billiardtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سنوكر",
+    "de": "Snooker",
+    "dk": "snooker",
+    "en-GB": "snooker",
+    "en-US": "snooker",
+    "es": "Snooker",
+    "fr": "Snooker",
+    "no": "snooker",
+    "pt-BR": "sinuca",
+    "pt-PT": "snooker",
+    "se": "Snooker",
+    "zh-Hans": "斯诺克台球"
+  },
+  "qcode": "medtop:20001063",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001063",
+  "aid": "iptc_20001063"
+}

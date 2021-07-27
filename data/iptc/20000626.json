@@ -1,0 +1,59 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000621"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11016000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Regierungspolitik bezogen auf die inneren Angelegenheiten eines Landes.",
+    "dk": "Politik der vedrører et lands interne anliggender.",
+    "en-GB": "Government policies affecting internal affairs",
+    "en-US": "Government policies affecting internal affairs",
+    "pt-BR": "Políticas governamentais que afetam assuntos internos.",
+    "pt-PT": "Políticas governamentais que afetam assuntos internos.",
+    "se": "Politisk verksamhet som gäller de inre förhållandena i det egna landet.",
+    "zh-Hans": "影响内部事务的政府政策"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1573035"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000627",
+    "medtop:20000628",
+    "medtop:20000629",
+    "medtop:20000630",
+    "medtop:20000631",
+    "medtop:20000632",
+    "medtop:20000633",
+    "medtop:20001146",
+    "medtop:20001174",
+    "medtop:20001264"
+  ],
+  "prefLabel": {
+    "ar": "سياسة داخلية",
+    "de": "Innenpolitik",
+    "dk": "indenrigspolitik",
+    "en-GB": "interior policy",
+    "en-US": "interior policy",
+    "es": "Políticas internas",
+    "fr": "Politique Intérieure",
+    "no": "innenrikspolitikk",
+    "pt-BR": "política interna",
+    "pt-PT": "política interna",
+    "se": "Inrikespolitik",
+    "zh-Hans": "国内政策"
+  },
+  "qcode": "medtop:20000626",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000626",
+  "aid": "iptc_20000626"
+}

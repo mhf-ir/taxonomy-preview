@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Klassischer Wettkampf Mann gegen Stier",
+    "dk": "Konkurrence, hvor folk udfordrer tyre på en arena.",
+    "en-GB": "Classical contest pitting man against the bull",
+    "en-US": "Classical contest pitting man against the bull",
+    "pt-BR": "Espetáculo tradicional de Portugal, Espanha e França, também popular em alguns países da América do Sul, que consiste na lide de touros bravos.",
+    "pt-PT": "Espetáculo tradicional de Portugal, Espanha e França, também popular em alguns países da América do Sul, que consiste na lide de touros bravos.",
+    "se": "Tävlingar där människor utmanar tjurar i en arena.",
+    "zh-Hans": "经典的使人和公牛对抗的比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01003000",
+    "https://www.wikidata.org/entity/Q184940"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مصارعة الثيران",
+    "de": "Stierkampf",
+    "dk": "tyrefægtning",
+    "en-GB": "bullfighting",
+    "en-US": "bullfighting",
+    "es": "Toros",
+    "fr": "Tauromachie",
+    "no": "tyrefekting",
+    "pt-BR": "tourada",
+    "pt-PT": "tourada",
+    "se": "Tjurfäktning",
+    "zh-Hans": "斗牛"
+  },
+  "qcode": "medtop:20000875",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000875",
+  "aid": "iptc_20000875"
+}

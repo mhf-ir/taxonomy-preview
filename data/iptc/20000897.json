@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000892"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rennen zwischen zwei Radfahrern über zwei oder drei Runden, mit einem gestoppten Sprint über die letzten 200 m",
+    "dk": "To konkurrenter ad gangen kører to eller tre omgange på en cykelbane, og tiden tages de sidste 200 meter.",
+    "en-GB": "Track cycling race between two cyclists over two or three laps, with a timed sprint finish over the last 200m",
+    "en-US": "Track cycling race between two cyclists over two or three laps, with a timed sprint finish over the last 200m",
+    "pt-BR": "Corrida entre dois ciclistas em 2 ou 3 voltas à pista, com um *sprint* final cronometrado nos últimos 200m.",
+    "pt-PT": "Corrida entre dois ciclistas em 2 ou 3 voltas à pista, com um *sprint* final cronometrado nos últimos 200m.",
+    "se": "Två tävlande i taget kör två eller tre varv på en bana och tiden tas de sista 200 meterna.",
+    "zh-Hans": "赛道自行车比赛。2人骑行2或3圈。最后200米计冲刺时计时决定胜负"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15019004",
+    "https://www.wikidata.org/entity/Q352749"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic cycling + sports facet racetype"
+  },
+  "prefLabel": {
+    "ar": "سباق السرعة",
+    "de": "Radrennen Sprint",
+    "dk": "cykelsprint",
+    "en-GB": "cycle sprint race",
+    "en-US": "cycle sprint race",
+    "es": "Velocidad",
+    "fr": "Vitesse",
+    "no": "sykkelsprint",
+    "pt-BR": "velocidade individual",
+    "pt-PT": "velocidade individual",
+    "se": "Sprint",
+    "zh-Hans": "自行车争先赛"
+  },
+  "qcode": "medtop:20000897",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000897",
+  "aid": "iptc_20000897"
+}

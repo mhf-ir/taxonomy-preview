@@ -1,0 +1,28 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000587"
+  ],
+  "created": "2021-05-05T12:00:00+00:00",
+  "definition": {
+    "en-GB": "Feminism, restrictions on the rights of women and the fight for equality with men",
+    "en-US": "Feminism, restrictions on the rights of women and the fight for equality with men"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q223569"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "en-GB": "women's rights",
+    "en-US": "women's rights"
+  },
+  "qcode": "medtop:20001326",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001326",
+  "aid": "iptc_20001326"
+}

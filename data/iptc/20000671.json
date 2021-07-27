@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000659"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Weltweit größte christliche Kirche, die ihre Ursprünge auf Jesus Christus zurückführt.",
+    "dk": "Den største kristne kirke verden over, der sporer dens oprindelse til Jesus Kristus.",
+    "en-GB": "Biggest Christian church worldwide tracing its origins back to Jesus Christ",
+    "en-US": "Biggest Christian church worldwide tracing its origins back to Jesus Christ",
+    "pt-BR": "Maior igreja cristã do mundo, cuja origem remonta a Jesus Cristo.",
+    "pt-PT": "Maior igreja cristã do mundo, cuja origem remonta a Jesus Cristo.",
+    "se": "Den form av kristendom som utövas inom den stora, internationella kyrka som har sitt centrum i Rom och som är dominerande bland annat i Sydeuropa och Latinamerika.",
+    "zh-Hans": "世界上最大的基督教会，其起源可以追溯到耶稣基督"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12009010",
+    "https://www.wikidata.org/entity/Q9592"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000672"
+  ],
+  "prefLabel": {
+    "ar": "كاثوليك",
+    "de": "Römisch-Katholische Kirche",
+    "dk": "romersk-katolsk",
+    "en-GB": "Roman Catholic",
+    "en-US": "Roman Catholic",
+    "es": "Católico romano",
+    "fr": "Catholicisme romain",
+    "no": "Den romersk-katolske kirke",
+    "pt-BR": "católico romano",
+    "pt-PT": "católico romano",
+    "se": "Katolicism",
+    "zh-Hans": "罗马天主教"
+  },
+  "qcode": "medtop:20000671",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000671",
+  "aid": "iptc_20000671"
+}

@@ -1,0 +1,68 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kampfsport bei dem zwei Männer/Frauen kämpfen mit Fäusten, die geschützt sind durch Handschuhe, in einem Ring von 6 m je Seite. Der Kampf ist in der Regel geteilt in 12 Runden von jeweils 3 Minuten",
+    "dk": "To deltagere med handsker på hænderne forsøger at ramme hinanden med næverne.",
+    "en-GB": "Combat sport in which two men/women fight using only their fists covered by padded gloves in a square ring measuring 6m a side. The fight is usually split into 12 rounds of three minutes each.",
+    "en-US": "Combat sport in which two men/women fight using only their fists covered by padded gloves in a square ring measuring 6m a side. The fight is usually split into 12 rounds of three minutes each.",
+    "pt-BR": "Esporte de combate em que dois homens ou duas mulheres lutam usando apenas os punhos protegidos por luvas, num ringue quadrado de 6m de lado. A luta é geralmente dividida em 12 assaltos de 3 minutos cada.",
+    "pt-PT": "Desporto de combate em que dois homens ou duas mulheres lutam usando apenas os punhos protegidos por luvas, num ringue quadrado de 6m de lado. A luta é geralmente dividida em 12 assaltos de 3 minutos cada.",
+    "se": "Två tävlande med handskar på händerna försöker träffa varandra med knytnävarna. Tävlingen sker i en avgränsad fyrkant, normalt i ronder om tre minuter, och kan avgöras direkt vid knockout eller på poäng.",
+    "zh-Hans": "技击运动。2名男或女选手在一个边长6米的正方形拳击圈内，使用戴着拳套的拳头击打对方。比赛一般分12轮。每轮3分钟"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15014000",
+    "https://www.wikidata.org/entity/Q32112"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/weightclasstype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000857",
+    "medtop:20000858",
+    "medtop:20000859",
+    "medtop:20000860",
+    "medtop:20000861",
+    "medtop:20000862",
+    "medtop:20000863",
+    "medtop:20000864",
+    "medtop:20000865",
+    "medtop:20000866",
+    "medtop:20000867",
+    "medtop:20000868",
+    "medtop:20000869",
+    "medtop:20000870",
+    "medtop:20000871",
+    "medtop:20000872",
+    "medtop:20000873",
+    "medtop:20000874"
+  ],
+  "prefLabel": {
+    "ar": "ملاكمة",
+    "de": "Boxen",
+    "dk": "boksning",
+    "en-GB": "boxing",
+    "en-US": "boxing",
+    "es": "Boxeo",
+    "fr": "Boxe",
+    "no": "boksing",
+    "pt-BR": "boxe",
+    "pt-PT": "boxe",
+    "se": "Boxning",
+    "zh-Hans": "拳击"
+  },
+  "qcode": "medtop:20000856",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000856",
+  "aid": "iptc_20000856"
+}

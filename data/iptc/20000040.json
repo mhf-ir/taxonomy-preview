@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000038"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine spezielle Verhaltensweise oder ein Brauch, die sich für eine bestimmte Gruppe von Menschen über einen Zeitraum entwickelt haben",
+    "dk": "En bestemt måde at opføre sig på eller observationer, der har udviklet sig over tid af en gruppe mennesker.",
+    "en-GB": "A particular way of behaving, or observances that have developed over time by a group of people",
+    "en-US": "A particular way of behaving, or observances that have developed over time by a group of people",
+    "pt-BR": "Comportamentos ou atitudes que se desenvolveram ao longo do tempo entre um grupo de pessoas.",
+    "pt-PT": "Comportamentos ou atitudes que se desenvolveram ao longo do tempo entre um grupo de pessoas.",
+    "se": "Beteende hos en grupp människor som utvecklats över tid.",
+    "zh-Hans": "一群人随着时间的推移而发展起来的一种行为方式或礼仪"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01019000",
+    "https://www.wikidata.org/entity/Q82821"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عادات وتقاليد",
+    "de": "Brauchtum",
+    "dk": "skik og tradition",
+    "en-GB": "customs and tradition",
+    "en-US": "customs and tradition",
+    "es": "Costumbres y tradiciones",
+    "fr": "Coutumes et traditions",
+    "no": "skikk og tradisjon",
+    "pt-BR": "costumes e tradições",
+    "pt-PT": "costumes e tradições",
+    "se": "Seder och traditioner",
+    "zh-Hans": "习俗和传统"
+  },
+  "qcode": "medtop:20000040",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000040",
+  "aid": "iptc_20000040"
+}

@@ -1,0 +1,63 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/01000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alle Formen von Kunst und Unterhaltung",
+    "dk": "Alle former for kunst og underholdning.",
+    "en-GB": "All forms of arts and entertainment",
+    "en-US": "All forms of arts and entertainment",
+    "es": "Todas las formas de arte y de entretenimiento",
+    "fr": "Toutes les formes d'arts et de divertissement",
+    "pt-BR": "Todas as formas de arte e entretenimento.",
+    "pt-PT": "Todas as formas de arte e entretenimento.",
+    "se": "Alla former av konst och underhållning som inte hör till nöje.",
+    "zh-Hans": "各种形式的艺术和娱乐"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2018526"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000003",
+    "medtop:20000004",
+    "medtop:20000005",
+    "medtop:20000007",
+    "medtop:20000011",
+    "medtop:20000013",
+    "medtop:20000018",
+    "medtop:20000029",
+    "medtop:20000031",
+    "medtop:20001135",
+    "medtop:20001179",
+    "medtop:20001181"
+  ],
+  "prefLabel": {
+    "ar": "فنون وتسلية",
+    "de": "Kunst und Unterhaltung",
+    "dk": "kunst og underholdning",
+    "en-GB": "arts and entertainment",
+    "en-US": "arts and entertainment",
+    "es": "Arte y entretenimiento",
+    "fr": "Arts et divertissement",
+    "no": "kunst og underholdning",
+    "pt-BR": "arte e entretenimento",
+    "pt-PT": "arte e entretenimento",
+    "se": "Konst och underhållning",
+    "zh-Hans": "艺术与娱乐"
+  },
+  "qcode": "medtop:20000002",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000002",
+  "aid": "iptc_20000002"
+}

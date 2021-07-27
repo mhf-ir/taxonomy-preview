@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000802"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Männliche oder weibliche Sexualität als Ware, und diejenigen, die davon profitieren",
+    "dk": "Dem, der sælger sex og dem, der udnytter dem.",
+    "en-GB": "The business of engaging in sexual activity in exchange for payment",
+    "en-US": "The business of engaging in sexual activity in exchange for payment",
+    "pt-BR": "Venda de sexo, masculino ou feminino, e aqueles que beneficiam dessa venda.",
+    "pt-PT": "Venda de sexo, masculino ou feminino, e aqueles que beneficiam dessa venda.",
+    "se": "Utbjudande av sexuella tjänster mot betalning och de som tjänar på det.",
+    "zh-Hans": "性交易，无论是男性还是女性，以及那些从中获利的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14013000",
+    "https://www.wikidata.org/entity/Q36633"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "بغاء",
+    "de": "Prostitution",
+    "dk": "prostitution",
+    "en-GB": "prostitution",
+    "en-US": "prostitution",
+    "es": "Prostitución",
+    "fr": "Prostitution",
+    "no": "prostitusjon",
+    "pt-BR": "prostituição",
+    "pt-PT": "prostituição",
+    "se": "Prostitution",
+    "zh-Hans": "卖淫"
+  },
+  "qcode": "medtop:20000806",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000806",
+  "aid": "iptc_20000806"
+}

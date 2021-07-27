@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000011"
+  ],
+  "created": "2019-07-30T12:00:00+00:00",
+  "definition": {
+    "de": "Produkte, die zur Verbesserung des Aussehens auf den Körper aufgetragen werden, wie Lippenstift, Eyeliner, Grundierung und Nagellack, sowie die Trends bei der Anwendung dieser Produkte",
+    "dk": "Udviklingen inden for produkter, som påføres dele kroppen for at forandre eller forstærke deres udtryk. Kan være læbestift, neglelak eller mascara.",
+    "en-GB": "Products applied to the body to enhance appearance, such as lipstick, eyeliner, foundation and nail polish, and the trends surrounding the application of these products",
+    "en-US": "Products applied to the body to enhance appearance, such as lipstick, eyeliner, foundation and nail polish, and the trends surrounding the application of these products",
+    "pt-BR": "Produtos aplicados no corpo para melhorar a aparência, como batom, delineador, base e esmalte, bem como as tendências em torno da aplicação desses produtos.",
+    "pt-PT": "Produtos aplicados no corpo para melhorar a aparência, como batom, delineador, base e verniz, bem como as tendências em torno da aplicação desses produtos.",
+    "se": "Produkter som används på kroppen för att förbättra utseendet som exempelvis läppstick och mascara.",
+    "zh-Hans": "用于改善身体外观的产品，如口红、眼线笔、粉底和指甲油，以及这些产品的应用趋势"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q131207"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-30T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مستحضرات تجميل",
+    "de": "Kosmetik",
+    "dk": "kosmetik",
+    "en-GB": "cosmetics",
+    "en-US": "cosmetics",
+    "es": "Cosméticos",
+    "fr": "Produits cosmétiques",
+    "no": "kosmetikk",
+    "pt-BR": "cosmética",
+    "pt-PT": "cosmética",
+    "se": "Kosmetika",
+    "zh-Hans": "化妆品"
+  },
+  "qcode": "medtop:20001248",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001248",
+  "aid": "iptc_20001248"
+}

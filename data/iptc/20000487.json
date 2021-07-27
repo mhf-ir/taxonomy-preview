@@ -1,0 +1,61 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000485"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verschiedene medizinische Spezialgebiete.",
+    "dk": "De forskellige medicinske specialiserede områder.",
+    "en-GB": "The different medical specialist areas.",
+    "en-US": "The different medical specialist areas.",
+    "pt-BR": "Diferentes áreas de especialidade médica.",
+    "pt-PT": "Diferentes áreas de especialidade médica.",
+    "se": "De olika medicinska specialiseringsområdena.",
+    "zh-Hans": "不同的医学专科领域"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07014000",
+    "https://www.wikidata.org/entity/Q930752"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000488",
+    "medtop:20000489",
+    "medtop:20000490",
+    "medtop:20000491",
+    "medtop:20000712",
+    "medtop:20000713",
+    "medtop:20000714",
+    "medtop:20001220",
+    "medtop:20001222",
+    "medtop:20001223",
+    "medtop:20001224",
+    "medtop:20001225",
+    "medtop:20001226",
+    "medtop:20001227"
+  ],
+  "prefLabel": {
+    "ar": "تخصص طبي",
+    "de": "Medizinisches Spezialgebiet",
+    "dk": "medicinsk specialisering",
+    "en-GB": "medical specialisation",
+    "en-US": "medical specialization",
+    "es": "Especializaciones médicas",
+    "fr": "Spécialisations médicales",
+    "no": "medisinsk spesialisering",
+    "pt-BR": "especialização médica",
+    "pt-PT": "especialização médica",
+    "se": "Medicinsk specialisering",
+    "zh-Hans": "医学专科"
+  },
+  "qcode": "medtop:20000487",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000487",
+  "aid": "iptc_20000487"
+}

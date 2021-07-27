@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000420"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Erhaltung elektronischer und anderer Energiequellen.",
+    "dk": "Reduktion af energiforbruget ved at afstå fra tjenester og værktøjer, f.eks. Ved at sænke indetemperaturen.",
+    "en-GB": "Conservation of electrical, and other power  sources",
+    "en-US": "Conservation of electrical, and other power sources",
+    "pt-BR": "Conservação da eletricidade e de outras fontes de energia.",
+    "pt-PT": "Conservação da eletricidade e de outras fontes de energia.",
+    "se": "Minskning av energianvändningen genom att avstå från tjänster och nyttigheter, t ex genom sänkning av inomhustemperaturen.",
+    "zh-Hans": "节约电力和其他能源"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06003000",
+    "https://www.wikidata.org/entity/Q380170"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "توفير الطاقة",
+    "de": "Energiesparen",
+    "dk": "energibesparelse",
+    "en-GB": "energy saving",
+    "en-US": "energy saving",
+    "es": "Ahorro de energía",
+    "fr": "Économies d'énergie",
+    "no": "energiøkonomisering",
+    "pt-BR": "poupança de energia",
+    "pt-PT": "poupança de energia",
+    "se": "Energibesparing",
+    "zh-Hans": "节能"
+  },
+  "qcode": "medtop:20000421",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000421",
+  "aid": "iptc_20000421"
+}

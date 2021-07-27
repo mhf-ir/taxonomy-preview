@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/12000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jede Einrichtung, wo eine Gruppe ihre religiösen Rituale zelebrieren kann, egal ob es eine Moschee, eine Kirche, ein Haus oder ein Zelt ist",
+    "dk": "Enhver facilitet, hvor en gruppe kan udføre sine religiøse ritualer, hvad enten det er en moske, en kirke, et hus eller et telt.",
+    "en-GB": "Any facility where a group can carry out its religious rites whether it is a mosque, a church, a house or a tent",
+    "en-US": "Any facility where a group can carry out its religious rites whether it is a mosque, a church, a house or a tent",
+    "pt-BR": "Quaisquer instalações onde um grupo possa realizar ritos religiosos, quer seja uma mesquita, uma igreja, uma casa ou uma tenda.",
+    "pt-PT": "Quaisquer instalações onde um grupo possa realizar ritos religiosos, quer seja uma mesquita, uma igreja, uma casa ou uma tenda.",
+    "se": "En anläggning där en grupp kan utföra religiösa riter, t ex en moské, en kyrka, ett hus eller ett tält.",
+    "zh-Hans": "一个团体可以进行其宗教仪式的任何设施，无论是清真寺、教堂、房子还是帐篷"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q24398318"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000698",
+    "medtop:20000699",
+    "medtop:20000700",
+    "medtop:20000701"
+  ],
+  "prefLabel": {
+    "ar": "منشآت دينية",
+    "de": "Religiöse Bauwerke",
+    "dk": "religiøs facilitet",
+    "en-GB": "religious facilities",
+    "en-US": "religious facilities",
+    "es": "Lugares de culto",
+    "fr": "Établissement religieux",
+    "no": "religiøst bygg",
+    "pt-BR": "instalações religiosas",
+    "pt-PT": "instalações religiosas",
+    "se": "Religiösa byggnader",
+    "zh-Hans": "宗教设施"
+  },
+  "qcode": "medtop:20000697",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000697",
+  "aid": "iptc_20000697"
+}

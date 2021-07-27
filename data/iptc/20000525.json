@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000524"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schriftliche Verträge, die sich auf eine bestimmte Gruppe von Beschäftigten beziehen.",
+    "dk": "Aftale mellem fagforeningsorganisation og arbejdsgiver om ansættelsesvilkår, herunder uenighed om dens fortolkning.",
+    "en-GB": "Negotiated guidelines for relationships between groups of employees and employers, including issues such as working hours, wages, health care, pensions and other benefits",
+    "en-US": "Negotiated guidelines for relationships between groups of employees and employers, including issues such as working hours, wages, health care, pensions and other benefits",
+    "pt-BR": "Contratos geralmente escritos que cobrem uma classe específica de trabalhadores.",
+    "pt-PT": "Contratos geralmente escritos que cobrem uma classe específica de trabalhadores.",
+    "se": "Överenskommelse mellan facklig organisation och arbetsgivare om anställningsvillkor.",
+    "zh-Hans": "通常是涉及特定类别工人的书面合同"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09002000",
+    "https://www.wikidata.org/entity/Q163887"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000526",
+    "medtop:20000527",
+    "medtop:20000528"
+  ],
+  "prefLabel": {
+    "ar": "عقد جماعي",
+    "de": "Tarifvertrag",
+    "dk": "kollektiv aftale",
+    "en-GB": "collective agreements",
+    "en-US": "collective agreements",
+    "es": "Contratos colectivos",
+    "fr": "Convention collective",
+    "no": "tariffavtale",
+    "pt-BR": "contratos coletivos",
+    "pt-PT": "contrato coletivo",
+    "se": "Kollektivavtal",
+    "zh-Hans": "集体合同"
+  },
+  "qcode": "medtop:20000525",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000525",
+  "aid": "iptc_20000525"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000849"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Manchmal als 'Softbaseball' bezeichnet, das Spiel wird mit einem gummierten Ball unterschiedlicher Härte, abhängig vom Alter und der Spielstärke der Spieler durchgeführt",
+    "dk": "Nogle gange kaldet ''blød baseball'', spillet spilles med en gummibaseball i forskellige grader af hårdhed, afhængig af spillernes alder og niveau.",
+    "en-GB": "Sometimes called ''soft baseball,'' the game is played with a rubber baseball of varying degrees of hardness depending upon the age and level of the players.",
+    "en-US": "Sometimes called ''soft baseball,'' the game is played with a rubber baseball of varying degrees of hardness depending upon the age and level of the players.",
+    "pt-BR": "Também denominado *soft baseball*, é um jogo de beisebol disputado com uma bola de borracha de dureza variável, dependendo das idades ou níveis dos jogadores.",
+    "pt-PT": "Também denominado *soft baseball*, é um jogo de beisebol disputado com uma bola de borracha de dureza variável, dependendo das idades e níveis dos jogadores.",
+    "se": "Som baseboll fast med en boll gjord av gummi.",
+    "zh-Hans": "有时也叫软式棒球。比赛是使用不同硬度的橡胶棒球，取决于球员的年龄和水平"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15007004",
+    "https://www.wikidata.org/entity/Q171038"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بيسبول بكرة مطاطية",
+    "de": "Rubberball",
+    "dk": "rubberball baseball (nanshiki)",
+    "en-GB": "rubberball baseball",
+    "en-US": "rubberball baseball",
+    "es": "Béisbol con pelota blanda",
+    "fr": "Rubberball baseball",
+    "no": "softball",
+    "pt-BR": "beisebol de bola de borracha",
+    "pt-PT": "beisebol de bola de borracha",
+    "se": "Baseboll med gummiboll",
+    "zh-Hans": "橡胶棒球"
+  },
+  "qcode": "medtop:20000850",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000850",
+  "aid": "iptc_20000850"
+}

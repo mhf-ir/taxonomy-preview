@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Körperverletzung von Personen, Prügeleien, Streit und bedrohliches Verhalten",
+    "dk": "Alle former for fysisk vold mod en eller flere personer.",
+    "en-GB": "Physical crime against a person, including battery, brawls and threat of bodily harm",
+    "en-US": "Physical crime against a person, including battery, brawls and threat of bodily harm",
+    "pt-BR": "Agressão física, briga, rixa e comportamento ameaçador.",
+    "pt-PT": "Agressão física, briga, rixa e comportamento ameaçador.",
+    "se": "Alla former av fysiskt våld mot en eller flera personer.",
+    "zh-Hans": "对人身的侵犯，包括殴打、斗殴和人身伤害威胁"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02001006",
+    "https://www.wikidata.org/entity/Q365680"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000085"
+  ],
+  "prefLabel": {
+    "ar": "اعتداء",
+    "de": "Gewalt",
+    "dk": "overfald",
+    "en-GB": "assault",
+    "en-US": "assault",
+    "es": "Agresión",
+    "fr": "Agression",
+    "no": "vold",
+    "pt-BR": "assalto",
+    "pt-PT": "assalto",
+    "se": "Överfall",
+    "zh-Hans": "攻击"
+  },
+  "qcode": "medtop:20000084",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000084",
+  "aid": "iptc_20000084"
+}

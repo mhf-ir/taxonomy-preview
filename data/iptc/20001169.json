@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000322"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Eine elektronische Zigarette ist ein batteriebetriebenes Gerät mit einem Zerstäuber und einer Patrone, die entweder eine nikotinhaltige oder eine nicht-nikotinhaltige flüssige Lösung enthält.",
+    "dk": "Genopladelig patron fyldt med væske, som fordamper, når den trækkes ind i lungerne, beregnet til at blive erstatning for tobaksrygning.",
+    "en-GB": "An electronic cigarette is a battery-operated device with an atomizer and a cartridge containing either a nicotine or a non-nicotine liquid solution.",
+    "en-US": "An electronic cigarette is a battery-operated device with an atomizer and a cartridge containing either a nicotine or a non-nicotine liquid solution.",
+    "pt-BR": "Dispositivo eletrônico dotado de bateria, atomizador e um cartucho com uma solução líquida com ou sem nicotina.",
+    "pt-PT": "Dispositivo eletrónico dotado de bateria, atomizador e um cartucho com uma solução líquida com ou sem nicotina.",
+    "se": "Laddningsbar patron som fylls med vätska som förångas när den dras in i lungorna, avsedd att användas som substitut för tobaksrökning.",
+    "zh-Hans": "电子烟是一种由电池驱动的装置，带有雾化器和含有尼古丁或非尼古丁液体溶液的烟筒。"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q189511"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "السيجارة الالكترونية",
+    "de": "E-Zigarette",
+    "dk": "e-cigaret",
+    "en-GB": "e-cigarette",
+    "en-US": "e-cigarette",
+    "es": "Cigarrillo electrónico",
+    "fr": "E-cigarette",
+    "no": "e-sigarett",
+    "pt-BR": "cigarro eletrônico",
+    "pt-PT": "cigarro eletrónico",
+    "se": "E-cigaretter",
+    "zh-Hans": "电子烟"
+  },
+  "qcode": "medtop:20001169",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001169",
+  "aid": "iptc_20001169"
+}

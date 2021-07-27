@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000991"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rennen im Stadion über schmutzige Straßen",
+    "dk": "Motorløb med biler, der ligner mere almindelige biler. Konkurrencen finder sted på grusbaner med niveauforskelle.",
+    "en-GB": "Stage races over dirt tracks",
+    "en-US": "Stage races over dirt tracks",
+    "pt-BR": "Corridas de rali por etapas em circuitos de terra.",
+    "pt-PT": "Corridas de rali por etapas em circuitos de terra.",
+    "se": "Motortävlingar med bilar som ser mer ut som vanliga bilar. Tävlingen sker på grusbanor med nivåskillnader.",
+    "zh-Hans": "分段土路赛车"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15040003",
+    "https://www.wikidata.org/entity/Q599204"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic motor car racing + sports facet motorcarracingtype"
+  },
+  "prefLabel": {
+    "ar": "سيارات مسافات طويلة",
+    "de": "Crossrallye",
+    "dk": "rallycross",
+    "en-GB": "motor car rallycross",
+    "en-US": "motor car rallycross",
+    "es": "Rallycross",
+    "fr": "Rallycross",
+    "no": "rallycross",
+    "pt-BR": "rallycross",
+    "pt-PT": "ralicrosse",
+    "se": "Rallycross",
+    "zh-Hans": "汽车越野拉力赛"
+  },
+  "qcode": "medtop:20000996",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000996",
+  "aid": "iptc_20000996"
+}

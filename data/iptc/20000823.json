@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "changeNote": {
+    "en-GB": "2016-04-06: definition rephrased. "
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mannschaftsballspiel, bei dem zwei Teams gegeneinander spielen, die Gebiete angreifen und verteidigen müssen. Jeder Angriff folgt auf die Verteidigung der anderen, mit dem Versuch einen Ball in das Feld und in die Zone zu bringen, einen Touchdown zu erzielen und damit Punkte zu machen",
+    "dk": "Kampe mellem to hold af elleve mænd på en 120 yards bane, hvor holdet får point ved at flytte den ovale bold ind i modstanderens målzone.",
+    "en-GB": "Team ball game that opposes two teams of 11 that have offence and defence sections. Each offence attempts to move an oval ball down the 120 yards long field. Points are scored by advancing the ball into the opposing team*s end zone.",
+    "en-US": "Team ball game that opposes two teams of 11 that have offense and defense sections. Each offense attempts to move an oval ball down the 120 yards long field. Points are scored by advancing the ball into the opposing team*s end zone.",
+    "pt-BR": "Jogo de bola que opõe duas equipes, compostas por uma secção de ataque e outra de defesa. Cada ataque avança em direção à defesa contrária, movendo uma bola ovalada pelo campo até à *end zone* para marcar *touchdown* e ganhar pontos.",
+    "pt-PT": "Jogo de bola que opõe duas equipas, compostas por uma secção de ataque e outra de defesa. Cada ataque avança em direção à defesa contrária, movendo uma bola ovalada pelo campo até à *end zone* para marcar *touchdown* e ganhar pontos.",
+    "se": "Matcher mellan elvamannalag på en 120 yards lång bana, där lagen får poäng genom att förflytta den ovala bollen in i motståndarnas målzon.",
+    "zh-Hans": "一种对抗性的集体球类运动，对抗两队各有11人，每回合一方进攻一方防守。 每次进攻方都试图把一个椭圆形的球从本方端沿120码长的场地向对方端推进。 通过将球推进到对方球队的底线来得分"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15003000",
+    "https://www.wikidata.org/entity/Q41323"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كرة قدم اميركية",
+    "de": "American football",
+    "dk": "amerikansk fodbold",
+    "en-GB": "American football",
+    "en-US": "American football",
+    "es": "Fútbol americano",
+    "fr": "Football américain",
+    "no": "amerikansk fotball",
+    "pt-BR": "futebol americano",
+    "pt-PT": "futebol americano",
+    "se": "Amerikansk fotboll",
+    "zh-Hans": "美式橄榄球"
+  },
+  "qcode": "medtop:20000823",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000823",
+  "aid": "iptc_20000823"
+}

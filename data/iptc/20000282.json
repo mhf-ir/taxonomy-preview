@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "changeNote": {
+    "en-GB": "2016-04-04: definition slightly modified."
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rechtsanwälte und andere, die Firmen und Einzelnen dabei helfen mit staatlichen, bundesstaatlichen und örtlichen Gesetzen umzugehen.",
+    "dk": "Tjenester, der hjælper enkeltpersoner eller virksomheder med at fortolke og forholde sig til nationale, regionale eller lokale love.",
+    "en-GB": "Lawyers, notaries and others who help companies and individuals deal with state, federal and local laws",
+    "en-US": "Lawyers, notaries and others who help companies and individuals deal with state, federal and local laws",
+    "pt-BR": "Advogados, notários e outros que ajudam empresas e indivíduos a lidar com leis.",
+    "pt-PT": "Advogados, notários e outros que ajudam empresas e indivíduos a lidar com leis.",
+    "se": "Tjänster som hjälper individer eller företag att tolka och förhålla sig till nationella, regionala eller lokala lagar.",
+    "zh-Hans": "律师、公证人和其他人帮助公司和个人处理州、联邦和地方法律事务"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006007",
+    "https://www.wikidata.org/entity/Q1494322"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "خدمات قانونية",
+    "de": "Rechtsberatung",
+    "dk": "juridisk tjeneste",
+    "en-GB": "legal service",
+    "en-US": "legal service",
+    "es": "Servicios legales",
+    "fr": "Service juridique",
+    "no": "juridisk bistand",
+    "pt-BR": "serviços jurídicos",
+    "pt-PT": "serviços jurídicos",
+    "se": "Juridiska tjänster",
+    "zh-Hans": "法律服务"
+  },
+  "qcode": "medtop:20000282",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000282",
+  "aid": "iptc_20000282"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Treffen der politischen Partei zur Nominierung eines Kandidaten, zur Wahl eines Parteivorsitzenden oder zur Festlegung der Politik",
+    "dk": "Et års- eller landsmøde, hvor et politisk parti fastlægger sin politik, foretager valg til tillidsposter og udnævner kandidater.",
+    "en-GB": "Meeting of political party to nominate a candidate, choose a party leader or set policy",
+    "en-US": "Meeting of political party to nominate a candidate, choose a party leader or set policy",
+    "pt-BR": "Reunião de um partido político para nomear um candidato, escolher um líder ou definir políticas.",
+    "pt-PT": "Reunião de um partido político para nomear um candidato, escolher um líder ou definir políticas.",
+    "se": "Möte inom ett politiskt parti för att exempelvis nominera kandidater, välja ledare och bestämma om inställning till olika frågor.",
+    "zh-Hans": "政党进行候选人提名、选举政党领袖或制定政策的会议"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q16487126"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مؤتمر سياسي",
+    "de": "politischer Konvent",
+    "dk": "politisk kongres eller årsmøde",
+    "en-GB": "political convention",
+    "en-US": "political convention",
+    "es": "Congreso partidario",
+    "fr": "Congrès politique",
+    "no": "landsmøte",
+    "pt-BR": "convenção partidária",
+    "pt-PT": "convenção partidária",
+    "se": "Partikongress",
+    "zh-Hans": "政治会议"
+  },
+  "qcode": "medtop:20001259",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001259",
+  "aid": "iptc_20001259"
+}

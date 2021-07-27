@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000411"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Note oder ein Maß für die Leistung eines Studenten in einem Test, einer Aufgabe oder in einem bestimmten Kurs",
+    "dk": "Et mærke eller måling af den studerendes præstation på en prøve, en opgave eller i et bestemt kursus.",
+    "en-GB": "A mark or measurement of a student's achievement on a test, assignment or in a particular course",
+    "en-US": "A mark or measurement of a student's achievement on a test, assignment or in a particular course",
+    "pt-BR": "Nota ou avaliação do desempenho de um aluno em um teste, tarefa ou determinado curso.",
+    "pt-PT": "Nota ou avaliação do desempenho de um aluno num teste, tarefa ou determinado curso.",
+    "se": "Värdera elevers kunskaper i olika ämnen efter det system och mätmetoder som gäller. Vanligt förekommande är bokstäver eller siffror.",
+    "zh-Hans": "学生在考试，作业或特定课程中取得的成绩的标记或衡量标准"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q18185"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تصنيف مدرسي",
+    "de": "pädagogische Einstufung",
+    "dk": "karaktergivning",
+    "en-GB": "educational grading",
+    "en-US": "educational grading",
+    "es": "Calificación educativa",
+    "fr": "Classement scolaire",
+    "no": "karaktersystem",
+    "pt-BR": "classificação",
+    "pt-PT": "classificação",
+    "se": "Betyg",
+    "zh-Hans": "教育评分"
+  },
+  "qcode": "medtop:20001217",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001217",
+  "aid": "iptc_20001217"
+}

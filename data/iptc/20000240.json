@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000235"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Preis eines Grundstücks in speziellen Gebieten, z.B. für die kommerzielle Nutzung, als Bauland oder als Ackerland nutzbar",
+    "dk": "Prisen på jord til specifik brug (kommerciel, bolig, landbrug).",
+    "en-GB": "The price of land in specific zoned areas such as commercial, residential or arable as provided by a responsible body",
+    "en-US": "The price of land in specific zoned areas such as commercial, residential or arable as provided by a responsible body",
+    "pt-BR": "Preço da terra em áreas específicas como zonas comerciais, residenciais ou cultiváveis e que é determinado por uma entidade responsável.",
+    "pt-PT": "Preço da terra em áreas específicas como zonas comerciais, residenciais ou cultiváveis e que é determinado por uma entidade responsável.",
+    "se": "Priset på land för specifik användning (kommersiellt, bostäder, jordbruk).",
+    "zh-Hans": "有关机构提供的特定区域的土地价格，如商业区、住宅区或耕地"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04004005"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اسعار اراضي",
+    "de": "Grundstückspreis",
+    "dk": "jordpris",
+    "en-GB": "land price",
+    "en-US": "land price",
+    "es": "Costo de tierras",
+    "fr": "Prix foncier",
+    "no": "tomtepris",
+    "pt-BR": "preço do terreno",
+    "pt-PT": "preço do terreno",
+    "se": "Markpriser",
+    "zh-Hans": "土地价格"
+  },
+  "qcode": "medtop:20000240",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000240",
+  "aid": "iptc_20000240"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001157"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: broader term changed"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Japanische traditionelle Kampfsportart mit einem Holzgewehr. 'Juken' bedeutet Gewehr oder Waffe mit Bajonett. (Programm des Nationalen Sportfestivals in Japan)",
+    "dk": "Traditionel japansk kampsport, hvor våbnet er en model af en bajonetmonteret riffel.",
+    "en-GB": "Japanese traditional martial art using a model rifle made of wood. 'Juken' means a rifle or gun with blade (bayonet)",
+    "en-US": "Japanese traditional martial art using a model rifle made of wood. 'Juken' means a rifle or gun with blade (bayonet)",
+    "pt-BR": "Arte marcial tradicional japonesa que usa uma baioneta em madeira.",
+    "pt-PT": "Arte marcial tradicional japonesa que usa uma baioneta em madeira.",
+    "se": "Traditionell japansk stridskonst där vapnet utgörs av en modell av ett bajonettförsett gevär.",
+    "zh-Hans": "使用带木制刀铳枪的日本传统武术。铳剑的意思就是有刺刀的铳或枪"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15094000",
+    "https://www.wikidata.org/entity/Q1717983"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "جوكندو",
+    "de": "Jukendo",
+    "dk": "jukendo",
+    "en-GB": "jukendo",
+    "en-US": "jukendo",
+    "es": "Jukendo",
+    "fr": "Jukendo",
+    "no": "jukendo",
+    "pt-BR": "jukendo",
+    "pt-PT": "jukendo",
+    "se": "Jukendo",
+    "zh-Hans": "铳剑道"
+  },
+  "qcode": "medtop:20000977",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000977",
+  "aid": "iptc_20000977"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000106"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Aktivitäten und Nachforschungen von Staatsanwälten",
+    "dk": "Processen med afholdelse af en retssag mod en person der er anklaget for at begå en forbrydelse.",
+    "en-GB": "The process of holding a trial against a person who is accused of a crime to determine guilt and the lawyers and legal team who argue that the accused is guilty",
+    "en-US": "The process of holding a trial against a person or entity who is accused of a crime to determine guilt and the lawyers and legal team who argue that the accused is guilty",
+    "pt-BR": "Processo de realizar um julgamento contra uma pessoa acusada de um crime para determinar a sua culpa e os advogados e a equipe legal que defendem que o acusado é culpado.",
+    "pt-PT": "Processo de realizar um julgamento contra uma pessoa acusada de um crime para determinar a sua culpa e os advogados e a equipa legal que defendem que o acusado é culpado.",
+    "se": "Åtgärder som genomförs av åklagare för att få ett utrett fall behandlat av domstol.",
+    "zh-Hans": "对被控犯罪嫌疑人进行审判和定罪的过程，以及辩称被告有罪的律师和法律团队"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02009000",
+    "https://www.wikidata.org/entity/Q6559173"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ملاحقات",
+    "de": "Anklage",
+    "dk": "retsforfølgelse",
+    "en-GB": "prosecution and prosecutors",
+    "en-US": "prosecution and prosecutors",
+    "es": "Proceso judicial",
+    "fr": "Accusation",
+    "no": "tiltale",
+    "pt-BR": "acusação",
+    "pt-PT": "acusação",
+    "se": "Åtal",
+    "zh-Hans": "起诉和控方律师"
+  },
+  "qcode": "medtop:20000118",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000118",
+  "aid": "iptc_20000118"
+}

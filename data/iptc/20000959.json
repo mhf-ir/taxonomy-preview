@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schweizer Mannschaftsportart mit 16 oder 18 Spielern pro Team. Eine gummierte Scheibe (Hornuss) muss ins Feld der gegnerischen Mannschaft geschlagen werden, die versucht den Hornuss in der Luft mit einem hölzernen Abwehrbrett (Schindel) abzufangen",
+    "dk": "Schweizisk holdsport, hvor en puck bliver slået i høj hastighed. Minder lidt om baseball.",
+    "en-GB": "Swiss team sport with 16 or 18 men per team. A rubber puck is hit towards the field of the adversary team which tries to hit the puck in the air with a wooden board thrown in the air",
+    "en-US": "Swiss team sport with 16 or 18 men per team. A rubber puck is hit towards the field of the adversary team which tries to hit the puck in the air with a wooden board thrown in the air",
+    "pt-BR": "Esporte de equipe suíço, com 16 a 18 pessoas por equipe, que tentam lançar para o campo adversário um disco de borracha com um painel de madeira.",
+    "pt-PT": "Desporto suíço de equipa, com 16 a 18 pessoas por equipa, que tentam lançar para o campo adversário um disco de borracha com um painel de madeira.",
+    "se": "Schweizisk lagsport där en puck slås iväg i hög hastighet. Påminner lite om baseboll.",
+    "zh-Hans": "流行于瑞士的16人或18人集体项目。其中一队向对方球场地投一个橡胶小球，另一方抛起木板努力将小球在空中击落"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15087000",
+    "https://www.wikidata.org/entity/Q669810"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "هورنوس",
+    "de": "Hornussen",
+    "dk": "hornuss",
+    "en-GB": "hornuss",
+    "en-US": "hornuss",
+    "es": "Hornuss",
+    "fr": "Hornuss",
+    "no": "hornussen",
+    "pt-BR": "hornuss",
+    "pt-PT": "hornuss",
+    "se": "Hornussen",
+    "zh-Hans": "嗡嗡球"
+  },
+  "qcode": "medtop:20000959",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000959",
+  "aid": "iptc_20000959"
+}

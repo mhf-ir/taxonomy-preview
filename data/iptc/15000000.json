@@ -1,0 +1,59 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "changeNote": {
+    "en-GB": "Changes: 2018-04-19 definition changed to make it fit better for chess and eSports."
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Im Wettkampf ausgeübte Betätigung mit körperlichen und/oder mentalen Leistungen. Organisationen und Körperschaften sind die Träger dieser Aktivitäten",
+    "dk": "Konkurrencedygtig aktivitet eller færdighed, der involverer fysisk og/eller mental indsats og organisationer og organer, der er involveret i disse aktiviteter.",
+    "en-GB": "Competitive activity or skill that involves physical and/or mental effort and organisations and bodies involved in these activities",
+    "en-US": "Competitive activity or skill that involves physical and/or mental effort and organizations and bodies involved in these activities",
+    "pt-BR": "Exercício competitivo envolvendo esforço físico. Organizações e corpos envolvidos nessas atividades.",
+    "pt-PT": "Exercício competitivo envolvendo esforço físico. Organizações e corpos envolvidos nessas atividades.",
+    "se": "Generellt om idrott och andra fysiska aktiveter samt de organisationer och myndigheter som är inblandade i detta.",
+    "zh-Hans": "需要体力和/或智力努力的竞争性活动或技能，以及参与这些活动的组织和机构"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q349",
+    "http://cv.iptc.org/newscodes/subjectcode/15000000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2018-04-19T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000822",
+    "medtop:20001103",
+    "medtop:20001104",
+    "medtop:20001108",
+    "medtop:20001124",
+    "medtop:20001125",
+    "medtop:20001126",
+    "medtop:20001148",
+    "medtop:20001301",
+    "medtop:20001323",
+    "medtop:20001324",
+    "medtop:20001325"
+  ],
+  "prefLabel": {
+    "ar": "رياضة",
+    "de": "Sport",
+    "dk": "sport",
+    "en-GB": "sport",
+    "en-US": "sport",
+    "es": "Deporte",
+    "fr": "Sport",
+    "no": "sport",
+    "pt-BR": "esporte",
+    "pt-PT": "desporto",
+    "se": "Sport",
+    "zh-Hans": "体育"
+  },
+  "qcode": "medtop:15000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/15000000",
+  "aid": "iptc_15000000"
+}

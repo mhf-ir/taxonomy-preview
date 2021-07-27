@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000337"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Handelsbewegung von Menschen oder Waren mit Booten und Schiffen auf dem Wasserweg",
+    "dk": "Kommerciel bevægelse af mennesker eller varer med båd, skib og vand.",
+    "en-GB": "Commercial movement of people or goods via boats, ships and water",
+    "en-US": "Commercial movement of people or goods via boats, ships and water",
+    "pt-BR": "Movimento comercial de pessoas ou bens através de barcos, navios e água.",
+    "pt-PT": "Movimento comercial de pessoas ou bens através de barcos, navios e água.",
+    "se": "Kommersiell förflyttning av folk eller varor med hjälp av båtar, skepp och vatten.",
+    "zh-Hans": "通过船只和水路进行人或货物的商业运输"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04015004",
+    "https://www.wikidata.org/entity/Q155930"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ممرات مائية ونقل بحري",
+    "de": "Schifffahrt",
+    "dk": "vandvej og søtransport",
+    "en-GB": "waterway and maritime transport",
+    "en-US": "waterway and maritime transport",
+    "es": "Transporte fluvial y marítimo",
+    "fr": "Transport fluvial et maritime",
+    "no": "skipsfart",
+    "pt-BR": "transporte marítimo e fluvial",
+    "pt-PT": "transporte marítimo e fluvial",
+    "se": "Sjötransport",
+    "zh-Hans": "水路和海运"
+  },
+  "qcode": "medtop:20000343",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000343",
+  "aid": "iptc_20000343"
+}

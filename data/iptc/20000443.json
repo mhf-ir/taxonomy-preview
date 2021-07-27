@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000441"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Arten der Wildnis, die vom Aussterben bedroht sind, meist aufgrund sich ändernder Umweltbedingungen, Jagd oder Wetter",
+    "dk": "Arter, der sandsynligvis forsvinder fuldstændigt i en nær fremtid fra et bestemt område eller fra hele jorden, dels på grund af aktiv forfølgelse fra mennesker eller ændringer i miljø og vejr.",
+    "en-GB": "Those species in danger of disappearing, largely because of changes in environment, hunting, or weather",
+    "en-US": "Those species in danger of disappearing, largely because of changes in environment, hunting, or weather",
+    "pt-BR": "Espécies em risco de extinção, em grande parte devido a alterações no ambiente, à caça ou ao clima.",
+    "pt-PT": "Espécies em risco de extinção, em grande parte devido a alterações no ambiente, à caça ou ao clima.",
+    "se": "Arter som riskerar att inom en nära framtid helt försvinna från ett bestämt område eller från hela jorden, i strikt bemärkelse på grund av aktiv förföljelse från människan.",
+    "zh-Hans": "主要是因为环境、狩猎或气候的变化面临灭绝危险的物种"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06002001",
+    "https://www.wikidata.org/entity/Q11394"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انواع مهددة",
+    "de": "Artenschutz",
+    "dk": "truet art",
+    "en-GB": "endangered species",
+    "en-US": "endangered species",
+    "es": "Especies en peligro",
+    "fr": "Espèce menacée",
+    "no": "sterkt truet",
+    "pt-BR": "espécies ameaçadas",
+    "pt-PT": "espécies ameaçadas",
+    "se": "Utrotningshotade arter",
+    "zh-Hans": "濒危物种"
+  },
+  "qcode": "medtop:20000443",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000443",
+  "aid": "iptc_20000443"
+}

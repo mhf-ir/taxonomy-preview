@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000649"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der Versuch nichtregierender Einheiten und Einzelner durch Überzeugung oder Fürsprache die Durchsetzung eines Gesetzes zu beeinflussen.",
+    "dk": "Påvirkning af f.eks. embedsmænd eller politikere til at tage bestemte beslutninger i forbindelse med udarbejdelse og vedtagelse af love etc..",
+    "en-GB": "The attempt by non-government bodies and individuals to affect the outcome of legislation through verbal, or other, persuasion",
+    "en-US": "The attempt by non-government bodies and individuals to affect the outcome of legislation through verbal, or other, persuasion",
+    "pt-BR": "Tentativa, exercida por grupos e indivíduos não governamentais, de afetar o resultado dos processos de legislação através de persuasão verbal ou outra.",
+    "pt-PT": "Tentativa, exercida por grupos e indivíduos não governamentais, de afetar o resultado dos processos de legislação através de persuasão verbal ou outra.",
+    "se": "Bearbetning av beslutsfattare för att åstadkomma beslut i en viss riktning.",
+    "zh-Hans": "非政府组织和个人试图通过口头或其他方式说服来影响立法结果"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11021000",
+    "https://www.wikidata.org/entity/Q187117"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مجموعة ضغط",
+    "de": "Lobby",
+    "dk": "lobbyvirksomhed",
+    "en-GB": "lobbying",
+    "en-US": "lobbying",
+    "es": "Cabildeo",
+    "fr": "Groupe de pression",
+    "no": "korridorpolitikk",
+    "pt-BR": "lobby",
+    "pt-PT": "lobby",
+    "se": "Lobbyverksamhet",
+    "zh-Hans": "游说"
+  },
+  "qcode": "medtop:20000650",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000650",
+  "aid": "iptc_20000650"
+}

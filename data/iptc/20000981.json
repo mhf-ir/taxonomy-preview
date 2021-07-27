@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000979"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15015006"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein geschlossenes Boot, worin zwei Wettkämpfer in festen Sitzen sitzen und Doppelpaddel benutzen",
+    "dk": "Sejlads i kajak til to person, hvor deltageren sidder med ben og fødder fremad og bruger en padle med blade i begge ender.",
+    "en-GB": "An enclosed boat with the competitor sitting on a fixed seat for two people using double bladed paddles",
+    "en-US": "An enclosed boat with the competitor sitting on a fixed seat for two people using double bladed paddles",
+    "pt-BR": "Caiaque de 2 lugares (embarcação fechada para duas pessoas sentadas em assento fixo que remam com remo de duas pás).",
+    "pt-PT": "Caiaque de 2 lugares (embarcação fechada para duas pessoas sentadas em assento fixo que remam com pagaia dupla).",
+    "zh-Hans": "两个选手选手坐在皮艇固定的座位上。使用双叶浆"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q232550"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "زوجي",
+    "de": "K2 (Kajak)",
+    "dk": "K2 (kajak)",
+    "en-GB": "K2 (kayaking)",
+    "en-US": "K2 (kayaking)",
+    "es": "K2 (kayak)",
+    "fr": "K2 (kayak)",
+    "no": "K2 (padling)",
+    "pt-BR": "K2",
+    "pt-PT": "K2",
+    "se": "K2",
+    "zh-Hans": "双人皮艇"
+  },
+  "qcode": "medtop:20000981",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000981",
+  "aid": "iptc_20000981"
+}

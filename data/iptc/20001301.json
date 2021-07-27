@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/15000000"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Rekorde oder Ehrungen von Sportlern für ihre Leistungen",
+    "dk": "Rekord eller milepæl, som en atlet eller et hold har nået.",
+    "en-GB": "Records or honours earned by athletes for their performance",
+    "en-US": "Records or honors earned by athletes for their performance",
+    "pt-BR": "Recordes ou honras ganhos por atletas por seu desempenho.",
+    "pt-PT": "Recordes ou honras ganhos por atletas pelo seu desempenho.",
+    "se": "Notering av en idrottares framgångar under karriären",
+    "zh-Hans": "运动员因运动成绩而获得的记录或荣誉"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "narrower": [
+    "medtop:20001302",
+    "medtop:20001303",
+    "medtop:20001304"
+  ],
+  "prefLabel": {
+    "ar": "انجاز رياضي",
+    "de": "sportliche Leistung",
+    "dk": "sportspræstation",
+    "en-GB": "sport achievement",
+    "en-US": "sport achievement",
+    "es": "Logro deportivo",
+    "fr": "Exploit sportif",
+    "no": "idrettsprestasjon",
+    "pt-BR": "conquistas esportivas",
+    "pt-PT": "conquistas desportivas",
+    "se": "Sportsliga framgång",
+    "zh-Hans": "体育成就"
+  },
+  "qcode": "medtop:20001301",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001301",
+  "aid": "iptc_20001301"
+}

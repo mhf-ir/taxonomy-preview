@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000598"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ausrüstung der bewaffneten Streitkräfte",
+    "dk": "Udstyr brugt af medlemmer af et lands væbnede styrker.",
+    "en-GB": "Equipment issued to members of the armed forces",
+    "en-US": "Equipment issued to members of the armed forces",
+    "pt-BR": "Equipamento atribuído a membros das forças armadas.",
+    "pt-PT": "Equipamento atribuído a membros das forças armadas.",
+    "se": "Utrustning som används av medlemmar i ett lands väpnade styrkor.",
+    "zh-Hans": "发给武装部队成员的装备"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11001005",
+    "https://www.wikidata.org/entity/Q18643213"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000602"
+  ],
+  "prefLabel": {
+    "ar": "معدات عسكرية",
+    "de": "Militärische Ausrüstung",
+    "dk": "militært udstyr",
+    "en-GB": "military equipment",
+    "en-US": "military equipment",
+    "es": "Equipamiento militar",
+    "fr": "Équipement militaire",
+    "no": "militært materiell",
+    "pt-BR": "equipamento militar",
+    "pt-PT": "equipamento militar",
+    "se": "Försvarsmateriel",
+    "zh-Hans": "军事装备"
+  },
+  "qcode": "medtop:20000601",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000601",
+  "aid": "iptc_20000601"
+}

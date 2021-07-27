@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000021"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Musikgattung, die in den 1940er Jahren in afroamerikanischen Gemeinschaften entstand und sich durch gefühlvollen Gesang auszeichnet.",
+    "dk": "En musikalsk stil udviklet blandt afroamerikanere i løbet af 1940'erne.",
+    "en-GB": "A genre of music originated in African American communities in the 1940s and featuring soulful vocals",
+    "en-US": "A genre of music originated in African American communities in the 1940s and featuring soulful vocals",
+    "pt-BR": "Gênero musical surgido em comunidades afro-americanas nos anos 1940 e com coros emotivos, cheios de alma.",
+    "pt-PT": "Género musical surgido em comunidades afro-americanas nos anos 1940 e com coros emotivos, cheios de alma.",
+    "se": "En musikstil som utvecklades bland afro-amerikaner under 1940-talet. Benämningen har levt kvar, men skiftat i betydelse.",
+    "zh-Hans": "又译节奏布鲁斯。起源于20世纪40年代的非裔美国人社区，以深情的歌声为特色的音乐类型"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q45981"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "موسيقى ريذم أند بلوز",
+    "de": "Rhythm & Blues",
+    "dk": "r&b",
+    "en-GB": "r&b",
+    "en-US": "r&b",
+    "es": "R&B",
+    "fr": "R&B",
+    "no": "rhythm and blues",
+    "pt-BR": "R&B",
+    "pt-PT": "R&B",
+    "se": "R&B",
+    "zh-Hans": "r&b（节奏蓝调）"
+  },
+  "qcode": "medtop:20001185",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001185",
+  "aid": "iptc_20001185"
+}

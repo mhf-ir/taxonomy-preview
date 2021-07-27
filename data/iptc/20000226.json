@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000225"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Physikalisches Gerät zur Unterstützung der Dienstleistung eines Computers, wie Monitor, Festplatten, Tastatur etc. kann auch benutzt werden für Ausrüstung wie Router, Server und andere Netzwerkgeräte",
+    "dk": "Computerudstyr.",
+    "en-GB": "The physical devices used to provide computer services, such as monitors, hard drives, keyboards etc. but can also be used for equipment such as routers, servers and other network devices.",
+    "en-US": "The physical devices used to provide computer services, such as monitors, hard drives, keyboards etc. but can also be used for equipment such as routers, servers and other network devices.",
+    "pt-BR": "Componentes físicos usados para fornecer serviços computacionais, tais como tela, disco rígido, teclado etc. e que também incluem roteadores, servidores e outros dispositivos de rede.",
+    "pt-PT": "Componentes físicos usados para fornecer serviços computacionais, tais como monitor, disco rígido, teclado, etc. e que também incluem routers, servidores e outros dispositivos de rede.",
+    "se": "Maskinell utrustning i dataanläggning, det vill säga själva maskinen, skivminnen, terminaler med mera.",
+    "zh-Hans": "用于提供计算机服务的物理设备，如显示器、硬盘、键盘等，也可用于路由器、服务器等网络设备"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04003001",
+    "https://www.wikidata.org/entity/Q3966"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مكونات صلبة (كمبيوتر)",
+    "de": "Hardware",
+    "dk": "hardware",
+    "en-GB": "hardware",
+    "en-US": "hardware",
+    "es": "Hardware",
+    "fr": "Ordinateurs",
+    "no": "maskinvare",
+    "pt-BR": "hardware",
+    "pt-PT": "hardware",
+    "se": "Hårdvara",
+    "zh-Hans": "硬件"
+  },
+  "qcode": "medtop:20000226",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000226",
+  "aid": "iptc_20000226"
+}

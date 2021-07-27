@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001250"
+  ],
+  "created": "2019-07-30T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Form der Körpermodifikation, bei der ein Teil des menschlichen Körpers punktiert oder durchtrennt wird, wodurch eine Öffnung geschaffen wird, in der Schmuck getragen oder ein Implantat eingesetzt werden kann.",
+    "dk": "En form for kropsudsmykning, hvor man tilfører huden blæk med det formål at ændre dens farve permanent.",
+    "en-GB": "A form of body modification involving the puncturing or cutting of a part of the human body, creating an opening in which jewellery may be worn or where an implant could be inserted",
+    "en-US": "A form of body modification involving the puncturing or cutting of a part of the human body, creating an opening in which jewelry may be worn or where an implant could be inserted",
+    "pt-BR": "Tipo de modificação corporal que envolve a perfuração ou corte de uma parte do corpo humano, criando uma abertura na qual se podem inserir joias ou implantes.",
+    "pt-PT": "Tipo de modificação corporal que envolve a perfuração ou corte de uma parte do corpo humano, criando uma abertura na qual se podem inserir joias ou implantes.",
+    "se": "Dekorering av den egna kroppen genom att hål tas där smycken placeras.",
+    "zh-Hans": "身体修饰的一种形式，包括刺穿或切割人体的一部分，创造一个可以佩戴珠宝或植入物的开口"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q157943"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-30T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ثقوب الجسم",
+    "de": "Piercing",
+    "dk": "tatovering",
+    "en-GB": "piercing",
+    "en-US": "piercing",
+    "es": "Piercing",
+    "fr": "Piercing",
+    "no": "piercing",
+    "pt-BR": "piercing",
+    "pt-PT": "piercing",
+    "se": "Piercing",
+    "zh-Hans": "穿孔"
+  },
+  "qcode": "medtop:20001252",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001252",
+  "aid": "iptc_20001252"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000509"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Beschäftigung von Kindern meistens unter 18 Jahre",
+    "dk": "Arbejde udført af børn under 18 år.",
+    "en-GB": "The employment of children",
+    "en-US": "The employment of children",
+    "pt-BR": "Trabalho de crianças, geralmente com menos de 18 anos.",
+    "pt-PT": "Trabalho de crianças, geralmente com menos de 18 anos.",
+    "se": "Arbete utfört av barn under 18 års ålder.",
+    "zh-Hans": "指被雇佣的18岁以下未成年人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09003003",
+    "https://www.wikidata.org/entity/Q192571"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عمل الاطفال",
+    "de": "Kinderarbeit",
+    "dk": "børne- og ungearbejde",
+    "en-GB": "child labour",
+    "en-US": "child labor",
+    "es": "Trabajo infantil",
+    "fr": "Travail des enfants",
+    "no": "barnearbeid",
+    "pt-BR": "trabalho infantil",
+    "pt-PT": "trabalho infantil",
+    "se": "Barnarbete",
+    "zh-Hans": "童工"
+  },
+  "qcode": "medtop:20000511",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000511",
+  "aid": "iptc_20000511"
+}

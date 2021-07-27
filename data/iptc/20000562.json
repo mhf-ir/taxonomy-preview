@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000560"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Aktivität, bei der Waffen oder Fallen benutzt werden, um Tiere zu fangen.",
+    "dk": "En aktivitet, der involverer brug af våben eller fælder til fangst af dyr.",
+    "en-GB": "An activity involving the use of  weapons or traps for the capturing of animals",
+    "en-US": "An activity involving the use of weapons or traps for the capturing of animals",
+    "pt-BR": "Atividade que envolve o uso de armas ou de armadilhas na captura de animais.",
+    "pt-PT": "Atividade que envolve o uso de armas ou de armadilhas na captura de animais.",
+    "se": "Försök till fångande eller dödande av vilt genom uppspårning, förföljande eller dylikt.",
+    "zh-Hans": "用武器或陷阱捕捉动物的活动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10012000",
+    "https://www.wikidata.org/entity/Q36963"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صيد",
+    "de": "Jagd",
+    "dk": "jagt",
+    "en-GB": "hunting",
+    "en-US": "hunting",
+    "es": "Caza",
+    "fr": "Chasse",
+    "no": "jakt",
+    "pt-BR": "caça",
+    "pt-PT": "caça",
+    "se": "Jakt",
+    "zh-Hans": "打猎"
+  },
+  "qcode": "medtop:20000562",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000562",
+  "aid": "iptc_20000562"
+}

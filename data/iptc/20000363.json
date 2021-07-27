@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wirtschafts-, Industrie- und Handelsunternehmen, Gesellschaften oder andere Gruppen auf dem privaten Sektor",
+    "dk": "En sammenslutning af interesser for virksomheder i en bestemt branche.",
+    "en-GB": "Business, industrial and trade associations, societies and other private-sector groups.",
+    "en-US": "Business, industrial and trade associations, societies and other private-sector groups.",
+    "pt-BR": "Associações empresariais, industriais e comerciais, sociedades e outros grupos do setor privado.",
+    "pt-PT": "Associações empresariais, industriais e comerciais, sociedades e outros grupos do setor privado.",
+    "se": "En intresseförening för företag i en viss bransch.",
+    "zh-Hans": "商业、工业和贸易协会及其他社会和民间经济组织"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008013"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تنظيم اقتصادي",
+    "de": "Private Wirtschaftsorganisation",
+    "dk": "økonomisk interesseorganisation",
+    "en-GB": "economic organisation",
+    "en-US": "economic organization",
+    "es": "Organizaciones económicas",
+    "fr": "Organisation économique",
+    "no": "økonomiorganisasjon",
+    "pt-BR": "associações empresariais",
+    "pt-PT": "associações empresariais",
+    "se": "Branschorganisationer",
+    "zh-Hans": "经济组织"
+  },
+  "qcode": "medtop:20000363",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000363",
+  "aid": "iptc_20000363"
+}

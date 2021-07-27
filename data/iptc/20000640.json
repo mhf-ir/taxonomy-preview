@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000639"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Umfasst Treffen von Regierenden, Außen- und Finanzministern der Gruppe der acht größten Staaten und der Gruppe der sieben Industriestaaten (G7/G8)",
+    "dk": "Møder på højt niveau, ofte mellem stats- eller regeringschefer.",
+    "en-GB": "Includes meetings of leaders, foreign and finance ministers from the Group of Eight major nations and Group of Seven industrialized nations.",
+    "en-US": "Includes meetings of leaders, foreign and finance ministers from the Group of Eight major nations and Group of Seven industrialized nations.",
+    "pt-BR": "Inclui reuniões de líderes, ministros das relações exteriores e das finanças do Grupo dos Oito maiores países (G8) ou do Grupo dos Sete dos países mais industrializados (G7).",
+    "pt-PT": "Inclui reuniões de líderes, ministros dos negócios estrangeiros e das finanças do Grupo dos Oito maiores países (G8) ou do Grupo dos Sete dos países mais industrializados (G7).",
+    "se": "Möten mellan personer i högsta ställning, ofta mellan stats- eller regeringschefer.",
+    "zh-Hans": "包括八国集团和七国集团领导人、外长和财政部长的会议"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11002001",
+    "https://www.wikidata.org/entity/Q1072326"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "قمة",
+    "de": "Gipfel",
+    "dk": "topmøde",
+    "en-GB": "summit meetings",
+    "en-US": "summit meetings",
+    "es": "Cumbre",
+    "fr": "Sommet",
+    "no": "toppmøte",
+    "pt-BR": "cúpulas",
+    "pt-PT": "cimeiras",
+    "se": "Toppmöten",
+    "zh-Hans": "峰会"
+  },
+  "qcode": "medtop:20000640",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000640",
+  "aid": "iptc_20000640"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000322"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Geschäft mit der Erzeugung, Verteilung und dem Verkauf von Grundbedarfsmitteln.",
+    "dk": "Produktion, distribution og salg af fødevarer.",
+    "en-GB": "The business of processing or distributing food for basic human consumption",
+    "en-US": "The business of processing or distributing food for basic human consumption",
+    "pt-BR": "Negócio do processamento, distribuição e venda de produtos básicos para o consumo humano.",
+    "pt-PT": "Negócio do processamento, distribuição e venda de produtos básicos para o consumo humano.",
+    "se": "Framtagande, distribution och försäljning av varor som regelbundet måste tillföras kroppen för att livsfunktionerna ska uppehållas.",
+    "zh-Hans": "为人类基本消费而加工、分销食品的商业活动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04013002",
+    "https://www.wikidata.org/entity/Q540912"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صناعة غذائية",
+    "de": "Nahrungsmittelindustrie",
+    "dk": "fødevareindustri",
+    "en-GB": "food industry",
+    "en-US": "food industry",
+    "es": "Industria alimentaria",
+    "fr": "Industries alimentaires",
+    "no": "næringsmiddelindustri",
+    "pt-BR": "indústria da alimentação",
+    "pt-PT": "indústria da alimentação",
+    "se": "Livsmedelsindustri",
+    "zh-Hans": "食品业"
+  },
+  "qcode": "medtop:20000324",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000324",
+  "aid": "iptc_20000324"
+}

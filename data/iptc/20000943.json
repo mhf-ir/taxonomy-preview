@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000951"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Übung, die unter Benutzung eines Balles auf Beweglichkeit des Körpers beruht",
+    "dk": "En øvelse baseret på smidighed af kroppen ved hjælp af en bold.",
+    "en-GB": "An exercise based on suppleness of the body using a ball.",
+    "en-US": "An exercise based on suppleness of the body using a ball.",
+    "pt-BR": "Exercício de ginástica rítmica em que as ginastas realizam uma coreografia no solo usando uma bola.",
+    "pt-PT": "Exercício de ginástica rítmica em que as ginastas realizam uma coreografia no solo usando uma bola.",
+    "zh-Hans": "一种使用球来体现身体柔性的运动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15028014",
+    "https://www.wikidata.org/entity/Q2356340"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كرة",
+    "de": "Ball (Rhythmische Gymnastik)",
+    "dk": "bold",
+    "en-GB": "ball (rhythmic gymnastics)",
+    "en-US": "ball (rhythmic gymnastics)",
+    "es": "Pelota (gimnasia rítmica)",
+    "fr": "Ballon",
+    "no": "ball (rytmisk gymnastikk)",
+    "pt-BR": "bola",
+    "pt-PT": "bola",
+    "se": "Boll",
+    "zh-Hans": "球操（艺术体操）"
+  },
+  "qcode": "medtop:20000943",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000943",
+  "aid": "iptc_20000943"
+}

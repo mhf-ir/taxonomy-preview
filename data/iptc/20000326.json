@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000322"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Produktion von Papiermaterial zum Schreiben, Einwickeln, Drucken oder Verpacken.",
+    "dk": "Fremstilling af papir til skrivning, indpakning, trykning eller emballering.",
+    "en-GB": "Production of paper material for writing, wrapping, printing, or packaging",
+    "en-US": "Production of paper material for writing, wrapping, printing, or packaging",
+    "pt-BR": "Produção de papel para escrever, embrulhar, imprimir ou embalar.",
+    "pt-PT": "Produção de papel para escrever, embrulhar, imprimir ou embalar.",
+    "se": "Tillverkning av papper för att skriva, slå in, trycka eller paketera.",
+    "zh-Hans": "用于书写、包装、印刷或包裹用途的纸张材料的生产"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04013004",
+    "https://www.wikidata.org/entity/Q2283886"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صناعة الورق والنغليف",
+    "de": "Papier und Verpackung",
+    "dk": "papir og emballage",
+    "en-GB": "paper and packaging product",
+    "en-US": "paper and packaging product",
+    "es": "Productos de papel y embalaje",
+    "fr": "Papier et emballage",
+    "no": "papirindustri",
+    "pt-BR": "papel e embalagem",
+    "pt-PT": "papel e embalagem",
+    "se": "Papper",
+    "zh-Hans": "纸张和包装产品"
+  },
+  "qcode": "medtop:20000326",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000326",
+  "aid": "iptc_20000326"
+}

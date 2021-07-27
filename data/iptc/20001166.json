@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000294"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Schienenfahrzeughersteller, Zulieferer, Eisenbahn- und Signalindustrie, Wartung und Reparatur.",
+    "dk": "Produktion af tog, jernbaner, signalanlæg og drift og vedligeholdelse heraf.",
+    "en-GB": "Rolling stock manufacturers, suppliers, railways and signals industry, maintenance and repair.",
+    "en-US": "Rolling stock manufacturers, suppliers, railways and signals industry, maintenance and repair.",
+    "pt-BR": "Fabricantes e fornecedores de material circulante, ferrovias, sistemas de sinalização, manutenção e reparação.",
+    "pt-PT": "Fabricantes e fornecedores de material circulante, ferrovias, sistemas de sinalização, manutenção e reparação.",
+    "se": "Produktion av tåg, järnvägar, signalsystem samt drift och underhåll av dessa.",
+    "zh-Hans": "车辆制造商、供应商、铁路和信号产业、维护和修理业"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2995256"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "صناعة السكك الحديد",
+    "de": "Bahnindustrie",
+    "dk": "jernbanefremstilling",
+    "en-GB": "railway manufacturing",
+    "en-US": "railway manufacturing",
+    "es": "Industria ferroviaria",
+    "fr": "Industrie ferroviaire",
+    "no": "jernbanemateriell",
+    "pt-BR": "construção ferroviária",
+    "pt-PT": "construção ferroviária",
+    "se": "Järnvägsindustrin",
+    "zh-Hans": "铁路制造业"
+  },
+  "qcode": "medtop:20001166",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001166",
+  "aid": "iptc_20001166"
+}

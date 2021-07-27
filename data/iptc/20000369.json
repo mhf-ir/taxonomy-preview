@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000346"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alles was im Ausland erworben und zum Wiederverkauf ins Land gebraucht wurde",
+    "dk": "Organiseret import af varer fra udlandet til eget land.",
+    "en-GB": "What is bought abroad and brought into a country for resale",
+    "en-US": "What is bought abroad and brought into a country for resale",
+    "pt-BR": "Aquilo que é comprado no estrangeiro e que é trazido para um país para ser revendido.",
+    "pt-PT": "Aquilo que é comprado no estrangeiro e que é trazido para um país para ser revendido.",
+    "se": "Organiserad införsel av varor från utlandet till det egna landet.",
+    "zh-Hans": "在国外购买并带到国内转售的（产品或服务）"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008030",
+    "https://www.wikidata.org/entity/Q62955"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "واردات",
+    "de": "Import",
+    "dk": "import",
+    "en-GB": "imports",
+    "en-US": "imports",
+    "es": "Importaciones",
+    "fr": "Importations",
+    "no": "import",
+    "pt-BR": "importações",
+    "pt-PT": "importações",
+    "se": "Import",
+    "zh-Hans": "进口"
+  },
+  "qcode": "medtop:20000369",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000369",
+  "aid": "iptc_20000369"
+}

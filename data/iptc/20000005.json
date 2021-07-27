@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000002"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Erzählungen oder Berichte in Form eines Films, zum Beispiel Kurz- oder Langformen von Dokumentationen oder Spielfilmen",
+    "dk": "Historier fortalt gennem film, herunder fiktion og dokumentar.",
+    "en-GB": "Stories told through motion pictures, such as full-length or short format documentary or fictional features",
+    "en-US": "Stories told through motion pictures, such as full-length or short format documentary or fictional features",
+    "es": "Historias contadas a través de películas de ficción o documentales, largometrages o cortometrages",
+    "fr": "Histoires racontées à travers des films fictionnels ou documentaires, en format long ou court",
+    "pt-BR": "Histórias relativas ao cinema como arte e entretenimento.",
+    "pt-PT": "Histórias relativas ao cinema como arte e entretenimento.",
+    "se": "Rörliga bilder med en handling som uttrycker en känsla eller överför ett budskap.",
+    "zh-Hans": "通过银幕面向人们讲述故事，包括长篇的、短篇的，纪实的或虚构的"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01005000",
+    "https://www.wikidata.org/entity/Q16144339"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سينما",
+    "de": "Film",
+    "dk": "film",
+    "en-GB": "cinema",
+    "en-US": "movies",
+    "es": "Cine",
+    "fr": "Cinéma",
+    "no": "film",
+    "pt-BR": "cinema",
+    "pt-PT": "cinema",
+    "se": "Film",
+    "zh-Hans": "电影"
+  },
+  "qcode": "medtop:20000005",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000005",
+  "aid": "iptc_20000005"
+}

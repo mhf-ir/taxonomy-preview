@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gründung neuer Firmen, die sich aus bestehenden Firmen ausgegliedert haben",
+    "dk": "Oprettelse af nye virksomheder gennem spinoffs fra eksisterende virksomheder.",
+    "en-GB": "The creation of new companies being spun off from existing companies.",
+    "en-US": "The creation of new companies being spun off from existing companies.",
+    "pt-BR": "Criação de empresas novas a partir de divisões de empresas existentes.",
+    "pt-PT": "Criação de empresas novas a partir de divisões de empresas existentes.",
+    "se": "Skapandet av nya företag genom avknoppningar från befintliga företag.",
+    "zh-Hans": "从现有公司分离出来的新公司"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016040",
+    "https://www.wikidata.org/entity/Q1186164"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تحويل اصول",
+    "de": "Firmenausgründung",
+    "dk": "spin-off virksomhed",
+    "en-GB": "company spin-off",
+    "en-US": "company spin-off",
+    "es": "Escisión de sociedades",
+    "fr": "Scission",
+    "no": "spin-off-selskap",
+    "pt-BR": "spin-off",
+    "pt-PT": "spin-off",
+    "se": "Företagsavknoppning",
+    "zh-Hans": "公司分拆"
+  },
+  "qcode": "medtop:20000197",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000197",
+  "aid": "iptc_20000197"
+}

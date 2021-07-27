@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000487"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Die Behandlung eines breiten Spektrums akuter und langfristiger Krankheiten und Symptome",
+    "dk": "Behandling af en lang række akutte og langvarige medicinske tilstande og symptomer.",
+    "en-GB": "The treatment of a wide range of acute and long-term medical conditions and symptoms",
+    "en-US": "The treatment of a wide range of acute and long-term medical conditions and symptoms",
+    "pt-BR": "Especialidade médica que se dedica ao tratamento de uma ampla gama de problemas médicos gerais e de seus sintomas.",
+    "pt-PT": "Especialidade médica que se dedica ao tratamento de uma ampla gama de problemas médicos gerais e dos seus sintomas.",
+    "se": "Sjukvård som tar hand om alla möjliga åkommor internt i kroppen och som inte hör till någon specialist-vård.",
+    "zh-Hans": "治疗范围广泛的急性和长期的病情和症状"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q33127638"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "طب الأسرة",
+    "de": "Allgemeinmedizin",
+    "dk": "almen praksis",
+    "en-GB": "general practice",
+    "en-US": "general practice",
+    "es": "Medicina general",
+    "fr": "Médecine générale",
+    "no": "allmennpraksis",
+    "pt-BR": "medicina de família e comunidade",
+    "pt-PT": "medicina geral e familiar",
+    "se": "Allmänmedicin",
+    "zh-Hans": "全科诊疗"
+  },
+  "qcode": "medtop:20001220",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001220",
+  "aid": "iptc_20001220"
+}

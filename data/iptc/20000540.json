@@ -1,0 +1,55 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000538"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Allgemeiner Wettstreit zur Unterhaltung.",
+    "dk": "spil generelt for ens underholdning, og ofte med et konkurrencemoment.",
+    "en-GB": "Contests generally for one's amusement",
+    "en-US": "Contests generally for one's amusement",
+    "pt-BR": "Competição, geralmente para divertimento próprio.",
+    "pt-PT": "Competição, geralmente para divertimento próprio.",
+    "se": "Benämning på tidsfördriv, vanligen i tävlingsform, för en eller flera personer, utövade efter vissa regler och vanligen med någon sorts hjälpmedel eller rekvisita.",
+    "zh-Hans": "为娱乐而进行的竞赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10001000",
+    "https://www.wikidata.org/entity/Q11410"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000541",
+    "medtop:20000542",
+    "medtop:20000543",
+    "medtop:20000544",
+    "medtop:20000545",
+    "medtop:20000546",
+    "medtop:20000547",
+    "medtop:20000548"
+  ],
+  "prefLabel": {
+    "ar": "العاب",
+    "de": "Spiel",
+    "dk": "spil",
+    "en-GB": "game",
+    "en-US": "game",
+    "es": "Juegos",
+    "fr": "Jeux",
+    "no": "spill",
+    "pt-BR": "jogos",
+    "pt-PT": "jogos",
+    "se": "Spel",
+    "zh-Hans": "游戏"
+  },
+  "qcode": "medtop:20000540",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000540",
+  "aid": "iptc_20000540"
+}

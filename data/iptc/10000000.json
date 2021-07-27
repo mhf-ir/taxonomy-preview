@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Aktivitäten zum Vergnügen, zur Entspannung und Erholung, außerhalb von bezahlter Arbeit, inklusive Essen und Reisen",
+    "dk": "Aktiviteter, der udføres til glæde, afslapning eller rekreation uden for lønnet beskæftigelse, herunder spisning og rejse.",
+    "en-GB": "Activities undertaken for pleasure, relaxation or recreation outside paid employment, including eating and travel.",
+    "en-US": "Activities undertaken for pleasure, relaxation or recreation outside paid employment, including eating and travel.",
+    "pt-BR": "Atividades realizadas por prazer, para relaxamento ou divertimento, fora do emprego, incluindo comer e viajar.",
+    "pt-PT": "Atividades realizadas por prazer, para relaxamento ou divertimento, fora do emprego, incluindo comer e viajar.",
+    "se": "Aktiviteter ägnade att ge njutning, avslappning, rekreation utanför betald arbetstid, inklusive mat och resor. Spel, tips och lotterier, gastronomi, hobbyer, semester, turism.",
+    "zh-Hans": "从事有偿工作以外的娱乐、放松或娱乐活动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10000000",
+    "https://www.wikidata.org/entity/Q1267055"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000538",
+    "medtop:20000565",
+    "medtop:20001239"
+  ],
+  "prefLabel": {
+    "ar": "حياة يومية وترفيه",
+    "de": "Freizeit, Modernes Leben",
+    "dk": "livsstil og fritid",
+    "en-GB": "lifestyle and leisure",
+    "en-US": "lifestyle and leisure",
+    "es": "Estilo de vida y tiempo libre",
+    "fr": "Vie quotidienne et loisirs",
+    "no": "livsstil og fritid",
+    "pt-BR": "estilo de vida e lazer",
+    "pt-PT": "estilo de vida e lazer",
+    "se": "Fritid och livsstil",
+    "zh-Hans": "生活方式和休闲"
+  },
+  "qcode": "medtop:10000000",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/10000000",
+  "aid": "iptc_10000000"
+}

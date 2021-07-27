@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09003000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000509"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Erwerben von Sachkenntnis, die für eine Beschäftigung notwendig ist",
+    "dk": "At lære den viden og de færdigheder, der kræves til et bestemt erhverv.",
+    "en-GB": "Learning new skills as part of an existing job, such as developing specialisations, learning new techniques or retraining when an employee's skills are no longer relevant",
+    "en-US": "Learning new skills as part of an existing job, such as developing specializations, learning new techniques or retraining when an employee's skills are no longer relevant",
+    "pt-BR": "Aprendizagem de competências para o emprego.",
+    "pt-PT": "Aprendizagem de competências para o emprego.",
+    "se": "Inlärning av kunskap och färdigheter som krävs för ett specifikt yrke.",
+    "zh-Hans": "就业所需的技能学习"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q828812"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000515",
+    "medtop:20000516"
+  ],
+  "prefLabel": {
+    "ar": "تدريب مهني",
+    "de": "Berufliche Bildung",
+    "dk": "jobtræning",
+    "en-GB": "employment training",
+    "en-US": "employment training",
+    "es": "Capacitación profesional",
+    "fr": "Formation à l'emploi",
+    "no": "arbeidstrening",
+    "pt-BR": "formação profissional",
+    "pt-PT": "formação profissional",
+    "se": "Yrkesträning",
+    "zh-Hans": "就业培训"
+  },
+  "qcode": "medtop:20000514",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000514",
+  "aid": "iptc_20000514"
+}

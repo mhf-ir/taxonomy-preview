@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000121"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Gesetzestext, der die Handlungen der staatlichen Verwaltungsbehörden regelt",
+    "dk": "Det retsområde, der regulerer forholdet mellem offentlige myndigheder og borgere.",
+    "en-GB": "Body of law that governs the actions of governmental administrative agencies",
+    "en-US": "Body of law that governs the actions of governmental administrative agencies",
+    "pt-BR": "Conjunto de leis que regulam o funcionamento das instituições administrativas governamentais.",
+    "pt-PT": "Conjunto de leis que regulam o funcionamento das instituições administrativas governamentais.",
+    "se": "Handlägger mål som främst rör tvister mellan enskilda personer och myndigheter",
+    "zh-Hans": "管理政府行政机关的法律"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q171251"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "قانون إداري",
+    "de": "Verwaltungsrecht",
+    "dk": "Forvaltningsret",
+    "en-GB": "administrative law",
+    "en-US": "administrative law",
+    "es": "Derecho administrativo",
+    "fr": "Droit administratif",
+    "no": "forvaltningsrett",
+    "pt-BR": "direito administrativo",
+    "pt-PT": "direito administrativo",
+    "se": "Förvaltningsrätt",
+    "zh-Hans": "行政法"
+  },
+  "qcode": "medtop:20001197",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001197",
+  "aid": "iptc_20001197"
+}

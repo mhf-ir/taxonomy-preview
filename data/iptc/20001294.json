@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2020-08-05T12:00:00+00:00",
+  "definition": {
+    "de": "Die Finanzierung eines Projekts oder einer Unternehmung durch das Aufbringen kleiner Geldbeträge von einer großen Anzahl von Personen, typischerweise über das Internet",
+    "dk": "Et projekt, eller virksomhed, der er finansieret igennem små donationer fra en stor mængde mennesker, typisk igennem internettet.",
+    "en-GB": "The funding of a project or venture by raising small amounts of money from a large number of people, typically via the Internet",
+    "en-US": "The funding of a project or venture by raising small amounts of money from a large number of people, typically via the Internet",
+    "pt-BR": "Financiamento de um projeto ou empreendimento através da angariação de pequenas quantias de dinheiro de um grande número de pessoas, geralmente pela Internet.",
+    "pt-PT": "Financiamento de um projeto ou empreendimento através da angariação de pequenas quantias de dinheiro de um grande número de pessoas, geralmente pela Internet.",
+    "se": "Metod för att finansiera projekt genom att många personer ställer upp med lite pengar var, ofta i utbyte mot en tidig version av det som ska produceras.",
+    "zh-Hans": "向大量个人募集小额资金来为项目或企业提供资金，通常通过互联网进行"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q348303"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تمويل تشاركي",
+    "de": "Crowdfunding",
+    "dk": "crowdfunding",
+    "en-GB": "crowdfunding",
+    "en-US": "crowdfunding",
+    "es": "Micromecenazgo",
+    "fr": "Financement participatif",
+    "no": "folkefinansiering",
+    "pt-BR": "crowdfunding",
+    "pt-PT": "crowdfunding",
+    "se": "Crowfunding",
+    "zh-Hans": "众筹"
+  },
+  "qcode": "medtop:20001294",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001294",
+  "aid": "iptc_20001294"
+}

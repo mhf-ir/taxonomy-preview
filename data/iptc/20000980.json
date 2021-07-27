@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000979"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein geschlossenes Boot, worin der Wettkämpfer in einem festen Sitz sitzt und ein Doppelpaddel benutzt",
+    "dk": "Sejlads i kajak til én person, hvor deltageren sidder med ben og fødder fremad og bruger en padle med blade i begge ender.",
+    "en-GB": "An enclosed boat with the competitor sitting on a fixed seat for one person using a double bladed paddle",
+    "en-US": "An enclosed boat with the competitor sitting on a fixed seat for one person using a double bladed paddle",
+    "pt-BR": "Caiaque de 1 lugar (embarcação fechada para uma pessoa sentada em assento fixo que rema com remo de duas pás).",
+    "pt-PT": "Caiaque de 1 lugar (embarcação fechada para uma pessoa sentada em assento fixo que rema com pagaia dupla).",
+    "zh-Hans": "单个选手坐在皮艇固定的座位上。使用双叶浆"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15015005"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "فردي",
+    "de": "K1 (Kajak)",
+    "dk": "K1 (kajak)",
+    "en-GB": "K1 (kayaking)",
+    "en-US": "K1 (kayaking)",
+    "es": "K1 (kayak)",
+    "fr": "K1 (kayak)",
+    "no": "K1 (padling)",
+    "pt-BR": "K1",
+    "pt-PT": "K1",
+    "se": "K1",
+    "zh-Hans": "单人皮艇"
+  },
+  "qcode": "medtop:20000980",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000980",
+  "aid": "iptc_20000980"
+}

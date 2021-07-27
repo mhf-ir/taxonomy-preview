@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000487"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Eine medizinische Spezialisierung, die sich auf die Prävention, Diagnose und Behandlung von Krebs konzentriert",
+    "dk": "En medicinsk specialisering, der fokuserer på forebyggelse, diagnose og behandling af kræft.",
+    "en-GB": "A medical specialisation that focuses on the prevention, diagnosis, and treatment of cancer",
+    "en-US": "A medical specialization that focuses on the prevention, diagnosis, and treatment of cancer",
+    "pt-BR": "Especialidade médica que se dedica ao estudo, prevenção, diagnóstico e tratamento do câncer.",
+    "pt-PT": "Especialidade médica que se dedica ao estudo, prevenção, diagnóstico e tratamento do cancro.",
+    "se": "Läran om tumörsjukdomar. Medicinsk specialitet som fokuserar på tumörsjukdomar",
+    "zh-Hans": "癌症预防、诊断和治疗的医学专业"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q162555"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "علم الأورام",
+    "de": "Onkologie",
+    "dk": "onkologi",
+    "en-GB": "oncology",
+    "en-US": "oncology",
+    "es": "Oncología",
+    "fr": "Oncologie",
+    "no": "kreftbehandling",
+    "pt-BR": "oncologia",
+    "pt-PT": "oncologia",
+    "se": "Onkologi",
+    "zh-Hans": "肿瘤科"
+  },
+  "qcode": "medtop:20001223",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001223",
+  "aid": "iptc_20001223"
+}

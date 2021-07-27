@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Versteckte Beschaffung von Informationen",
+    "dk": "Skjult indsamling af information.",
+    "en-GB": "Covert collection of information",
+    "en-US": "Covert collection of information",
+    "pt-BR": "Recolha secreta de informações.",
+    "pt-PT": "Recolha secreta de informações.",
+    "se": "Hemligt, ibland olagligt, insamlande av information.",
+    "zh-Hans": "秘密收集信息"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11004000",
+    "https://www.wikidata.org/entity/Q165950"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تجسس واستخبارات",
+    "de": "Spionage und Geheimdienst",
+    "dk": "spionage- og efterretningsaktivitet",
+    "en-GB": "espionage and intelligence",
+    "en-US": "espionage and intelligence",
+    "es": "Espionaje e inteligencia",
+    "fr": "Espionnage",
+    "no": "spionasje",
+    "pt-BR": "espionagem e inteligência",
+    "pt-PT": "espionagem e inteligência",
+    "se": "Spioneri och underrättelseverksamhet",
+    "zh-Hans": "间谍活动和情报"
+  },
+  "qcode": "medtop:20000605",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000605",
+  "aid": "iptc_20000605"
+}

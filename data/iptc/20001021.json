@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001017"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rodeo Disziplin",
+    "dk": "Konkurrence, hvor rytteren hopper af sin hest og kæmper mod en ung tyr ved, at gribe dets horn.",
+    "en-GB": "Rodeo discipline",
+    "en-US": "Rodeo discipline",
+    "pt-BR": "Disciplina de rodeio.",
+    "pt-PT": "Disciplina de rodeio.",
+    "se": "Tävling där ryttaren hoppar från sin häst och brottar ned en ungtjur genom att ta tag i dess horn.",
+    "zh-Hans": "一种牛仔竞技比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15074004",
+    "https://www.wikidata.org/entity/Q7605950"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صراع الثيران",
+    "de": "Bulldogging",
+    "dk": "bulldogging",
+    "en-GB": "bulldogging",
+    "en-US": "bulldogging",
+    "es": "Bulldogging (rodeo)",
+    "fr": "Bulldogging (rodéo)",
+    "no": "oksebryting",
+    "pt-BR": "bulldogging",
+    "pt-PT": "bulldogging",
+    "se": "Steer wrestling",
+    "zh-Hans": "摔牛"
+  },
+  "qcode": "medtop:20001021",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001021",
+  "aid": "iptc_20001021"
+}

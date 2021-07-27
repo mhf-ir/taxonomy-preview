@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000509"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Situation, in der eine Person für sich selbst als Freiberufler oder Geschäftsinhaber arbeitet, anstatt für einen Arbeitgeber zu arbeiten, der ein Gehalt oder einen Lohn zahlt",
+    "dk": "Når en person arbejder, men gør det i form af sit eget firma, som derefter har en kontrakt med et eller flere ordrerfirmaer eller personer.",
+    "en-GB": "A situation in which an individual works for themselves as a freelancer or business owner instead of working for an employer that pays a salary or a wage",
+    "en-US": "A situation in which an individual works for themselves as a freelancer or business owner instead of working for an employer that pays a salary or a wage",
+    "pt-BR": "Situação do indivíduo que trabalha para si mesmo como freelancer ou como empresário em vez de trabalhar para um empregador que lhe paga um salário.",
+    "pt-PT": "Situação do indivíduo que trabalha para si mesmo como freelancer ou como empresário em vez de trabalhar para um empregador que lhe paga um salário.",
+    "se": "När en person arbetar men gör det i form av ett eget företag som sedan har kontrakt med något beställande företag eller personer.",
+    "zh-Hans": "个人以自由职业者或企业主的身份为自己工作，而不是为支付工资或薪水的雇主工作"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1005490"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مهنة حرة",
+    "de": "Selbstständigkeit",
+    "dk": "selvstændig beskæftigelse",
+    "en-GB": "self-employment",
+    "en-US": "self-employment",
+    "es": "Autoempleo",
+    "fr": "Auto-entrepreneur",
+    "no": "selvstendig næringsdrivende",
+    "pt-BR": "trabalho autônomo",
+    "pt-PT": "trabalho independente",
+    "se": "Egenföretagande",
+    "zh-Hans": "自雇就业"
+  },
+  "qcode": "medtop:20001206",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001206",
+  "aid": "iptc_20001206"
+}

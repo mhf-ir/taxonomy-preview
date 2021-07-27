@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000817"
+  ],
+  "created": "2019-06-26T12:00:00+00:00",
+  "definition": {
+    "de": "Die Langzeitpflege älterer Menschen durch stationäre Einrichtungen oder durch bezahlte tägliche Hilfe zu Hause",
+    "dk": "Pleje af ældre, hvad enten det foregår på plejehjem eller som hjemmehjælp.",
+    "en-GB": "The long-term care of the elderly provided by residential institutions or by paid daily help in the home",
+    "en-US": "The long-term care of the elderly provided by residential institutions or by paid daily help in the home",
+    "pt-BR": "Cuidados continuados prestados a idosos por instituições residenciais ou por apoio domiciliário.",
+    "pt-PT": "Cuidados continuados prestados a idosos por instituições residenciais ou por apoio domiciliário.",
+    "se": "Vård av äldre som inte direkt har med sjukdomar att göra utan mer behov som uppstår när människor blir äldre",
+    "zh-Hans": "居家养老机构提供的长期养老服务或在家中提供的有偿日常帮助"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q437458"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-06-26T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "",
+    "de": "Altenpflege",
+    "dk": "ældrepleje",
+    "en-GB": "elderly care",
+    "en-US": "elderly care",
+    "es": "Cuidado de ancianos",
+    "fr": "Soins aux personnes âgées",
+    "no": "eldreomsorg",
+    "pt-BR": "assistência a idosos",
+    "pt-PT": "assistência a idosos",
+    "se": "Äldrevård",
+    "zh-Hans": "老年护理"
+  },
+  "qcode": "medtop:20001232",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001232",
+  "aid": "iptc_20001232"
+}

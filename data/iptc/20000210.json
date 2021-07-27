@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Prozess zur Produktion von natürlichen Konsumgütern",
+    "dk": "Processer til produktion af naturlige materialer til forbrug.",
+    "en-GB": "The industry of producing natural materials for consumption",
+    "en-US": "The industry of producing natural materials for consumption",
+    "pt-BR": "Produção de bens naturais para consumo.",
+    "pt-PT": "Produção de bens naturais para consumo.",
+    "se": "Processer kring att framställa naturliga material för konsumtion.",
+    "zh-Hans": "生产用于消费的天然材料的过程"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04001000",
+    "https://www.wikidata.org/entity/Q11451"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000211",
+    "medtop:20000212",
+    "medtop:20000213",
+    "medtop:20000214",
+    "medtop:20000215",
+    "medtop:20000216"
+  ],
+  "prefLabel": {
+    "ar": "زراعة",
+    "de": "Agrar",
+    "dk": "landbrug",
+    "en-GB": "agriculture",
+    "en-US": "agriculture",
+    "es": "Agricultura",
+    "fr": "Agriculture",
+    "no": "landbruk",
+    "pt-BR": "agricultura e pescas",
+    "pt-PT": "agricultura e pescas",
+    "se": "Naturbruk",
+    "zh-Hans": "农业"
+  },
+  "qcode": "medtop:20000210",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000210",
+  "aid": "iptc_20000210"
+}

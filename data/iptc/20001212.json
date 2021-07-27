@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000400"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Schulen, die Unterricht über einen bestimmten religiösen Glauben anbieten oder sich von den Prinzipien dieses Glaubens leiten lassen",
+    "dk": "Skoler, der tilbyder undervisning om religion eller ledes af principperne i en bestemt religiøs tro.",
+    "en-GB": "Schools that offer instruction about, or are guided by the principles of, a specific religious faith",
+    "en-US": "Schools that offer instruction about, or are guided by the principles of, a specific religious faith",
+    "pt-BR": "Escolas que ensinam ou são guiadas pelos princípios de uma determinada fé religiosa.",
+    "pt-PT": "Escolas que ensinam ou são guiadas pelos princípios de uma determinada fé religiosa.",
+    "se": "Skolor där undervisningen handlar om och är styrd av en viss trosinriktning.",
+    "zh-Hans": "提供关于特定宗教信仰的指导或受特定宗教信仰的原则指导的学校"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1971849"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مدرسة دينية",
+    "de": "Religionsschulen",
+    "dk": "religiøs skole",
+    "en-GB": "religious schools",
+    "en-US": "religious schools",
+    "es": "Escuelas religiosas",
+    "fr": "Écoles religieuses",
+    "no": "religiøse skoler",
+    "pt-BR": "escolas religiosas",
+    "pt-PT": "escolas religiosas",
+    "se": "Religiösa skolor",
+    "zh-Hans": "教会学校"
+  },
+  "qcode": "medtop:20001212",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001212",
+  "aid": "iptc_20001212"
+}

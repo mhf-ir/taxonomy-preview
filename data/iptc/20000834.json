@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Wettlauf im Sprint, bei dem die Athleten über eine Reihe von Hürden springen müssen",
+    "dk": "Et sprintløb, hvor atleter hopper over en række opstillede forhindringer.",
+    "en-GB": "A sprint running race where athletes jump over a series of upright frames",
+    "en-US": "A sprint running race where athletes jump over a series of upright frames",
+    "pt-BR": "Corrida de velocidade em que os atletas saltam sobre uma série de obstáculos verticais.",
+    "pt-PT": "Corrida de velocidade em que os atletas saltam sobre uma série de obstáculos verticais.",
+    "se": "De tävlande springer en sträcka samtidigt som de hoppar över utställda hinder.",
+    "zh-Hans": "选手跨越一系列直立栏架的短跑项目"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q537769"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حواجز",
+    "de": "Hürden",
+    "dk": "hækkeløb",
+    "en-GB": "hurdles",
+    "en-US": "hurdles",
+    "es": "Salto de vallas",
+    "fr": "Course de haies",
+    "no": "hekkeløp",
+    "pt-BR": "barreiras",
+    "pt-PT": "barreiras",
+    "se": "Häcklöpning",
+    "zh-Hans": "跨栏"
+  },
+  "qcode": "medtop:20000834",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000834",
+  "aid": "iptc_20000834"
+}

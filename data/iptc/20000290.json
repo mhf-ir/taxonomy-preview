@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unternehmen, die Vermietungen anbieten, Fahrzeuge, Smokings, Werkzeuge, schwere Ausrüstung und andere Angebote",
+    "dk": "Virksomheder, der udlejer eksempelvis biler, boliger, tøj og værktøj.",
+    "en-GB": "Companies which provide rentals, including motor vehicles, tuxedos, tools, heavy equipment, and other supplies",
+    "en-US": "Companies which provide rentals, including motor vehicles, tuxedos, tools, heavy equipment, and other supplies",
+    "pt-BR": "Empresas que fornecem serviços de locação, incluindo veículos, smokings, ferramentas, equipamento pesado e outros bens.",
+    "pt-PT": "Empresas que fornecem serviços de aluguer, incluindo veículos, smokings, ferramentas, equipamento pesado e outros bens.",
+    "se": "Företag som hyr ut saker, såsom bilar, kläder och verktyg.",
+    "zh-Hans": "提供租赁服务的公司，包括机动车、晚礼服、工具、重型设备和其他用品的租赁"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006016"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خدمات تأجير",
+    "de": "Mietservice",
+    "dk": "udlejningsfirma",
+    "en-GB": "rental service",
+    "en-US": "rental service",
+    "es": "Rentadoras",
+    "fr": "Sociétés de location",
+    "no": "utleievirksomhet",
+    "pt-BR": "serviços de locação",
+    "pt-PT": "serviços de aluguer",
+    "se": "Uthyrningsfirmor",
+    "zh-Hans": "租赁服务"
+  },
+  "qcode": "medtop:20000290",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000290",
+  "aid": "iptc_20000290"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000719"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Untersuchung der physikalischen und physiologischen Struktur, der Genetik, der Ökologie und anderer Aspekte von Pflanzen",
+    "dk": "Planternes videnskab.",
+    "en-GB": "The study of the physical and physiological structure, genetics, ecology and other aspects of plants",
+    "en-US": "The study of the physical and physiological structure, genetics, ecology and other aspects of plants",
+    "es": "El estudio de la estructura física y fisiológica, la genética, la ecología y otros aspectos de las plantas",
+    "fr": "Etude de la structure physique et physiologique, de la génétique, de l'écologie et d'autres aspects des plantes",
+    "pt-BR": "Estudo da estrutura física e fisiológica, da genética, da ecologia e de outros aspectos das plantas.",
+    "pt-PT": "Estudo da estrutura física e fisiológica, da genética, da ecologia e de outros aspetos das plantas.",
+    "se": "Vetenskapen om växterna.",
+    "zh-Hans": "研究植物的物理和生理结构、遗传学、生态学等方面的科学"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13004004",
+    "https://www.wikidata.org/entity/Q441"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علم نباتات",
+    "de": "Botanik",
+    "dk": "botanik",
+    "en-GB": "botany",
+    "en-US": "botany",
+    "es": "Botánica",
+    "fr": "Botanique",
+    "no": "botanikk",
+    "pt-BR": "botânica",
+    "pt-PT": "botânica",
+    "se": "Botanik",
+    "zh-Hans": "植物学"
+  },
+  "qcode": "medtop:20000720",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000720",
+  "aid": "iptc_20000720"
+}

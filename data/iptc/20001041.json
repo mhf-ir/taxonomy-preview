@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15050013"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001038"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Boot mit einem Mast mit festem Kiel",
+    "dk": "Enkelt skrog med fast køl.",
+    "en-GB": "Single hulled vessel with a fixed keel",
+    "en-US": "Single hulled vessel with a fixed keel",
+    "pt-BR": "Embarcação de casco simples com quilha fixa.",
+    "pt-PT": "Embarcação de casco simples com quilha fixa.",
+    "se": "Tävlingar med en typ av segelbåt där kölen helt består av eller innehåller ballast.",
+    "zh-Hans": "固定龙骨单体船"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q474161"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic sailing + sports facet sailingtype."
+  },
+  "prefLabel": {
+    "ar": "قارب شراعي",
+    "de": "Kielboot",
+    "dk": "kølbåd",
+    "en-GB": "keelboat",
+    "en-US": "keelboat",
+    "es": "Quilla",
+    "fr": "Quillard",
+    "no": "kjølbåt",
+    "pt-BR": "keelboat",
+    "pt-PT": "keelboat",
+    "se": "Kölbåt",
+    "zh-Hans": "龙骨船"
+  },
+  "qcode": "medtop:20001041",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001041",
+  "aid": "iptc_20001041"
+}

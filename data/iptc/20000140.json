@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000139"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: English name changed"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jede ungeplante und plötzliche Ausbreitung einer Menge von Materie",
+    "dk": "En pludselig detonering af sprængstof",
+    "en-GB": "Explosions caused by an accidental, non-combat, or non-terrorism source. Also use when the source of the explosion is non-specified or unknown",
+    "en-US": "Explosions caused by an accidental, non-combat, or non-terrorism source. Also use when the source of the explosion is non-specified or unknown",
+    "pt-BR": "Súbita fragmentação de um corpo, devido à dilatação de gases ou à conflagração de matérias.",
+    "pt-PT": "Súbita fragmentação de um corpo, devido à dilatação de gases ou à conflagração de matérias.",
+    "se": "När någon form av sprängmedel detoneras.",
+    "zh-Hans": "由意外、非战斗或非恐怖主义原因导致的爆炸。当爆炸源不明时也可使用"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03014001",
+    "https://www.wikidata.org/entity/Q179057"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حادث انفجار",
+    "de": "Explosion",
+    "dk": "eksplosionsulykke og -hændelse",
+    "en-GB": "explosion accident and incident",
+    "en-US": "explosion accident and incident",
+    "es": "Explosión",
+    "fr": "Explosion accidentelle",
+    "no": "eksplosjoner",
+    "pt-BR": "explosão",
+    "pt-PT": "explosão",
+    "se": "Explosioner",
+    "zh-Hans": "爆炸事故"
+  },
+  "qcode": "medtop:20000140",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000140",
+  "aid": "iptc_20000140"
+}

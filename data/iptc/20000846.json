@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "changeNote": {
+    "en-GB": "2016-04-06: definition rephrased."
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Football der mit australischen Regeln gespielt wird",
+    "dk": "En boldsport med en oval bold, der kan siges at være en blanding mellem almindelig fodbold og rugby.",
+    "en-GB": "A form of football played by two teams of 18 competing on a pitch by running with and passing an oval ball. Points are scored by moving the ball between goal posts. Governed by the Australian Football League.",
+    "en-US": "A form of football played by two teams of 18 competing on a pitch by running with and passing an oval ball. Points are scored by moving the ball between goal posts. Governed by the Australian Football League.",
+    "pt-BR": "Tipo de futebol disputado por duas equipes de 18 jogadores em campo, que correm e passam uma bola oval. São atribuídos pontos quando a bola passa por entre os postes do gol. É regulamentado pela Liga de Futebol Australiano.",
+    "pt-PT": "Tipo de futebol disputado por duas equipas de 18 jogadores em campo, que correm e passam uma bola oval. São atribuídos pontos quando a bola passa por entre os postes da baliza. É regulamentado pela Liga de Futebol Australiano.",
+    "se": "En bollsport med oval boll som kan sägas vara en blandning mellan vanlig fotboll och rugby.",
+    "zh-Hans": "澳洲橄榄球运动。两个队。每队18人。在球场内带橄榄球跑动或传递。球带到对方球门柱内得分。由澳洲橄榄球联盟进行管理"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15084000",
+    "https://www.wikidata.org/entity/Q50776"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كرة القدم الاسترالية",
+    "de": "Australian rules football",
+    "dk": "australsk fodbold",
+    "en-GB": "Australian rules football",
+    "en-US": "Australian rules football",
+    "es": "Fútbol australiano",
+    "fr": "Football australien",
+    "no": "australsk fotball",
+    "pt-BR": "futebol australiano",
+    "pt-PT": "futebol australiano",
+    "se": "Australisk fotboll",
+    "zh-Hans": "澳式橄榄球"
+  },
+  "qcode": "medtop:20000846",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000846",
+  "aid": "iptc_20000846"
+}

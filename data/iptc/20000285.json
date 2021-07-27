@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Privates Einkommen und Ausgaben",
+    "dk": "Den enkeltes indkomst, udgifter, aktiver og forpligtelser.",
+    "en-GB": "An individual's income and expenses",
+    "en-US": "An individual's income and expenses",
+    "pt-BR": "Gastos e receitas individuais.",
+    "pt-PT": "Gastos e receitas individuais.",
+    "se": "En individs inkomster, utgifter, tillgångar och skulder.",
+    "zh-Hans": "指 个人的收入和支出"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006018",
+    "https://www.wikidata.org/entity/Q253613"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ميزانية شخصية",
+    "de": "Privatfinanzen",
+    "dk": "privatøkonomi",
+    "en-GB": "personal finance",
+    "en-US": "personal finance",
+    "es": "Finanzas personales",
+    "fr": "Épargne personnelle",
+    "no": "personlig økonomi",
+    "pt-BR": "finanças pessoais",
+    "pt-PT": "finanças pessoais",
+    "se": "Privatekonomi",
+    "zh-Hans": "个人理财"
+  },
+  "qcode": "medtop:20000285",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000285",
+  "aid": "iptc_20000285"
+}

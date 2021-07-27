@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Spiel, das auf dem Eis gespielt wird mit flachen runden Steinen. Ein Spieler wirft einen Stein gezielt auf eine Zielscheibe. Ein Teamhelfer des Spielers, der geworfen hat, kann das Eis vor dem Stein kehren, damit der Stein besser Richtung Zielscheibe rutscht",
+    "dk": "Spilles mellem to hold på is med hver deres runde sten med håndtag på toppen. Det gælder om at placere stenene så tæt på centrum som muligt.",
+    "en-GB": "A game played on ice with large flat round stones. A player throws the stone, aiming at a target. Teammates of the player who has thrown the stone can sweep the ice in front of the stone to help smooth its path towards the target.",
+    "en-US": "A game played on ice with large flat round stones. A player throws the stone, aiming at a target. Teammates of the player who has thrown the stone can sweep the ice in front of the stone to help smooth its path towards the target.",
+    "pt-BR": "Jogo disputado sobre pista de gelo com pedras redondas planas na base e pega curva. O jogador lança a pedra pela pista, tentando que ela fique o mais próximo possível do alvo. Os companheiros podem varrer a pista para que a pedra deslize mais facilmente até o alvo.",
+    "pt-PT": "Jogo disputado sobre pista de gelo com pedras redondas planas na base e pega curva. O jogador lança a pedra pela pista, tentando que ela fique o mais próximo possível do alvo. Os companheiros podem varrer a pista para que a pedra deslize mais facilmente até ao alvo.",
+    "se": "Spelas mellan lag på is med runda stenar med handtag på ovansidan. En spelare (skipper) anger riktpunkt. En spelare skickar iväg stenen och en eller två till i laget följer stenens väg över isen och sopar för att ändra rikting och/eller fart.",
+    "zh-Hans": "又称冰上溜石，用大而扁圆的石头在冰上比赛的项目。 球员瞄准目标投掷扁园型石头。 投掷石头队员的队友可以在石头前面清扫冰面，以帮助石头顺畅地向目标移动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15018000",
+    "https://www.wikidata.org/entity/Q136851"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000891"
+  ],
+  "prefLabel": {
+    "ar": "كيرلينغ",
+    "de": "Curling",
+    "dk": "curling",
+    "en-GB": "curling",
+    "en-US": "curling",
+    "es": "Curling",
+    "fr": "Curling",
+    "no": "curling",
+    "pt-BR": "curling",
+    "pt-PT": "curling",
+    "se": "Curling",
+    "zh-Hans": "冰壶"
+  },
+  "qcode": "medtop:20000890",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000890",
+  "aid": "iptc_20000890"
+}

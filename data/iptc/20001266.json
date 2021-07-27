@@ -1,0 +1,41 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000574"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Organisierte Debatten zwischen politischen Kandidaten, live vor Publikum oder auf irgendeine Art und Weise übertragen",
+    "dk": "En organiseret debat mellem to eller flere kandidater. Kan foregå på tv og/eller foran et publikum.",
+    "en-GB": "Organised debates between political candidates, live in front of an audience or broadcast in some manner",
+    "en-US": "Organized debates between political candidates, live in front of an audience or broadcast in some manner",
+    "pt-BR": "Debates organizados entre candidatos políticos, que decorrem ao vivo em frente de uma audiência ou que são transmitidos.",
+    "pt-PT": "Debates organizados entre candidatos políticos, que decorrem ao vivo em frente de uma audiência ou que são transmitidos.",
+    "se": "Organiserade debatter mellan kandidater inför politiska val. Ofta inför publik och ibland tv- och radiosända.",
+    "zh-Hans": "政治候选人之间的有组织的辩论，以在观众面前直播或其他形式广播"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "نقاشات سياسية",
+    "de": "politische Debatten",
+    "dk": "politisk debatmøde",
+    "en-GB": "political debates",
+    "en-US": "political debates",
+    "es": "Debate político",
+    "fr": "Débat politique",
+    "no": "politiske debatter",
+    "pt-BR": "debates políticos",
+    "pt-PT": "debates políticos",
+    "se": "Politiska debatter",
+    "zh-Hans": "政治辩论"
+  },
+  "qcode": "medtop:20001266",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001266",
+  "aid": "iptc_20001266"
+}

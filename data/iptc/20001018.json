@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001017"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rodeo Disziplin",
+    "dk": "Rider på en sadelløs hest, som forsøger at kaste rytteren af. Disciplinen er oprindeligt skabt til heste, der skulle rides til af den professionelle cowboy.",
+    "en-GB": "Rodeo discipline",
+    "en-US": "Rodeo discipline",
+    "pt-BR": "Disciplina de rodeio.",
+    "pt-PT": "Disciplina de rodeio.",
+    "se": "Ridning på en sadellös häst, som försöker kasta av ryttaren, från början skapad för att hästar måste ridas in av den yrkesutövande cowboyen.",
+    "zh-Hans": "驯服野马，野牛的比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15074006"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "بدون سرج",
+    "de": "Bareback",
+    "dk": "bareback bronc",
+    "en-GB": "bareback bronc",
+    "en-US": "bareback bronc",
+    "es": "Bareback",
+    "fr": "Bareback (rodéo)",
+    "no": "innridning av hest uten sal",
+    "pt-BR": "bareback",
+    "pt-PT": "bareback",
+    "se": "Sadellös inridning av hästar",
+    "zh-Hans": "牧人竞技"
+  },
+  "qcode": "medtop:20001018",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001018",
+  "aid": "iptc_20001018"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000525"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Teile des Tarifvertrages und der Tarifverhandlungen, die sich auf die Versorgung, Pausenregelung, Urlaubsregelung, Arbeitszeit, Krankmeldung etc. beziehen.",
+    "dk": "Aftaler om arbejdstid, f.eks. længde, placering eller afbrydelse af arbejdet for hvile.",
+    "en-GB": "Element of contracts and contract discussions centring on rules affecting issues such as lunch and other breaks, work shifts, vacation scheduling, seniority, sick leave etc.",
+    "en-US": "Element of contracts and contract discussions centering on rules affecting issues such as lunch and other breaks, work shifts, vacation scheduling, seniority, sick leave etc.",
+    "pt-BR": "Elementos e discussões contratuais sobre regras relacionadas com questões como almoço e outras pausas, turnos, marcação de férias, antiguidade, licença por doença etc.",
+    "pt-PT": "Elementos e discussões contratuais sobre regras relacionadas com questões como almoço e outras pausas, turnos, marcação de férias, antiguidade, licença por doença, etc.",
+    "se": "Avtal om arbetstid, t ex längd, förläggning eller avbrott i arbetet för vila.",
+    "zh-Hans": "合同的讨论集中在规则影响等问题，如午餐和其他休息时间，轮班工作问题，假期安排问题，工龄问题、病假问题等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09002003"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عقد عمل/قواعد العمل",
+    "de": "Manteltarifvertrag",
+    "dk": "kontraktligt problem - arbejdsregel",
+    "en-GB": "contract issue-work rules",
+    "en-US": "contract issue-work rules",
+    "es": "Contratos/normas de trabajo",
+    "fr": "Règlement intérieur d'entreprises",
+    "no": "personalhåndbok",
+    "pt-BR": "questões contratuais trabalhistas",
+    "pt-PT": "questões contratuais laborais",
+    "se": "Arbetstidsavtal",
+    "zh-Hans": "工作规则合同"
+  },
+  "qcode": "medtop:20000528",
+  "retired": "2019-10-07T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000528",
+  "aid": "iptc_20000528"
+}

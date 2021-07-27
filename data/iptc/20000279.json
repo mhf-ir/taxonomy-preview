@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Risiko tragendes Unternehmen, das einzelnen ermöglicht regelmäßig einen kleinen Beitrag zu zahlen, um finanziell auf unvorhergesehene Ereignisse vorbereitet zu sein.",
+    "dk": "Tjenester, der tillader enkeltpersoner at betale små beløb regelmæssigt for at beskytte sig økonomisk mod større uventede begivenheder.",
+    "en-GB": "A risk-taking venture that allows individuals to pay small amounts periodically to guard financially against unexpected events",
+    "en-US": "A risk-taking venture that allows individuals to pay small amounts periodically to guard financially against unexpected events",
+    "pt-BR": "Contrato de assunção de risco que pressupõe que os indivíduos paguem periodicamente uma quantia para ficarem protegidos financeiramente contra eventos inesperados.",
+    "pt-PT": "Contrato de assunção de risco que pressupõe que os indivíduos paguem periodicamente uma quantia para ficarem protegidos financeiramente contra eventos inesperados.",
+    "se": "Tjänster som låter individer betala små belopp regelbundet för att skydda sig ekonomiskt mot stora oväntade händelser.",
+    "zh-Hans": "允许个人定期支付小额款项以防范意外事件的风险投资"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04006006",
+    "https://www.wikidata.org/entity/Q43183"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تأمين",
+    "de": "Versicherung",
+    "dk": "forsikring",
+    "en-GB": "insurance",
+    "en-US": "insurance",
+    "es": "Seguros",
+    "fr": "Assurances",
+    "no": "forsikring",
+    "pt-BR": "seguros",
+    "pt-PT": "seguros",
+    "se": "Försäkringar",
+    "zh-Hans": "保险"
+  },
+  "qcode": "medtop:20000279",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000279",
+  "aid": "iptc_20000279"
+}

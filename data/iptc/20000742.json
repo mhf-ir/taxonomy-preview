@@ -1,0 +1,61 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/13000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Studium der menschlichen Gesellschaft in den Bereichen Linguistik, Anthropologie, Ökonomie und Soziologie",
+    "dk": "Videnskaben af det menneskelige samfund i aspekter som sprogvidenskab, antropologi, økonomi eller sociologi.",
+    "en-GB": "The study of human society in such aspects as linguistics, anthropology, economics or sociology",
+    "en-US": "The study of human society in such aspects as linguistics, anthropology, economics or sociology",
+    "es": "El estudio de la sociedad humana en aspectos como la lingüística, la antropología, la economía o la sociología",
+    "fr": "Etude de la société humaine dans des domaines tels que la linguistique, l'anthropologie, l'économie ou la sociologie",
+    "pt-BR": "Estudo da sociedade humana em aspectos como a linguística, a antropologia, a economia ou a sociologia.",
+    "pt-PT": "Estudo da sociedade humana em aspetos como a linguística, a antropologia, a economia ou a sociologia.",
+    "se": "Vetenskap som studerar samhället ur olika synvinklar.",
+    "zh-Hans": "从语言学、人类学、经济学或社会学等方面研究人类社会的学科"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q34749",
+    "http://cv.iptc.org/newscodes/subjectcode/13003001"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000743",
+    "medtop:20000744",
+    "medtop:20000745",
+    "medtop:20000746",
+    "medtop:20000747",
+    "medtop:20000748",
+    "medtop:20000749",
+    "medtop:20000750",
+    "medtop:20000751",
+    "medtop:20000752",
+    "medtop:20000753",
+    "medtop:20000754"
+  ],
+  "prefLabel": {
+    "ar": "علوم اجتماعية",
+    "de": "Sozialwissenschaften",
+    "dk": "samfundsvidenskab",
+    "en-GB": "social sciences",
+    "en-US": "social sciences",
+    "es": "Ciencias sociales",
+    "fr": "Sciences sociales",
+    "no": "samfunnsvitenskap",
+    "pt-BR": "ciências sociais",
+    "pt-PT": "ciências sociais",
+    "se": "Samhällsvetenskap",
+    "zh-Hans": "社会科学"
+  },
+  "qcode": "medtop:20000742",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000742",
+  "aid": "iptc_20000742"
+}

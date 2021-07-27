@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000653"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Regierung, in der entweder die Menschen die direkte Macht innehaben, oder durch gewählte Vertreter.",
+    "dk": "Regering, hvor folket besidder magten enten direkte eller gennem valgte embedsmænd.",
+    "en-GB": "Government in which the people hold the power either directly, or through elected officials.",
+    "en-US": "Government in which the people hold the power either directly, or through elected officials.",
+    "pt-BR": "Governo no qual o povo detém o poder de maneira direta ou por meio de representantes governamentais eleitos.",
+    "pt-PT": "Governo no qual o povo detém o poder de maneira direta ou por meio de representantes governamentais eleitos.",
+    "se": "Politiskt system i vilket regeringsmakten i princip företräder folkviljan, sådan den framkommer genom fria, allmänna och hemliga val och där vissa medborgerliga rättigheter, såsom yttrande- och församlingsfrihet, är garanterade",
+    "zh-Hans": "人民直接或者通过选举产生的官员行使权力的政府"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11024002",
+    "https://www.wikidata.org/entity/Q7174"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ديموقراطية",
+    "de": "Demokratie",
+    "dk": "demokrati",
+    "en-GB": "democracy",
+    "en-US": "democracy",
+    "es": "Democracia",
+    "fr": "Démocratie",
+    "no": "demokrati",
+    "pt-BR": "democracia",
+    "pt-PT": "democracia",
+    "se": "Demokrati",
+    "zh-Hans": "民主"
+  },
+  "qcode": "medtop:20000654",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000654",
+  "aid": "iptc_20000654"
+}

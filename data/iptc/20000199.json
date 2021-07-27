@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016027"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Art und Weise wie ein Unternehmen funktioniert und alle Regeln dazu",
+    "dk": "Tanker og regler om, hvordan virksomheder skal ejes og styres.",
+    "en-GB": "The way a business works and any rules of that should be abide",
+    "en-US": "The way a business works and any rules of that should be abide",
+    "pt-BR": "O modo como funciona uma empresa e quaisquer regras a que esteja obrigada.",
+    "pt-PT": "O modo como funciona uma empresa e quaisquer regras a que esteja obrigada.",
+    "se": "Tankegångar och bestämmelser om hur bolag ska ägas och styras.",
+    "zh-Hans": "企业运作方式及其应遵循的规则"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2920921"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حكم رشيد",
+    "de": "Unternehmensrecht",
+    "dk": "virksomhedsledelse",
+    "en-GB": "business governance",
+    "en-US": "business governance",
+    "es": "Gobernanza",
+    "fr": "Gouvernance",
+    "no": "selskapsledelse",
+    "pt-BR": "gestão empresarial",
+    "pt-PT": "gestão empresarial",
+    "se": "Bolagsstyrning",
+    "zh-Hans": "公司治理"
+  },
+  "qcode": "medtop:20000199",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000199",
+  "aid": "iptc_20000199"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer beschleunigen ihre Geschwindigkeit über eine kurze Distanz und versuchen dann so weit wie möglich zu springen, wobei sie einen Hop, einen Step und einen Jump benutzen",
+    "dk": "En variant af længdespring, hvor deltagerne får lov til at tage et hop, et skridt og et spring.",
+    "en-GB": "Competitors build up speed over a short sprint and then attempt to jump as far forward as they can using a hop, skip and a jump technique.",
+    "en-US": "Competitors build up speed over a short sprint and then attempt to jump as far forward as they can using a hop, skip and a jump technique.",
+    "pt-BR": "Prova em que os atletas fazem uma corrida curta para ganhar velocidade até um ponto determinado e depois se impulsionam encadeando três saltos sucessivos que terminam com uma queda sobre uma caixa de areia. Ganha quem fizer o salto mais longo.",
+    "pt-PT": "Prova em que os atletas fazem uma corrida curta para ganhar velocidade até um ponto determinado e depois se impulsionam encadeando três saltos sucessivos que terminam com uma queda sobre uma caixa de areia. Ganha quem fizer o salto mais longo.",
+    "se": "En variant av längdhopp där de tävlande får ta tre steg efter avstamp från hoppbrädan.",
+    "zh-Hans": "参赛者通过短距离加速助跑，然后利用单足跳、跨跳和跳跃技术尽可能地向前跳出最远的距离"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005022",
+    "https://www.wikidata.org/entity/Q187204"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "وثبة ثلاثية",
+    "de": "Dreisprung",
+    "dk": "trespring",
+    "en-GB": "triple jump",
+    "en-US": "triple jump",
+    "es": "Triple salto",
+    "fr": "Triple saut",
+    "no": "tresteg",
+    "pt-BR": "salto triplo",
+    "pt-PT": "triplo salto",
+    "se": "Tresteg",
+    "zh-Hans": "三级跳远"
+  },
+  "qcode": "medtop:20000845",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000845",
+  "aid": "iptc_20000845"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000742"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Studium des menschlichen Geistes, der geistigen Eigenschaften und der emotionalen Prozesse",
+    "dk": "Videnskaben om sjæleliv (folks oplevelser, følelser, adfærd og tanker generelt).",
+    "en-GB": "The study of the human mind, mental characteristics and emotional processes",
+    "en-US": "The study of the human mind, mental characteristics and emotional processes",
+    "es": "El estudio de la mente humana, las características mentales y los procesos emocionales",
+    "fr": "Etude de l'esprit humain, des caractéristiques mentales et des processus émotionnels",
+    "pt-BR": "Estudo da mente humana, das características mentais e dos processos emocionais.",
+    "pt-PT": "Estudo da mente humana, das características mentais e dos processos emocionais.",
+    "se": "Vetenskapen om själslivet (människors upplevelser, känslor, beteenden och tankar i allmänhet).",
+    "zh-Hans": "研究人的思想、心理特征和情感过程的学科"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13003003",
+    "https://www.wikidata.org/entity/Q9418"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علم نفس",
+    "de": "Psychologie",
+    "dk": "psykologi",
+    "en-GB": "psychology",
+    "en-US": "psychology",
+    "es": "Psicología",
+    "fr": "Psychologie",
+    "no": "psykologi",
+    "pt-BR": "psicologia",
+    "pt-PT": "psicologia",
+    "se": "Psykologi",
+    "zh-Hans": "心理学"
+  },
+  "qcode": "medtop:20000753",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000753",
+  "aid": "iptc_20000753"
+}

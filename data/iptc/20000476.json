@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000464"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Stoffe, die zur Vorbeugung von Krankheiten genutzt werden.",
+    "dk": "Foranstaltninger, der sigter mod at opretholde et godt helbred og forebygge eller forværre kvæstelser og sygdomme.",
+    "en-GB": "Substances used to prevent diseases or illnesses",
+    "en-US": "Substances used to prevent diseases or illnesses",
+    "pt-BR": "Medidas destinadas a manter uma boa saúde e a prevenir a ocorrência ou agravamento de doenças e afecções.",
+    "pt-PT": "Medidas destinadas a manter uma boa saúde e a prevenir a ocorrência ou agravamento de doenças e afeções.",
+    "se": "Åtgärder som syftar till att bevara god hälsa och förhindra att skador och sjukdomar uppkommer eller förvärras.",
+    "zh-Hans": "用于预防疾病的物质"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07008000",
+    "https://www.wikidata.org/entity/Q1773974"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000477"
+  ],
+  "prefLabel": {
+    "ar": "طب وقائي",
+    "de": "Vorsorge",
+    "dk": "forebyggende medicin",
+    "en-GB": "preventative medicine",
+    "en-US": "preventative medicine",
+    "es": "Medicina preventiva",
+    "fr": "Médecine préventive",
+    "no": "forebyggende medisin",
+    "pt-BR": "medicina preventiva",
+    "pt-PT": "medicina preventiva",
+    "se": "Förebyggande medicin",
+    "zh-Hans": "预防医学"
+  },
+  "qcode": "medtop:20000476",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000476",
+  "aid": "iptc_20000476"
+}

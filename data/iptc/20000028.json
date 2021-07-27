@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01017001"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000030"
+  ],
+  "changeNote": {
+    "en-GB": "Changes: 2018-04-09 other Broader Term"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Form der darstellenden Kunst bei der Musiker und Sänger mit Ausbildung in klassischer Musik ein vertontes dramaturgisches Werk aufführen",
+    "dk": "Udførelse af musikværker, ofte dramatiske, af klassisk trænede sangere og musikere.",
+    "en-GB": "A form of performing art where classically trained musicians and singers perform a musical and dramatic work",
+    "en-US": "A form of performing art where classically trained musicians and singers perform a musical and dramatic work",
+    "es": "Obra musical y teatral intepretada por músicos y cantantes de formación clásica",
+    "fr": "Art du spectacle où des chanteurs et des musiciens de formation classique interprètent une œuvre musicale et théâtrale",
+    "pt-BR": "Forma de arte performativa em que músicos e cantores clássicos representam obras dramáticas e musicais.",
+    "pt-PT": "Forma de arte performativa em que músicos e cantores clássicos representam obras dramáticas e musicais.",
+    "se": "Framförande av musikaliska verk, ofta dramatiska, av klassiskt skolade sångare och musiker.",
+    "zh-Hans": "一种表演艺术，由受过古典训练的音乐家和歌手表演音乐和戏剧作品"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1344"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2018-04-09T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اوبرا",
+    "de": "Oper",
+    "dk": "opera",
+    "en-GB": "opera",
+    "en-US": "opera",
+    "es": "Ópera",
+    "fr": "Opéra",
+    "no": "opera",
+    "pt-BR": "ópera",
+    "pt-PT": "ópera",
+    "se": "Opera",
+    "zh-Hans": "歌剧"
+  },
+  "qcode": "medtop:20000028",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000028",
+  "aid": "iptc_20000028"
+}

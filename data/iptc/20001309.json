@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "https://www.wikidata.org/entity/Q61391"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Cheer Squads, die gegeneinander antreten, um eine Routine vorzuführen, die Stunts, Sprünge und Tumbling zu Musik beinhaltet. Die Squads werden nach Schwierigkeit und Ausführung bewertet.",
+    "dk": "Idræt, hvor heppekor konkurrerer om at udføre de mest spektakulære øvelser.",
+    "en-GB": "Cheer squads competing against each other to perform a routine that includes stunts, jumps and tumbling set to music. Squads are judged on difficulty and execution.",
+    "en-US": "Cheer squads competing against each other to perform a routine that includes stunts, jumps and tumbling set to music. Squads are judged on difficulty and execution.",
+    "pt-BR": "Equipes de cheerleaders que competem entre si realizando uma rotina que inclui acrobacias, saltos e tumbling ao som de música. As equipes são julgadas pela dificuldade e pela execução dos exercícios.",
+    "pt-PT": "Equipas de cheerleaders que competem entre si realizando uma rotina que inclui acrobacias, saltos e tumbling ao som de música. As equipas são julgadas pela dificuldade e pela execução dos exercícios.",
+    "se": "Grupper som utför gymnastiska program avsedda att heja på något lag tävlar mot varandra.",
+    "zh-Hans": "在音乐伴奏下表演包括特技、跳跃和翻滚的一整套动作的竞技小分队，用动作难度和完成度来评判。"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "فرق التشجيع",
+    "de": "Cheerleading",
+    "dk": "cheerleading",
+    "en-GB": "cheerleading",
+    "en-US": "cheerleading",
+    "es": "Porrismo",
+    "fr": "Cheerleading",
+    "no": "cheerleading",
+    "pt-BR": "cheerleading",
+    "pt-PT": "cheerleading",
+    "se": "Cheerleeding",
+    "zh-Hans": "啦啦操"
+  },
+  "qcode": "medtop:20001309",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001309",
+  "aid": "iptc_20001309"
+}

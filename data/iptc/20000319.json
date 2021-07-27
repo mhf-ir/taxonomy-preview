@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000316"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gewinnung, Verfeinerung und Verkauf von eisenhaltigen Metallen",
+    "dk": "Minedrift, berigelse og salg af jernholdige metaller.",
+    "en-GB": "Mining, refining and sales of iron-based metals",
+    "en-US": "Mining, refining and sales of iron-based metals",
+    "pt-BR": "Mineração, refinação e venda de metais ferrosos.",
+    "pt-PT": "Mineração, refinação e venda de metais ferrosos.",
+    "se": "Gruvdrift, anrikning och försäljning av järnhaltiga metaller.",
+    "zh-Hans": "铁基金属的采矿、冶炼和销售"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04012003",
+    "https://www.wikidata.org/entity/Q11649792"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حديد وصلب",
+    "de": "Eisen und Stahl",
+    "dk": "jern og stål",
+    "en-GB": "iron and steel",
+    "en-US": "iron and steel",
+    "es": "Hierro y acero",
+    "fr": "Sidérurgie",
+    "no": "stålindustri",
+    "pt-BR": "ferro e aço",
+    "pt-PT": "ferro e aço",
+    "se": "Järn och stål",
+    "zh-Hans": "钢铁"
+  },
+  "qcode": "medtop:20000319",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000319",
+  "aid": "iptc_20000319"
+}

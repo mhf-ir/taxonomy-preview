@@ -1,0 +1,66 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettbewerbe im Laufen, Springen und Werfen, die auf einer Bahn im Stadion oder auf der Straße ausgeübt werden können",
+    "dk": "Forskellige konkurrencer, der inkluderer løb, spring og kast.",
+    "en-GB": "Competitions involving foot races, jumping and throwing which can be on a track inside a stadium or on outside roads",
+    "en-US": "Competitions involving foot races, jumping and throwing which can be on a track inside a stadium or on outside roads",
+    "pt-BR": "Competições que envolvem corridas a pé, saltos e lançamentos, em pista de estádio ou ao ar livre.",
+    "pt-PT": "Competições que envolvem corridas a pé, saltos e lançamentos, em pista de estádio ou ao ar livre.",
+    "se": "Samlingsbegrepp för olika tävlingar som inkluderar löpning, hopp och kast.",
+    "zh-Hans": "包括竞走、赛跑、跳跃和投掷的比赛，这些比赛可以在体育场内的跑道上进行，也可以在室外道路上进行"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005000",
+    "https://www.wikidata.org/entity/Q3312129"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000828",
+    "medtop:20000829",
+    "medtop:20000830",
+    "medtop:20000831",
+    "medtop:20000832",
+    "medtop:20000833",
+    "medtop:20000834",
+    "medtop:20000835",
+    "medtop:20000836",
+    "medtop:20000837",
+    "medtop:20000838",
+    "medtop:20000839",
+    "medtop:20000840",
+    "medtop:20000841",
+    "medtop:20000842",
+    "medtop:20000843",
+    "medtop:20000844",
+    "medtop:20000845",
+    "medtop:20001242"
+  ],
+  "prefLabel": {
+    "ar": "العاب القوى",
+    "de": "Leichtathletik",
+    "dk": "atletik",
+    "en-GB": "athletics",
+    "en-US": "track and field",
+    "es": "Atletismo en pista y campo",
+    "fr": "Athlétisme",
+    "no": "friidrett",
+    "pt-BR": "atletismo",
+    "pt-PT": "atletismo",
+    "se": "Friidrott",
+    "zh-Hans": "田径"
+  },
+  "qcode": "medtop:20000827",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000827",
+  "aid": "iptc_20000827"
+}

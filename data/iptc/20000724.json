@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000719"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Studium der Biologie, Physiologie, Entwicklung, Verhalten oder andere Aspekte der Tiere",
+    "dk": "Undersøgelsen af biologi, fysiologi, udvikling, adfærd eller andre aspekter af dyr.",
+    "en-GB": "The study of the biology, physiology, development, behaviour or other aspects of animals",
+    "en-US": "The study of the biology, physiology, development, behavior or other aspects of animals",
+    "es": "El estudio de la biología, de la fisiología, del desarrollo, del comportamiento u otros aspectos de los animales",
+    "fr": "Etude de la biologie, de la physiologie, du développement, du comportement ou d'autres aspects des animaux",
+    "pt-BR": "Estudo da biologia, da fisiologia, do desenvolvimento, do comportamento ou de outros aspectos dos animais.",
+    "pt-PT": "Estudo da biologia, da fisiologia, do desenvolvimento, do comportamento ou de outros aspetos dos animais.",
+    "se": "Vetenskapen om djuren.",
+    "zh-Hans": "研究动物的生物学、生理学、发育、行为或其它方面的科学"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13004005",
+    "https://www.wikidata.org/entity/Q431"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "علم حيوانات",
+    "de": "Zoologie",
+    "dk": "zoologi",
+    "en-GB": "zoology",
+    "en-US": "zoology",
+    "es": "Zoología",
+    "fr": "Zoologie",
+    "no": "zoologi",
+    "pt-BR": "zoologia",
+    "pt-PT": "zoologia",
+    "se": "Zoologi",
+    "zh-Hans": "动物学"
+  },
+  "qcode": "medtop:20000724",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000724",
+  "aid": "iptc_20000724"
+}

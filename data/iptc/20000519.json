@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000518"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09011001"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sowohl Vergütungen, die ein Arbeitnehmer von einer Firma erhält, wie auch Pensionen, Krankenversicherung",
+    "dk": "Fordele, som en virksomhed leverer til en medarbejder, såsom pensionsbidrag, sundhedsforsikring.",
+    "en-GB": "Benefits provided to an employee by a company, such as  pension contributions, health insurance.",
+    "en-US": "Benefits provided to an employee by a company, such as pension contributions, health insurance.",
+    "pt-BR": "Benefícios fornecidos a um funcionário por uma empresa, como contribuições para o regime de pensões, seguro de saúde.",
+    "pt-PT": "Benefícios fornecidos a um funcionário por uma empresa, como contribuições para o regime de pensões, seguro de saúde.",
+    "se": "Arbetsgivaren köper varor eller tjänster, ger ränteförmånliga lån eller hyr tillgångar åt sina anställda för de anställdas privata användning.",
+    "zh-Hans": "公司为雇员提供的福利，如养老金、健康保险等"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q678774"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مكاسب العمال",
+    "de": "Arbeitnehmerzulage",
+    "dk": "medarbejderfordel",
+    "en-GB": "employee benefits",
+    "en-US": "employee benefits",
+    "es": "Beneficios laborales",
+    "fr": "Avantages sociaux",
+    "no": "frynsegode",
+    "pt-BR": "benefícios trabalhistas",
+    "pt-PT": "benefícios laborais",
+    "se": "Anställningsförmåner",
+    "zh-Hans": "员工福利"
+  },
+  "qcode": "medtop:20000519",
+  "retired": "2019-10-07T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000519",
+  "aid": "iptc_20000519"
+}

@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000002"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Form der darstellenden Kunst, die Instrumente oder Stimmen verwendet um unterschiedliche Klänge, Töne und Harmonien hörbar zu machen",
+    "dk": "Udtrykke følelser eller formidle budskaber ved hjælp af sang og/eller instrumenter med forskellige lyde, toner og harmonier.",
+    "en-GB": "A form of performing art using instruments or voice to create different sounds, tones and harmonies",
+    "en-US": "A form of performing art using instruments or voice to create different sounds, tones and harmonies",
+    "es": "Una forma de arte utilizando instrumentos o la voz para crear diferentes sonidos, tonos y armonías",
+    "fr": "Art du spectacle utilisant des instruments ou la voix pour créer différents sons, tons et harmonies",
+    "pt-BR": "Forma de expressão artística que usa instrumentos ou voz, usando diferentes sons, tons e harmonias.",
+    "pt-PT": "Forma de expressão artística que usa instrumentos ou voz, usando diferentes sons, tons e harmonias.",
+    "se": "Uttryck av känslor eller överförande av budskap genom att använda röst och/eller instrument med olika ljud, toner och harmonier.",
+    "zh-Hans": "用乐器或嗓音创造出不同的声音、音调与和声的一种表演艺术形式"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01011000",
+    "https://www.wikidata.org/entity/Q638"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000019",
+    "medtop:20000020",
+    "medtop:20000021"
+  ],
+  "prefLabel": {
+    "ar": "موسيقى",
+    "de": "Musik",
+    "dk": "musik",
+    "en-GB": "music",
+    "en-US": "music",
+    "es": "Música",
+    "fr": "Musique",
+    "no": "musikk",
+    "pt-BR": "música",
+    "pt-PT": "música",
+    "se": "Musik",
+    "zh-Hans": "音乐"
+  },
+  "qcode": "medtop:20000018",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000018",
+  "aid": "iptc_20000018"
+}

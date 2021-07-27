@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000784"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Ein Verfahren oder eine Vorrichtung zur Verhinderung einer Schwangerschaft",
+    "dk": "En metode eller en genstand, som bruges for at forhindre graviditet.",
+    "en-GB": "A method or device used to prevent pregnancy",
+    "en-US": "A method or device used to prevent pregnancy",
+    "pt-BR": "Conjunto de métodos ou dispositivos usados para impedir a gravidez.",
+    "pt-PT": "Conjunto de métodos ou dispositivos usados para impedir a gravidez.",
+    "se": "En metod för att förhindra befruktning.",
+    "zh-Hans": "使用某种方法或工具防止怀孕"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q122224"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "وسائل منع الحمل",
+    "de": "Verhütung",
+    "dk": "prævention",
+    "en-GB": "contraception",
+    "en-US": "contraception",
+    "es": "Contracepción",
+    "fr": "Contraception",
+    "no": "prevensjon",
+    "pt-BR": "contracepção",
+    "pt-PT": "contraceção",
+    "se": "Preventivmedel",
+    "zh-Hans": "避孕"
+  },
+  "qcode": "medtop:20001274",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001274",
+  "aid": "iptc_20001274"
+}

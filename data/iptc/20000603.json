@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000598"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mittel eine Nation, einen Staat, ein Gebäude oder eine Person vor Verletzung und äußeren Eingriffen zu schützen",
+    "dk": "Midler til at beskytte en stat, bygning eller person mod skade.",
+    "en-GB": "Means of making a nation, a state, a building or a person secure from harm and outside interference.",
+    "en-US": "Means of making a nation, a state, a building or a person secure from harm and outside interference.",
+    "pt-BR": "Meios para proteger uma nação, um estado, um edifício ou uma pessoa de danos e interferências exteriores.",
+    "pt-PT": "Meios para proteger uma nação, um estado, um edifício ou uma pessoa de danos e interferências exteriores.",
+    "se": "Medel för att skydda en stat, en byggnad eller en person från skada.",
+    "zh-Hans": "使一个民族、国家、建筑物或个人免受伤害和外来干涉的手段"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11001003",
+    "https://www.wikidata.org/entity/Q852008"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000604"
+  ],
+  "prefLabel": {
+    "ar": "اجراءات امنية",
+    "de": "Sicherheitsmaßnahme (Verteidigung)",
+    "dk": "sikkerhedstiltag (forsvar)",
+    "en-GB": "security measures (defence)",
+    "en-US": "security measures (defense)",
+    "es": "Medidas de seguridad",
+    "fr": "Mesures de sécurité",
+    "no": "sivilforsvar",
+    "pt-BR": "medidas de segurança",
+    "pt-PT": "medidas de segurança",
+    "se": "Säkerhetsåtgärder",
+    "zh-Hans": "安全措施（国防）"
+  },
+  "qcode": "medtop:20000603",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000603",
+  "aid": "iptc_20000603"
+}

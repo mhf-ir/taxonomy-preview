@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/16011000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/11000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Konflikte aller Art, die sich zu einer Stufe entwickeln können, abhängig von Ereignissen, bei denen Regierungen gestürzt werden können, Kriege erklärt werden können, Börsenmärkte zusammenbrechen können, oder auch nicht.",
+    "dk": "Konflikter, som når niveauer, hvor regeringer kan afsættes.",
+    "en-GB": "Conflict that rises to a level where, depending on events, governments can fall etc",
+    "en-US": "Conflict that rises to a level where, depending on events, governments can fall etc",
+    "pt-BR": "Conflito que atinge um nível em que, dependendo dos acontecimentos, os governos podem cair.",
+    "pt-PT": "Conflito que atinge um nível em que, dependendo dos acontecimentos, os governos podem cair.",
+    "se": "Konflikter som når nivåer där regeringar kan avsättas.",
+    "zh-Hans": "根据事件的不同上升到一定程度的冲突，如政府可能会垮台等"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q3002772"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ازمة سياسية",
+    "de": "Krise",
+    "dk": "politisk krise",
+    "en-GB": "political crisis",
+    "en-US": "political crisis",
+    "es": "Crisis política",
+    "fr": "Crise politique",
+    "no": "politisk krise",
+    "pt-BR": "crise política",
+    "pt-PT": "crise política",
+    "se": "Politiska kriser",
+    "zh-Hans": "政治危机"
+  },
+  "qcode": "medtop:20000647",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000647",
+  "aid": "iptc_20000647"
+}

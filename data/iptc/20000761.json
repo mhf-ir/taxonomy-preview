@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000756"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Studie, Entwurf, Entwicklung und Anwendung von Systemen, die auf dem Austausch von elektrischen Ladungen basieren, wie z.B. Verbrauchergeräte, Kommunikationssysteme oder Industriecomputer",
+    "dk": "Videnskab og teknologi vedrørende ledning af elektricitet i vakuum, gasser og halvledere.",
+    "en-GB": "The study, design, development and application of systems built on the exchange of electrical charges, such as consumer devices, communications systems or industrial computers",
+    "en-US": "The study, design, development and application of systems built on the exchange of electrical charges, such as consumer devices, communications systems or industrial computers",
+    "es": "El estudio, diseño, desarrollo y aplicación de sistemas basados en el intercambio de cargas eléctricas, como dispositivos de consumo, sistemas de comunicaciones o computadoras industriales",
+    "fr": "Etude, conception, développement et application de systèmes basés sur l'échange de charges électriques, tels que les appareils grand public, les systèmes de communication ou les ordinateurs industriels",
+    "pt-BR": "Estudo, concepção, desenvolvimento e aplicação de sistemas construídos sobre a troca de cargas elétricas, como dispositivos de consumo, sistemas de comunicação ou computadores industriais.",
+    "pt-PT": "Estudo, conceção, desenvolvimento e aplicação de sistemas construídos sobre a troca de cargas elétricas, como dispositivos de consumo, sistemas de comunicação ou computadores industriais.",
+    "se": "Vetenskap och teknik rörande ledning av elektricitet i vakuum, gaser och halvledare.",
+    "zh-Hans": "研究、设计、开发和应用建立在电荷交换基础上的系统，如消费设备、通信系统或工业计算机"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/13016000",
+    "https://www.wikidata.org/entity/Q126095"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "الكترونيات",
+    "de": "Eletrotechnik",
+    "dk": "elektronikteknik",
+    "en-GB": "electronic engineering",
+    "en-US": "electronic engineering",
+    "es": "Ingeniería electrónica",
+    "fr": "Ingénierie électronique",
+    "no": "elektroteknikk",
+    "pt-BR": "engenharia eletrônica",
+    "pt-PT": "engenharia eletrónica",
+    "se": "Elektronik",
+    "zh-Hans": "电子工程"
+  },
+  "qcode": "medtop:20000761",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000761",
+  "aid": "iptc_20000761"
+}

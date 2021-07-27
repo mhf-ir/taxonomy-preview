@@ -1,0 +1,63 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/12000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Anerkannte Glaubensinhalte der einzelnen Religionen",
+    "dk": "Religiøst bestemt livsholdning og fortolkning af livet.",
+    "en-GB": "The established beliefs of an individual's religion",
+    "en-US": "The established beliefs of an individual's religion",
+    "pt-BR": "Crenças estabelecidas da religião de um indivíduo.",
+    "pt-PT": "Crenças estabelecidas da religião de um indivíduo.",
+    "se": "Religiöst bestämd livshållning och livstolkning.",
+    "zh-Hans": "个人宗教的既定信仰"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2728698",
+    "http://cv.iptc.org/newscodes/subjectcode/12002000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000658",
+    "medtop:20000659",
+    "medtop:20000673",
+    "medtop:20000674",
+    "medtop:20000675",
+    "medtop:20000676",
+    "medtop:20000677",
+    "medtop:20000678",
+    "medtop:20000679",
+    "medtop:20000680",
+    "medtop:20000681",
+    "medtop:20000682",
+    "medtop:20000683",
+    "medtop:20000684",
+    "medtop:20000685",
+    "medtop:20000686"
+  ],
+  "prefLabel": {
+    "ar": "ايمان",
+    "de": "Glaube",
+    "dk": "religiøs overbevisning",
+    "en-GB": "religious belief",
+    "en-US": "religious belief",
+    "es": "Creencias",
+    "fr": "Croyances",
+    "no": "religiøs tro",
+    "pt-BR": "crenças religiosas",
+    "pt-PT": "crenças religiosas",
+    "se": "Religiös tro",
+    "zh-Hans": "宗教信仰"
+  },
+  "qcode": "medtop:20000657",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000657",
+  "aid": "iptc_20000657"
+}

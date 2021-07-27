@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000038"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Erinnerungen an historische Personen, Ereignisse in Form von Skulpturen, Statuen, und Bauten, sowie Stätten die sie umfassen",
+    "dk": "Mindesmærker over historiske mennesker, begivenheder eller bestemte områder i form af strukturer som skulpturer, statuer eller bygninger.",
+    "en-GB": "Commemorations of historical people, events, or the areas containing them, in the form of structures such as sculptures, statues or buildings",
+    "en-US": "Commemorations of historical people, events, or the areas containing them, in the form of structures such as sculptures, statues or buildings",
+    "es": "Monumentos que recuerdan a personas o eventos históricos y las áreas que los contienen",
+    "fr": "Biens et monuments commémorant des personnages ou des événements historiques et les sites qui les entourent",
+    "pt-BR": "Áreas que contêm objetos comemorativos da história, de um povo ou de eventos.",
+    "pt-PT": "Construção ou obra que comemora alguém ou algum facto memorável.",
+    "se": "Platser med någon form av påminnelse för att något hänt där eller befunnit sig där. Kan också vara en plats som utsetts för att vara ett minnesmärke för något som hänt någon annanstans.",
+    "zh-Hans": "以雕塑、雕像或建筑物等结构形式纪念历史人物、历史事件或包含这些事件的地区"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01018000",
+    "https://www.wikidata.org/entity/Q914856"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تراث",
+    "de": "Denkmal und Gedenkstätte",
+    "dk": "monument og kulturarv",
+    "en-GB": "monument and heritage site",
+    "en-US": "monument and heritage site",
+    "es": "Monumentos y patrimonio cultural",
+    "fr": "Patrimoine",
+    "no": "kulturvern",
+    "pt-BR": "monumentos e patrimônio",
+    "pt-PT": "monumentos e património",
+    "se": "Kulturarv",
+    "zh-Hans": "纪念碑和遗址"
+  },
+  "qcode": "medtop:20000044",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000044",
+  "aid": "iptc_20000044"
+}

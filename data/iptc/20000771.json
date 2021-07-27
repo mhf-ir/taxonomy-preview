@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/14000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bewegung von Individuen von einem Land in ein anderes",
+    "dk": "Bevægelse af enkeltpersoner fra det ene land til det andet.",
+    "en-GB": "The movement of individuals or groups of people from one country to another",
+    "en-US": "The movement of individuals or groups of people from one country to another",
+    "pt-BR": "Movimentação de indivíduos de um país a outro.",
+    "pt-PT": "Movimentação de indivíduos de um país para outro.",
+    "se": "Personers rörelse från ett land till ett annat.",
+    "zh-Hans": "个人从一个国家到另一个国家的流动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14003002",
+    "https://www.wikidata.org/entity/Q131288"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000773"
+  ],
+  "prefLabel": {
+    "ar": "هجرة",
+    "de": "Einwanderung",
+    "dk": "indvandring",
+    "en-GB": "immigration",
+    "en-US": "immigration",
+    "es": "Inmigración",
+    "fr": "Immigration",
+    "no": "innvandring",
+    "pt-BR": "imigração",
+    "pt-PT": "imigração",
+    "se": "Immigration",
+    "zh-Hans": "移居"
+  },
+  "qcode": "medtop:20000771",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000771",
+  "aid": "iptc_20000771"
+}

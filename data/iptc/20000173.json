@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000171"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kommentare von Analysten zu Aktien, Analysen und Empfehlungen",
+    "dk": "Aktieanalytikeres kommentarer og anbefalinger.",
+    "en-GB": "Stock analyst comments, analysis and recommendations.",
+    "en-US": "Stock analyst comments, analysis and recommendations.",
+    "pt-BR": "Comentários de analistas da bolsa, análises e recomendações.",
+    "pt-PT": "Comentários de analistas da bolsa, análises e recomendações.",
+    "se": "Råd om och analyser av aktier och fonder.",
+    "zh-Hans": "股票分析师的评论、分析和建议"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016006"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تعليق محللين",
+    "de": "Analyst",
+    "dk": "aktieanalyse",
+    "en-GB": "analysts comment",
+    "en-US": "analysts comment",
+    "es": "Comentarios de analistas",
+    "fr": "Commentaires d'analystes",
+    "no": "børskommentar",
+    "pt-BR": "comentários de analistas",
+    "pt-PT": "comentários de analistas",
+    "se": "Aktieanalyser",
+    "zh-Hans": "分析师评论"
+  },
+  "qcode": "medtop:20000173",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000173",
+  "aid": "iptc_20000173"
+}

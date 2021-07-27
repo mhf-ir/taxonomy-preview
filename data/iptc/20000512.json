@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000509"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jemand der seine Zeit und Fähigkeiten gegen Geld und andere Vergütungen anbietet",
+    "dk": "En person, der i en ansættelseskontrakt for vederlag, udfører arbejde for modparten, arbejdsgiveren.",
+    "en-GB": "Those who are paid or otherwise compensated for providing services to employers",
+    "en-US": "Those who are paid or otherwise compensated for providing services to employers",
+    "pt-BR": "Pessoa que troca seu tempo, talento e capacidades por dinheiro e outros benefícios.",
+    "pt-PT": "Pessoa que troca o seu tempo, talento e capacidades por dinheiro e outros benefícios.",
+    "se": "Fysisk person som i ett anställningsavtal mot vederlag utför arbete åt motparten, arbetsgivaren.",
+    "zh-Hans": "一个用自己的时间和才能换取金钱和其他利益的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09016000",
+    "https://www.wikidata.org/entity/Q703534"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "موظف",
+    "de": "Arbeitnehmer",
+    "dk": "medarbejder",
+    "en-GB": "employee",
+    "en-US": "employee",
+    "es": "Empleados",
+    "fr": "Salarié",
+    "no": "arbeidstaker",
+    "pt-BR": "empregado",
+    "pt-PT": "empregado",
+    "se": "Arbetstagare",
+    "zh-Hans": "员工"
+  },
+  "qcode": "medtop:20000512",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000512",
+  "aid": "iptc_20000512"
+}

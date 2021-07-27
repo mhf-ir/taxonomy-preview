@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000243"
+  ],
+  "created": "2019-08-02T12:00:00+00:00",
+  "definition": {
+    "de": "Elektronische Geräte, wie Computer, Smartphones oder Fernseher, die für den persönlichen Gebrauch entworfen und verkauft werden",
+    "dk": "Elektroniske apparater som computere, mobiltelefoner og fjernsyn, som bliver solgt til privat brug.",
+    "en-GB": "Electronic devices, such as computers, smart phones or televisions, designed and sold for personal use",
+    "en-US": "Electronic devices, such as computers, smart phones or televisions, designed and sold for personal use",
+    "pt-BR": "Dispositivos eletrônicos, como computadores, smartphones ou televisores, projetados e vendidos para uso pessoal.",
+    "pt-PT": "Dispositivos eletrónicos, como computadores, smartphones ou televisores, projetados e vendidos para uso pessoal.",
+    "se": "Varor som datorer, telefoner, tv osv som säljs till privatpersoner för personlig användning.",
+    "zh-Hans": "为个人使用而设计和销售的电子设备，如电脑、智能手机或电视"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q581105"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-08-02T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ادوات الكترونية",
+    "de": "Unterhaltungselektronik",
+    "dk": "forbrugerelektronik",
+    "en-GB": "consumer electronics",
+    "en-US": "consumer electronics",
+    "es": "Electrónica de consumo",
+    "fr": "Électronique grand public",
+    "no": "forbrukerelektronikk",
+    "pt-BR": "eletrônica de consumo",
+    "pt-PT": "eletrónica de consumo",
+    "se": "Konsumentelektronik",
+    "zh-Hans": "消费类电子产品"
+  },
+  "qcode": "medtop:20001258",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001258",
+  "aid": "iptc_20001258"
+}

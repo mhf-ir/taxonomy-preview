@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000533"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Reduzierung von Arbeit innerhalb einer Firma durch Entlassungen aufgrund sich ändernder wirtschaftlicher Bedingungen.",
+    "dk": "Reduktion af en virksomheds arbejdsstyrke set fra arbejdstagers synspunkt.",
+    "en-GB": "The reduction of a company's work force through dismissal because of changing economic factors",
+    "en-US": "The reduction of a company's work force through dismissal because of changing economic factors",
+    "pt-BR": "Redução da força de trabalho de uma empresa, através de despedimento por alteração de fatores econômicos.",
+    "pt-PT": "Redução da força de trabalho de uma empresa, através de despedimento por alteração de fatores económicos.",
+    "se": "Ensidig förklaring av part i anställnings- eller kollektivavtal att avtalet ska upphöra på grund av förändrade ekonomiska förutsättningar.",
+    "zh-Hans": "由于经济因素的变化通过解雇方式而减少公司的人员规模"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09003002",
+    "https://www.wikidata.org/entity/Q1462531"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تسريح موظفين",
+    "de": "Personalabbau",
+    "dk": "afskedigelse",
+    "en-GB": "job layoffs",
+    "en-US": "job layoffs",
+    "es": "Despidos",
+    "fr": "Plan social",
+    "no": "permittering",
+    "pt-BR": "demissões",
+    "pt-PT": "despedimentos",
+    "se": "Uppsägningar",
+    "zh-Hans": "裁员"
+  },
+  "qcode": "medtop:20000534",
+  "retired": "2019-10-07T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000534",
+  "aid": "iptc_20000534"
+}

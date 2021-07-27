@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001011"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Einzelzeitrennen auf Skiern über eine mit Fackeln markierte Strecke, die der Wettkämpfer mithilfe von Kompass und Karte in einer bestimmten Reihenfolge finden muss",
+    "dk": "Orienteringsløb hvor konkurrenterne har ski på fødderne. Ved hjælp af et kort og kompas finder skiløberen et antal poster.",
+    "en-GB": "An individual ski time-trial over a route marked out by beacons, that the competitor has to search out and find in a specific order. The contestant makes his way with the help of a compass and map",
+    "en-US": "An individual ski time-trial over a route marked out by beacons, that the competitor has to search out and find in a specific order. The contestant makes his way with the help of a compass and map",
+    "pt-BR": "Corrida individual de esqui contra o relógio em percurso assinalado por marcas. O atleta, que prossegue com a ajuda de bússola e mapa, tem que procurar e encontrar as marcas segundo determinada ordem.",
+    "pt-PT": "Corrida individual de esqui contrarrelógio em percurso assinalado por marcas. O atleta, que prossegue com a ajuda de bússola e mapa, tem que procurar e encontrar as marcas segundo determinada ordem.",
+    "se": "Fungerar som orientering på barmark med den skillnaden att de tävlande har skidor på fötterna. Med hjälp av karta och kompass ska åkaren hitta fram till ett antal kontroller.",
+    "zh-Hans": "计时滑雪比赛，路线由标志划出。选手必须按特定顺序找到标志。可以使用指南针和地图"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15044001",
+    "https://www.wikidata.org/entity/Q428242"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تزلج على الثلج",
+    "de": "Ski Orientierung",
+    "dk": "skiorientering",
+    "en-GB": "ski orienteering",
+    "en-US": "ski orienteering",
+    "es": "Orientación en esquí",
+    "fr": "Course d'orientation à skis",
+    "no": "skiorientering",
+    "pt-BR": "orientação em esqui",
+    "pt-PT": "orientação em esqui",
+    "se": "Skidorientering",
+    "zh-Hans": "定向滑雪"
+  },
+  "qcode": "medtop:20001012",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001012",
+  "aid": "iptc_20001012"
+}

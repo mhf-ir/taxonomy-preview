@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000570"
+  ],
+  "created": "2019-07-30T12:00:00+00:00",
+  "definition": {
+    "de": "Interesse an der Renovierung der eigenen Immobilie",
+    "dk": "Interesse i at istandsætte fast ejendom.",
+    "en-GB": "Interest in renovating one's property",
+    "en-US": "Interest in renovating one's property",
+    "pt-BR": "Interesse por reformar casas.",
+    "pt-PT": "Interesse por renovar casas.",
+    "se": "Intresse i att renovera och bygga om ens eget hem.",
+    "zh-Hans": "翻新自己财产的爱好"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2789106"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-30T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ترميم منازل",
+    "de": "Hausrenovierung",
+    "dk": "gør-det-selv",
+    "en-GB": "home renovation",
+    "en-US": "home renovation",
+    "es": "Renovación del hogar",
+    "fr": "Travaux de rénovation",
+    "no": "oppussing",
+    "pt-BR": "reforma de casas",
+    "pt-PT": "renovação de casas",
+    "se": "Gör det själv",
+    "zh-Hans": "家居装修"
+  },
+  "qcode": "medtop:20001255",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001255",
+  "aid": "iptc_20001255"
+}

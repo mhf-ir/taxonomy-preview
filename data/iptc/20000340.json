@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000337"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Geschäft mit dem Transport von Menschen und Ware auf der Schiene.",
+    "dk": "Bevægelse af mennesker eller varer med tog og jernbaner.",
+    "en-GB": "The business of transporting people or cargo by rail",
+    "en-US": "The business of transporting people or cargo by rail",
+    "pt-BR": "Negócio do transporte de pessoas ou carga por trem.",
+    "pt-PT": "Negócio do transporte de pessoas ou carga por comboio.",
+    "se": "Kommersiell förflyttning av folk eller varor med hjälp av tåg och och järnvägar.",
+    "zh-Hans": "客运和货运"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04015002",
+    "https://www.wikidata.org/entity/Q3565868"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نقل بالقطارات",
+    "de": "Bahn",
+    "dk": "jernbanetransport",
+    "en-GB": "railway transport",
+    "en-US": "railway transport",
+    "es": "Transporte ferroviario",
+    "fr": "Transport ferroviaire",
+    "no": "jernbanetransport",
+    "pt-BR": "transporte ferroviário",
+    "pt-PT": "transporte ferroviário",
+    "se": "Järnvägstransport",
+    "zh-Hans": "铁路运输"
+  },
+  "qcode": "medtop:20000340",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000340",
+  "aid": "iptc_20000340"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000768"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bildung von Gemeinschaften auch durch die Nutzung von Online-Medien",
+    "dk": "Opbygning af fællesskaber af mennesker, herunder brug af onlinemedier.",
+    "en-GB": "Social interactions, either in person or online, intended to share information and build relationships around common interests",
+    "en-US": "Social interactions, either in person or online, intended to share information and build relationships around common interests",
+    "pt-BR": "Construção de comunidades de pessoas, incluindo o uso de meios de mídia online.",
+    "pt-PT": "Construção de comunidades de pessoas, incluindo o uso de meios de comunicação online.",
+    "se": "Bygget av gemenskaper, bland annat med hjälp av sociala medier.",
+    "zh-Hans": "包括使用在线媒体建立人们的社区"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q19368491"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "شبكات تواصل اجتماعي",
+    "de": "Soziales Netzwerk",
+    "dk": "socialt netværk",
+    "en-GB": "social networking",
+    "en-US": "social networking",
+    "es": "Redes sociales",
+    "fr": "Réseaux sociaux",
+    "no": "sosialt nettverk",
+    "pt-BR": "redes sociais",
+    "pt-PT": "redes sociais",
+    "se": "Socialt nätverkande",
+    "zh-Hans": "社交网络"
+  },
+  "qcode": "medtop:20000769",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000769",
+  "aid": "iptc_20000769"
+}

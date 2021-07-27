@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001250"
+  ],
+  "created": "2019-07-30T12:00:00+00:00",
+  "definition": {
+    "de": "Eine Form der Körpermodifikation, bei der ein Design durch Einbringen von Tinte, Farbstoffen und Pigmenten in die Dermisschicht der Haut hergestellt wird, um das Pigment dauerhaft zu verändern",
+    "dk": "En form for kropsudsmykning, hvor man gennemhuller eller skærer i dele af den menneskelige krop.",
+    "en-GB": "A form of body modification where a design is made by inserting ink, dyes and pigments into the dermis layer of the skin to permanently change the pigment",
+    "en-US": "A form of body modification where a design is made by inserting ink, dyes and pigments into the dermis layer of the skin to permanently change the pigment",
+    "pt-BR": "Tipo de modificação corporal em que se cria um desenho ou texto inserindo tinta, corantes e pigmentos na camada da derme da pele para alterar permanentemente o pigmento da pele.",
+    "pt-PT": "Tipo de modificação corporal em que se cria um desenho ou texto inserindo tinta, corantes e pigmentos na camada da derme da pele para alterar permanentemente o pigmento da pele.",
+    "se": "Dekorering av den egna kroppen genom att bläck förs in i skinnet och bildar en permanent bild eller text.",
+    "zh-Hans": "身体修饰的一种形式，通过将墨水、染料和颜料插入皮肤的真皮层以永久改变颜料来进行设计"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q43006"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-30T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "وشم",
+    "de": "Tätowierung",
+    "dk": "piercing",
+    "en-GB": "tattooing",
+    "en-US": "tattooing",
+    "es": "Tatuaje",
+    "fr": "Tatouage",
+    "no": "tatovering",
+    "pt-BR": "tatuagem",
+    "pt-PT": "tatuagem",
+    "se": "Tatuering",
+    "zh-Hans": "纹身"
+  },
+  "qcode": "medtop:20001251",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001251",
+  "aid": "iptc_20001251"
+}

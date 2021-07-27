@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zwei oder mehr Unternehmen bilden ein neues, Fusion, Übernahme oder Akquisition",
+    "dk": "En virksomhed slår sig sammen med en anden, enten i form af en fusion eller ved opkøb.",
+    "en-GB": "Two or more companies forming a new company mergers, takeovers or acquisitions.",
+    "en-US": "Two or more companies forming a new company mergers, takeovers or acquisitions.",
+    "pt-BR": "Duas ou mais empresas que formam uma nova empresa.",
+    "pt-PT": "Duas ou mais empresas que formam uma nova empresa.",
+    "se": "Två eller fler företag som bildar ett nytt företag genom fusion, övertagande eller förvärv.",
+    "zh-Hans": "两家或多家公司通过合并或收购组成新公司"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016005",
+    "https://www.wikidata.org/entity/Q731112"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اندماج او استحواذ",
+    "de": "Fusion",
+    "dk": "fusion eller opkøb",
+    "en-GB": "merger or acquisition",
+    "en-US": "merger or acquisition",
+    "es": "Fusiones, adquisiciones",
+    "fr": "Fusion ou acquisition",
+    "no": "fusjoner og overtakelser",
+    "pt-BR": "fusão e aquisição",
+    "pt-PT": "fusão e aquisição",
+    "se": "Fusioner och förvärv",
+    "zh-Hans": "合并或收购"
+  },
+  "qcode": "medtop:20000204",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000204",
+  "aid": "iptc_20000204"
+}

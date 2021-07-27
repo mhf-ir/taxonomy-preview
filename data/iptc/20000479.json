@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/07000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Politische Entscheidungen in Bezug auf die Gesundheit, umfasst was die Länder tun für die Drogenbekämpfung, AIDS, psychiatrische Versorgung, öffentliche Mittel für die Gesundheitsversorgung und ähnliches",
+    "dk": "Politikker, der inkluderer civil sundhedspleje, tandpleje, militær sundhedspleje og folkesundhed generelt.",
+    "en-GB": "Health-related policy decisions including what different countries are doing regarding prescription drug policies, AIDS, psychiatric care, health care funding and related topics.",
+    "en-US": "Health-related policy decisions including what different countries are doing regarding prescription drug policies, AIDS, psychiatric care, health care funding and related topics.",
+    "pt-BR": "Decisões políticas relativas à saúde, incluindo o que diferentes países estão a fazer em relação à prescrição de medicamentos, aids, cuidados psiquiátricos, financiamento da assistência médica e tópicos relacionados.",
+    "pt-PT": "Decisões políticas relativas à saúde, incluindo o que diferentes países estão a fazer em relação à prescrição de medicamentos, sida, cuidados psiquiátricos, financiamento da assistência médica e tópicos relacionados.",
+    "se": "Politik som innefattar civil sjukvård, tandvård, militär sjukvård och folkhälsa.",
+    "zh-Hans": "与卫生有关的政策决定，包括不同国家在处方药政策、艾滋病、精神护理、卫生保健资金和相关主题方面的做法"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07013000",
+    "https://www.wikidata.org/entity/Q1519812"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000480",
+    "medtop:20000483",
+    "medtop:20000484"
+  ],
+  "prefLabel": {
+    "ar": "سياسة الرعاية الطبية",
+    "de": "Gesundheitspolitik",
+    "dk": "sundhedspolitik",
+    "en-GB": "healthcare policy",
+    "en-US": "healthcare policy",
+    "es": "Política de atención de salud",
+    "fr": "Politique de santé",
+    "no": "helsepolitikk",
+    "pt-BR": "política de saúde",
+    "pt-PT": "política de saúde",
+    "se": "Hälso- och sjukvårdspolitik",
+    "zh-Hans": "医疗保健政策"
+  },
+  "qcode": "medtop:20000479",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000479",
+  "aid": "iptc_20000479"
+}

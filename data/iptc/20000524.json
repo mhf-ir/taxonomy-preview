@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09012000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/09000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Das Geben und Nehmen zwischen Unternehmensführung und Beschäftigten",
+    "dk": "Forhandlinger mellem arbejdsgivere og arbejdstagere.",
+    "en-GB": "The relationship between workers and employers",
+    "en-US": "The relationship between workers and employers",
+    "pt-BR": "Intercâmbio entre administração e empregados.",
+    "pt-PT": "Intercâmbio entre administração e empregados.",
+    "se": "Förhandlingar mellan arbetsgivare och arbetstagare.",
+    "zh-Hans": "管理层和员工之间的相互让步"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q608190"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000525",
+    "medtop:20000529"
+  ],
+  "prefLabel": {
+    "ar": "علاقات عمل",
+    "de": "Arbeitsbeziehung",
+    "dk": "overenskomst",
+    "en-GB": "labour relations",
+    "en-US": "labor relations",
+    "es": "Relaciones laborales",
+    "fr": "Relations du travail",
+    "no": "ansettelsesforhold",
+    "pt-BR": "relações trabalhistas",
+    "pt-PT": "relações laborais",
+    "se": "Anställningsförhållanden",
+    "zh-Hans": "劳动关系"
+  },
+  "qcode": "medtop:20000524",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000524",
+  "aid": "iptc_20000524"
+}

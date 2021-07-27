@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000802"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Vorfälle in die minderjährige Täter verwickelt sind",
+    "dk": "Hændelser, der involverer mindreårige gerningsmænd.",
+    "en-GB": "Unlawful conduct perpetrated by minors, often on a repeated basis",
+    "en-US": "Unlawful conduct perpetrated by minors, often on a repeated basis",
+    "pt-BR": "Atos de delinquência realizados por menores de idade.",
+    "pt-PT": "Atos de delinquência realizados por menores de idade.",
+    "se": "Den brottslighet som främst personer i åldern 15–20 år står för.",
+    "zh-Hans": "涉及未成年人犯罪者的事件。"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14019000",
+    "https://www.wikidata.org/entity/Q1001125"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "جنوح الاحداث",
+    "de": "Jugendkriminalität",
+    "dk": "ungdomskriminalitet",
+    "en-GB": "juvenile delinquency",
+    "en-US": "juvenile delinquency",
+    "es": "Delincuencia juvenil",
+    "fr": "Délinquance juvénile",
+    "no": "ungdomskriminalitet",
+    "pt-BR": "delinquência juvenil",
+    "pt-PT": "delinquência juvenil",
+    "se": "Ungdomsbrottslighet",
+    "zh-Hans": "青少年犯罪"
+  },
+  "qcode": "medtop:20000805",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000805",
+  "aid": "iptc_20000805"
+}

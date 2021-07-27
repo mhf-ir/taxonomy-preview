@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2014-01-20T12:00:00+00:00",
+  "definition": {
+    "de": "Wettrennen von vier und mehr Eisschnelläufern auf einer kurzen, ovalen Eisbahn.",
+    "dk": "Skøjteløb på en oval bane. Normalt fire deltagere pr. løb.",
+    "en-GB": "Races competed by four or more skaters at a time on a small oval ice track",
+    "en-US": "Races competed by four or more skaters at a time on a small oval ice track",
+    "pt-BR": "Corridas de 4 ou mais patinadores em pista oval de gelo. Provas de qualificação, semifinais e finais determinam os vencedores.",
+    "pt-PT": "Corridas de 4 ou mais patinadores em pista oval de gelo. Provas de qualificação, semifinais e finais determinam os vencedores.",
+    "se": "Skridskotävling i heat på en oval bana. Normalt fyra tävlande per heat.",
+    "zh-Hans": "在小的椭圆形冰场进行的由4个或多个选手同时参加的速滑比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15056007",
+    "https://www.wikidata.org/entity/Q193654"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-01-20T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "التزحلق السريع على الجليد",
+    "de": "Shorttrack Eisschnellauf",
+    "dk": "shorttrack",
+    "en-GB": "short track speed skating",
+    "en-US": "short track speed skating",
+    "es": "Patinaje de velocidad sobre pista corta",
+    "fr": "Short-track",
+    "no": "kortbaneløp",
+    "pt-BR": "patinação de pista curta",
+    "pt-PT": "patinagem de pista curta",
+    "se": "Shorttrack",
+    "zh-Hans": "短道速滑"
+  },
+  "qcode": "medtop:20001151",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001151",
+  "aid": "iptc_20001151"
+}

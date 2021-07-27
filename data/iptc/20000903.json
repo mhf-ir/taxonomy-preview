@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15019015"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000892"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Radfahren im Gelände erfordert Ausdauer und speziell angepasste Mountainbikes",
+    "dk": "Terræn, off-road cykeltur, der kræver udholdenhed og specielt tilpassede mountainbikes.",
+    "en-GB": "All-terrain, off-road bicycle riding requiring endurance and specially adapted mountain bikes",
+    "en-US": "All-terrain, off-road bicycle riding requiring endurance and specially adapted mountain bikes",
+    "pt-BR": "Corrida de bicicleta fora de estrada que requer resistência e bicicletas de montanha especialmente adaptadas.",
+    "pt-PT": "Corrida de bicicleta todo-o-terreno que requer resistência e bicicletas de montanha especialmente adaptadas.",
+    "se": "Terrängcykling med speciella cyklar, bygger på uthållighet.",
+    "zh-Hans": "使用专门改装的，高耐受力的山地自行车进行的全地形越野自行车赛"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q520611"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/mountainbikingtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "دراجات جبلية",
+    "de": "Mountainbiken",
+    "dk": "mountainbike",
+    "en-GB": "mountain biking",
+    "en-US": "mountain biking",
+    "es": "Bicicleta de montaña",
+    "fr": "VTT",
+    "no": "stisykling",
+    "pt-BR": "ciclismo de montanha",
+    "pt-PT": "ciclismo de montanha",
+    "se": "Mountainbike",
+    "zh-Hans": "山地自行车赛"
+  },
+  "qcode": "medtop:20000903",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000903",
+  "aid": "iptc_20000903"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000570"
+  ],
+  "created": "2019-07-30T12:00:00+00:00",
+  "definition": {
+    "de": "Interesse an der Arbeit im eigenen Garten",
+    "dk": "Interesse i at beplante og ordne en have.",
+    "en-GB": "Interest in working in one's garden",
+    "en-US": "Interest in working in one's garden",
+    "pt-BR": "Interesse por trabalhar no jardim.",
+    "pt-PT": "Interesse por trabalhar no jardim.",
+    "se": "Intresse i att designa, anlägga och sköta sin egen trädgård.",
+    "zh-Hans": "对在花园里工作的爱好"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q124946"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-07-30T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تنظيم الحدائق",
+    "de": "Gärtnern",
+    "dk": "havearbejde",
+    "en-GB": "gardening",
+    "en-US": "gardening",
+    "es": "Jardinería",
+    "fr": "Jardinage",
+    "no": "hagearbeid",
+    "pt-BR": "jardinagem",
+    "pt-PT": "jardinagem",
+    "se": "Trädgårdsdesign",
+    "zh-Hans": "园艺"
+  },
+  "qcode": "medtop:20001257",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001257",
+  "aid": "iptc_20001257"
+}

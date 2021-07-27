@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000349"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Ein kleines und mittleres Unternehmen (KMU) ist ein Unternehmen, dessen Mitarbeiterzahl, Bilanz und Umsatz bestimmte, vom Land, in dem es ansässig ist, festgelegte Grenzen nicht überschreiten dürfen.",
+    "dk": "En lille eller mellemstor virksomhed (SMV) er en virksomhed, hvis antal ansatte, balance og omsætning ikke kan overstige visse grænser, der er fastsat af det land, hvor det er beliggende.",
+    "en-GB": "A small and medium enterprise (SME) is a company whose number of employees, balance, and turnover cannot exceed certain limits set by the country where it is located.",
+    "en-US": "A small and medium enterprise (SME) is a company whose number of employees, balance, and turnover cannot exceed certain limits set by the country where it is located.",
+    "pt-BR": "Uma pequena e média empresa (PME) é uma empresa cujo número de funcionários, saldo e volume de negócios não pode exceder certos limites definidos pelo país onde está localizada.",
+    "pt-PT": "Uma pequena e média empresa (PME) é uma empresa cujo número de funcionários, saldo e volume de negócios não pode exceder certos limites definidos pelo país onde está localizada.",
+    "se": "Företag vars antal anställda, omsättning och balansräkning inte får överskrida vissa nivåer som är uppsatta av landet de verkar i.",
+    "zh-Hans": "中小企业(SME)是指员工数量、结余和营业额不能超过其所在国家规定的某些限制的公司"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q622439"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الشركات المتوسطة والصغيرة",
+    "de": "kleine und mittlere Unternehmen",
+    "dk": "små og mellemstore virksomheder (SMV)",
+    "en-GB": "small and medium enterprise",
+    "en-US": "small and medium enterprise",
+    "es": "Pequeña y mediana empresa",
+    "fr": "Petites et moyennes entreprises",
+    "no": "små og mellomstore bedrifter",
+    "pt-BR": "pequena e média empresa",
+    "pt-PT": "pequena e média empresa",
+    "se": "Små och medelstora företag",
+    "zh-Hans": "中小企业"
+  },
+  "qcode": "medtop:20001172",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001172",
+  "aid": "iptc_20001172"
+}

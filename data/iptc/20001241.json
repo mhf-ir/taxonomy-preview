@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000560"
+  ],
+  "created": "2019-06-26T12:00:00+00:00",
+  "definition": {
+    "de": "Das Reiten von Pferden zur Freizeitgestaltung oder zur leichten Bewegung.",
+    "dk": "Ridning for fornøjelsens skyld.",
+    "en-GB": "The riding of horses for leisure or light exercise.",
+    "en-US": "The riding of horses for leisure or light exercise.",
+    "pt-BR": "Andar a cavalo para lazer ou para exercícios leves.",
+    "pt-PT": "Andar a cavalo para lazer ou para exercícios leves.",
+    "se": "Fritidsaktivitet där personen sitter på en häst. Inomhus eller utomhus.",
+    "zh-Hans": "为休闲或轻度运动而骑马"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q179226"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-06-26T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ركوب الخيل",
+    "de": "Reiten",
+    "dk": "hesteridning",
+    "en-GB": "horseback riding",
+    "en-US": "horseback riding",
+    "es": "Equitación (ocio)",
+    "fr": "Équitation (loisir)",
+    "no": "ridning",
+    "pt-BR": "equitação",
+    "pt-PT": "equitação",
+    "se": "Ridning",
+    "zh-Hans": "骑马"
+  },
+  "qcode": "medtop:20001241",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001241",
+  "aid": "iptc_20001241"
+}

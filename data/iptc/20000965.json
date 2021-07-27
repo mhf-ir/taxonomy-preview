@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zwei Mannschaften mit jeweils sechs stark gepolsterten Läufern versuchen sich gegenseitig auszutricksen, um den Puck in das gegnerische Tor zu schießen",
+    "dk": "To hold på seks polstrede ishockeyspillere med stave, som forsøger at score mod hinanden ved at slå en puck ind i modstanderens mål.",
+    "en-GB": "Two teams of six heavily padded skaters try and outscore each other by hitting a puck into the opponents goal.",
+    "en-US": "Two teams of six heavily padded skaters try and outscore each other by hitting a puck into the opponents goal.",
+    "pt-BR": "Duas equipes de 6 patinadores fortemente equipados e munidos de tacos com que tentam introduzir um disco no gol do adversário.",
+    "pt-PT": "Duas equipas de 6 patinadores fortemente equipados e munidos de tacos com que tentam introduzir um disco na baliza do adversário.",
+    "se": "Spelas på is mellan sexmannalag där spelarna har skydd, skridskor på fötterna och klubba i handen. Runt isen finns en sarg. Spelarna försöker få in pucken i motståndarnas mål. Normal matchtid är 3x20 minuter.",
+    "zh-Hans": "两队各由六名运动员组成，队员穿着厚重的溜冰服，试图通过将冰球射入对方球门来得分"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15031000",
+    "https://www.wikidata.org/entity/Q41466"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000966"
+  ],
+  "prefLabel": {
+    "ar": "هوكي الجليد",
+    "de": "Eishockey",
+    "dk": "ishockey",
+    "en-GB": "ice hockey",
+    "en-US": "ice hockey",
+    "es": "Hockey sobre hielo",
+    "fr": "Hockey sur glace",
+    "no": "ishockey",
+    "pt-BR": "hóquei no gelo",
+    "pt-PT": "hóquei no gelo",
+    "se": "Ishockey",
+    "zh-Hans": "冰球"
+  },
+  "qcode": "medtop:20000965",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000965",
+  "aid": "iptc_20000965"
+}

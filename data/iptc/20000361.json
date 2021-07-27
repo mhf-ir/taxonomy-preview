@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000358"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Unverkaufte Güter, die von Produktionsfirmen, Warenhäusern und Einzelhändlern zurückbehalten wurden",
+    "dk": "Varer, der ikke er solgt, men opbevares af producenten, grossisten eller forhandleren.",
+    "en-GB": "Goods not sold and held by the producer, wholesaler or retailer",
+    "en-US": "Goods not sold and held by the producer, wholesaler or retailer",
+    "pt-BR": "Bens que não foram vendidos e que permanecem no produtor, atacadista ou varejista.",
+    "pt-PT": "Bens que não foram vendidos e que permanecem no produtor, grossista ou retalhista.",
+    "se": "Varor som inte har sålts utan förvaras av producent, grossist eller återförsäljare.",
+    "zh-Hans": "生产者、批发商、零售商未销售或持有的货物"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016044",
+    "https://www.wikidata.org/entity/Q815410"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "جردة",
+    "de": "Inventur",
+    "dk": "lagerbeholdning",
+    "en-GB": "inventories",
+    "en-US": "inventories",
+    "es": "Inventarios",
+    "fr": "Stocks",
+    "no": "beholdning",
+    "pt-BR": "inventários",
+    "pt-PT": "inventários",
+    "se": "Lagerstatus",
+    "zh-Hans": "库存"
+  },
+  "qcode": "medtop:20000361",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000361",
+  "aid": "iptc_20000361"
+}

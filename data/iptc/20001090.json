@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001089"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zwei Teams mit je zwei Spielern spielen auf einem Sandfeld. Anders als beim Volleyball werden nur dann Punkte gemacht, wenn ein Team einen Satz gewinnt oder einen Fehler macht. Der Sanduntergrund macht das Spiel anstrengender als Volleyball",
+    "dk": "Selve spillet er som volleyball, men spilles på sand med to personer på hvert hold.",
+    "en-GB": "Two teams of two players compete on a sand court. Unlike indoor volleyball, points are scored only when the serving team wins a rally or forces an error. The sand surface makes it more physically demanding than volleyball",
+    "en-US": "Two teams of two players compete on a sand court. Unlike indoor volleyball, points are scored only when the serving team wins a rally or forces an error. The sand surface makes it more physically demanding than volleyball",
+    "pt-BR": "Jogo de bola que opõe duas equipes de 2 jogadores ao ar livre, em campo de areia dividido ao meio por rede. A areia torna esta modalidade mais difícil do que o vôlei de interior.",
+    "pt-PT": "Jogo de bola que opõe duas equipas de 2 jogadores ao ar livre, em campo de areia dividido ao meio por rede. A areia torna esta modalidade mais difícil do que o vólei de interior.",
+    "se": "Själva spelet är som volleyboll, men spelas på sand med två personer i varje lag.",
+    "zh-Hans": "集体球类运动。每队两人，在室外沙地球场比赛。与室内排球不同的是，只有发球方赢得回合或对方失误才可以得分。运动员在沙地球场比室内排球体力消耗量更大"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15067001",
+    "https://www.wikidata.org/entity/Q4543"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كرة طائرة شاطئية",
+    "de": "Beachvolleyball",
+    "dk": "beachvolley",
+    "en-GB": "beach volleyball",
+    "en-US": "beach volleyball",
+    "es": "Vóley playa",
+    "fr": "Beach volley",
+    "no": "sandvolleyball",
+    "pt-BR": "vôlei de praia",
+    "pt-PT": "voleibol de praia",
+    "se": "Beachvolleyboll",
+    "zh-Hans": "沙滩排球"
+  },
+  "qcode": "medtop:20001090",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001090",
+  "aid": "iptc_20001090"
+}

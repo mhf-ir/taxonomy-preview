@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000565"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Nahrungsmittel, die erzeugt wurden, ohne künstlichen Dünger oder chemische Zusätze",
+    "dk": "Mad der dyrkes uden kunstgødning eller kemiske forbindelser.",
+    "en-GB": "Food which is grown using no artificial fertilisers or chemical compounds",
+    "en-US": "Food which is grown using no artificial fertilizers or chemical compounds",
+    "pt-BR": "Alimentos produzidos sem uso de fertilizantes artificiais ou compostos químicos.",
+    "pt-PT": "Alimentos produzidos sem uso de fertilizantes artificiais ou compostos químicos.",
+    "se": "Mat som är framodlad utan konstgödsel eller kemiska föreningar.",
+    "zh-Hans": "不使用人工合成肥料或化合物种植的食物"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10003001",
+    "https://www.wikidata.org/entity/Q380778"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "غذاء عضوي",
+    "de": "Biologische Nahrungsmittel",
+    "dk": "økologisk fødevare",
+    "en-GB": "organic food",
+    "en-US": "organic food",
+    "es": "Alimentos orgánicos",
+    "fr": "Aliments biologiques",
+    "no": "økologisk mat",
+    "pt-BR": "alimentos biológicos",
+    "pt-PT": "alimentos biológicos",
+    "se": "Ekologisk mat",
+    "zh-Hans": "有机食物"
+  },
+  "qcode": "medtop:20000569",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000569",
+  "aid": "iptc_20000569"
+}

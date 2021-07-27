@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000424"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Umweltbelastung durch Müll, inklusive Wiederverwertung",
+    "dk": "Miljøpåvirkning af affald, herunder genanvendelsesindsats.",
+    "en-GB": "The environmental impact of waste, including recycling efforts",
+    "en-US": "The environmental impact of waste, including recycling efforts",
+    "pt-BR": "Impacto ambiental do lixo, incluindo os esforços de reciclagem.",
+    "pt-PT": "Impacto ambiental do lixo, incluindo os esforços de reciclagem.",
+    "se": "Skräpets påverkan på miljön, inklusive återvinning.",
+    "zh-Hans": "如垃圾对环境的影响，包括垃圾回收工作"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06009000",
+    "https://www.wikidata.org/entity/Q45701"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "نفايات",
+    "de": "Abfall",
+    "dk": "affald og genanvendelse",
+    "en-GB": "waste materials",
+    "en-US": "waste materials",
+    "es": "Residuos",
+    "fr": "Déchets",
+    "no": "avfall",
+    "pt-BR": "resíduos",
+    "pt-PT": "resíduos",
+    "se": "Avfall",
+    "zh-Hans": "废物"
+  },
+  "qcode": "medtop:20000428",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000428",
+  "aid": "iptc_20000428"
+}

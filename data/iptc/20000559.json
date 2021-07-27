@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000553"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gymnasien, Stadien oder Arenen wo Sportereignisse stattfinden",
+    "dk": "Bygninger og anlæg, hvor sportsbegivenheder finder sted.",
+    "en-GB": "Gymnasiums, stadiums or arenas where sports events take place",
+    "en-US": "Gymnasiums, stadiums or arenas where sports events take place",
+    "pt-BR": "Pavilhões, estádios ou recintos onde têm lugar eventos esportivos.",
+    "pt-PT": "Pavilhões, estádios ou recintos onde têm lugar eventos desportivos.",
+    "se": "Byggnader där sportevenemang äger rum.",
+    "zh-Hans": "体育馆、体育场或体育赛事的竞技场"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1076486"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "منشأت رياضية",
+    "de": "Sportanlagen",
+    "dk": "sportsfacilitet",
+    "en-GB": "sports facilities",
+    "en-US": "sports facilities",
+    "es": "Instalaciones deportivas",
+    "fr": "Complexe sportif",
+    "no": "idrettsanlegg",
+    "pt-BR": "instalações esportivas",
+    "pt-PT": "instalações desportivas",
+    "se": "Sportanläggningar",
+    "zh-Hans": "体育设施"
+  },
+  "qcode": "medtop:20000559",
+  "retired": "2021-02-18T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000559",
+  "aid": "iptc_20000559"
+}

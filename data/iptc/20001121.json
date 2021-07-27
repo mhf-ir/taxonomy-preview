@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001108"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkampf, an dem die besten Wettkämpfer oder Teams der fünf Kontinente teilnehmen. Meisterschaft genannt",
+    "dk": "Mesterskaber, hvor atleter eller hold fra alle kontinenter kan deltage.",
+    "en-GB": "A competition where individuals or teams from the five continents may participate. Called *World Championship*",
+    "en-US": "A competition where individuals or teams from the five continents may participate. Called *World Championship*",
+    "pt-BR": "Competição em que podem participar indivíduos ou equipes dos cinco continentes. Designa-se por *Campeonato do Mundo*.",
+    "pt-PT": "Competição em que podem participar indivíduos ou equipas dos cinco continentes. Designa-se por *Campeonato do Mundo*.",
+    "se": "Mästerskap där atleter eller lag från samtliga världsdelar kan delta.",
+    "zh-Hans": "世界五大洲运动员或运动队都可参加的竞标体育赛事"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15073026",
+    "https://www.wikidata.org/entity/Q1344963"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بطولة العالم",
+    "de": "Weltmeisterschaft",
+    "dk": "verdensmesterskab",
+    "en-GB": "world championship",
+    "en-US": "world championship",
+    "es": "Campeonato mundial",
+    "fr": "Championnat du monde",
+    "no": "vm",
+    "pt-BR": "campeonato do mundo",
+    "pt-PT": "campeonato do mundo",
+    "se": "Världsmästerskap",
+    "zh-Hans": "世界锦标赛"
+  },
+  "qcode": "medtop:20001121",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001121",
+  "aid": "iptc_20001121"
+}

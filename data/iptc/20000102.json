@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000101"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kriminelle Aktivitäten von Gruppen, meist in Randgebieten, die verbunden sind durch gemeinsame Herkunft, Sprache und ethnischem Hintergrund aber meist nur wenig organisiert",
+    "dk": "Kriminalitet udført af grupper, der har en samhørighed gennem for eksempel områder, sprog, etnicitet eller baggrund.",
+    "en-GB": "Criminal activities by groups of individuals, who are allied by common territories, languages or ethnic backgrounds and identify by a common group identity by using a shared name, tattoo, hand sign, clothing style or graffiti symbol",
+    "en-US": "Criminal activities by groups of individuals, who are allied by common territories, languages or ethnic backgrounds and identify by a common group identity by using a shared name, tattoo, hand sign, clothing style or graffiti symbol",
+    "pt-BR": "Atividades criminosas cometidas por grupos de indivíduos, ligados por territórios, línguas ou  origens étnicas comuns, e que se identificam por um identidade de grupo comum, usando um nome, tatuagens, gestos, estilo de roupa ou símbolos partilhados.",
+    "pt-PT": "Atividades criminosas cometidas por grupos de indivíduos, ligados por territórios, línguas ou  origens étnicas comuns, e que se identificam por um identidade de grupo comum, usando um nome, tatuagens, gestos, estilo de roupa ou símbolos partilhados.",
+    "se": "Brottslighet som sker av grupper som har en sammanhållning via exempelvis områden, språk, etnicitet eller bakgrund. Medlemmarna är ofta identifierade genom exempelvis tatueringar och/eller kläder.",
+    "zh-Hans": "群体性犯罪活动，这个群体由具有相同地域、语言或种族背景的人组成，并具有相同的可辨识的称呼、纹身、服饰风格等特点"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02001009",
+    "https://www.wikidata.org/entity/Q5185620"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "نشاط عصابات",
+    "de": "Bandenkriminalität",
+    "dk": "bandekriminalitet",
+    "en-GB": "gang activity",
+    "en-US": "gang activity",
+    "es": "Actividad pandillera",
+    "fr": "Bandes criminelles",
+    "no": "gjengkriminalitet",
+    "pt-BR": "gangues",
+    "pt-PT": "gangues",
+    "se": "Gängbrott",
+    "zh-Hans": "帮派活动"
+  },
+  "qcode": "medtop:20000102",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000102",
+  "aid": "iptc_20000102"
+}

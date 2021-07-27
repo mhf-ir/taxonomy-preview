@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000150"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Ein unkontrolliertes Feuer in einem Gebiet mit brennbarer Vegetation",
+    "dk": "Brand, der hovedsageligt rammer vegetation (skov).",
+    "en-GB": "An uncontrolled fire in an area of combustible vegetation",
+    "en-US": "An uncontrolled fire in an area of combustible vegetation",
+    "pt-BR": "Incêndio incontrolável em área de vegetação combustível no campo ou em zona rural.",
+    "pt-PT": "Incêndio incontrolável em área de vegetação combustível no campo ou em zona rural.",
+    "se": "Brand som i huvudsak gäller vegetation (skog) som brinner ner.",
+    "zh-Hans": "也译：山火。在乡村或郊野的可燃植被地区发生的不受控制的火灾"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q169950"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حرائق الغابات",
+    "de": "Flächenbrand",
+    "dk": "skovbrand",
+    "en-GB": "wildfire",
+    "en-US": "wildfire",
+    "es": "Incendio forestal",
+    "fr": "Feu de forêt",
+    "no": "skog-, lyng- og gressbrann",
+    "pt-BR": "incêndio florestal",
+    "pt-PT": "incêndio florestal",
+    "se": "Skogsbrand",
+    "zh-Hans": "野火"
+  },
+  "qcode": "medtop:20001202",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001202",
+  "aid": "iptc_20001202"
+}

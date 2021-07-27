@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000553"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Geschäft mit der Zubereitung und dem Verzehr von Mahlzeiten für die Öffentlichkeit",
+    "dk": "En forretning, hvor måltiderne tilberedes og serveres for offentligheden mod betaling.",
+    "en-GB": "A business where meals are prepared and served to the public",
+    "en-US": "A business where meals are prepared and served to the public",
+    "pt-BR": "Estabelecimento onde são preparadas e servidas ao público refeições.",
+    "pt-PT": "Estabelecimento onde são preparadas e servidas ao público refeições.",
+    "se": "Offentlig lokal för servering av måltid mot betalning.",
+    "zh-Hans": "为公众准备和提供膳食的企业"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q11707"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مطعم",
+    "de": "Restaurant",
+    "dk": "restaurant",
+    "en-GB": "restaurant",
+    "en-US": "restaurant",
+    "es": "Restaurante",
+    "fr": "Restaurant",
+    "no": "restaurant",
+    "pt-BR": "restaurante",
+    "pt-PT": "restaurante",
+    "se": "Restaurang",
+    "zh-Hans": "餐厅"
+  },
+  "qcode": "medtop:20000558",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000558",
+  "aid": "iptc_20000558"
+}

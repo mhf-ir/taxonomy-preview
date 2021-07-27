@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000021"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Gattung von Musik, die auf Traditionen westlicher Musik basiert und sowohl religiöse als auch weltliche Musik umfasst, zum Beispiel Symphonien, Konzerte oder Sonaten",
+    "dk": "Musik, der følger klassiske metoder og udtryk med hensyn til harmonier og rytmer.",
+    "en-GB": "A genre of music rooted in the traditions of Western music, including both religious and secular music, such as symphony, concerto and sonata.",
+    "en-US": "A genre of music rooted in the traditions of Western music, including both religious and secular music, such as symphony, concerto and sonata.",
+    "es": "Género musical arraigado en las tradiciones de la música occidental, que incluye música religiosa y secular, como la sinfonía, el concierto y la sonata",
+    "fr": "Genre musical de tradition occidentale, comprenant la musique religieuse et profane, comme la symphonie, le concerto et la sonate",
+    "pt-BR": "Música que segue estruturas clássicas de ritmo e harmonia.",
+    "pt-PT": "Música que segue estruturas clássicas de ritmo e harmonia.",
+    "se": "Musik som följer klassiska metoder och uttryck när det gäller harmonier och rytmer.",
+    "zh-Hans": "一种植根于西方音乐传统的音乐类型，包括宗教和世俗音乐，如交响乐、协奏曲和奏鸣曲"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01011001",
+    "https://www.wikidata.org/entity/Q9730"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "موسيقى كلاسيكية",
+    "de": "Klassik",
+    "dk": "klassisk musik",
+    "en-GB": "classical music",
+    "en-US": "classical music",
+    "es": "Música clásica",
+    "fr": "Classique",
+    "no": "klassisk musikk",
+    "pt-BR": "música clássica",
+    "pt-PT": "música clássica",
+    "se": "Klassisk musik",
+    "zh-Hans": "古典音乐"
+  },
+  "qcode": "medtop:20000022",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000022",
+  "aid": "iptc_20000022"
+}

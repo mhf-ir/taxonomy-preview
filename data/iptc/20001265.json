@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000621"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Politik für die Entwicklung und Erhaltung eines lokalen Regierungsgebiets",
+    "dk": "Politik, der uddelegerer beslutningskompetence til politiske enheder på lokalt niveau.",
+    "en-GB": "Policies for the development and maintenance of a local government area",
+    "en-US": "Policies for the development and maintenance of a local government area",
+    "pt-BR": "Políticas para o desenvolvimento e manutenção de uma área do governo local.",
+    "pt-PT": "Políticas para o desenvolvimento e manutenção de uma área do governo local.",
+    "se": "Politiska frågor som handlar om ett visst område, ofta en del av ett land.",
+    "zh-Hans": "地方政府管辖区域内发展和管理的政策"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1780384"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سياسة الحكومة المحلية",
+    "de": "Kommunalpolitik",
+    "dk": "lokalt selvstyre",
+    "en-GB": "local government policy",
+    "en-US": "local government policy",
+    "es": "Política de gobierno local",
+    "fr": "Politique de gouvernement local",
+    "no": "lokalpolitikk",
+    "pt-BR": "política de governo local",
+    "pt-PT": "política de governo local",
+    "se": "Lokalpolitik",
+    "zh-Hans": "地方政府政策"
+  },
+  "qcode": "medtop:20001265",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001265",
+  "aid": "iptc_20001265"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000192"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Weltweite Geschäftstätigkeit",
+    "dk": "Handel mellem parter i forskellige lande.",
+    "en-GB": "Doing business around the world",
+    "en-US": "Doing business around the world",
+    "pt-BR": "Fazer negócios pelo mundo inteiro.",
+    "pt-PT": "Fazer negócios pelo mundo inteiro.",
+    "se": "Affärer som sker mellan parter i olika länder.",
+    "zh-Hans": "在世界各地从事生产经营活动"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016054",
+    "https://www.wikidata.org/entity/Q2339766"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عولمة",
+    "de": "Globalisierung",
+    "dk": "økonomisk globalisering",
+    "en-GB": "economic globalisation",
+    "en-US": "economic globalization",
+    "es": "Globalización",
+    "fr": "Mondialisation",
+    "no": "globalisering",
+    "pt-BR": "globalização econômica",
+    "pt-PT": "globalização económica",
+    "se": "Global handel",
+    "zh-Hans": "经济全球化"
+  },
+  "qcode": "medtop:20000198",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000198",
+  "aid": "iptc_20000198"
+}

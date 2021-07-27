@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000856"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15014006"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gewichtsklasse die je nach Verband oder der Olympischen Spiele variiert",
+    "dk": "Vægtkategori, der varierer afhængigt af føderationen eller de olympiske lege.",
+    "en-GB": "Weight category which varies according to the federation or the Olympic Games",
+    "en-US": "Weight category which varies according to the federation or the Olympic Games",
+    "pt-BR": "Categoria de peso que varia segundo a federação ou os Jogos Olímpicos.",
+    "pt-PT": "Categoria de peso que varia segundo a federação ou os Jogos Olímpicos.",
+    "zh-Hans": "拳击的体重级别，根据各个联合会或奥运会的规定不同而有所不同"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1051530"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الوزن المتوسط (ملاكمة)",
+    "de": "Mittelgewicht (Boxen)",
+    "dk": "mellemvægt",
+    "en-GB": "middleweight (boxing)",
+    "en-US": "middleweight (boxing)",
+    "es": "Medio mediano (boxeo)",
+    "fr": "Mi-moyens (boxe)",
+    "no": "mellomvekt",
+    "pt-BR": "peso-médio (boxe)",
+    "pt-PT": "peso-médio (boxe)",
+    "se": "Mellanvikt, (Boxning)",
+    "zh-Hans": "中量级"
+  },
+  "qcode": "medtop:20000867",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000867",
+  "aid": "iptc_20000867"
+}

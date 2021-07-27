@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000552"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Nordeuropäische Feierlichkeiten, die die Sommersonnenwende begleiten",
+    "dk": "Særlig nordisk tradition, hvor man fejrer sommersolhvervet.",
+    "en-GB": "Northern European celebrations that accompany the Summer solstice",
+    "en-US": "Northern European celebrations that accompany the Summer solstice",
+    "pt-BR": "Celebrações do norte da Europa que acompanham o solstício de verão.",
+    "pt-PT": "Celebrações do norte da Europa que acompanham o solstício de verão.",
+    "se": "Tradition att fira sommarsolståndet.",
+    "zh-Hans": "北欧居民庆祝夏至来临的节日"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q154502"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "احتفالات منتصف الصيف",
+    "de": "Sommersondenwende",
+    "dk": "midsommer/sankthansfest",
+    "en-GB": "Midsummer",
+    "en-US": "Midsummer",
+    "es": "Midsommar",
+    "fr": "Midsommar",
+    "no": "sankthans",
+    "pt-BR": "festa de solstício de verão",
+    "pt-PT": "festa de solstício de verão",
+    "se": "Midsommar",
+    "zh-Hans": "仲夏节"
+  },
+  "qcode": "medtop:20001267",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001267",
+  "aid": "iptc_20001267"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/17000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Warnungen an die Bevölkerung eines bestimmten Gebietes vor heranziehendem Unwetter",
+    "dk": "Underretninger udsendt til offentligheden om hårdt eller bemærkelsesværdigt vejr i deres område.",
+    "en-GB": "Alerts issued to the public about severe or notable weather in their area",
+    "en-US": "Alerts issued to the public about severe or notable weather in their area",
+    "es": "Alerta a las personas advirtiéndoles sobre condiciones climáticas peligrosas en su área",
+    "fr": "Alertes aux populations les avertissant de conditions météorologiques dangeureuses dans leur région",
+    "pt-BR": "Alertas gerais à população sobre a aproximação de mau tempo.",
+    "pt-PT": "Alertas gerais à população sobre a aproximação de mau tempo.",
+    "se": "Larm när vädret väntas innebära risker för allmänheten och störningar i samhällsfunktioner.",
+    "zh-Hans": "向公众发出有关该地区恶劣或显著天气的警报"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/17005000",
+    "https://www.wikidata.org/entity/Q7978253"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تحذير احوال جوية",
+    "de": "Unwetterwarnung",
+    "dk": "vejrvarsel",
+    "en-GB": "weather warning",
+    "en-US": "weather warning",
+    "es": "Alertas meteorológicas",
+    "fr": "Alertes météorologiques",
+    "no": "farefarsel om vær",
+    "pt-BR": "alerta meteorológico",
+    "pt-PT": "alerta meteorológico",
+    "se": "Vädervarning",
+    "zh-Hans": "天气预警"
+  },
+  "qcode": "medtop:20001131",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001131",
+  "aid": "iptc_20001131"
+}

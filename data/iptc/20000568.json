@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/10000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000550"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Interesse für Essen und Trinken",
+    "dk": "Interesse for mad og drikke.",
+    "en-GB": "Interest in eating and drinking",
+    "en-US": "Interest in eating and drinking",
+    "pt-BR": "Interesse por comidas e bebidas.",
+    "pt-PT": "Interesse por comidas e bebidas.",
+    "se": "Intresse för mat och dryck, matlagning och dryckesframställning.",
+    "zh-Hans": "对饮食的兴趣"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001253",
+    "medtop:20001254"
+  ],
+  "prefLabel": {
+    "ar": "طعام ومشروب",
+    "de": "Essen und Trinken",
+    "dk": "interesse for mad",
+    "en-GB": "food and drink enthusiasm",
+    "en-US": "food and drink enthusiasm",
+    "es": "Gastronomía",
+    "fr": "Gastronomie",
+    "no": "matinteresse",
+    "pt-BR": "interesse gastronômico",
+    "pt-PT": "interesse gastronómico",
+    "se": "Mat och dryck",
+    "zh-Hans": "美食爱好"
+  },
+  "qcode": "medtop:20000568",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000568",
+  "aid": "iptc_20000568"
+}

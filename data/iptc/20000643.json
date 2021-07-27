@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000638"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Hilfe, die ein Land einem anderen gewährt",
+    "dk": "Hjælp fra én stat til en anden.",
+    "en-GB": "Help provided by one nation to another",
+    "en-US": "Help provided by one nation to another",
+    "pt-BR": "Auxílio prestado por uma nação a outra.",
+    "pt-PT": "Auxílio prestado por uma nação a outra.",
+    "se": "Hjälp från en stat till en annan.",
+    "zh-Hans": "一个国家向另一个国家提供的帮助"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11005000",
+    "https://www.wikidata.org/entity/Q2827815"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مساعدات اجنبية",
+    "de": "Auslandshilfe",
+    "dk": "udviklingsbistand",
+    "en-GB": "foreign aid",
+    "en-US": "foreign aid",
+    "es": "Ayuda internacional",
+    "fr": "Aide internationale",
+    "no": "bistand",
+    "pt-BR": "ajuda externa",
+    "pt-PT": "ajuda externa",
+    "se": "Bistånd",
+    "zh-Hans": "对外援助"
+  },
+  "qcode": "medtop:20000643",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000643",
+  "aid": "iptc_20000643"
+}

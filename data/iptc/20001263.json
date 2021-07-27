@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000574"
+  ],
+  "created": "2019-09-05T12:00:00+00:00",
+  "definition": {
+    "de": "Wahlen zur Wahl von Führungskräften für die Leitung kirchlicher Organisationen auf verschiedenen Ebenen",
+    "dk": "Valghandling, hvor ledende personer i en kirkelig organisation skal udpeges.",
+    "en-GB": "Elections to choose leaders to run church organisations at various levels",
+    "en-US": "Elections to choose leaders to run church organizations at various levels",
+    "pt-BR": "Eleições para escolher líderes para administrar organizações da igreja a vários níveis.",
+    "pt-PT": "Eleições para escolher líderes para administrar organizações da igreja a vários níveis.",
+    "se": "Procedurer för att välja representanter för att styra olika religiösa organisationer.",
+    "zh-Hans": "各级教会领导者的选举"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q6980735"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-09-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "انتخابات كنسية",
+    "de": "Kirchenwahlen",
+    "dk": "kirke- og menighedsrådsvalg",
+    "en-GB": "church elections",
+    "en-US": "church elections",
+    "es": "Elecciones parroquiales",
+    "fr": "Élections paroissiales",
+    "no": "kirkevalg",
+    "pt-BR": "eleições na Igreja",
+    "pt-PT": "eleições na Igreja",
+    "se": "Kyrkoval",
+    "zh-Hans": "教会选举"
+  },
+  "qcode": "medtop:20001263",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001263",
+  "aid": "iptc_20001263"
+}

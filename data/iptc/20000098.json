@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02001000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Übernahme eines Transportfahrzeuges mit Gewalt",
+    "dk": "Overtagelse af transportmiddel ved tvang.",
+    "en-GB": "Taking over a transportation vehicle by force",
+    "en-US": "Taking over a transportation vehicle by force",
+    "pt-BR": "Captura forçada de um veículo de transporte.",
+    "pt-PT": "Captura forçada de um veículo de transporte.",
+    "se": "Att med våld ta över någon form av transportfordon.",
+    "zh-Hans": "强行接管交通工具"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1933595"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "قرصنة",
+    "de": "Entführung",
+    "dk": "kapring",
+    "en-GB": "hijacking",
+    "en-US": "hijacking",
+    "es": "Secuestro / piratería",
+    "fr": "Détournement",
+    "no": "kapring",
+    "pt-BR": "hijacking",
+    "pt-PT": "hijacking",
+    "se": "Kapning",
+    "zh-Hans": "劫持"
+  },
+  "qcode": "medtop:20000098",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000098",
+  "aid": "iptc_20000098"
+}

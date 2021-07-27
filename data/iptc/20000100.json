@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000082"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jemanden gegen seinen Willen widerrechtlich und gewaltsam gefangen nehmen, festhalten oder verschleppen",
+    "dk": "Tilfangetagelse og tilbageholdelse af en anden person mod dennes vilje ved brug af trusler og magt.",
+    "en-GB": "To seize and detain a person against that person's will by unlawful threat, force or fraud",
+    "en-US": "To seize and detain a person against that person's will by unlawful threat, force or fraud",
+    "pt-BR": "Levar ou capturar e deter alguém contra sua vontade, mediante ameaças ilegais, força ou fraude.",
+    "pt-PT": "Levar ou capturar e deter alguém contra a sua vontade, mediante ameaças ilegais, força ou fraude.",
+    "se": "Att tvinga med sig en annan person mot dess vilja, hålla den personen fången.",
+    "zh-Hans": "以非法威胁、武力或欺诈手段，将违反其意愿的人扣押和拘留"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/02001007",
+    "https://www.wikidata.org/entity/Q318296"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خطف",
+    "de": "Geiselnahme",
+    "dk": "kidnapning",
+    "en-GB": "kidnapping",
+    "en-US": "kidnapping",
+    "es": "Secuestro",
+    "fr": "Enlèvement",
+    "no": "bortføring",
+    "pt-BR": "rapto",
+    "pt-PT": "rapto",
+    "se": "Kidnappning",
+    "zh-Hans": "绑架"
+  },
+  "qcode": "medtop:20000100",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000100",
+  "aid": "iptc_20000100"
+}

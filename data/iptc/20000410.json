@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/05008000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/05000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Soziale Kompetenz, die Eltern und andere vermitteln, während man heranwächst",
+    "dk": "At lære sociale kompetencer fra forældre og andre, når man vokser op.",
+    "en-GB": "Learning social competence from parents and others as one grows up",
+    "en-US": "Learning social competence from parents and others as one grows up",
+    "pt-BR": "Aprendizagem das competências sociais através dos pais e de outros à medida que o indivíduo cresce.",
+    "pt-PT": "Aprendizagem das competências sociais através dos pais e de outros à medida que o indivíduo cresce.",
+    "se": "Överföring av normer och värderingar från en generation till nästa.",
+    "zh-Hans": "在成长过程中从父母和其他人那里学习社交能力"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q2305519"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تعليم اجتماعي",
+    "de": "Erziehung",
+    "dk": "opdragelse",
+    "en-GB": "social learning",
+    "en-US": "social learning",
+    "es": "Crianza",
+    "fr": "Apprentissage social",
+    "no": "sosial opplæring",
+    "pt-BR": "aprendizagem social",
+    "pt-PT": "aprendizagem social",
+    "se": "Uppfostran",
+    "zh-Hans": "社会学习"
+  },
+  "qcode": "medtop:20000410",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000410",
+  "aid": "iptc_20000410"
+}

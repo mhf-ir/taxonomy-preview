@@ -1,0 +1,60 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001157"
+  ],
+  "changeNote": {
+    "en-GB": "Change Note 2015-08-27: broader term changed"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine verteidigende Kampfortart",
+    "dk": "Judo blev udviklet fra jujutsu, men har ingen spark og slag. Det er mere en forsvarsteknik med kast og balance.",
+    "en-GB": "A defensive martial art.",
+    "en-US": "A defensive martial art.",
+    "pt-BR": "Arte marcial defensiva.",
+    "pt-PT": "Arte marcial defensiva.",
+    "se": "Judo har utvecklats från jujutsu men har inga sparkar och slag utan är mer en försvarsteknik med kast och balans.",
+    "zh-Hans": "防卫性武术"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15033000",
+    "https://www.wikidata.org/entity/Q11420"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/weightclasstype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-08-27T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000970",
+    "medtop:20000971",
+    "medtop:20000972",
+    "medtop:20000973",
+    "medtop:20000974",
+    "medtop:20000975",
+    "medtop:20000976"
+  ],
+  "prefLabel": {
+    "ar": "جودو",
+    "de": "Judo",
+    "dk": "judo",
+    "en-GB": "judo",
+    "en-US": "judo",
+    "es": "Judo",
+    "fr": "Judo",
+    "no": "judo",
+    "pt-BR": "judô",
+    "pt-PT": "judo",
+    "se": "Judo",
+    "zh-Hans": "柔道"
+  },
+  "qcode": "medtop:20000969",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000969",
+  "aid": "iptc_20000969"
+}

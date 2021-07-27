@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000607"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Regierungsgelder, die für öffentliche Programme, Dienstleistungen und öffentliche Schulden ausgegeben werden",
+    "dk": "De offentlige finanser er en samlet betegnelse for den offentlige sektors indtægter og udgifter.",
+    "en-GB": "The money of government used for paying for public programmes and services and public debt",
+    "en-US": "The money of government used for paying for public programs and services and public debt",
+    "pt-BR": "Dinheiro que o governo usa para financiar programas e serviços públicos e pagar a dívida pública.",
+    "pt-PT": "Dinheiro que o governo usa para financiar programas e serviços públicos e pagar a dívida pública.",
+    "se": "De pengar som används av staten för att betala statliga program och åtgärder samt statsskulden.",
+    "zh-Hans": "政府用于支付公共项目、服务和公共债务的资金"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11013001",
+    "https://www.wikidata.org/wiki/Q1929688"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مالية عامة",
+    "de": "Öffentliche Gelder",
+    "dk": "offentlige finanser",
+    "en-GB": "public finance",
+    "en-US": "public finance",
+    "es": "Finanzas públicas",
+    "fr": "Finances publiques",
+    "no": "offentlig finansiering",
+    "pt-BR": "finanças públicas",
+    "pt-PT": "finanças públicas",
+    "se": "Offentliga finanser",
+    "zh-Hans": "公共财政"
+  },
+  "qcode": "medtop:20000608",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000608",
+  "aid": "iptc_20000608"
+}

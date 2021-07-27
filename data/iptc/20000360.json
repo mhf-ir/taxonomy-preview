@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000358"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Produktion von nachhaltigen und kurzlebigen Produkten",
+    "dk": "Industriel fremstilling af genstande.",
+    "en-GB": "Manufacture of durable and non-durable goods",
+    "en-US": "Manufacture of durable and non-durable goods",
+    "pt-BR": "Fabrico de bens duráveis e não duráveis.",
+    "pt-PT": "Fabrico de bens duradouros e não-duradouros.",
+    "se": "Industriell framställning av föremål.",
+    "zh-Hans": "耐久和非耐久产品的生产"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016042",
+    "https://www.wikidata.org/entity/Q1419090"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انتاج صناعي",
+    "de": "Industrieproduktion",
+    "dk": "industriproduktion",
+    "en-GB": "industrial production",
+    "en-US": "industrial production",
+    "es": "Producción industrial",
+    "fr": "Production industrielle",
+    "no": "industriproduksjon",
+    "pt-BR": "produção industrial",
+    "pt-PT": "produção industrial",
+    "se": "Industriproduktion",
+    "zh-Hans": "工业生产"
+  },
+  "qcode": "medtop:20000360",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000360",
+  "aid": "iptc_20000360"
+}

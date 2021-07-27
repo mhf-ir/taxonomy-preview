@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000021"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Gattung von Musik, die sich aus überlieferten populären Kulturformen entwickelt hat, meist auf dem Erzählen von Geschichten basierend",
+    "dk": "Musik, der stammer fra ældre folketraditioner, og som ofte fortæller en historie.",
+    "en-GB": "A genre of music that developed from traditional popular cultures, often based on story telling",
+    "en-US": "A genre of music that developed from traditional popular cultures, often based on story telling",
+    "es": "Música que se desarrolló a partir de culturas populares tradicionales, a menudo basada en la narración de historias",
+    "fr": "Genre musical issu des cultures populaires traditionnelles, souvent basé sur des récits",
+    "pt-BR": "Música que se desenvolveu a partir de culturas populares.",
+    "pt-PT": "Música que se desenvolveu a partir de culturas populares.",
+    "se": "Musik som härstammar från äldre folkliga traditioner och som ofta berättar en historia.",
+    "zh-Hans": "从传统流行文化发展而来的一种音乐类型，通常以叙事为基础"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01011002",
+    "https://www.wikidata.org/entity/Q235858"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "موسيقى فولكلورية",
+    "de": "Folk",
+    "dk": "folkemusik",
+    "en-GB": "folk music",
+    "en-US": "folk music",
+    "es": "Música folclórica",
+    "fr": "Folk",
+    "no": "folkemusikk",
+    "pt-BR": "música folk",
+    "pt-PT": "música folk",
+    "se": "Folkmusik",
+    "zh-Hans": "民俗音乐"
+  },
+  "qcode": "medtop:20000024",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000024",
+  "aid": "iptc_20000024"
+}

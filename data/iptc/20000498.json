@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/08000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Orden, Auszeichnungen und Preise inklusive der, die durch die Regierung vergeben werden.",
+    "dk": "Ære og belønning for en eller anden præstation, herunder dem, der tildeles af staten.",
+    "en-GB": "The recognition of an achievement in a field in the form of a symbolic item, such as a plaque or trophy or in the form of a monetary gift, such as a cash prize or grant, given by a government or private institution",
+    "en-US": "The recognition of an achievement in a field in the form of a symbolic item, such as a plaque or trophy or in the form of a monetary gift, such as a cash prize or grant, given by a government or private institution",
+    "pt-BR": "Condecorações, prêmios e recompensas, incluindo os que são atribuídos pelo governo.",
+    "pt-PT": "Condecorações, prémios e recompensas, incluindo os que são atribuídos pelo governo.",
+    "se": "Hedersbetygelser och belöning för viss prestation, inklusive sådana utdelade av staten.",
+    "zh-Hans": "包括政府颁发的勋章、奖状、奖品、奖金"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/08006000",
+    "https://www.wikidata.org/entity/Q618779"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-05-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "مكافات وجوائز",
+    "de": "Auszeichnung und Preis",
+    "dk": "pris og præmie",
+    "en-GB": "award and prize",
+    "en-US": "award and prize",
+    "es": "Premios",
+    "fr": "Prix et récompenses",
+    "no": "utmerkelse",
+    "pt-BR": "prêmios e galardões",
+    "pt-PT": "prémios e recompensas",
+    "se": "Utmärkelser och priser",
+    "zh-Hans": "奖励"
+  },
+  "qcode": "medtop:20000498",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000498",
+  "aid": "iptc_20000498"
+}

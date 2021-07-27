@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14025003"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000775"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schädigendes Verhalten gegenüber einer anderen Gruppe auf der Grundlage des Geschlechts",
+    "dk": "Skadelige holdninger til en anden gruppe baseret på kønsforskelle.",
+    "en-GB": "Discrimination against individuals or groups of people, usually women, on the basis of gender",
+    "en-US": "Discrimination against individuals or groups of people, usually women, on the basis of gender",
+    "pt-BR": "Atitudes hostis ou discriminatórias em relação a outro grupo com base em critérios de gênero.",
+    "pt-PT": "Atitudes hostis ou discriminatórias em relação a outro grupo com base em critérios de género.",
+    "se": "Särbehandling av individer eller grupper på grund av personernas kön.",
+    "zh-Hans": "基于性别差异，一个群体对另一群体的有害态度"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q93200"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "انحياز جنسي",
+    "de": "Sexismus",
+    "dk": "sexisme",
+    "en-GB": "sexism",
+    "en-US": "sexism",
+    "es": "Sexismo",
+    "fr": "Sexisme",
+    "no": "kjønnsdiskriminering",
+    "pt-BR": "sexismo",
+    "pt-PT": "sexismo",
+    "se": "Könsdiskriminering",
+    "zh-Hans": "性别歧视"
+  },
+  "qcode": "medtop:20000779",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000779",
+  "aid": "iptc_20000779"
+}

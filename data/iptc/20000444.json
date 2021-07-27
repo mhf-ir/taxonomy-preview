@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000441"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Nicht-einheimische Pflanzen, Tiere und andere Organismen, die einheimische Arten oft vertreiben",
+    "dk": "Ikke-oprindelige arter, der påvirker økosystemet, ved at skade de oprindelige arter.",
+    "en-GB": "Non-native plants, animals and other organisms that tend to take over native species",
+    "en-US": "Non-native plants, animals and other organisms that tend to take over native species",
+    "pt-BR": "Plantas, animais ou outros organismos não nativos que tendem a sobrepor-se às espécies nativas.",
+    "pt-PT": "Plantas, animais ou outros organismos não nativos que tendem a sobrepor-se às espécies nativas.",
+    "se": "Icke ursprungliga arter vilka påverkar det ekosystem som arterna koloniserar.",
+    "zh-Hans": "趋向于取代本地物种的非本地的植物、动物和其他生物"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06007001",
+    "https://www.wikidata.org/entity/Q183368"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انواع غازية",
+    "de": "Invasive Arten",
+    "dk": "invasiv art",
+    "en-GB": "invasive species",
+    "en-US": "invasive species",
+    "es": "Especies invasoras",
+    "fr": "Espèces envahissantes",
+    "no": "fremmede arter",
+    "pt-BR": "espécie invasora",
+    "pt-PT": "espécies invasoras",
+    "se": "Invasiva arter",
+    "zh-Hans": "外来入侵物种"
+  },
+  "qcode": "medtop:20000444",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000444",
+  "aid": "iptc_20000444"
+}

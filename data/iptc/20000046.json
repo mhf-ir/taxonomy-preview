@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000045"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Präsentation von Nachrichten gegenüber der Öffentlichkeit in unterschiedlichen Formen wie Fernsehen, Radion, Zeitungen, Magazinen, Webseiten oder Blogs",
+    "dk": "Præsentation af nyheder til offentligheden gennem forskellige platforme, såsom tv, radio, aviser, magasiner, websider og blogs.",
+    "en-GB": "The presentation of news to the public through different platforms, such as TV, radio, newspapers, magazines, web pages and blogs",
+    "en-US": "The presentation of news to the public through different platforms, such as TV, radio, newspapers, magazines, web pages and blogs",
+    "es": "Presentación de noticias al público a través de diferentes plataformas, televisión, radio, periódicos, revistas, páginas web y blogs",
+    "fr": "Présentation d'informations au public à travers différentes plateformes, telles que la télévision, la radio, les journaux, les magazines et l'internet",
+    "pt-BR": "Televisão, rádio, serviços de notícias que recolhem fatos sobre incidentes, desenvolvendo e fazendo sua apresentação ao público como uma história completa.",
+    "pt-PT": "Órgãos de comunicação que se dedicam à difusão pública de notícias, incluindo as publicações impressas (jornais e revistas),  a rádio e a televisão e, mais recentemente, os serviços de notícias eletrónicos.",
+    "se": "Massmedier som har som första syfte att samla in och presentera sådant som är nytt för sin respektive publik.",
+    "zh-Hans": "通过电视、广播、报纸、杂志、网页和博客等不同平台向公众传播新闻的机构"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01026002",
+    "https://www.wikidata.org/entity/Q1193236"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "اعلام اخباري",
+    "de": "Nachrichtensender",
+    "dk": "nyhedsmedie",
+    "en-GB": "news media",
+    "en-US": "news media",
+    "es": "Medios de información",
+    "fr": "Média d'information",
+    "no": "nyhetsmedier",
+    "pt-BR": "mídia noticiosa",
+    "pt-PT": "órgãos noticiosos",
+    "se": "Nyhetsmedier",
+    "zh-Hans": "新闻媒体"
+  },
+  "qcode": "medtop:20000046",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000046",
+  "aid": "iptc_20000046"
+}

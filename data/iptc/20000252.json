@@ -1,0 +1,53 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die unterste Stufe in der Handelshierarchie",
+    "dk": "Virksomheder, der sælger til private husholdninger.",
+    "en-GB": "The last stage in the sales chain",
+    "en-US": "The last stage in the sales chain",
+    "pt-BR": "A última etapa da cadeia comercial.",
+    "pt-PT": "A última etapa da cadeia de vendas.",
+    "se": "Företag som säljer produkter som tillverkats av andra till senare led i tillverknings-, distributions- och konsumtionskedjan.",
+    "zh-Hans": "销售链的最后阶段"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04007005",
+    "https://www.wikidata.org/entity/Q126793"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000246",
+    "medtop:20000247",
+    "medtop:20000250",
+    "medtop:20000253",
+    "medtop:20001296",
+    "medtop:20001297"
+  ],
+  "prefLabel": {
+    "ar": "تجارة مفرق",
+    "de": "Einzelhandel",
+    "dk": "detailhandel",
+    "en-GB": "retail",
+    "en-US": "retail",
+    "es": "Venta minorista",
+    "fr": "Vente au détail",
+    "no": "detaljhandel",
+    "pt-BR": "varejo",
+    "pt-PT": "retalho",
+    "se": "Detaljhandel",
+    "zh-Hans": "零售"
+  },
+  "qcode": "medtop:20000252",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000252",
+  "aid": "iptc_20000252"
+}

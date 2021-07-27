@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000256"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "In erster Linie das Energieverteilungsnetz betreffend, aber auch den Verkauf von Energie an den Strommarkt und Verteiler",
+    "dk": "Elnettet og salg af elektricitet på engros- og detailniveau.",
+    "en-GB": "Primarily concerning the power line distribution system, but also the sale of electrical power at wholesale and retail levels",
+    "en-US": "Primarily concerning the power line distribution system, but also the sale of electrical power at wholesale and retail levels",
+    "pt-BR": "Tudo o que diz respeito ao sistema de distribuição de energia, mas também à venda de energia elétrica por atacado e no varejo.",
+    "pt-PT": "Tudo o que diz respeito ao sistema de distribuição de energia, mas também à venda de energia elétrica por grosso e a retalho.",
+    "se": "Elnätet samt försäljningen av el på grossist- och återförsäljarnivå.",
+    "zh-Hans": "主要涉及电力线路配电系统，也包括批发和零售级别的电力销售"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005006",
+    "https://www.wikidata.org/entity/Q2316331"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انتاج وتوزيع كهرباء",
+    "de": "Strom",
+    "dk": "elproduktion og distribution",
+    "en-GB": "electricity production and distribution",
+    "en-US": "electricity production and distribution",
+    "es": "Producción y distribución de electricidad",
+    "fr": "Électricité",
+    "no": "kraftverk og kraftforsyning",
+    "pt-BR": "produção e distribuição de eletricidade",
+    "pt-PT": "produção e distribuição de eletricidade",
+    "se": "Elproduktion och -distribution",
+    "zh-Hans": "电力生产和分配"
+  },
+  "qcode": "medtop:20000260",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000260",
+  "aid": "iptc_20000260"
+}

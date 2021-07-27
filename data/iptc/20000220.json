@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000217"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zusammenstellung von chemischen und anderen Stoffen um Aussehen und Geruch zu verbessern.",
+    "dk": "Produkter, der bruges til at fremhæve en persons udseende eller duft.",
+    "en-GB": "Compilation of chemicals and other substances for use in enhancing ones looks or smell",
+    "en-US": "Compilation of chemicals and other substances for use in enhancing ones looks or smell",
+    "pt-BR": "Produtos químicos e outras substâncias usados para embelezamento físico.",
+    "pt-PT": "Produtos químicos e outras substâncias usados para embelezamento físico.",
+    "se": "Kemikalier och andra substanser som använd för att framhäva en persons utssende eller doft.",
+    "zh-Hans": "合成化学物质和其他物质用于美化外貌或改善气味"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04002003",
+    "https://www.wikidata.org/entity/Q131207"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "صحة ومواد تجميل",
+    "de": "Kosmetik",
+    "dk": "sundhed og skønhedsprodukter",
+    "en-GB": "health and beauty product",
+    "en-US": "health and beauty product",
+    "es": "Productos de salud y belleza",
+    "fr": "Hygiène et Cosmétiques",
+    "no": "helse- og skjønnhetsprodukter",
+    "pt-BR": "produtos de saúde e beleza",
+    "pt-PT": "produtos de saúde e beleza",
+    "se": "Hälso- och skönhetsprodukter",
+    "zh-Hans": "保健和美容产品"
+  },
+  "qcode": "medtop:20000220",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000220",
+  "aid": "iptc_20000220"
+}

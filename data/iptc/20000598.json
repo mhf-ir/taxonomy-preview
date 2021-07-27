@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Alles was die Verteidigung des eigenen Landes umfasst",
+    "dk": "Alt, der involverer beskyttelse af ens eget land.",
+    "en-GB": "Anything involving the protection of one's own country",
+    "en-US": "Anything involving the protection of one's own country",
+    "pt-BR": "Tudo o que envolva a proteção de um país.",
+    "pt-PT": "Tudo o que envolva a proteção de um país.",
+    "se": "Allt som används för att försvara ett land.",
+    "zh-Hans": "任何涉及保护自己国家的事情"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11001000",
+    "https://www.wikidata.org/entity/Q17991228"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000599",
+    "medtop:20000601",
+    "medtop:20000603"
+  ],
+  "prefLabel": {
+    "ar": "دفاع",
+    "de": "Verteidigung",
+    "dk": "forsvar",
+    "en-GB": "defence",
+    "en-US": "defense",
+    "es": "Defensa",
+    "fr": "Défense",
+    "no": "forsvar",
+    "pt-BR": "defesa",
+    "pt-PT": "defesa",
+    "se": "Försvar",
+    "zh-Hans": "防务"
+  },
+  "qcode": "medtop:20000598",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000598",
+  "aid": "iptc_20000598"
+}

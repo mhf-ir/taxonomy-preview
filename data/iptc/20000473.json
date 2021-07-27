@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000470"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Diagnose, Behandlung und Prävention von Krankheiten basierend auf traditionellen Methoden aus dem Orient",
+    "dk": "Praksis med at diagnosticere, behandle og forebygge sygdomme baseret på traditionelle metoder udviklet i Østasien.",
+    "en-GB": "The practice of diagnosis, treatment and prevention of disease based on traditional methods developed in the orient.",
+    "en-US": "The practice of diagnosis, treatment and prevention of disease based on traditional methods developed in the orient.",
+    "pt-BR": "Prática de diagnóstico, tratamento e prevenção de doenças baseada em métodos tradicionais desenvolvidos no oriente.",
+    "pt-PT": "Prática de diagnóstico, tratamento e prevenção de doenças baseada em métodos tradicionais desenvolvidos no oriente.",
+    "se": "Utövandet av diagnosticering, behandling och förebyggande av sjukdomar baserat på traditionella metoder utvecklade i Östasien.",
+    "zh-Hans": "在东方发展起来的以传统方法为基础的疾病诊断、治疗和预防的实践"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07007004",
+    "https://www.wikidata.org/entity/Q200253"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "طب صيني",
+    "de": "Chinesische Medizin (TCM)",
+    "dk": "traditionel kinesisk medicin",
+    "en-GB": "traditional Chinese medicine",
+    "en-US": "traditional Chinese medicine",
+    "es": "Medicina tradicional china",
+    "fr": "Médecine traditionelle chinoise",
+    "no": "tradisjonell kinesisk medisin",
+    "pt-BR": "medicina tradicional chinesa",
+    "pt-PT": "medicina tradicional chinesa",
+    "se": "Kinesisk medicin",
+    "zh-Hans": "中医"
+  },
+  "qcode": "medtop:20000473",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000473",
+  "aid": "iptc_20000473"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000808"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Glaubenssystem aus akzeptablem Verhalten",
+    "dk": "Læren om (god) moral.",
+    "en-GB": "The moral values and standards that define right and wrong actions or decisions",
+    "en-US": "The moral values and standards that define right and wrong actions or decisions",
+    "pt-BR": "Sistema de crenças acerca de uma conduta aceitável.",
+    "pt-PT": "Sistema de crenças acerca de uma conduta aceitável.",
+    "se": "Läran om (god) moral.",
+    "zh-Hans": "一套关于社会认可行为的信仰体系"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12006001",
+    "https://www.wikidata.org/entity/Q9465"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "اخلاق",
+    "de": "Ethik",
+    "dk": "etik",
+    "en-GB": "ethics",
+    "en-US": "ethics",
+    "es": "Ética",
+    "fr": "Éthique",
+    "no": "etikk",
+    "pt-BR": "ética",
+    "pt-PT": "ética",
+    "se": "Etik",
+    "zh-Hans": "道德"
+  },
+  "qcode": "medtop:20000814",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000814",
+  "aid": "iptc_20000814"
+}

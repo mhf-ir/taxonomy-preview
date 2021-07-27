@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000304"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Kommerzielle Agenturen, die nachrichtenrelevante Ereignisse aufbereiten und verbreiten durch Presse, Fernsehen, Video oder elektronische Medien",
+    "dk": "Kommercielle virksomheder, der producerer og distribuerer nyheder i tekst, billede og film.",
+    "en-GB": "Commercial agencies for production and distribution of newsworthy events through print, broadcast, video or electronic media",
+    "en-US": "Commercial agencies for production and distribution of newsworthy events through print, broadcast, video or electronic media",
+    "pt-BR": "Agências comerciais que produzem e distribuem eventos noticiosos por escrito, por rádio ou televisão, por vídeo ou por meios eletrônicos.",
+    "pt-PT": "Agências comerciais que produzem e distribuem eventos noticiosos por escrito, por rádio ou televisão, por vídeo ou por meios eletrónicos.",
+    "se": "Kommersiella företag som producerar och distribuerar nyheter i text, bild och rörlig bild.",
+    "zh-Hans": "通过印刷、广播、视频或电子媒体等方式生产和发布有新闻价值的事件的商业机构"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04010004",
+    "https://www.wikidata.org/entity/Q192283"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "وكالات انباء",
+    "de": "Nachrichtenagentur",
+    "dk": "nyhedsbureau",
+    "en-GB": "news agency",
+    "en-US": "news agency",
+    "es": "Agencias de noticias",
+    "fr": "Agence de presse",
+    "no": "nyhetsbyrå",
+    "pt-BR": "agências noticiosas",
+    "pt-PT": "agências noticiosas",
+    "se": "Nyhetsbyråer",
+    "zh-Hans": "通讯社"
+  },
+  "qcode": "medtop:20000309",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000309",
+  "aid": "iptc_20000309"
+}

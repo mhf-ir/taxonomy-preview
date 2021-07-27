@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001056"
+  ],
+  "created": "2014-11-07T12:00:00+00:00",
+  "definition": {
+    "de": "Rennen, bei denen Abfahrts- und Skilanglaufrennen mit einzigartigen Telemark-Techniken und -Ausrüstungen kombiniert werden.",
+    "dk": "Løb, der kombinerer alpint og langrendsskiløb med unikke Telemarks teknikker og udstyr.",
+    "en-GB": "Races combining downhill and cross-country skiing events with unique Telemark techniques and equipment.",
+    "en-US": "Races combining downhill and cross-country skiing events with unique Telemark techniques and equipment.",
+    "pt-BR": "Modalidade de esqui que combina corridas de esqui de descida livre e de fundo com técnicas e equipamentos exclusivos, como o calcanhar solto do esqui.",
+    "pt-PT": "Modalidade de esqui que combina corridas de esqui de descida livre e de fundo com técnicas e equipamentos exclusivos, como o calcanhar solto do esqui.",
+    "se": "Norsk idrott där man använder bindningar där pjäxan endast sitter fast på skidan vid tårna och åker utför.",
+    "zh-Hans": "高山和越野滑雪的组合的滑雪比赛。使用大回转技术和设备。又称屈膝旋转法滑雪"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q50620"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-11-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تيليمارك (تزلج)",
+    "de": "Telemark-Skifahren",
+    "dk": "Telemark skiløb",
+    "en-GB": "Telemark skiing",
+    "en-US": "Telemark skiing",
+    "es": "Telemark (esquí)",
+    "fr": "Télémark (ski)",
+    "no": "telemarkkjøring",
+    "pt-BR": "telemark",
+    "pt-PT": "telemark",
+    "se": "Telemark",
+    "zh-Hans": "特里马滑雪"
+  },
+  "qcode": "medtop:20001153",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001153",
+  "aid": "iptc_20001153"
+}

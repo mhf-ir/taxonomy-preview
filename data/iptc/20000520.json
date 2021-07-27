@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000518"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zahlungen, die von Einzelnen und Firmen an die Regierung geleistet werden und in einem bestimmten Alter an den Einzelnen ausgezahlt wird.",
+    "dk": "Penge, der indbetales af enkeltpersoner og virksomheder på en statskonto, der skal udbetales, når denne person når en bestemt alder.",
+    "en-GB": "a government system that provides monetary assistance to people with inadequate or no incomes, such as retirees, disabled people or carers",
+    "en-US": "a government system that provides monetary assistance to people with inadequate or no incomes, such as retirees, disabled people or caregivers",
+    "pt-BR": "Dinheiro entregue pelo indivíduo e pelas empresas para uma conta do governo para ser pago quando esse indivíduo atinge uma certa idade.",
+    "pt-PT": "Dinheiro entregue pelo indivíduo e pelas empresas para uma conta do governo para ser pago quando esse indivíduo atinge uma certa idade.",
+    "se": "Trygghetsförsäkring som omfattar alla medborgare t ex folkpension, allmän sjukförsäkring, yrkesskadeförsäkring och arbetslöshetsförsäkring.",
+    "zh-Hans": "联邦社会保险捐款法。个人和公司存入政府账户的款项，在个人达到一定年龄时支付"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09011002",
+    "https://www.wikidata.org/entity/Q2483208"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ضمان اجتماعي",
+    "de": "Renten- und Sozialversicherung",
+    "dk": "social sikring",
+    "en-GB": "social security",
+    "en-US": "social security",
+    "es": "Seguridad social",
+    "fr": "Cotisations Vieillesse",
+    "no": "trygd",
+    "pt-BR": "seguridade social",
+    "pt-PT": "segurança social",
+    "se": "Socialförsäkring",
+    "zh-Hans": "社会保障"
+  },
+  "qcode": "medtop:20000520",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000520",
+  "aid": "iptc_20000520"
+}

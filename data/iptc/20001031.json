@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001026"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Boot für zwei Personen mit je zwei Rudern",
+    "dk": "Topersoners båd med to årer hver.",
+    "en-GB": "Two person boats with two oars each",
+    "en-US": "Two person boats with two oars each",
+    "pt-BR": "Barco de duas pessoas com dois remos cada uma.",
+    "pt-PT": "Barco de duas pessoas com dois remos cada uma.",
+    "zh-Hans": "双人，每人双桨赛艇比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15047002",
+    "https://www.wikidata.org/entity/Q1243495"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "تجديف زوجي",
+    "de": "Doppelzweier",
+    "dk": "dobbeltsculler",
+    "en-GB": "double sculls",
+    "en-US": "double sculls",
+    "es": "Scull double (remo)",
+    "fr": "Deux de couple (aviron)",
+    "no": "dobbeltsculler",
+    "pt-BR": "double sculls",
+    "pt-PT": "double sculls",
+    "se": "Dubbelsculler",
+    "zh-Hans": "双人双桨赛艇"
+  },
+  "qcode": "medtop:20001031",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001031",
+  "aid": "iptc_20001031"
+}

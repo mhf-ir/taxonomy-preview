@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer stehen in einem vernetzten Kreis mit 2.50 Meter Durchmesser und versuchen mit einer Drehbewegung einen Diskus mit 2 kg Gewicht bei Männern und 1 kg für Frauen so weit wie möglich zu werfen",
+    "dk": "Konkurrenterne står i en cirkel med net rundt om og forsøger med en drejebevægelse at kaste en diskos.",
+    "en-GB": "Competitors stand in a netted circle with a 2.50 metres diameter and with a turning motion attempt to throw a discus weighing 2kg for men and 1kg for women as far as possible",
+    "en-US": "Competitors stand in a netted circle with a 2.50 meters diameter and with a turning motion attempt to throw a discus weighing 2kg for men and 1kg for women as far as possible",
+    "pt-BR": "Prova em que os atletas, dentro de um círculo com 2.50 metros de diâmetro, dão várias voltas antes de lançarem o mais longe possível um disco de metal que pesa 2 kg para os homens e 1 kg para as mulheres. Ganha quem fizer o lançamento mais longo.",
+    "pt-PT": "Prova em que os atletas, dentro de um círculo com 2.50 metros de diâmetro, dão várias voltas antes de lançarem o mais longe possível um disco de metal que pesa 2 kg para os homens e 1 kg para as mulheres. Ganha quem fizer o lançamento mais longo.",
+    "se": "Tävlande kastar en rund skiva så långt som möjligt.",
+    "zh-Hans": "选手站在2.5米直径的带围护的场地内通过旋转来投掷一个2公斤（男子）或1公斤（女子）的铁饼。越远成绩越好"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005024",
+    "https://www.wikidata.org/entity/Q182570"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رمي القرص",
+    "de": "Diskuswerfen",
+    "dk": "diskoskast",
+    "en-GB": "discus throw",
+    "en-US": "discus throw",
+    "es": "Lanzamiento de disco",
+    "fr": "Lancer du disque",
+    "no": "diskos",
+    "pt-BR": "lançamento de disco",
+    "pt-PT": "lançamento do disco",
+    "se": "Diskus",
+    "zh-Hans": "铁饼"
+  },
+  "qcode": "medtop:20000830",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000830",
+  "aid": "iptc_20000830"
+}

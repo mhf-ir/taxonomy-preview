@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wassersport bei dem die Teilnehmer wellen kreuzen oder reiten auf einem Surfboard",
+    "dk": "Vandsport, hvor deltagere forsøger at *fange* og *ride* på bølger stående på et bræt af glasfiber.",
+    "en-GB": "Water sport where contestants catch and ride waves upright on a surfboard",
+    "en-US": "Water sport where contestants catch and ride waves upright on a surfboard",
+    "pt-BR": "Esporte aquático em que os praticantes, equilibrados em cima de uma prancha, deslizam pelas ondas.",
+    "pt-PT": "Desporto aquático em que os praticantes, equilibrados em cima de uma prancha, deslizam pelas ondas.",
+    "se": "En sport där en person med eller utan hjälp av en surfbräda glider på vattenytan på framsidan av en våg.",
+    "zh-Hans": "水上运动。运动员站在冲浪板上冲到浪顶"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15061000",
+    "https://www.wikidata.org/entity/Q159992"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ركوب الامواج",
+    "de": "Wellenreiten",
+    "dk": "surfing",
+    "en-GB": "surfing",
+    "en-US": "surfing",
+    "es": "Surf",
+    "fr": "Surf",
+    "no": "surfing",
+    "pt-BR": "surfe",
+    "pt-PT": "surf",
+    "se": "Surfing",
+    "zh-Hans": "冲浪"
+  },
+  "qcode": "medtop:20001070",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001070",
+  "aid": "iptc_20001070"
+}

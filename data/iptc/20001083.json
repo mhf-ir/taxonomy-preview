@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ballsport für zwei oder vier (im Doppel), wird auf einem Tisch ausgeübt, der durch ein Netz geteilt ist mit einem kleinen Schläger und einem leichten Ball",
+    "dk": "En ketsjersport for to eller fire (i dobbelt), der konkurrerer ved et bord delt med et net i midten. Spillerne bruger et lille bat til at spille med og en lille let plastikbold.",
+    "en-GB": "A racquet sport for two or four (in doubles), who compete at a table divided by a  net using a small bat to play a lightweight ball",
+    "en-US": "A racquet sport for two or four (in doubles), who compete at a table divided by a net using a small bat to play a lightweight ball",
+    "pt-BR": "Esporte de raquete para 2 ou 4 jogadores, que rebatem uma bola leve para a área do adversário, praticado sobre mesa divida por uma rede.",
+    "pt-PT": "Desporto de raquete para 2 ou 4 jogadores, que rebatem uma bola leve para a área do adversário, praticado sobre mesa divida por uma rede.",
+    "se": "Racketsport med små racketar med gummiduk och en liten lätt boll. Bollen måste träffa motståndarens sida av bordet. Bordet är avdelat med ett lågt nät. Man spelar individuellt eller i par i set. En match består av flera set.",
+    "zh-Hans": "拍球类运动，2人单打或4人双打，台面有网分隔，使用小球拍击打很轻的小球"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15063000",
+    "https://www.wikidata.org/entity/Q3930"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كرة الطاولة",
+    "de": "Tischtennis",
+    "dk": "bordtennis",
+    "en-GB": "table tennis",
+    "en-US": "table tennis",
+    "es": "Tenis de mesa",
+    "fr": "Tennis de table",
+    "no": "bordtennis",
+    "pt-BR": "tênis de mesa",
+    "pt-PT": "ténis de mesa",
+    "se": "Bordtennis",
+    "zh-Hans": "乒乓球"
+  },
+  "qcode": "medtop:20001083",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001083",
+  "aid": "iptc_20001083"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000385"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Markt für den Handel mit Schuldeninstrumentarien wie Wertpapiere, Banksicherheiten, Bargeld etc.",
+    "dk": "Den del af kreditmarkedet, der vedrører lån, der har en løbetid på mindst et år på udstedelsestidspunktet.",
+    "en-GB": "Market for trading debt instruments such as bonds, CDs, banker's acceptances, T-bills, notes, IOUs etc",
+    "en-US": "Market for trading debt instruments such as bonds, CDs, banker's acceptances, T-bills, notes, IOUs etc",
+    "pt-BR": "Mercado para negociar instrumentos de dívida como obrigações, certificados de depósito, aprovações bancárias, obrigações do tesouro, notas, promissórias etc.",
+    "pt-PT": "Mercado para negociar instrumentos de dívida como obrigações, certificados de depósito, aprovações bancárias, obrigações do tesouro, notas, promissórias, etc.",
+    "se": "Den del av kreditmarknaden som avser lån som vid sitt utgivande har en löptid på minst ett år.",
+    "zh-Hans": "交易债券、信用违约掉期、银行承兑汇票、国库券、票据、借据等债务工具的市场"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008003",
+    "https://www.wikidata.org/entity/Q540626"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سوق الديون",
+    "de": "Kapitalmarkt",
+    "dk": "gældsmarked",
+    "en-GB": "debt market",
+    "en-US": "debt market",
+    "es": "Mercados de deuda",
+    "fr": "Marché obligataire",
+    "no": "lånemarked",
+    "pt-BR": "mercado de dívida",
+    "pt-PT": "mercado de dívida",
+    "se": "Obligationsmarknad",
+    "zh-Hans": "债券市场"
+  },
+  "qcode": "medtop:20000390",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000390",
+  "aid": "iptc_20000390"
+}

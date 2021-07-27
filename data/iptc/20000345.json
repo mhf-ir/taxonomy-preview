@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000621"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Regierungsgesteuerte Politik in Bezug auf die Produktionen, Steuern, Tarife und alles, was mit der Ausrichtung und Gesundheit der Wirtschaft zusammenhängt",
+    "dk": "Foranstaltninger, en offentlig myndighed benytter til at regulere den økonomiske adfærd i et samfund.",
+    "en-GB": "Government directed policy on production, taxes, tariffs  and things that affect the direction and health of the economy",
+    "en-US": "Government directed policy on production, taxes, tariffs and things that affect the direction and health of the economy",
+    "pt-BR": "Política governamental relativamente à produção, impostos, tarifas e outros assuntos que afetem a direção e saúde da economia.",
+    "pt-PT": "Política governamental relativamente à produção, impostos, tarifas e outros assuntos que afetem a direção e saúde da economia.",
+    "se": "Åtgärder från i första hand statens sida inriktade på att påverka förhållanden i ekonomin.",
+    "zh-Hans": "政府对生产、税收、关税以及影响经济发展方向和健康的因素制定政策"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04017001",
+    "https://www.wikidata.org/entity/Q582577"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-02-19T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000623",
+    "medtop:20000624",
+    "medtop:20000625",
+    "medtop:20001292"
+  ],
+  "prefLabel": {
+    "ar": "سياسة اقتصادية",
+    "de": "Wirtschaftspolitik",
+    "dk": "økonomisk politik",
+    "en-GB": "economic policy",
+    "en-US": "economic policy",
+    "es": "Política económica",
+    "fr": "Politique économique",
+    "no": "økonomisk politikk",
+    "pt-BR": "política econômica",
+    "pt-PT": "política económica",
+    "se": "Ekonomisk politik",
+    "zh-Hans": "经济政策"
+  },
+  "qcode": "medtop:20000345",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000345",
+  "aid": "iptc_20000345"
+}

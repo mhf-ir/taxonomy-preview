@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Dienstleistungen zur Ausführung von Zahlungen, einschließlich Bargeld, Schecks, Kreditkarten, Debitkarten, Lastschriften, elektronischer Geldtransfer, Internet-Banking, elektronische und mobile Zahlungen.",
+    "dk": "Tjenester til udførelse af betalinger inklusive kontanter, check, kreditkort, betalingskort, direkte debet, elektronisk pengeoverførsel, internetbank, elektronisk og mobil betaling.",
+    "en-GB": "Services for executing payments including cash, cheque, credit card, debit card, direct debit, electronic funds transfer, internet banking, electronic and mobile payment.",
+    "en-US": "Services for executing payments including cash, cheque, credit card, debit card, direct debit, electronic funds transfer, internet banking, electronic and mobile payment.",
+    "pt-BR": "Serviços para a execução de pagamentos, incluindo dinheiro, cheque, cartão de crédito, cartão de débito, débito direto, transferência eletrônica de fundos, internet banking, pagamento eletrônico e móvel.",
+    "pt-PT": "Serviços para a execução de pagamentos, incluindo dinheiro, cheque, cartão de crédito, cartão de débito, débito direto, transferência eletrónica de fundos, internet banking, pagamento eletrónico e móvel.",
+    "se": "Tjänster för att genomföra betalningar, inklusive kontanter, checkar, betalkort, internetbanker och betalningar med hjälp av datorer eller mobiltelefoner.",
+    "zh-Hans": "执行支付的服务，包括现金、支票、信用卡、借记卡、直接借记、电子资金转帐、网上银行、电子和移动支付等支付方式"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q986008"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "خدمات المدفوعات",
+    "de": "Zahlungsdienst",
+    "dk": "betalingstjeneste",
+    "en-GB": "payment service",
+    "en-US": "payment service",
+    "es": "Servicios de pago",
+    "fr": "Services de paiement",
+    "no": "betalingssystem",
+    "pt-BR": "sistema de pagamento",
+    "pt-PT": "sistema de pagamento",
+    "se": "Betalningstjänster",
+    "zh-Hans": "支付服务"
+  },
+  "qcode": "medtop:20001164",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001164",
+  "aid": "iptc_20001164"
+}

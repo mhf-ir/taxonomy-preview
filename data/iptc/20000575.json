@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000574"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Politische Überzeugungen von Nicht-Regierungsangehörigen für Korrekturen oder Veränderungen in Bezug auf schon existente Regeln und Vorschriften.",
+    "dk": "Politiske forslag fra ngo'er eller enkeltpersoner til korrigerende handlinger eller ændringer i love og regler.",
+    "en-GB": "Political suggestions by non-government officials for corrective action, or for changes in existing rules and regulations",
+    "en-US": "Political suggestions by non-government officials for corrective action, or for changes in existing rules and regulations",
+    "pt-BR": "Sugestões políticas de membros ou organismos não governamentais para corrigir uma ação ou para fazer mudanças nas regras e regulações existentes.",
+    "pt-PT": "Sugestões políticas de membros ou organismos não governamentais para corrigir uma ação ou para fazer mudanças nas regras e regulações existentes.",
+    "se": "Politiska förslag från icke-statliga organisationer eller privatpersoner för korrigerande åtgärder eller på förändringar av lagar och regler.",
+    "zh-Hans": "非政府官员对纠正措施或现有规章制度的变更提出的政治建议"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11018000"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مبادرات المواطنين",
+    "de": "Bürgerinitiative",
+    "dk": "borgerforslag",
+    "en-GB": "citizens' initiative and recall",
+    "en-US": "citizens' initiative and recall",
+    "es": "Iniciativa y revocación ciudadanas",
+    "fr": "Initative populaire",
+    "no": "innbyggerinitiativ",
+    "pt-BR": "iniciativa dos cidadãos e revocação",
+    "pt-PT": "iniciativa dos cidadãos e revocação",
+    "se": "Medborgarinitiativ",
+    "zh-Hans": "公民倡议和罢免"
+  },
+  "qcode": "medtop:20000575",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000575",
+  "aid": "iptc_20000575"
+}

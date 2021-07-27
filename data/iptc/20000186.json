@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000183"
+  ],
+  "changeNote": {
+    "en-GB": "2019-12-13: Moved from medtop:20000171 to medtop:20000183"
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ankündigung von großen Aktienereignissen: Splits, Blockverkäufe, neue Kurshöhen und Tiefen etc.",
+    "dk": "Meddelelser om større aktiebegivenheder, såsom opsplitning, ophørte handler, nye top- og bundnoteringer og mere.",
+    "en-GB": "Announcements of major stock events: splits, block trades, new highs or lows, etc.",
+    "en-US": "Announcements of major stock events: splits, block trades, new highs or lows, etc.",
+    "pt-BR": "Anúncios de eventos bolsistas importantes: divisões, grandes transações, novos máximos e mínimos etc.",
+    "pt-PT": "Anúncios de eventos bolsistas importantes: divisões, grandes transações, novos máximos e mínimos, etc.",
+    "se": "Kungörelser om stora aktiehändelser, såsom delningar, stoppad handel, nya topp- och bottennoteringar med mera.",
+    "zh-Hans": "重大股市公告，例如股票拆股、大宗交易、再创新高或新低等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04016041"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "حركة اسهم",
+    "de": "Aktienbewegung",
+    "dk": "aktiebegivenhed",
+    "en-GB": "stock activity",
+    "en-US": "stock activity",
+    "es": "Actividad accionaria",
+    "fr": "Activité du titre",
+    "no": "aksjebevegelse",
+    "pt-BR": "atividade bolsista",
+    "pt-PT": "atividade bolsista",
+    "se": "Aktiehändelser",
+    "zh-Hans": "股市动态"
+  },
+  "qcode": "medtop:20000186",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000186",
+  "aid": "iptc_20000186"
+}

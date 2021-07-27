@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000827"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkämpfer stehen in einem Kreis mit 2.13 Meter Durchmesser und versuchen eine Metallkugel mit einem Gewicht von 7.26 kg für Männer und 4 kg für Frauen, so weit wie möglich zu werfen. Der längste Wurf gewinnt.",
+    "dk": "Konkurrenter står i en cirkel og forsøger at støde en metalkugle så langt som muligt.",
+    "en-GB": "Competitors stand in a circle with a 2.13 metres diameter and attempt to throw a metal ball weighing 7.26 kg for men and 4kg for women as far as possible. The longest throw wins.",
+    "en-US": "Competitors stand in a circle with a 2.13 meters diameter and attempt to throw a metal ball weighing 7.26 kg for men and 4kg for women as far as possible. The longest throw wins.",
+    "pt-BR": "Prova em que os atletas, dentro de um círculo com 2.13 metros de diâmetro, tentam lançar o mais longe possível uma bola de metal que pesa 7,26 kg para os homens e 4 kg para as mulheres. Ganha quem fizer o lançamento mais longo.",
+    "pt-PT": "Prova em que os atletas,  dentro de um círculo com 2.13 metros de diâmetro, tentam lançar o mais longe possível uma bola de metal que pesa 7,26 kg para os homens e 4 kg para as mulheres. Ganha quem fizer o lançamento mais longo.",
+    "se": "De tävlande stöter en metallkula så långt som möjligt.",
+    "zh-Hans": "赛手站在2.13米直径的圆圈内投掷一个7.25公斤（男子）或4公斤（女子）的金属球。投掷最远者获胜"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15005023",
+    "https://www.wikidata.org/entity/Q180935"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "رمي الجلة",
+    "de": "Kugelstoßen",
+    "dk": "kuglestød",
+    "en-GB": "shot put",
+    "en-US": "shot put",
+    "es": "Lanzamiento de peso",
+    "fr": "Lancer du poids",
+    "no": "kulestøt",
+    "pt-BR": "arremesso de peso",
+    "pt-PT": "lançamento do peso",
+    "se": "Kulstötning",
+    "zh-Hans": "铅球"
+  },
+  "qcode": "medtop:20000843",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000843",
+  "aid": "iptc_20000843"
+}

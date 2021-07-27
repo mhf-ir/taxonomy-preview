@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000788"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Menschen in dem Alter 60 bis 65 und älter",
+    "dk": "Personer, der har passeret pensionsalderen.",
+    "en-GB": "People having passed the age of retirement",
+    "en-US": "People having passed the age of retirement",
+    "pt-BR": "Pessoas que já chegaram à idade da aposentadoria.",
+    "pt-PT": "Pessoas que já chegaram à idade da reforma.",
+    "se": "Personer som har passerat pensionsåldern.",
+    "zh-Hans": "超过退休年龄的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14024005",
+    "https://www.wikidata.org/entity/Q1358789"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "مسنون",
+    "de": "Senior",
+    "dk": "ældre",
+    "en-GB": "senior citizens",
+    "en-US": "senior citizens",
+    "es": "Tercera edad",
+    "fr": "Personnes âgées",
+    "no": "eldre",
+    "pt-BR": "terceira idade",
+    "pt-PT": "cidadãos idosos",
+    "se": "Pensionärer",
+    "zh-Hans": "老年人"
+  },
+  "qcode": "medtop:20000797",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000797",
+  "aid": "iptc_20000797"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000013"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schriftliche Werke, die nicht auf Fakten beruhen, sondern aus der Vorstellungskraft des Autors entstehen",
+    "dk": "Skrevne historier, der ikke er baseret på fakta, men på forfatterens fantasi.",
+    "en-GB": "Written works that are not based on fact, but are the creation of the author's imagination",
+    "en-US": "Written works that are not based on fact, but are the creation of the author's imagination",
+    "es": "Obra escrita que no está basada en hechos, sino que es una creación de la imaginación del autor",
+    "fr": "Œuvre écrite fondée sur des faits imaginaires et non sur des faits réels",
+    "pt-BR": "Histórias estruturadas que geralmente não se baseiam em fatos e que são criação da imaginação dos autores.",
+    "pt-PT": "Histórias estruturadas que geralmente não se baseiam em factos e que são criação da imaginação dos autores.",
+    "se": "Skrivna berättelser som inte bygger på fakta utan på författarens fantasi.",
+    "zh-Hans": "不基于事实而是基于创作者想象力的文字作品"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/01010001",
+    "https://www.wikidata.org/entity/Q38072107"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "خيال",
+    "de": "Fiktion",
+    "dk": "fiktion",
+    "en-GB": "fiction",
+    "en-US": "fiction",
+    "es": "Ficción",
+    "fr": "Fiction",
+    "no": "skjønnlitteratur",
+    "pt-BR": "ficção",
+    "pt-PT": "ficção",
+    "se": "Skönlitteratur",
+    "zh-Hans": "小说"
+  },
+  "qcode": "medtop:20000015",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000015",
+  "aid": "iptc_20000015"
+}

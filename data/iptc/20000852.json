@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine Kombination aus Skilanglauf und Schießen auf Zielscheiben (auf einem 12,5 km langen Kurs, Verfolgungsstart)",
+    "dk": "En kombination af langrend og skydning. Antallet af skud og regler for missede skud i skydning varierer mellem de forskellige konkurrencetyper. Kaldes også biatlon.",
+    "en-GB": "A combination of cross-country skiing and target shooting on a 12.5 K course in a pursuit format.",
+    "en-US": "A combination of cross-country skiing and target shooting on a 12.5 K course in a pursuit format.",
+    "pt-BR": "Prova que combina esqui de fundo com tiro ao alvo, em uma corrida de perseguição de 12.5 km.",
+    "pt-PT": "Prova que combina esqui de fundo com tiro ao alvo, numa corrida de perseguição de 12.5 km.",
+    "se": "En kombination av längdskidåkning och skytte. Antal skjutningar och regler för missar i skytte varierar mellan olika tävlingstyper.",
+    "zh-Hans": "结合了12.5公里的越野滑雪和目标射击的追逐形式比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15009000",
+    "https://www.wikidata.org/entity/Q166788"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بياثلون",
+    "de": "Biathlon",
+    "dk": "skiskydning",
+    "en-GB": "biathlon",
+    "en-US": "biathlon",
+    "es": "Biatlón",
+    "fr": "Biathlon",
+    "no": "skiskyting",
+    "pt-BR": "biatlo",
+    "pt-PT": "biatlo",
+    "se": "Skidskytte",
+    "zh-Hans": "冬季两项"
+  },
+  "qcode": "medtop:20000852",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000852",
+  "aid": "iptc_20000852"
+}

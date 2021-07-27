@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Rennen zwischen Motorbooten auf Flüssen oder Seen",
+    "dk": "Speedbådløb mellem motorbåde på floder eller søer.",
+    "en-GB": "Races between motor boats on rivers or lakes",
+    "en-US": "Races between motor boats on rivers or lakes",
+    "pt-BR": "Corridas de barcos a motor em rios ou lagos.",
+    "pt-PT": "Corridas de barcos a motor em rios ou lagos.",
+    "se": "Tävlingar mellan motorbåtar på sjöar, havet eller floder.",
+    "zh-Hans": "在湖面或河上进行的摩托艇比赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15046000",
+    "https://www.wikidata.org/entity/Q1545308"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "سباق اليخوت",
+    "de": "Motorbootsport",
+    "dk": "powerboating",
+    "en-GB": "power boating",
+    "en-US": "power boating",
+    "es": "Motonáutica",
+    "fr": "Motonautisme",
+    "no": "båtrace",
+    "pt-BR": "motonáutica",
+    "pt-PT": "motonáutica",
+    "se": "Båtracing",
+    "zh-Hans": "摩托艇赛"
+  },
+  "qcode": "medtop:20001016",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001016",
+  "aid": "iptc_20001016"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000151"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Bewegung der Erdplatten, die in manchen Fällen eine Zerstörung der Oberfläche verursacht",
+    "dk": "Bevægelser i jordens kontinentale plader, der forårsager skade på overfladen.",
+    "en-GB": "The shifting of the tectonic plates of the Earth, creating in some cases damage to structures",
+    "en-US": "The shifting of the tectonic plates of the Earth, creating in some cases damage to structures",
+    "pt-BR": "Movimentos das placas tectônicas da crosta terrestre, que, em alguns casos, provocam danos nas estruturas.",
+    "pt-PT": "Vibração da superfície terrestre resultante de movimentos de placas tectónicas, de atividade vulcânica ou da migração de gases no interior da Terra, principalmente metano.",
+    "se": "Rörelser i jordens kontinentalplattor som orsakar skador på ytan. Storleken mäts enligt Richterskalan.",
+    "zh-Hans": "地球构造板块的移动，在某些情况下会对地质结构造成损害"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/03002000",
+    "https://www.wikidata.org/entity/Q7944"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "زلزال",
+    "de": "Erdbeben",
+    "dk": "jordskælv",
+    "en-GB": "earthquake",
+    "en-US": "earthquake",
+    "es": "Sismo",
+    "fr": "Tremblement de terre",
+    "no": "jordskjelv",
+    "pt-BR": "terremoto",
+    "pt-PT": "sismo",
+    "se": "Jordbävningar",
+    "zh-Hans": "地震"
+  },
+  "qcode": "medtop:20000153",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000153",
+  "aid": "iptc_20000153"
+}

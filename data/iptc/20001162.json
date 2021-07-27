@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000271"
+  ],
+  "created": "2016-04-04T12:00:00+00:00",
+  "definition": {
+    "de": "Verwaltung von Vermögenswerten oder Fonds zur Erhöhung der Einnahmen durch Investitionen in Aktien, Anleihen, Investmentfonds, Hedge-Fonds usw.",
+    "dk": "Tjenester til vækst af aktiver gennem investering i aktier, gensidige fonde og lignende.",
+    "en-GB": "Management of assets or funds to increase income by investing in stocks, bonds, mutual funds, hedge funds etc.",
+    "en-US": "Management of assets or funds to increase income by investing in stocks, bonds, mutual funds, hedge funds etc.",
+    "pt-BR": "Gestão de ativos ou de fundos para aumentar a renda, investindo em ações, títulos, fundos mútuos, fundos multimercado etc.",
+    "pt-PT": "Gestão de ativos ou de fundos para aumentar o rendimento, investindo em ações, títulos, fundos mútuos, fundos de cobertura, etc.",
+    "se": "Tjänster för att få tillgångar att växa genom investering i aktier, fonder och dylikt.",
+    "zh-Hans": "通过投资股票、债券、共同基金、对冲基金等方式进行资产或资金的管理，以增加收入"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q873442"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "ادارة اصول",
+    "de": "Vermögensverwaltung",
+    "dk": "kapitalforvaltning",
+    "en-GB": "asset management",
+    "en-US": "asset management",
+    "es": "Gestión de activos",
+    "fr": "Gestion d*actifs",
+    "no": "kapitalforvaltning",
+    "pt-BR": "gestão de ativos",
+    "pt-PT": "gestão de ativos",
+    "se": "Kapitalförvaltare",
+    "zh-Hans": "资产管理"
+  },
+  "qcode": "medtop:20001162",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001162",
+  "aid": "iptc_20001162"
+}

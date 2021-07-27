@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000437"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Salzwassermassen, die Kontinente oder andere große geografische Landmassen trennen. Kleinere Formen sind, Meere, Seen und Teiche",
+    "dk": "Det sammenhængende vandområde, der omgiver jordens kontinenter, normalt synonymt med verdenshavet eller verdenshavene.",
+    "en-GB": "Salt water masses separating continents or other major geographical masses. smaller forms are seas or lakes or ponds",
+    "en-US": "Salt water masses separating continents or other major geographical masses. smaller forms are seas or lakes or ponds",
+    "pt-BR": "Massas de água salgada que separam continentes ou outras massas geográficas grandes. Inclui formas mais pequenas como mares, lagos ou lagoas.",
+    "pt-PT": "Massas de água salgada que separam continentes ou outras massas geográficas grandes. Inclui formas mais pequenas como mares, lagos ou lagoas.",
+    "se": "Det sammanhängande vattenområde som omger jordens kontinenter, vanligtvis synonymt med världshavet eller oceanerna.",
+    "zh-Hans": "分隔大陆或其它主要地理区域的盐水域。较小的形式是海、湖泊或池塘等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/06006007",
+    "https://www.wikidata.org/entity/Q9430"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "محيطات",
+    "de": "Ozean",
+    "dk": "have",
+    "en-GB": "oceans",
+    "en-US": "oceans",
+    "es": "Océanos",
+    "fr": "Océans",
+    "no": "hav",
+    "pt-BR": "oceanos",
+    "pt-PT": "oceanos",
+    "se": "Hav",
+    "zh-Hans": "大洋"
+  },
+  "qcode": "medtop:20000438",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000438",
+  "aid": "iptc_20000438"
+}

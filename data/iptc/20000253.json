@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000252"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verkaufsstelle im Einzelhandel, die spezialisiert ist auf bestimmte Waren, wie z.B. Schuhe, Mäntel, elektronisches Werkzeug, etc.",
+    "dk": "Forhandlere, der specialiserer sig i en bestemt kategori, såsom sko eller værktøj.",
+    "en-GB": "Retail outlets that specialise in categories such as shoes, coats, power tools, etc",
+    "en-US": "Retail outlets that specialize in categories such as shoes, coats, power tools, etc",
+    "pt-BR": "Lojas que se especializaram na venda de produtos específicos como sapatos, casacos, ferramentas etc.",
+    "pt-PT": "Lojas que se especializaram na venda de produtos específicos como sapatos, casacos, ferramentas, etc.",
+    "se": "Detaljhandlare som specialiserat sig inom en särskild kategori, t ex skor eller verktyg.",
+    "zh-Hans": "专门经营特定类别，如鞋子、外套、电动工具等商品的店铺"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04007006",
+    "https://www.wikidata.org/entity/Q57335508"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "متجر متخصص",
+    "de": "Fachhandel",
+    "dk": "specialbutik",
+    "en-GB": "specialty store",
+    "en-US": "specialty store",
+    "es": "Tiendas especializadas",
+    "fr": "Commerce spécialisé",
+    "no": "spesialforretning",
+    "pt-BR": "lojas especializadas",
+    "pt-PT": "lojas especializadas",
+    "se": "Specialbutiker",
+    "zh-Hans": "专卖店"
+  },
+  "qcode": "medtop:20000253",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000253",
+  "aid": "iptc_20000253"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001243"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Natürlicher Rohstoff aus der Erde, meist Methan in entflammbarem, gasförmigen Zustand.",
+    "dk": "Brændbar gas opnået fra jorden og dannet ved nedbrydning af organiske stoffer bruges som brændstof og industrielt råmateriale.",
+    "en-GB": "A natural resource, mainly methane in a flammable gaseous state, from the ground",
+    "en-US": "A natural resource, mainly methane in a flammable gaseous state, from the ground",
+    "pt-BR": "Recurso natural, sobretudo metano em estado gasoso inflamável.",
+    "pt-PT": "Recurso natural, sobretudo metano em estado gasoso inflamável.",
+    "se": "Brännbar gas som erhålls ur jorden och som bildats genom förmultning av organiska ämnen, används som bränsle och industriråvara.",
+    "zh-Hans": "一种自然资源，主要为来自地面的可燃气体形式的甲烷"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04005011",
+    "https://www.wikidata.org/entity/Q40858"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "غاز طبيعي",
+    "de": "Erdgas",
+    "dk": "naturgas",
+    "en-GB": "natural gas",
+    "en-US": "natural gas",
+    "es": "Gas natural",
+    "fr": "Gaz naturel",
+    "no": "naturgass",
+    "pt-BR": "gás natural",
+    "pt-PT": "gás natural",
+    "se": "Naturgas",
+    "zh-Hans": "天然气"
+  },
+  "qcode": "medtop:20000263",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000263",
+  "aid": "iptc_20000263"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000780"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Der Vorgang, durch den eine Ehe aufgehoben wird",
+    "dk": "Den proces, hvorpå et ægteskab opløses.",
+    "en-GB": "The process by which a marriage is legally dissolved",
+    "en-US": "The process by which a marriage is legally dissolved",
+    "pt-BR": "Processo através do qual um casamento é dissolvido.",
+    "pt-PT": "Processo através do qual um casamento é dissolvido.",
+    "se": "Upplösning av ett äktenskap.",
+    "zh-Hans": "解除婚姻关系的过程"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14006004",
+    "https://www.wikidata.org/entity/Q93190"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "طلاق",
+    "de": "Scheidung",
+    "dk": "skilsmisse",
+    "en-GB": "divorce",
+    "en-US": "divorce",
+    "es": "Divorcio",
+    "fr": "Divorce",
+    "no": "skilsmisse",
+    "pt-BR": "divórcio",
+    "pt-PT": "divórcio",
+    "se": "Skilsmässor",
+    "zh-Hans": "离婚"
+  },
+  "qcode": "medtop:20000783",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000783",
+  "aid": "iptc_20000783"
+}

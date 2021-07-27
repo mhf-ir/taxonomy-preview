@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07002000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000449"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine hochansteckende Seuche, die meist durch Ratten oder Flohbisse übertragen wird",
+    "dk": "En stærkt infektiøs epidemisk sygdom forårsaget af bakterierne Yersinia pestis.",
+    "en-GB": "A highly infectious epidemic disease caused by the Yersinia pestis bacteria",
+    "en-US": "A highly infectious epidemic disease caused by the Yersinia pestis bacteria",
+    "pt-BR": "Doença epidêmica altamente infecciosa causada pela bactéria Yersinia pestis.",
+    "pt-PT": "Doença epidémica altamente infecciosa causada pela bactéria Yersinia pestis.",
+    "se": "Typ av häftigt förlöpande infektionssjukdom som medför hög feber och stark medtagenhet.",
+    "zh-Hans": "鼠疫耶尔森菌引起的一种高度传染病"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q133780"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "وباء",
+    "de": "Pest (Krankheit)",
+    "dk": "pest (sygdom)",
+    "en-GB": "plague (disease)",
+    "en-US": "plague (disease)",
+    "es": "Peste",
+    "fr": "Peste",
+    "no": "pest",
+    "pt-BR": "peste",
+    "pt-PT": "peste",
+    "se": "Pest",
+    "zh-Hans": "鼠疫"
+  },
+  "qcode": "medtop:20000450",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000450",
+  "aid": "iptc_20000450"
+}

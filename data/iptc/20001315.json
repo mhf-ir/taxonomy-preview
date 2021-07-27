@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000553"
+  ],
+  "created": "2021-02-18T12:00:00+00:00",
+  "definition": {
+    "de": "Ein Park, in dem Besucher sowohl wilde als auch zahme Tiere sehen können, die in Käfigen oder geschlossenen Bereichen gehalten werden",
+    "dk": "En park, hvor de besøgende kan se både vilde og tamme dyr, der lever i bure eller indhegninger.",
+    "en-GB": "A park where visitors can see both wild and tame animals that are kept in cages or enclosed areas",
+    "en-US": "A park where visitors can see both wild and tame animals that are kept in cages or enclosed areas",
+    "pt-BR": "Parque onde os visitantes podem ver animais selvagens e domesticados que se encontram em jaulas ou em áreas fechadas.",
+    "pt-PT": "Parque onde os visitantes podem ver animais selvagens e domesticados que se encontram em jaulas ou em áreas fechadas.",
+    "se": "En anläggning där människor kan se vilda och/eller tama djur i fångenskap.",
+    "zh-Hans": "游客可以观看关在笼子或封闭区域的野生和驯服动物的园区"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q43501"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2021-02-18T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "حديقة حيوان",
+    "de": "Zoo",
+    "dk": "zoologisk have",
+    "en-GB": "zoo",
+    "en-US": "zoo",
+    "es": "Parque zoológico",
+    "fr": "Parc zoologique",
+    "no": "dyrehage",
+    "pt-BR": "jardim zoológico",
+    "pt-PT": "jardim zoológico",
+    "se": "Djurpark",
+    "zh-Hans": "动物园"
+  },
+  "qcode": "medtop:20001315",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001315",
+  "aid": "iptc_20001315"
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000599"
+  ],
+  "created": "2012-10-04T12:00:00+00:00",
+  "definition": {
+    "de": "Verpflichtender Dienst beim nationalen Militär für eine begrenzte Zeit",
+    "dk": "Obligatorisk tjeneste for borgerne ved det nationale militær i en begrænset periode.",
+    "en-GB": "Service by an individual in an army or militia. Service may be on a volunteer basis or a result of an involuntary draft or government requirement.",
+    "en-US": "Service by an individual in an army or militia. Service may be on a volunteer basis or a result of an involuntary draft or government requirement.",
+    "pt-BR": "Serviço obrigatório nas forças militares nacionais por um período limitado de tempo.",
+    "pt-PT": "Serviço obrigatório nas forças militares nacionais por um período limitado de tempo.",
+    "se": "Medborgares skyldighet att utbilda sig för att delta i sitt lands militära försvar.",
+    "zh-Hans": "在国家军队强制服役一段有限的时间"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q209572"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2012-10-04T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "خدمة عسكرية",
+    "de": "Militärdienst",
+    "dk": "værnepligt/militærtjeneste",
+    "en-GB": "military service",
+    "en-US": "military service",
+    "es": "Servicio militar",
+    "fr": "Service militaire",
+    "no": "militærtjeneste",
+    "pt-BR": "serviço militar",
+    "pt-PT": "serviço militar",
+    "se": "Värnplikt",
+    "zh-Hans": "服兵役"
+  },
+  "qcode": "medtop:20001145",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001145",
+  "aid": "iptc_20001145"
+}

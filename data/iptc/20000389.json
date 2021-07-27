@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000386"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Handel mit Rohstoffen wie Baumwolle, Zucker,  Zuckerrohr, Sojabohnen etc.",
+    "dk": "Handelssted for dyrkede råvarer, såsom bomuld, sukker, sojabønner og mere.",
+    "en-GB": "Trading in commodities such as cotton, sugar, sorghum,  soybeans etc.",
+    "en-US": "Trading in commodities such as cotton, sugar, sorghum, soybeans etc.",
+    "pt-BR": "Transação de matérias-primas como algodão, açúcar, sorgo, soja etc.",
+    "pt-PT": "Transação de matérias-primas como algodão, açúcar, sorgo, soja, etc.",
+    "se": "Handelsplats för råvaror som odlas, såsom bomull, socker, sojabönor med mera.",
+    "zh-Hans": "如棉花、糖、高粱、大豆等"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04009004",
+    "https://www.wikidata.org/entity/Q396212"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2011-08-17T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سلعة اساسية",
+    "de": "Obligation",
+    "dk": "børs for bløde råvarer",
+    "en-GB": "soft commodity",
+    "en-US": "soft commodity",
+    "es": "Materias primas agrícolas",
+    "fr": "Marchés agricoles",
+    "no": "råvaremarked",
+    "pt-BR": "produtos agrícolas",
+    "pt-PT": "produtos agrícolas",
+    "se": "Mjuk råvarumarknad",
+    "zh-Hans": "软商品"
+  },
+  "qcode": "medtop:20000389",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000389",
+  "aid": "iptc_20000389"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/07001000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/07000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Jeder gesundheitsgefährdende oder zerstörerische Zustand der Tiere, Pflanzen oder Mikroorganismen betrifft",
+    "dk": "Enhver skadelig eller destruktiv helbredstilstand, der påvirker dyr, planter eller mikroorganismer.",
+    "en-GB": "Any harmful or destructive health condition affecting animals, plants or microorganisms.",
+    "en-US": "Any harmful or destructive health condition affecting animals, plants or microorganisms.",
+    "pt-BR": "Qualquer condição de saúde lesiva ou destrutiva que afete animais, plantas ou microrganismos.",
+    "pt-PT": "Qualquer condição de saúde lesiva ou destrutiva que afete animais, plantas ou microrganismos.",
+    "se": "Skadliga eller destruktiva hälsotillstånd som drabbar djur, växter och mikroorganismer.",
+    "zh-Hans": "影响动物、植物或微生物的健康的有害或破坏性状况"
+  },
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000494",
+    "medtop:20000495"
+  ],
+  "prefLabel": {
+    "ar": "امراض غير بشرية",
+    "de": "Nicht-menschliche Krankheit",
+    "dk": "ikke-menneskelig sygdom",
+    "en-GB": "non-human diseases",
+    "en-US": "non-human diseases",
+    "es": "Enfermedades no humanas",
+    "fr": "Maladies non-humaines",
+    "no": "ikke-menneskelige sykdommer",
+    "pt-BR": "doenças não humanas",
+    "pt-PT": "doenças não humanas",
+    "se": "Icke-mänskliga sjukdomar",
+    "zh-Hans": "非人类疾病"
+  },
+  "qcode": "medtop:20000493",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000493",
+  "aid": "iptc_20000493"
+}

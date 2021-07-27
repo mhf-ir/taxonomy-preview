@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000045"
+  ],
+  "created": "2020-08-05T12:00:00+00:00",
+  "definition": {
+    "de": "Anbieter von Unterhaltungsangeboten (Musik, Filme, Serien usw.), die den Inhalt über eine Internetverbindung auf den Computer, das Fernsehgerät. oder ein mobiles Gerät des Abonnenten übertragen",
+    "dk": "Udbydere af underholdning (film, musik, serier og mere) som bliver leveret igennem en internet tjeneste, der er tilgængelig igennem brugerens computer, mobiltelefon eller TV.",
+    "en-GB": "Providers of entertainment (music, movies, series, etc.) that deliver the content via an Internet connection to the subscriber's computer, TV or mobile device",
+    "en-US": "Providers of entertainment (music, movies, series, etc.) that deliver the content via an Internet connection to the subscriber's computer, TV or mobile device",
+    "pt-BR": "Fornecedores de entretenimento (música, filmes, séries, etc.) que disponibilizam o conteúdo por meio de uma conexão de Internet ao computador, TV ou dispositivo móvel do assinante.",
+    "pt-PT": "Fornecedores de entretenimento (música, filmes, séries, etc.) que disponibilizam o conteúdo por meio de uma ligação de Internet ao computador, TV ou dispositivo móvel do assinante.",
+    "se": "Företag som tillhandahåller underhållning som film och musik direkt via internet.",
+    "zh-Hans": "娱乐内容（音乐、电影、剧集等）供应商通过互联网向其订阅用户提供接入电脑、电视或移动设备的内容服务"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q63241860"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "خدمة بث تدفقي",
+    "de": "Streaming-Dienst",
+    "dk": "streaming tjeneste",
+    "en-GB": "streaming service",
+    "en-US": "streaming service",
+    "es": "Servicio de streaming",
+    "fr": "Service de streaming",
+    "no": "strømmetjenester",
+    "pt-BR": "serviço de streaming",
+    "pt-PT": "serviço de streaming",
+    "se": "Streamingtjänster",
+    "zh-Hans": "流媒体服务"
+  },
+  "qcode": "medtop:20001293",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001293",
+  "aid": "iptc_20001293"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000770"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Die Anzahl von Menschen einer geografischen Region und der Prozess diese zu zählen.",
+    "dk": "Antallet af mennesker i en geografisk region og deres antal.",
+    "en-GB": "The official count of people living in a given geopolitical area, usually carried out by a governmental body",
+    "en-US": "The official count of people living in a given geopolitical area, usually carried out by a governmental body",
+    "pt-BR": "População é o número de pessoas em uma região geográfica e censo é o processo de sua contagem.",
+    "pt-PT": "População é o número de pessoas numa região geográfica e censo é o processo da sua contagem.",
+    "se": "Antalet människor i en geografisk region och räkningen av dem.",
+    "zh-Hans": "人口是一个地理区域的人口数量，人口普查是对人口数量进行统计的过程"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14003001",
+    "https://www.wikidata.org/entity/Q39825"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سكان واحصاء",
+    "de": "Bevölkerungszahl",
+    "dk": "befolkning og folketælling",
+    "en-GB": "population and census",
+    "en-US": "population and census",
+    "es": "Población y censo",
+    "fr": "Recensement",
+    "no": "befolkning (og folketelling)",
+    "pt-BR": "população e censos",
+    "pt-PT": "população e censos",
+    "se": "Folk och folkräkning",
+    "zh-Hans": "人口普查"
+  },
+  "qcode": "medtop:20000774",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000774",
+  "aid": "iptc_20000774"
+}

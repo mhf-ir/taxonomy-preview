@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000351"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Sicherung der Zufriedenheit der Verbraucher",
+    "dk": "Kundernes tillid til den aktuelle økonomiske situation.",
+    "en-GB": "The confidence of consumers in the economy.",
+    "en-US": "The confidence of consumers in the economy.",
+    "pt-BR": "A confiança do consumidor na economia.",
+    "pt-PT": "A confiança do consumidor na economia.",
+    "se": "Kunders företroende för den aktuella ekonomiska situationen.",
+    "zh-Hans": "消费者对经济的信心"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04008014",
+    "https://www.wikidata.org/entity/Q4925768"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "ثقة المستهلك",
+    "de": "Verbraucherschutz",
+    "dk": "forbrugertillid",
+    "en-GB": "consumer confidence",
+    "en-US": "consumer confidence",
+    "es": "Confianza del consumidor",
+    "fr": "Confiance des consommateurs",
+    "no": "forbrukertillit",
+    "pt-BR": "confiança do consumidor",
+    "pt-PT": "confiança do consumidor",
+    "se": "Konsumentförtroende",
+    "zh-Hans": "消费者信心"
+  },
+  "qcode": "medtop:20000352",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000352",
+  "aid": "iptc_20000352"
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001104"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Medikamente werden genommen um die Wettbewerbsfähigkeit im Sport zu verbessern",
+    "dk": "Ulovlig brug af stoffer for at øge præstationen i en sportsgren.",
+    "en-GB": "Using drugs to improve competitiveness in sports",
+    "en-US": "Using drugs to improve competitiveness in sports",
+    "pt-BR": "Utilização de substâncias proibidas para aumentar a competitividade no esporte.",
+    "pt-PT": "Utilização de substâncias proibidas para aumentar a competitividade no desporto.",
+    "se": "Olovlig användning av läkemedel för att öka prestationsförmågan inom en idrott.",
+    "zh-Hans": "在体育运动中滥用药品提高竞争能力"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q166376"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "الاساءة في استخدام المنشطات",
+    "de": "Doping",
+    "dk": "doping",
+    "en-GB": "drug abuse in sport",
+    "en-US": "drug abuse in sport",
+    "es": "Dopaje",
+    "fr": "Dopage",
+    "no": "doping",
+    "pt-BR": "dopagem",
+    "pt-PT": "dopagem",
+    "se": "Dopning",
+    "zh-Hans": "滥用违禁药物"
+  },
+  "qcode": "medtop:20001105",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001105",
+  "aid": "iptc_20001105"
+}

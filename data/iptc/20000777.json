@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000775"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Schädigendes Verhalten gegenüber einer anderen Gruppe auf der Grundlage von Unterschieden der Abstammung.",
+    "dk": "Skadelige holdninger til en anden gruppe baseret på racemæssige forskelle.",
+    "en-GB": "Discrimination against individuals or groups of people on the basis of race",
+    "en-US": "Discrimination against individuals or groups of people on the basis of race",
+    "pt-BR": "Atitudes ou comportamento nocivos contra um grupo, em função de diferenças raciais.",
+    "pt-PT": "Atitudes ou comportamento nocivos contra um grupo, em função de diferenças raciais.",
+    "se": "Särbehandling av individer eller grupper på grund av personernas etnicitet.",
+    "zh-Hans": "基于种族差异，一个群体对另一个或多个群体的有害态度"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14014000",
+    "https://www.wikidata.org/entity/Q8461"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عنصرية",
+    "de": "Rassismus",
+    "dk": "racisme",
+    "en-GB": "racism",
+    "en-US": "racism",
+    "es": "Racismo",
+    "fr": "Racisme",
+    "no": "rasisme",
+    "pt-BR": "racismo",
+    "pt-PT": "racismo",
+    "se": "Rasism",
+    "zh-Hans": "种族歧视"
+  },
+  "qcode": "medtop:20000777",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000777",
+  "aid": "iptc_20000777"
+}

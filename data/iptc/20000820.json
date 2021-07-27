@@ -1,0 +1,47 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000817"
+  ],
+  "closeMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/14025004"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Programme, die von der Regierung unterstützt werden zur Verbesserung des Wohlergehens von Individuen oder Gruppen von Individuen",
+    "dk": "Understøttede programmer til forbedring af enkeltpersoners eller grupper af individers trivsel.",
+    "en-GB": "Social programmes, usually publicly sponsored, aimed at promoting people's welfare, such as housing, health care or education services",
+    "en-US": "Social programs, usually publicly sponsored, aimed at promoting people's welfare, such as housing, health care or education services",
+    "pt-BR": "Programas apoiados para melhorar o bem-estar de indivíduos ou grupos de indivíduos.",
+    "pt-PT": "Programas apoiados para melhorar o bem-estar de indivíduos ou grupos de indivíduos.",
+    "se": "Social verksamhet i kommunal regi enligt socialtjänstlagen.",
+    "zh-Hans": "支持改善个人或个人群体福利的方案"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q12055245"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "خدمات اجتماعية",
+    "de": "Sozialer Dienst",
+    "dk": "social ydelse",
+    "en-GB": "social services",
+    "en-US": "social services",
+    "es": "Servicios sociales",
+    "fr": "Services sociaux",
+    "no": "sosiale tjenester",
+    "pt-BR": "serviços sociais",
+    "pt-PT": "serviços sociais",
+    "se": "Socialtjänst",
+    "zh-Hans": "社会服务"
+  },
+  "qcode": "medtop:20000820",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000820",
+  "aid": "iptc_20000820"
+}

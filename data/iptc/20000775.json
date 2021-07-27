@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/14000000"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Verweigerung einer Dienstleistung für eine Person oder Personengruppe aufgrund der Rasse, Hautfarbe, sexuellen Identität, Religionszugehörigkeit, politischen Ansichten etc.",
+    "dk": "Skadelige holdninger en eller flere mennesker på grund af race, farve, seksuel identitet, religion eller politisk tro.",
+    "en-GB": "Unfair treatment of, or policies or practices against, individuals or groups of people on the basis of real or perceived membership in a group, such as race, sexual orientation, political or religious beliefs, age or height",
+    "en-US": "Unfair treatment of, or policies or practices against, individuals or groups of people on the basis of real or perceived membership in a group, such as race, sexual orientation, political or religious beliefs, age or height",
+    "pt-BR": "Negação de serviços a uma ou mais pessoas por questões de raça, cor, identidade sexual, religião, crenças políticas etc.",
+    "pt-PT": "Negação de serviços a uma ou mais pessoas por questões de raça, cor, identidade sexual, religião, crenças políticas, etc.",
+    "se": "Särbehandling av individer eller grupper, vilken innebär ett avsteg från principen att lika fall ska behandlas lika, på grund av etnicitet, hudfärg, sexuell läggning, religion och så vidare..",
+    "zh-Hans": "因种族、肤色、性别认同、宗教、政治信仰等原因拒绝向一人或多人提供服务"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q169207",
+    "http://cv.iptc.org/newscodes/subjectcode/14025003"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000776",
+    "medtop:20000777",
+    "medtop:20000778",
+    "medtop:20000779"
+  ],
+  "prefLabel": {
+    "ar": "تمييز",
+    "de": "Diskriminierung",
+    "dk": "forskelsbehandling",
+    "en-GB": "discrimination",
+    "en-US": "discrimination",
+    "es": "Discriminación",
+    "fr": "Discrimination",
+    "no": "diskriminering",
+    "pt-BR": "discriminação",
+    "pt-PT": "discriminação",
+    "se": "Diskriminering",
+    "zh-Hans": "歧视"
+  },
+  "qcode": "medtop:20000775",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000775",
+  "aid": "iptc_20000775"
+}

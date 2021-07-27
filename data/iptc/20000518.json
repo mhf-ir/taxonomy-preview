@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09011001"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000509"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Lohn für Arbeitnehmer",
+    "dk": "Vederlag, som en medarbejder modtager, når arbejdet er afsluttet.",
+    "en-GB": "Money, or other items of value such as pension contributions and health insurance, paid to employees as compensation for their work",
+    "en-US": "Money, or other items of value such as pension contributions and health insurance, paid to employees as compensation for their work",
+    "pt-BR": "Remuneração laboral.",
+    "pt-PT": "Remuneração laboral.",
+    "se": "Den ersättning en anställd får efter utfört arbete.",
+    "zh-Hans": "员工的薪酬"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q6821213"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000519",
+    "medtop:20000520"
+  ],
+  "prefLabel": {
+    "ar": "اجور وتعويضات",
+    "de": "Lohn",
+    "dk": "løn og goder",
+    "en-GB": "wages and benefits",
+    "en-US": "wages and benefits",
+    "es": "Salarios y pensiones",
+    "fr": "Salaires et pensions ou Salaires et allocations",
+    "no": "lønn og goder",
+    "pt-BR": "salários e benefícios",
+    "pt-PT": "salários e benefícios",
+    "se": "Löner och förmåner",
+    "zh-Hans": "工资和福利"
+  },
+  "qcode": "medtop:20000518",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000518",
+  "aid": "iptc_20000518"
+}

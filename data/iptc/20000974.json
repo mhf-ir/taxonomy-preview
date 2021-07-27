@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000969"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Gewöhnlich über 100 kg bei Männern und über 78 kg bei Frauen",
+    "dk": "Åben, men normalt over 100 kg for mænd og over 78 kg for kvinder.",
+    "en-GB": "Open but usually over 100kg for men and over 78kg for women",
+    "en-US": "Open but usually over 100kg for men and over 78kg for women",
+    "pt-BR": "Categoria aberta, geralmente acima de 100kg para homens e acima de 78kg para mulheres.",
+    "pt-PT": "Categoria aberta, geralmente acima de 100kg para homens e acima de 78kg para mulheres.",
+    "zh-Hans": "选手体重不限，但通常男子100公斤以上，女子78公斤以上"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15033001",
+    "https://www.wikidata.org/entity/Q77217228"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2015-02-24T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "الوزن الثقيل (جودو)",
+    "de": "Schwergewicht (Judo)",
+    "dk": "sværvægt",
+    "en-GB": "heavyweight (judo)",
+    "en-US": "heavyweight (judo)",
+    "es": "Peso pesado (judo)",
+    "fr": "Lourds (judo)",
+    "no": "tungvekt",
+    "pt-BR": "peso-pesado (judô)",
+    "pt-PT": "peso-pesado (judo)",
+    "se": "Tungvikt, (Judo)",
+    "zh-Hans": "重量级柔道"
+  },
+  "qcode": "medtop:20000974",
+  "retired": "2015-02-24T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000974",
+  "aid": "iptc_20000974"
+}

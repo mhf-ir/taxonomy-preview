@@ -1,0 +1,46 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000509"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Tätigkeit, Profession oder Geschäft im Allgemeinen, obwohl mit Profession meist Rechtsanwälte und Ärzte, mit Tätigkeit eher Angestellte oder Fernfahrer gemeint sind",
+    "dk": "Den type arbejde, en person primært beskæftiger sig med.",
+    "en-GB": "Generally one's trade, profession or business although professions are usually such things as lawyers and doctors, and occupations are such as clerks or truckers",
+    "en-US": "Generally one's trade, profession or business although professions are usually such things as lawyers and doctors, and occupations are such as clerks or truckers",
+    "pt-BR": "Em geral, ofício, profissão ou negócio, embora as profissões sejam geralmente coisas como advogados e médicos e as ocupações sejam algo como funcionários administrativos ou caminhoneiros.",
+    "pt-PT": "Em geral, ofício, profissão ou negócio, embora as profissões sejam geralmente coisas como advogados e médicos e as ocupações sejam algo como funcionários administrativos ou camionistas.",
+    "se": "Typ av arbete som det går att försörja sig på och som kräver vissa särskilda kunskaper.",
+    "zh-Hans": "通常指一个人的专长、专业或业务，尽管专业通常指医生、律师，而职业通常指职员或司机"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/09003004",
+    "https://www.wikidata.org/entity/Q12737077"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-10-07T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "عمل",
+    "de": "Beruf",
+    "dk": "profession og faglighed",
+    "en-GB": "occupations",
+    "en-US": "occupations",
+    "es": "Oficios",
+    "fr": "Profession",
+    "no": "beskjeftigelse",
+    "pt-BR": "ocupações",
+    "pt-PT": "ocupações",
+    "se": "Yrken",
+    "zh-Hans": "职业"
+  },
+  "qcode": "medtop:20000517",
+  "retired": "2019-10-07T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000517",
+  "aid": "iptc_20000517"
+}

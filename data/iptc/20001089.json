@@ -1,0 +1,48 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Zwei Teams mit jeweils 6 machen Punkte indem sie den Ball über ein Netz in das gegnerische Spielfeld schlagen und versuchen ihn solange wie möglich in der Luft zu halten. Punkte werden gemacht wenn ein Fehler gemacht wird und der Ball an den Gegner zurück geht",
+    "dk": "Holdsport, hvor seksmandshold forsvarer deres side og forsøger at slå bolden over nettet til modstandernes side. Holdet får point, hvis modstanderne ikke klarer at ramme bolden med højst tre hits, slår bolden i nettet eller slår bolden ud fra banen. Spilles i sæt.",
+    "en-GB": "Two teams of six record points by hitting a ball over a net into the opponent's half of the court, keeping it in the air at all times. Points are won when opponents fail to return the ball.",
+    "en-US": "Two teams of six record points by hitting a ball over a net into the opponent's half of the court, keeping it in the air at all times. Points are won when opponents fail to return the ball.",
+    "pt-BR": "Jogo de bola que opõe duas equipes de 6 jogadores em quadra dividida ao meio por rede. Os jogadores usam as mãos para fazer passar a bola por cima da rede para cair na área adversária, marcando assim pontos.",
+    "pt-PT": "Jogo de bola que opõe duas equipas de 6 jogadores em campo dividido ao meio por rede. Os jogadores usam as mãos para fazer passar a bola por cima da rede para cair na área adversária, marcando assim pontos.",
+    "se": "Lagsport där sexmannalag försvarar sin sida och försöker slå bollen över nätet till motståndarnas sida. Laget får poäng om motståndarna inte lyckas slå tillbaka bollen med max tre tillslag, slår i nät eller slår bollen utanför planen. Spelas i set.",
+    "zh-Hans": "六人一队。把球击过球网落入对方那一半场地，一直要保持球不能落地。如果对方没能将球击回就得分"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15067000",
+    "https://www.wikidata.org/entity/Q1734"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20001090"
+  ],
+  "prefLabel": {
+    "ar": "كرة طائرة",
+    "de": "Volleyball",
+    "dk": "volleyball",
+    "en-GB": "volleyball",
+    "en-US": "volleyball",
+    "es": "Voleibol",
+    "fr": "Volley-ball",
+    "no": "volleyball",
+    "pt-BR": "vôlei",
+    "pt-PT": "voleibol",
+    "se": "Volleyboll",
+    "zh-Hans": "排球"
+  },
+  "qcode": "medtop:20001089",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001089",
+  "aid": "iptc_20001089"
+}

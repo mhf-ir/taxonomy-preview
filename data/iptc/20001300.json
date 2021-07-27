@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000587"
+  ],
+  "created": "2020-08-05T12:00:00+00:00",
+  "definition": {
+    "de": "Das Recht eines Einzelnen oder einer Gruppe, Informationen über sich selbst geheim zu halten",
+    "dk": "Individets eller en gruppes rettighed til at holde personlige informationer privat.",
+    "en-GB": "The right of an individual or group to keep information about themselves private",
+    "en-US": "The right of an individual or group to keep information about themselves private",
+    "pt-BR": "Direito de um indivíduo ou grupo manter privadas suas informações pessoais.",
+    "pt-PT": "Direito de um indivíduo ou grupo manter privadas as suas informações pessoais.",
+    "se": "Rätt för personer att information om dem hålls privat.",
+    "zh-Hans": "个人或群体保持有关自身信息私密的权利"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q188728"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2020-08-05T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "احترام الخصوصية",
+    "de": "Datenschutz",
+    "dk": "privatliv",
+    "en-GB": "privacy",
+    "en-US": "privacy",
+    "es": "Derecho al respeto de la vida privada",
+    "fr": "Droit au respect de la vie privée",
+    "no": "personvern",
+    "pt-BR": "privacidade",
+    "pt-PT": "privacidade",
+    "se": "Personlig integritet",
+    "zh-Hans": "隐私"
+  },
+  "qcode": "medtop:20001300",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001300",
+  "aid": "iptc_20001300"
+}

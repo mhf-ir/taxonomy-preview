@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15000000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000822"
+  ],
+  "changeNote": {
+    "en-GB": "2016-04-06: definition rephrased."
+  },
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Ein Spiel mit Ursprung in Irland, wo zwei Teams von fünfzehn ein Tor schießen, entweder durch den Ball oder Schlag mit der Hand. Das Team mit den meisten Punkten gewinnt.",
+    "dk": "Boldsport med 15-mand hold. Mindre og hårdere bold end i fodbold. Bolden kan afleveres både med fod og hånd. Stor sport i Irland.",
+    "en-GB": "A form of football played by two teams of 15 competing on a pitch by running with, kicking and passing a spherical ball. Points are scored by moving the ball between goal posts. Governed by the Gaelic Athletic Association.",
+    "en-US": "A form of football played by two teams of 15 competing on a pitch by running with, kicking and passing a spherical ball. Points are scored by moving the ball between goal posts. Governed by the Gaelic Athletic Association.",
+    "pt-BR": "Tipo de futebol disputado por duas equipes de 15 jogadores que competem em um gramado, correndo, chutando e passando com as mãos uma bola esférica. Os pontos são marcados quando a bola passa entre os postes do gol. É regulamentado pela Associação Atlética Gaélica.",
+    "pt-PT": "Tipo de futebol disputado por duas equipas de 15 jogadores que competem num campo, correndo, chutando e passando com as mãos uma bola esférica. Os pontos são marcados quando a bola passa entre os postes da baliza. É regulamentado pela Associação Atlética Gaélica.",
+    "se": "Bollsport med 15-mannalag. Mindre och hårdare boll än i fotboll. Bollen får passas både med fot och hand. Stor sport på Irland.",
+    "zh-Hans": "这是一支两队各15人组成的橄榄球队，他们在球场上通过跑动，踢球，传球进行对抗。 通过把球穿过球门柱之间来得分。 由盖尔运动协会管理"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q204632"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2016-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "كرة قدم ايرلندية",
+    "de": "Gaelic football",
+    "dk": "gælisk fodbold",
+    "en-GB": "Gaelic football",
+    "en-US": "Gaelic football",
+    "es": "Fútbol gaélico",
+    "fr": "Football gaélique",
+    "no": "gælisk fotball",
+    "pt-BR": "futebol gaélico",
+    "pt-PT": "futebol gaélico",
+    "se": "Gaelisk fotboll",
+    "zh-Hans": "爱尔兰式橄榄球"
+  },
+  "qcode": "medtop:20000939",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000939",
+  "aid": "iptc_20000939"
+}

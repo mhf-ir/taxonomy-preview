@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000580"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Geld, das Kampagnen für öffentliche Parteien ermöglicht",
+    "dk": "Penge, der bruges til at hjælpe folk med at blive valgt.",
+    "en-GB": "The money that makes campaigns for public office possible",
+    "en-US": "The money that makes campaigns for public office possible",
+    "pt-BR": "Dinheiro que torna possível as campanhas para cargos públicos.",
+    "pt-PT": "Dinheiro que torna possível as campanhas para cargos públicos.",
+    "se": "Pengar som används för att hjälpa personer att bli valda.",
+    "zh-Hans": "用于竞选公职的资金"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11003003",
+    "https://www.wikidata.org/entity/Q1352232"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "تمويل حملات",
+    "de": "Wahlkampffinanzierung",
+    "dk": "kampagnefinansiering",
+    "en-GB": "campaign finance",
+    "en-US": "campaign finance",
+    "es": "Campañas financieras",
+    "fr": "Financement de campagne",
+    "no": "valgkampfinansiering",
+    "pt-BR": "financiamento de campanhas",
+    "pt-PT": "financiamento de campanhas",
+    "se": "Kampanjbidrag",
+    "zh-Hans": "竞选资金"
+  },
+  "qcode": "medtop:20000581",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000581",
+  "aid": "iptc_20000581"
+}

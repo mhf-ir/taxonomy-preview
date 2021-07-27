@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000638"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Eine in einem anderen Land schutzsuchende Person, die Angst vor Verfolgung durch das eigene Land hat",
+    "dk": "En person, der undgik enhver fare, især fare for liv, frihed og mere i sit hjemland på grund af race, religion, nationalitet, tilhørende en bestemt social gruppe eller politisk mening.",
+    "en-GB": "A person seeking shelter in another country because of some fear of persecution in his own country",
+    "en-US": "A person seeking shelter in another country because of some fear of persecution in his own country",
+    "pt-BR": "Pessoa que procura abrigo em outro país por medo de perseguição em seu próprio país.",
+    "pt-PT": "Pessoa que procura abrigo noutro país por medo de perseguição no seu próprio país.",
+    "se": "Person som flytt undan någon fara, särskilt hot mot liv, frihet med mera i sitt hemland, på grund av ras, religion, nationalitet, tillhörighet till viss samhällsgrupp eller politisk uppfattning.",
+    "zh-Hans": "因为害怕在自己的国家受到迫害而到另一个国家寻求庇护的人"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11011000",
+    "https://www.wikidata.org/entity/Q131572"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "لاجئون",
+    "de": "Flüchtling",
+    "dk": "flygtning og internt fordrevet",
+    "en-GB": "refugees and internally displaced people",
+    "en-US": "refugees and internally displaced people",
+    "es": "Refugiados",
+    "fr": "Réfugiés",
+    "no": "flyktning",
+    "pt-BR": "refugiados e deslocados",
+    "pt-PT": "refugiados e deslocados",
+    "se": "Flyktingar",
+    "zh-Hans": "难民和流离失所者"
+  },
+  "qcode": "medtop:20000645",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000645",
+  "aid": "iptc_20000645"
+}

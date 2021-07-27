@@ -1,0 +1,58 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000209"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Hersteller von elektrischer, elektronischer und mechanischer Ausrüstung, umfasst nicht das Ingenieurwesen",
+    "dk": "Producent af elektronisk og mekanisk udstyr.",
+    "en-GB": "Manufacturers of electrical, electronic and mechanical equipment but does not cover civil engineering.",
+    "en-US": "Manufacturers of electrical, electronic and mechanical equipment but does not cover civil engineering.",
+    "pt-BR": "Fabricantes de equipamento elétrico, eletrônico ou mecânico; não inclui engenharia civil.",
+    "pt-PT": "Fabricantes de equipamento elétrico, eletrónico ou mecânico; não inclui engenharia civil.",
+    "se": "Tillverkare av elektrisk, elektronisk och mekanisk utrustning.",
+    "zh-Hans": "电气，电子和机械设备制造但不包括土木工程"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/04011000",
+    "https://www.wikidata.org/entity/Q187939"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "narrower": [
+    "medtop:20000295",
+    "medtop:20000296",
+    "medtop:20000297",
+    "medtop:20000298",
+    "medtop:20000299",
+    "medtop:20000300",
+    "medtop:20000301",
+    "medtop:20000302",
+    "medtop:20000303",
+    "medtop:20001165",
+    "medtop:20001166"
+  ],
+  "prefLabel": {
+    "ar": "تصنيع وهندسة",
+    "de": "Metall- und Technische Industrie",
+    "dk": "fremstilling og teknik",
+    "en-GB": "manufacturing and engineering",
+    "en-US": "manufacturing and engineering",
+    "es": "Fabricación e ingeniería",
+    "fr": "Industrie manufacturière",
+    "no": "industriproduksjon",
+    "pt-BR": "indústria metalomecânica e engenharia",
+    "pt-PT": "indústria metalomecânica e engenharia",
+    "se": "Verkstadsindustri",
+    "zh-Hans": "制造业和工程"
+  },
+  "qcode": "medtop:20000294",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000294",
+  "aid": "iptc_20000294"
+}

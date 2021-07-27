@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000705"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Heiliges Buch des Islam",
+    "dk": "Den hellige islambog.",
+    "en-GB": "Holy book of Islam",
+    "en-US": "Holy book of Islam",
+    "pt-BR": "Livro sagrado do Islã.",
+    "pt-PT": "Livro sagrado do Islão.",
+    "se": "Islams heliga bok.",
+    "zh-Hans": "又译可兰经，伊斯兰教圣典"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12023002",
+    "https://www.wikidata.org/entity/Q428"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "القرآن",
+    "de": "Koran",
+    "dk": "Koran",
+    "en-GB": "Qur'an",
+    "en-US": "Qur'an",
+    "es": "Corán",
+    "fr": "Coran",
+    "no": "Koranen",
+    "pt-BR": "Alcorão",
+    "pt-PT": "Alcorão",
+    "se": "Koranen",
+    "zh-Hans": "古兰经"
+  },
+  "qcode": "medtop:20000707",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000707",
+  "aid": "iptc_20000707"
+}

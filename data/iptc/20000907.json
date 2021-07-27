@@ -1,0 +1,51 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15019000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000892"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Bahnrundenrennen, bei dem zwei Teams gegeneinander antreten, beginnend auf gegenüberliegenden Seiten der Bahn, nach der ersten Runde zieht der erste Fahrer weg, während der zweite Fahrer in die nächste Runde geht, das gleiche in der letzten Runde, so dass der dritte Fahrer das Rennen beendet. Das Team mit der schnellsten Zeit gewinnt.",
+    "dk": "Et baneløb, hvor to hold kæmper mod hinanden, startende på modsatte sider af banen. Efter den første omgang, trækker den første rytter væk, hvilket efterlader den anden rytter til at føre, der derefter gør det samme på den sidste omgang og forlader den tredje rytter, der afslutter løbet. Holdet med den hurtigste tid er vinderen",
+    "en-GB": "A track race where two teams race against each other, starting on opposite sides of the track, following the first lap the first rider pulls away, leaving the second rider to lead the next lap, who then does the same at the last lap, leaving the third rider to finish the race. The team with the fastest time is the winner.",
+    "en-US": "A track race where two teams race against each other, starting on opposite sides of the track, following the first lap the first rider pulls away, leaving the second rider to lead the next lap, who then does the same at the last lap, leaving the third rider to finish the race. The team with the fastest time is the winner.",
+    "pt-BR": "Corrida de bicicleta em que duas equipes competem uma contra a outra, começando em lados opostos da pista. Após a primeira volta, o primeiro ciclista se afasta, deixando o segundo ciclista liderar a próxima volta, que então faz o mesmo na última volta, com o terceiro ciclista a terminar a corrida. A equipe com o tempo mais rápido é a vencedora.",
+    "pt-PT": "Corrida de bicicleta em que duas equipas competem uma contra a outra, começando em lados opostos da pista. Após a primeira volta, o primeiro ciclista afasta-se, deixando o segundo ciclista liderar a próxima volta, que então faz o mesmo na última volta, com o terceiro ciclista a terminar a corrida. A equipa com o tempo mais rápido é a vencedora.",
+    "se": "Cykeltävling på bana där lagen åker i en rak formation efter varandra, på vardera sida av velodromen. Varje förare i ett lag åker ett varv längst fram för att sedan köra ut mot sidan. Inför det sista varvet åker den siste föraren i vardera lag ensam in mot sin mållinje.",
+    "zh-Hans": "一种赛道比赛，两个队分别从赛道的两边开始相互比赛，第一个车手领骑第一圈后离场，然后让第二个车手领骑接下来的比赛，第二个车手在最后一圈离场，最后由第三个车手完成比赛。时间最快的队获胜"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q1817141"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2017-07-04T12:00:00+00:00",
+  "note": {
+    "en-GB": "Retired. Use Media Topic cycling + sports facet cyclingtype"
+  },
+  "prefLabel": {
+    "ar": "سباق السرعة للفرق",
+    "de": "Sprint Team",
+    "dk": "holdsprint",
+    "en-GB": "team cycle sprint",
+    "en-US": "team cycle sprint",
+    "es": "Velocidad por equipos",
+    "fr": "Vitesse par équipes",
+    "no": "lagsprint sykkel",
+    "pt-BR": "velocidade por equipes",
+    "pt-PT": "velocidade por equipas",
+    "se": "Lagsprint",
+    "zh-Hans": "团体竞速赛"
+  },
+  "qcode": "medtop:20000907",
+  "retired": "2017-07-04T12:00:00+00:00",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000907",
+  "aid": "iptc_20000907"
+}

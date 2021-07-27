@@ -1,0 +1,57 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000942"
+  ],
+  "created": "2014-04-11T12:00:00+00:00",
+  "definition": {
+    "de": "Turner zeigen artistische und akrobatische Figuren an unterschiedlichen Geräten. Es gibt 6 Disziplinen für Männer und 4 für Frauen.",
+    "dk": "Deltagerne udfører bevægelser på forskellige redskaber og bedømmes af dommere.",
+    "en-GB": "Gymnasts perform artistic and acrobatic moves on different apparatus. There are 6 events for men and 4 for women",
+    "en-US": "Gymnasts perform artistic and acrobatic moves on different apparatus. There are 6 events for men and 4 for women",
+    "pt-BR": "Modalidade de ginástica em que os atletas realizam movimentos artísticos e acrobáticos em diferentes aparelhos. Existem 6 disciplinas para homens e 4 disciplinas para mulheres.",
+    "pt-PT": "Modalidade de ginástica em que os atletas realizam movimentos artísticos e acrobáticos em diferentes aparelhos. Existem 6 disciplinas para homens e 4 disciplinas para mulheres.",
+    "se": "De tävlande utför rörelser på olika redskap och bedöms av domare.",
+    "zh-Hans": "体操运动员在不同的器械上表演艺术和杂技动作。 男子有6个项目，女子有4个项目"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q326827"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/artisticgymtype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-11T12:00:00+00:00",
+  "narrower": [
+    "medtop:20000944",
+    "medtop:20000946",
+    "medtop:20000948",
+    "medtop:20000949",
+    "medtop:20000950",
+    "medtop:20000953",
+    "medtop:20000956",
+    "medtop:20000957"
+  ],
+  "prefLabel": {
+    "ar": "جمباز فني",
+    "de": "Kunstturnen",
+    "dk": "redskabsgymnastik",
+    "en-GB": "artistic gymnastics",
+    "en-US": "artistic gymnastics",
+    "es": "Gimnasia artística",
+    "fr": "Gymnastique artistique",
+    "no": "turn",
+    "pt-BR": "ginástica artística",
+    "pt-PT": "ginástica artística",
+    "se": "Artistisk gymnastik",
+    "zh-Hans": "竞技体操"
+  },
+  "qcode": "medtop:20001152",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001152",
+  "aid": "iptc_20001152"
+}

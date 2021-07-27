@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000664"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Mitglieder der weltweiten anglikanischen Gemeinschaft, entstanden im 16. Jahrhundert in England nach dem Bruch mit der römisch-katholischen Kirche.",
+    "dk": "Den pædagogiske, liturgiske og etiske holdning, der kendetegner den engelske statskirke.",
+    "en-GB": "Members of the worldwide Anglican communion which started in the 16th century in England as a breakaway church from the roman catholic church",
+    "en-US": "Members of the worldwide Anglican communion which started in the 16th century in England as a breakaway church from the roman catholic church",
+    "pt-BR": "Membros da comunidade anglicana mundial, que nasceu no séc. XVI na Inglaterra, em resultado da cisão com a igreja católica romana.",
+    "pt-PT": "Membros da comunidade anglicana mundial, que nasceu no séc. XVI na Inglaterra, em resultado da cisão com a igreja católica romana.",
+    "se": "Den läromässiga, liturgiska och etiska hållning som utmärker den engelska statskyrkan.",
+    "zh-Hans": "世界圣公会的成员，起源于16世纪的英格兰，当时是罗马天主教会的一个分支"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/12009004",
+    "https://www.wikidata.org/entity/Q6423963"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "انغليكان",
+    "de": "Anglikaner",
+    "dk": "anglikansk",
+    "en-GB": "Anglican",
+    "en-US": "Anglican",
+    "es": "Anglicano",
+    "fr": "Anglicanisme",
+    "no": "Den anglikanske kirke",
+    "pt-BR": "anglicano",
+    "pt-PT": "anglicano",
+    "se": "Anglikanism",
+    "zh-Hans": "英国圣公会"
+  },
+  "qcode": "medtop:20000665",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000665",
+  "aid": "iptc_20000665"
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broadMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15019000"
+  ],
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000892"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Fahrrad-Rennen in mit Inline-Start und verschiedene Hindernisse über Pisten im Gelände.",
+    "dk": "Cykelløb med inline-start og forskellige forhindringer i off-road terræn.",
+    "en-GB": "Bicycle racing in with inline start and various obstacles over off-road circuits.",
+    "en-US": "Bicycle racing in with inline start and various obstacles over off-road circuits.",
+    "pt-BR": "Corrida de bicicleta com partida em linha e vários obstáculos em circuitos fora de estrada.",
+    "pt-PT": "Corrida de bicicleta com partida em linha e vários obstáculos em circuitos todo-o-terreno.",
+    "se": "Cykeltävling med en speciell typ av cykel, en så kallad BMX-cykel, som utövas på en bana liknande en motocrossbana med olika typer av hopp och doserade kurvor.",
+    "zh-Hans": "小轮车在赛道内开始并经历越野赛道上的各种障碍"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q215184"
+  ],
+  "hasFacet": [
+    "http://cv.iptc.org/newscodes/asportfacet/bmxfreestyletype"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "بي ام اكس",
+    "de": "BMX",
+    "dk": "bmx",
+    "en-GB": "bmx racing",
+    "en-US": "bmx racing",
+    "es": "Bmx",
+    "fr": "Bmx",
+    "no": "bmx",
+    "pt-BR": "BMX",
+    "pt-PT": "BMX",
+    "se": "BMX",
+    "zh-Hans": "小轮车越野赛"
+  },
+  "qcode": "medtop:20000895",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000895",
+  "aid": "iptc_20000895"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20001108"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Wettkampf, an dem die besten Wettkämpfer oder Teams eines Kontinents teilnehmen. Cup genannt",
+    "dk": "Pokal, hvor atleter eller hold fra forskellige lande på et bestemt kontinent kan deltage.",
+    "en-GB": "A competition where individuals or teams from countries from one continent may participate. Called a *Cup*",
+    "en-US": "A competition where individuals or teams from countries from one continent may participate. Called a *Cup*",
+    "pt-BR": "Competição em que podem participar indivíduos ou equipes de países de um continente. Designa-se por *Copa*.",
+    "pt-PT": "Competição em que podem participar indivíduos ou equipas de países de um continente. Designa-se por *Taça*.",
+    "se": "Cup där atleter eller lag från olika länder på en viss kontinent kan delta.",
+    "zh-Hans": "州内国家之间的杯赛"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/15073020",
+    "https://www.wikidata.org/entity/Q340966"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2010-12-14T21:53:19+00:00",
+  "prefLabel": {
+    "ar": "كأس قارية",
+    "de": "Kontinentaler Cup",
+    "dk": "kontinental pokalturnering",
+    "en-GB": "continental cup",
+    "en-US": "continental cup",
+    "es": "Copa continental",
+    "fr": "Coupe continentale",
+    "no": "kontinentalcup",
+    "pt-BR": "copa continental",
+    "pt-PT": "taça continental",
+    "se": "Kontinental cup",
+    "zh-Hans": "洲际杯赛"
+  },
+  "qcode": "medtop:20001110",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001110",
+  "aid": "iptc_20001110"
+}

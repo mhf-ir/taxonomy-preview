@@ -1,0 +1,44 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000134"
+  ],
+  "created": "2019-04-06T12:00:00+00:00",
+  "definition": {
+    "de": "Psychiatrische Behandlung, die Personen mit psychischen Erkrankungen in Gefängnissen oder als Bedingung für Bewährung, Überwachung oder Bewährung auferlegt wird",
+    "dk": "Dom, hvor retten i stedet for almindelig straf dømmer en psykisk syg kriminel til psykiatrisk behandling.",
+    "en-GB": "Psychiatric treatment imposed upon persons with mental health conditions in prisons and jails or as a condition of probation, supervision or parole",
+    "en-US": "Psychiatric treatment imposed upon persons with mental health conditions in prisons and jails or as a condition of probation, supervision or parole",
+    "pt-BR": "Tratamento psiquiátrico imposto a pessoas com problemas de saúde mental em prisões e cadeias ou como condição de liberdade condicional ou de supervisão.",
+    "pt-PT": "Tratamento psiquiátrico imposto a pessoas com problemas de saúde mental em prisões e cadeias ou como condição de liberdade condicional ou de supervisão.",
+    "se": "Dom som innebär att den dömde tvingas till någon form av psykiatrisk vård och den exakta tiden hänger på hur vården fungerar och läkares bedömning.",
+    "zh-Hans": "监狱和拘留所对有精神健康问题的在押人员进行的精神治疗，或者作为缓刑、监管或假释的条件"
+  },
+  "exactMatch": [
+    "https://www.wikidata.org/entity/Q12007954"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2019-04-06T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "علاج نفسي بأمر قضائي",
+    "de": "gerichtlich angeordnete psychiatrische Behandlung",
+    "dk": "psykiatrisk behandlingsdom",
+    "en-GB": "court-ordered psychiatric treatment",
+    "en-US": "court-ordered psychiatric treatment",
+    "es": "Tratamiento psiquiátrico ordenado por el tribunal",
+    "fr": "Traitement psychiatrique ordonné par le tribunal",
+    "no": "tvungent psykisk helsevern",
+    "pt-BR": "tratamento psiquiátrico por ordem judicial",
+    "pt-PT": "tratamento psiquiátrico por ordem judicial",
+    "se": "Rättspsykiatrisk vård",
+    "zh-Hans": "法院强制精神治疗"
+  },
+  "qcode": "medtop:20001198",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20001198",
+  "aid": "iptc_20001198"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://www.iptc.org/std/IKOS/IKOS.jsonld",
+  "broader": [
+    "http://cv.iptc.org/newscodes/mediatopic/20000593"
+  ],
+  "created": "2009-10-22T02:00:00+00:00",
+  "definition": {
+    "de": "Autoritäten in der Stadt, auf Landes- oder Bezirksebene",
+    "dk": "Lokal myndighed, som ledes af en valgt kommunalbestyrelse.",
+    "en-GB": "Authorities at borough, city or county level",
+    "en-US": "Authorities at borough, city or county level",
+    "pt-BR": "Autoridades de uma cidade, condado, distrito, município.",
+    "pt-PT": "Autoridades de uma cidade, condado, distrito ou município.",
+    "se": "Myndigheter på stadsdels-, kommun- eller länsnivå.",
+    "zh-Hans": "区、市、县各级政府"
+  },
+  "exactMatch": [
+    "http://cv.iptc.org/newscodes/subjectcode/11008000",
+    "https://www.wikidata.org/entity/Q6501447"
+  ],
+  "inScheme": [
+    "http://cv.iptc.org/newscodes/mediatopic/"
+  ],
+  "modified": "2014-04-08T12:00:00+00:00",
+  "prefLabel": {
+    "ar": "سلطة محلية",
+    "de": "Kommune",
+    "dk": "kommune",
+    "en-GB": "local government and authority",
+    "en-US": "local government and authority",
+    "es": "Autoridades locales",
+    "fr": "Institutions locales",
+    "no": "lokale myndigheter",
+    "pt-BR": "governo e autoridades locais",
+    "pt-PT": "governo e autoridades locais",
+    "se": "Lokala myndigheter",
+    "zh-Hans": "地方政府"
+  },
+  "qcode": "medtop:20000612",
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#Concept"
+  ],
+  "uri": "http://cv.iptc.org/newscodes/mediatopic/20000612",
+  "aid": "iptc_20000612"
+}
