@@ -3,7 +3,7 @@ const loadTrees = async () => {
   window.iabTreeNumbers = 0;
   const a = new Promise((resolve) => {
     $.ajax({
-      url: "/data/iptc_tree.json",
+      url: "./data/iptc_tree.json",
       success(data) {
         window.iptcTree = $("#iptcTree").tree({
           data: data,
@@ -23,7 +23,7 @@ const loadTrees = async () => {
   });
   const b = new Promise((resolve) => {
     $.ajax({
-      url: "/data/iab_tree.json",
+      url: "./data/iab_tree.json",
       success(data) {
         window.iabTree = $("#iabTree").tree({
           data: data,
